@@ -86,13 +86,16 @@ for (const file of englishFiles) {
     errors.push(`${file}: source (${source}) must match the mirrored path of this page`)
     continue
   }
-  translated.add(source)
+  // The Chinese edition keeps its Markdown under content/; the English edition
+  // mirrors those paths without the prefix.
+  const sourcePath = `content/${source}`
+  translated.add(sourcePath)
 
   let sourceText
   try {
-    sourceText = await fetchText(`${RAW}/${source}`)
+    sourceText = await fetchText(`${RAW}/${sourcePath}`)
   } catch (error) {
-    errors.push(`${file}: cannot read source page ${source} (${error.message})`)
+    errors.push(`${file}: cannot read source page ${sourcePath} (${error.message})`)
     continue
   }
   const sourceParsed = readFrontmatter(sourceText)
@@ -125,8 +128,8 @@ for (const file of englishFiles) {
 
   // Link-graph parity: every source link must have a counterpart in the
   // English page, either as an internal link or as a link to the Chinese page.
-  const sourceLinks = markdownLinkPaths(sourceBody, path.posix.dirname(source))
-  const englishLinks = markdownLinkPaths(body, path.posix.dirname(file))
+  const sourceLinks = markdownLinkPaths(sourceBody, path.posix.dirname(sourcePath))
+  const englishLinks = markdownLinkPaths(body, path.posix.dirname(sourcePath))
   const englishCrossLinks = crossSiteLinkPaths(body)
   for (const target of sourceLinks) {
     if (!englishLinks.has(target) && !englishCrossLinks.has(target)) {
