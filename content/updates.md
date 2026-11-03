@@ -2,7 +2,7 @@
 title: "Site Update Log"
 description: "Records site versions, release dates, additions and important revisions, and their effect on reading and citation."
 author: SL
-version: "1.1.2"
+version: "1.1.3"
 created: "2026-11-02"
 updated: "2026-11-03"
 published: "2026-11-02"
