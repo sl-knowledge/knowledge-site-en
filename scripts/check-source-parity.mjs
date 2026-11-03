@@ -147,6 +147,23 @@ for (const source of sourceFiles) {
   errors.push(`${source}: no English page; add it or list it in sync/pending.json`)
 }
 
+// The Chinese site links back to this edition page by page. Its list of
+// English pages has to match the pages that exist here, otherwise the switch
+// would lead to an address that is not published.
+const manifestText = await fetchText(`${RAW}/quartz/english-edition.json`)
+const manifest = new Set(JSON.parse(manifestText).pages)
+for (const file of englishFiles) {
+  const slug = file.replace(/\.md$/, "")
+  if (!manifest.has(slug)) {
+    errors.push(`${file}: missing from the Chinese site's English-edition list`)
+  }
+}
+for (const slug of manifest) {
+  if (!englishFiles.some((file) => file.replace(/\.md$/, "") === slug)) {
+    errors.push(`English-edition list names a page that does not exist here: ${slug}`)
+  }
+}
+
 if (warnings.length) console.warn(warnings.join("\n"))
 if (errors.length) {
   console.error(errors.join("\n"))

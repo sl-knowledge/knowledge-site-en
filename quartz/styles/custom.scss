@@ -68,6 +68,11 @@ article table {
   text-decoration: underline;
   text-underline-offset: 0.3em;
 }
+.language-switch {
+  color: var(--secondary);
+  white-space: nowrap;
+  font-weight: 600;
+}
 .publication-meta {
   display: flex;
   flex-wrap: wrap;
