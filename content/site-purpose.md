@@ -2,7 +2,7 @@
 title: "What This Site Is For"
 description: "Drawing theory from concrete questions and connecting knowledge across fields, so people and AI can understand, transfer, test and use it more easily."
 author: SL
-version: "0.5.9"
+version: "0.5.10"
 created: "2026-11-03"
 updated: "2026-11-03"
 published: "2026-11-03"
@@ -36,7 +36,7 @@ Research often begins with a question. As a discussion continues, its wording ca
 
 A recurring turning point in discussions with AI is this: **the AI has already given a long answer, and the response is, “No, that is not what I am asking.”** The answer may contain plenty of detail. But the discussion has revealed a need to ask the question differently.
 
-Newton offers an easy example. In one conversation about equations, AI began explaining how to use them and calculate with them. The discussion then turned to another question: **How did Newton move from something like an apple falling to deciding what kind of equation to write?** The interest was in how an equation gets conceived, as well as how to calculate once it exists.
+In one discussion, I introduced Newton as an analogy to explain what interested me most: **how to discover laws and formulate equations from observations, rather than simply use existing equations.**
 
 Similar questions arise elsewhere:
 

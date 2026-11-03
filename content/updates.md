@@ -2,7 +2,7 @@
 title: "Site Update Log"
 description: "Records site versions, release dates, additions and important revisions, and their effect on reading and citation."
 author: SL
-version: "1.1"
+version: "1.1.1"
 created: "2026-11-02"
 updated: "2026-11-03"
 published: "2026-11-02"
@@ -14,6 +14,12 @@ sourceUpdated: "2026-11-03"
 ---
 
 A site version records a batch of public content and reading-structure changes; every article keeps its own version and update date.
+
+<a id="v0-8-1"></a>
+
+## v0.8.1 · 2026-11-03
+
+Corrected the origin of the Newton analogy in [What This Site Is For v0.5.10](./site-purpose.md): the author introduced it to explain an interest in discovering laws and formulating equations. The previous account of the discussion was inaccurate. Both editions have been corrected.
 
 <a id="v0-8-0"></a>
 
