@@ -2,7 +2,7 @@
 title: "From Reflections on the Universe to Later Research"
 description: "Understanding early philosophical reflections on the universe and the present work of organising theory, developing applications and generating knowledge through repeated diffusion and condensation of information."
 author: SL
-version: "0.2"
+version: "0.2.1"
 created: "2026-11-03"
 updated: "2026-11-03"
 published: "2026-11-03"

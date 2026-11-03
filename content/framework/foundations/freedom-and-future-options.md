@@ -2,9 +2,9 @@
 title: "Freedom and Unconstrained Wandering: Retaining Future Options within Constraints"
 description: "A personal philosophical reflection on reachable paths, recovery, adaptation time and voluntary commitment in a changing life."
 author: SL
-version: "0.1"
+version: "0.1.1"
 created: "2026-11-01"
-updated: "2026-11-01"
+updated: "2026-11-03"
 published: "2026-11-01"
 publish: true
 kind: article
@@ -13,7 +13,7 @@ aliases:
 lang: en
 language: en
 source: framework/foundations/freedom-and-future-options.md
-sourceUpdated: "2026-11-01"
+sourceUpdated: "2026-11-03"
 ---
 
 > **Public edition v0.1 · Personal philosophy and action reflection.** Based on a discussion of freedom, unconstrained wandering and feasible state space. This is a way to think about choices, capabilities and commitments. Zhuangzi-inspired expressions are contemporary interpretations; formula-like metaphors are not psychological measures or empirical findings.

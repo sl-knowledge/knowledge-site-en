@@ -2,7 +2,7 @@
 title: "Site Update Log"
 description: "Records site versions, release dates, additions and important revisions, and their effect on reading and citation."
 author: SL
-version: "1.1.3"
+version: "1.1.4"
 created: "2026-11-02"
 updated: "2026-11-03"
 published: "2026-11-02"
@@ -14,6 +14,12 @@ sourceUpdated: "2026-11-03"
 ---
 
 A site version records a batch of public content and reading-structure changes; every article keeps its own version and update date.
+
+<a id="v0-8-3"></a>
+
+## v0.8.3 · 2026-11-03
+
+Fixed 111 emphasis and punctuation issues across 13 Chinese pages and checked Markdown rendering across all 98 Chinese and English pages. Matching English articles share the revised version numbers; theoretical content, formulas, principle identifiers and citation anchors are preserved. The build now checks for unrendered Markdown markers in article prose.
 
 <a id="v0-8-2"></a>
 

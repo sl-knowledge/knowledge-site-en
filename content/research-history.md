@@ -2,7 +2,7 @@
 title: "Research History: 2025–2026"
 description: "A retrospective account of the research, from philosophical questions in 2025 to human–AI collaboration in late 2026, including narrowed claims, removed concepts and changes of direction."
 author: SL
-version: "0.1.5"
+version: "0.1.6"
 created: "2026-11-03"
 updated: "2026-11-03"
 published: "2026-11-03"

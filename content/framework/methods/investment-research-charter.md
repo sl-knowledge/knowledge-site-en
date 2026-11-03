@@ -2,9 +2,9 @@
 title: "Investment Research and Trading Decision Charter"
 description: "Research only, not investment or trading advice. Objectives, mechanisms, critical evidence, valuation scenarios and independent validation are retained; trading actions become research hypotheses."
 author: "SL"
-version: "0.1"
+version: "0.1.1"
 created: "2026-11-01"
-updated: "2026-11-01"
+updated: "2026-11-03"
 published: "2026-11-01"
 sourceVersion: "2.0"
 sourceDate: "2026-10-11"
@@ -13,7 +13,7 @@ kind: article
 lang: en
 language: en
 source: framework/methods/investment-research-charter.md
-sourceUpdated: "2026-11-01"
+sourceUpdated: "2026-11-03"
 researchScope: investment
 ---
 

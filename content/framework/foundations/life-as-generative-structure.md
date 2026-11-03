@@ -2,9 +2,9 @@
 title: "Life as Generative Structure: Core Theory V2"
 description: "From relational renewal and persistent execution to recovery: the EGBE working definition, a three-variable bridge model and proposed validation."
 author: "SL"
-version: "0.2"
+version: "0.2.1"
 created: "2026-09-28"
-updated: "2026-11-01"
+updated: "2026-11-03"
 published: "2026-11-01"
 publish: true
 kind: article
@@ -13,7 +13,7 @@ aliases:
 lang: en
 language: en
 source: framework/foundations/life-as-generative-structure.md
-sourceUpdated: "2026-11-01"
+sourceUpdated: "2026-11-03"
 ---
 
 > **Public edition v0.1 · a relational perspective on life and research hypotheses.** Organized primarily from *Life as Generative Structure: Core Theory V2* (Core v2.0), dated 2026-09-28. No new experimental data are reported. EGBE is a candidate property, and the bridge model and experimental plan await validation. This page does not announce an established necessary-and-sufficient definition of life.

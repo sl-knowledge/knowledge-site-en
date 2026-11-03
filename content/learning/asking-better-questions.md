@@ -2,16 +2,16 @@
 title: "Giving Learners Control over Asking Questions"
 description: "From discovering answers to asking independently: scaffolds that help learners generate questions worth investigating."
 author: SL
-version: "0.1"
+version: "0.1.1"
 created: "2026-10-31"
-updated: "2026-10-31"
+updated: "2026-11-03"
 published: "2026-10-31"
 publish: true
 kind: article
 lang: en
 language: en
 source: learning/asking-better-questions.md
-sourceUpdated: "2026-10-31"
+sourceUpdated: "2026-11-03"
 ---
 
 > This is a research note. It retains the exploratory process and conversational tone; its views and references will continue to be revised as the research develops.

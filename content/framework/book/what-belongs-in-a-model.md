@@ -2,7 +2,7 @@
 title: "How We Know What Belongs in a Model"
 description: "Twelve chapters and a running example examine minimal representations, probabilistic forecasts, error classification and minimal revision through objectives, evidence and competing explanations."
 author: SL
-version: "0.1.1"
+version: "0.1.2"
 created: "2026-11-01"
 updated: "2026-11-03"
 published: "2026-11-01"

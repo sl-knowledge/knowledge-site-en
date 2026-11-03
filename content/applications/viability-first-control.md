@@ -2,7 +2,7 @@
 title: "Control Authority, Information and Time: Viability-First Principles for Control and Safety Design"
 description: "Research material, not operational guidance. Examines who acts on which variables, using what information and within what time, through three failure categories, four assurance obligations and five comparative properties."
 author: SL
-version: "0.2"
+version: "0.2.1"
 created: "2026-11-02"
 updated: "2026-11-03"
 published: "2026-11-02"

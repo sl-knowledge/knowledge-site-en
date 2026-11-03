@@ -1,6 +1,6 @@
 {
-  "version": "0.8.2",
+  "version": "0.8.3",
   "date": "2026-11-03",
-  "title": "Page update",
-  "summary": "Revised introductory pages."
+  "title": "Markdown formatting fixes",
+  "summary": "Fixed emphasis around Chinese punctuation and checked Markdown rendering across the site."
 }

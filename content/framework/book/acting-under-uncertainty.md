@@ -2,16 +2,16 @@
 title: "Acting in an Uncertain World"
 description: "Ten chapters distinguish forecasts from consequences and examine viability, robustness, reversibility, information value, commitment and adaptive strategies."
 author: SL
-version: "0.2"
+version: "0.2.1"
 created: "2026-11-01"
-updated: "2026-11-02"
+updated: "2026-11-03"
 published: "2026-11-01"
 publish: true
 kind: article
 lang: en
 language: en
 source: framework/book/acting-under-uncertainty.md
-sourceUpdated: "2026-11-02"
+sourceUpdated: "2026-11-03"
 aliases:
   - framework/acting-under-uncertainty
 ---

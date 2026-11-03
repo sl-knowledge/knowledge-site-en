@@ -23,7 +23,7 @@
     "dev": "node quartz/bootstrap-cli.mjs build --serve",
     "preview": "node quartz/bootstrap-cli.mjs build --serve",
     "validate:content": "node scripts/validate-content.mjs",
-    "postbuild": "node scripts/verify-build.mjs && node scripts/verify-english-output.mjs",
+    "postbuild": "node scripts/verify-build.mjs && node scripts/verify-english-output.mjs && node scripts/verify-markdown-rendering.mjs",
     "check:sync": "node scripts/check-source-parity.mjs"
   },
   "engines": {

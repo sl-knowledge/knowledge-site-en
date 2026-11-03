@@ -2,9 +2,9 @@
 title: "Oriental Yuhong: What Would Count as Genuine Improvement through Business Reconstruction?"
 description: "Research material, not investment or trading advice. Separately tests channel changes, credit-capital efficiency and overseas capability transfer as sources of continuing cash returns."
 author: SL
-version: "0.2"
+version: "0.2.1"
 created: "2026-11-01"
-updated: "2026-11-01"
+updated: "2026-11-03"
 published: "2026-11-01"
 publish: true
 kind: article
@@ -14,7 +14,7 @@ researchScope: investment
 lang: en
 language: en
 source: framework/cases/business-reconstruction-yuhong.md
-sourceUpdated: "2026-11-01"
+sourceUpdated: "2026-11-03"
 ---
 
 > **Public edition v0.2 · A business-mechanism case.** Organised from the original memorandum's first six sections, retaining the research baseline of 9 October 2026; public editing dated 1 November 2026. Financial definitions follow the 2026 interim report, and mechanisms are discussed within that material window.

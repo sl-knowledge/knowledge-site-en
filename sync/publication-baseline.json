@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "release": "0.8.2",
+  "release": "0.8.3",
   "date": "2026-11-03",
-  "publicationRef": "site-v0.8.2",
+  "publicationRef": "site-v0.8.3",
   "chineseResearchBaselineTag": "site-v0.6.0",
   "hashDefinition": "SHA-256 of UTF-8 Markdown with CRLF normalised to LF; includes frontmatter.",
   "notice": "A translation and publication snapshot, not evidence that every claim has been validated.",
@@ -41,19 +41,19 @@
     },
     {
       "path": "applications/viability-first-control.md",
-      "version": "0.2",
+      "version": "0.2.1",
       "sourceUpdated": "2026-11-03",
       "kind": "article",
-      "chineseTextSha256": "80c54179767927794d6371033510f24f4e7ae8bcffca1aad27c0f6e533e15bfd",
-      "englishTextSha256": "104849e2565436c0f255ad6fcdc3548cbbcf35b3b2eca6a9ab57a3fe2c1f0347"
+      "chineseTextSha256": "3df3061df6c668b577cb5255f0610f75849350f9866b6d0c1ca1ed678677e507",
+      "englishTextSha256": "b487d12b60dcc1d8420119e1761276af00cc5b5d08fd1a45121cde44182a57d3"
     },
     {
       "path": "cosmic-reflections-and-later-research.md",
-      "version": "0.2",
+      "version": "0.2.1",
       "sourceUpdated": "2026-11-03",
       "kind": "guide",
-      "chineseTextSha256": "0f6602b40709c5d4eb4da82325ac88bfc88d09b133cf75c3ffca6eca50d9061a",
-      "englishTextSha256": "5b23810b0f7e116eccdd3cd70b838742db6a7b1bbeafd3b044fd4be0b8b92846"
+      "chineseTextSha256": "b67ba0b706bc4e9fa1bd981a44b2a5ce9b1042fc7b07605a6c90b397cf5b1a1c",
+      "englishTextSha256": "c1dffd53bbbc294410485b71045c0e1fa4994ee4e0f832d3967c05d976ebad2b"
     },
     {
       "path": "disclaimer.md",
@@ -89,11 +89,11 @@
     },
     {
       "path": "framework/book/acting-under-uncertainty.md",
-      "version": "0.2",
-      "sourceUpdated": "2026-11-02",
+      "version": "0.2.1",
+      "sourceUpdated": "2026-11-03",
       "kind": "article",
-      "chineseTextSha256": "a68603c929245de6a3610e29c09f08c38e7de8cf66f0d1fd029a26aa4c51753b",
-      "englishTextSha256": "ba2d3006a8c1e8ad1b835e9486ee7feb533a86243cf1aa494df0f0f17a2b4d81"
+      "chineseTextSha256": "65c534f5d1fd77fdc0de099314d95dd53a318a9db866c50d79f3fd8ed5ba7a0b",
+      "englishTextSha256": "7ab4a7ad2d238df8610f717316d799da1e7be3fd75c5b1c8db1c8aed8bc63afb"
     },
     {
       "path": "framework/book/book-reading-guide.md",
@@ -137,19 +137,19 @@
     },
     {
       "path": "framework/book/what-belongs-in-a-model.md",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "sourceUpdated": "2026-11-03",
       "kind": "article",
-      "chineseTextSha256": "97135682324ad5cfe26dafaebce2422ae37e331fdb50db457541ae9a5001db7c",
-      "englishTextSha256": "4bcbd8c471e8e2ac72896aa62ed352ab2e4582c010f9c219739fc5075e5bebc8"
+      "chineseTextSha256": "735032fe7db964b733c98197dd79ae008c4e669565cc646ae42da6aa19297ba5",
+      "englishTextSha256": "1cbd4b24d0fba7822cb11bfd16c6b09f6e1401c9c0adbe33f87ced6fa5f4eedd"
     },
     {
       "path": "framework/cases/business-reconstruction-yuhong.md",
-      "version": "0.2",
-      "sourceUpdated": "2026-11-01",
+      "version": "0.2.1",
+      "sourceUpdated": "2026-11-03",
       "kind": "article",
-      "chineseTextSha256": "8c98b02d73ce15db5480fbaf8274a3511acdc760b5dcf55f269ef509d545e33c",
-      "englishTextSha256": "7b8620421621543276464a8003fd4c48b7807644e615711e0551f099dc9f8325"
+      "chineseTextSha256": "d9f9a687d140fdef1933b4620867918af8bafd489d0c7c9bfc94a967c2cddeb0",
+      "englishTextSha256": "e33ed58cbd6fbf1eec6a9bf78018d0e9ea38d7825452706ee8e2a28e9244085c"
     },
     {
       "path": "framework/cases/index.md",
@@ -161,19 +161,19 @@
     },
     {
       "path": "framework/cases/success-and-transition.md",
-      "version": "0.2",
-      "sourceUpdated": "2026-11-01",
+      "version": "0.2.1",
+      "sourceUpdated": "2026-11-03",
       "kind": "article",
-      "chineseTextSha256": "c59ec40c7ac5c7d43eff539de667c90d1dfda7f777a83815b9c52ab0de953520",
-      "englishTextSha256": "89bcb83d819a6521ad00dd6fb8e8cdc67b3667ddc41930059a3a5b6e60087edc"
+      "chineseTextSha256": "051fce6a4be053b3189c031e481611bb1c277b3cba85a29a6bb0cd1a4ccc9871",
+      "englishTextSha256": "6ceb9494d283f8c7884b6c06d36e91cb28a696e3fb7b8468e5e39781bbd7515d"
     },
     {
       "path": "framework/foundations/freedom-and-future-options.md",
-      "version": "0.1",
-      "sourceUpdated": "2026-11-01",
+      "version": "0.1.1",
+      "sourceUpdated": "2026-11-03",
       "kind": "article",
-      "chineseTextSha256": "ab65fed2372988b8e7f6d1304b1148e1b30127ee03c3da7e0a22246cdf1c804e",
-      "englishTextSha256": "c01f81efd2e88293354e20e658d1a1bac0dec6eb9a207809e166f677ed762d45"
+      "chineseTextSha256": "9c28aca22bae2b27eeef64bd6e686c9a06b32c2f5c258ef54912b124d80df95c",
+      "englishTextSha256": "df653ff035f02d5672750455dc9a5023a4b1cea6091acad155c791505c1b9416"
     },
     {
       "path": "framework/foundations/index.md",
@@ -185,11 +185,11 @@
     },
     {
       "path": "framework/foundations/life-as-generative-structure.md",
-      "version": "0.2",
-      "sourceUpdated": "2026-11-01",
+      "version": "0.2.1",
+      "sourceUpdated": "2026-11-03",
       "kind": "article",
-      "chineseTextSha256": "c26be4612cad5e559f649e8419c472b72ee5bcaf1d96ea51a3d61dd0589e4a81",
-      "englishTextSha256": "06215fa8cf5e7dede3252821907395d5bab8338f52b0f2124ed4ae8aa9589202"
+      "chineseTextSha256": "e47840bfcf381f13c17fa2999ee7db692bf60d0643618b4cc8fefa46b3fddb3f",
+      "englishTextSha256": "4ce7c0d4286c39ba8125b5d5de36c115a111ecc60fc774878a1beb1343423306"
     },
     {
       "path": "framework/foundations/simplicity-and-recovery.md",
@@ -241,11 +241,11 @@
     },
     {
       "path": "framework/methods/company-analysis-protocol.md",
-      "version": "0.1",
-      "sourceUpdated": "2026-11-01",
+      "version": "0.1.1",
+      "sourceUpdated": "2026-11-03",
       "kind": "article",
-      "chineseTextSha256": "fbc085ec2246a876c3facf782eeff9e06fde221f14c4c2880c23c0a058aa6222",
-      "englishTextSha256": "b3fc411cdabd7e5e468be424717e6a27743e0490877e8449020fe518bbaaa566"
+      "chineseTextSha256": "33d00abe144e4f2eb3fd220b89c9a56b6704ea14e4207c2261187a0d4fdb9bc4",
+      "englishTextSha256": "3f345dcb22823cd5047cbeb91455b6d184f0a7ad47ea2081157f15557fd6a63d"
     },
     {
       "path": "framework/methods/consistency-and-revision.md",
@@ -265,11 +265,11 @@
     },
     {
       "path": "framework/methods/investment-research-charter.md",
-      "version": "0.1",
-      "sourceUpdated": "2026-11-01",
+      "version": "0.1.1",
+      "sourceUpdated": "2026-11-03",
       "kind": "article",
-      "chineseTextSha256": "1620c08feb7a9c23807e7e5527f325a3536b107af992bac2f7fd300e420d76c5",
-      "englishTextSha256": "923ac187ba6a363eba831420f0cfe5a2930555ba90131a355fc49297a73f9a07"
+      "chineseTextSha256": "fc0e62c331d416d6dd0cafabd97323515e1b72e42de2ba0a2f5e3d601e23faba",
+      "englishTextSha256": "0efd9ae90e53775c80c256727c2544f610cdc8ea8bba5b87bd0bd115fd25c3c7"
     },
     {
       "path": "framework/methods/originality-and-validation.md",
@@ -337,11 +337,11 @@
     },
     {
       "path": "learning/asking-better-questions.md",
-      "version": "0.1",
-      "sourceUpdated": "2026-10-31",
+      "version": "0.1.1",
+      "sourceUpdated": "2026-11-03",
       "kind": "article",
-      "chineseTextSha256": "d08a47816dbd0df1158a068f496738693daff4eac36b0a2738ea54910b228bd9",
-      "englishTextSha256": "7e6adee76eb84895fa13cbe00910d869d62f998871e4826603c10bc369fdd072"
+      "chineseTextSha256": "abc6f55e714f8653762db9c34b79e830ddfacfa37efe03d8326c161d6a8819cf",
+      "englishTextSha256": "fcacfcb23dc8e9e84597ba93ea09268eee434a9a06d45c4aaa63521181ac62b9"
     },
     {
       "path": "learning/cognitive-disequilibrium.md",
@@ -377,28 +377,28 @@
     },
     {
       "path": "research-history.md",
-      "version": "0.1.5",
+      "version": "0.1.6",
       "sourceUpdated": "2026-11-03",
       "kind": "guide",
-      "chineseTextSha256": "5b07923997a44aa26b0b5a0406650769f2bff54d2a675283a569d4bc70aefcb2",
-      "englishTextSha256": "d840d223028bc76632c265be185dfd27c01cdf3d1442c3b6dd9bdde5085ed4ce"
+      "chineseTextSha256": "f05e0b3a083367f85f54a26ef7987d61de041ca4ac3508f540192e78a2319dda",
+      "englishTextSha256": "22be7cbf2077cf8495b92aa6eb7dcffc1f936be71c53d7371d410620ad0b9dc0"
     },
     {
       "path": "site-purpose.md",
-      "version": "0.5.11",
+      "version": "0.5.12",
       "sourceUpdated": "2026-11-03",
       "kind": "guide",
-      "chineseTextSha256": "0c1312da584217c6762886d6f171716e853b268d265779b8b0f0843e70f027e5",
-      "englishTextSha256": "007f575ce63294c59d856633aa4d72e9ef0853eaa9aca55b45fcecf99467b250"
+      "chineseTextSha256": "79bca0b62be205f64aba3f33910d2c6f07cd4ed1ba5e96e48afcdab345faf803",
+      "englishTextSha256": "509516aa782f71c79d73f0b367def7ef17649a7a5680a190f96252bc45fc559e"
     },
     {
       "path": "updates.md",
-      "version": "1.1.3",
+      "version": "1.1.4",
       "sourceUpdated": "2026-11-03",
       "kind": "release",
-      "chineseTextSha256": "8b1b0b9e78bc43e75f1f07b67fced4e22ac8ea01d46b3cb09d1e289d3875eea4",
-      "englishTextSha256": "99f46901dc71fbd3e1ae0ec6c5b5ffc747cce6925f453fbdc784ccf9eff274d4"
+      "chineseTextSha256": "9fd0f81bb26ab6ef7041d5d15aef68647ad093008ef3b43ccec5e09f95cabd09",
+      "englishTextSha256": "e744aeab98aa1120c7ea13548abbdef8f881ccd328bae5f6a6a9c618f6645e9d"
     }
   ],
-  "previousPublicationRef": "site-v0.8.1"
+  "previousPublicationRef": "site-v0.8.2"
 }
