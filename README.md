@@ -17,6 +17,16 @@ The content is for learning and research. The scope of the safety and investment
 - `npm run check:sync` compares the English edition against the Chinese source: version, dates, research scope, kind, and the link graph of each page. It runs in CI as a separate job, so a translation that falls behind is visible without blocking publication.
 - `npm run build` runs the local validation, builds the site and verifies the built output.
 
+## Visitor statistics
+
+Both editions report into the same Umami property (`8486d200-3738-4f33-a408-d8415cf6d20f`), so the
+pageview count in the footer is the shared aggregate of both sites. The tracker is loaded on
+`sl-knowledge.github.io` only; no visitor identifiers or session replay are added.
+
+The footer total is published as a static snapshot by CI. Set the `UMAMI_SHARE_URL` repository secret
+to the same Umami Cloud Share URL the Chinese edition uses; without it the build retains the last
+published total instead of failing.
+
 ## Copyright
 
 Original articles: © 2026 SL. All rights reserved. See [CONTENT-LICENSE.md](CONTENT-LICENSE.md).

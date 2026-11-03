@@ -5,12 +5,12 @@ configuration:
   pageTitleSuffix: " · SL"
   enableSPA: true
   enablePopovers: true
-  # TODO: add the English site's own Umami website id here once it exists.
-  # The Chinese edition's website id must not be reused here.
-  # analytics:
-  #   provider: umami
-  #   websiteId: "<english-site-website-id>"
-  #   host: https://cloud.umami.is
+  # The English edition reports into the same Umami property as the Chinese
+  # edition, so both sites share one aggregate page-view count.
+  analytics:
+    provider: umami
+    websiteId: 8486d200-3738-4f33-a408-d8415cf6d20f
+    host: https://cloud.umami.is
   locale: en-US
   baseUrl: sl-knowledge.github.io/knowledge-site-en
   ignorePatterns:

@@ -1,5 +1,7 @@
 import { QuartzComponent, QuartzComponentProps } from "./types"
 import { pathToRoot } from "../util/path"
+// @ts-ignore
+import pageviewsScript from "./scripts/pageviews.inline"
 
 // The Chinese edition is the source of truth for every page. The English tree
 // mirrors it path for path, so the counterpart of a page is always the same
@@ -187,6 +189,13 @@ export const PublicationFooter: QuartzComponent = ({ fileData }: QuartzComponent
         This site publishes research notes. Safety and investment material is research only, not
         operational or trading advice.
       </p>
+      <p
+        class="site-pageviews"
+        data-pageviews-url={`${root}/static/pageviews.json`}
+        aria-live="polite"
+      >
+        Total pageviews: <span data-pageviews-count>Loading…</span>
+      </p>
       <div>
         <a class="internal" href={`${root}/disclaimer`}>
           Research-use disclaimer
@@ -203,3 +212,5 @@ export const PublicationFooter: QuartzComponent = ({ fileData }: QuartzComponent
     </footer>
   )
 }
+
+PublicationFooter.afterDOMLoaded = pageviewsScript

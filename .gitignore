@@ -11,3 +11,4 @@ templates/
 quartz/cli/tui/dist/
 .turbo/
 scripts/diag-build.mjs
+scripts/diag-config.mjs
