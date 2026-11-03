@@ -101,8 +101,7 @@ export const PublicationMeta: QuartzComponent = ({ fileData, allFiles }: QuartzC
           <span>READING PATHS</span>
         </div>
         <p class="reading-paths-note">
-          The four paths mirror the Chinese edition. Pages marked <span class="zh-badge">中文</span>{" "}
-          open on the Chinese site.
+          The complete public collection is available in English. Use the language switch to read the corresponding Chinese edition.
         </p>
         <div class="notes-grid topic-grid">
           {readingSections.map((section, index) => {
@@ -238,6 +237,7 @@ export const PublicationFooter: QuartzComponent = ({ fileData }: QuartzComponent
         <a class="language-switch" href={sourceUrl(fileData.slug!)} hreflang="zh-CN" lang="zh-CN">
           中文版
         </a>
+        <a href="https://github.com/sl-knowledge/knowledge-site-en/issues/new?template=research-feedback.yml">Research feedback</a>
         <a href="https://github.com/sl-knowledge/knowledge-site-en">GitHub</a>
         <a href="https://quartz.jzhao.xyz/">Built with Quartz</a>
       </div>

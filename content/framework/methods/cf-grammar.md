@@ -138,7 +138,7 @@ Sometimes a prediction fails because a variable was missed or a mechanism was ju
 
 Variable management also needs a hierarchy. What is known to affect the target judgement enters the core; what may matter but lacks evidence continues to be monitored; the rest can be archived. Not being in the model today does not mean it will never matter.
 
-For the concrete methods, continue with [how do we know what belongs in a model](https://sl-knowledge.github.io/knowledge-site/framework/book/what-belongs-in-a-model) and [acting in an uncertain world](https://sl-knowledge.github.io/knowledge-site/framework/book/acting-under-uncertainty).
+For the concrete methods, continue with [how do we know what belongs in a model](https://sl-knowledge.github.io/knowledge-site-en/framework/book/what-belongs-in-a-model) and [acting in an uncertain world](https://sl-knowledge.github.io/knowledge-site-en/framework/book/acting-under-uncertainty).
 
 ## 8. A one-page checklist and the boundary of validation
 
@@ -167,4 +167,4 @@ The public version of this article is **v0.1**. It synthesises the following res
 
 This edition tightened the statements about freedom, constraint and predictive advantage, and added joint constraints, time conditions and one teaching-factory example. The original draft is kept; this article is a method guide that can be read on its own, not a verbatim translation of the original English grammar draft nor a complete machine specification.
 
-Related reading: [research methods and standards](./index.md), [reading guide to the five drafts](https://sl-knowledge.github.io/knowledge-site/framework/book/book-reading-guide), [systems, life and values](https://sl-knowledge.github.io/knowledge-site/framework/foundations/).
+Related reading: [research methods and standards](./index.md), [reading guide to the five drafts](https://sl-knowledge.github.io/knowledge-site-en/framework/book/book-reading-guide), [systems, life and values](https://sl-knowledge.github.io/knowledge-site-en/framework/foundations/).

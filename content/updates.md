@@ -2,7 +2,7 @@
 title: "Site Update Log"
 description: "Records site versions, release dates, additions and important revisions, and their effect on reading and citation."
 author: SL
-version: "0.8"
+version: "1.0"
 created: "2026-11-02"
 updated: "2026-11-03"
 published: "2026-11-02"
@@ -15,16 +15,34 @@ sourceUpdated: "2026-11-03"
 
 A site version records a batch of public content and reading-structure changes; every article keeps its own version and update date.
 
+<a id="v0-7-0"></a>
+
+## v0.7.0 · 2026-11-03
+
+English becomes the primary public edition; Chinese remains a drafting and corresponding reading edition. The English site now includes all 33 current research articles and all category, reading-guide and auxiliary pages: 46 pages in total. Equations, examples, research status and principle identifiers are retained; linguistic examples keep their original forms with English explanations.
+
+Corresponding pages can be switched between languages. A research-feedback link welcomes precise corrections, counterexamples and translation reports. Article versions are retained; substantive future public revisions are prepared in English first, then aligned with Chinese and any discrepancies recorded.
+
+The translation baseline records provenance and versions, not validation of the theory. Private cases are excluded. Articles continue to retain all rights; Quartz code keeps its MIT licence. No new content licence has been adopted.
+
+<a id="v0-6-0"></a>
+
+## v0.6.0 · 2026-11-03
+
+Published [Simplification and Recovery Paths: Recoverability in Constrained Systems v0.2](./framework/foundations/simplicity-and-recovery.md), under Theory Framework → Representation and knowing. SF1–SF9 distinguish operating cost, recovery regions, information distinctions and limited testing, with conditional arguments, six reading prompts and testing boundaries.
+
+The article contains no particular events or operating rules for a particular system. Existing article URLs and bodies are retained; this public baseline supplies the sources for full English translation, preserving equations, examples and knowledge status.
+
 <a id="v0-5-0"></a>
 
 ## v0.5.0 · 2026-11-03
 
 **Publishes the completed Chinese terminology revisions and updates the control-theory article.**
 
-- **Evidence notation (CN-02).** [The second draft v0.1.1](https://sl-knowledge.github.io/knowledge-site/framework/book/what-belongs-in-a-model) uses \(\mathcal D\), or \(\mathcal D_t\) when time-indexed. Completion deadline \(D\) and detection time \(t_D\) retain their meanings.
+- **Evidence notation (CN-02).** [The second draft v0.1.1](https://sl-knowledge.github.io/knowledge-site-en/framework/book/what-belongs-in-a-model) uses \(\mathcal D\), or \(\mathcal D_t\) when time-indexed. Completion deadline \(D\) and detection time \(t_D\) retain their meanings.
 - **Viability terminology (CN-03).** [Canonical Vocabulary v0.4.1](./framework/methods/canonical-vocabulary.md) adopts consistent Chinese names for viability, viability kernel and viability boundary, retaining earlier names as aliases and old section entries. [Architecture v0.1.1](./framework/methods/research-architecture.md) and [Consistency Notes v0.2.1](./framework/methods/consistency-and-revision.md) are aligned.
-- **Representation-failure categories (CN-04).** Specification miss, structural drift and task mismatch use consistent names, with earlier names mapped as aliases. Causes may coexist or remain unknown; the examples are retained. [The fifth draft v0.1.1](https://sl-knowledge.github.io/knowledge-site/framework/book/human-ai-research-system) aligns its revision records.
-- **[Control, Information and Time v0.2](https://sl-knowledge.github.io/knowledge-site/applications/viability-first-control).** Adds C17--C20: recoverability as a candidate comparison criterion, joint constraints at the rule level, responsibility and information conditions, and end-to-end timing. C1--C16 retain their numbers; C1--C20 have fixed citation anchors. C17 is not a direct deduction from an existing guarantee; training, planning and rules still require domain validation.
+- **Representation-failure categories (CN-04).** Specification miss, structural drift and task mismatch use consistent names, with earlier names mapped as aliases. Causes may coexist or remain unknown; the examples are retained. [The fifth draft v0.1.1](https://sl-knowledge.github.io/knowledge-site-en/framework/book/human-ai-research-system) aligns its revision records.
+- **[Control, Information and Time v0.2](https://sl-knowledge.github.io/knowledge-site-en/applications/viability-first-control).** Adds C17--C20: recoverability as a candidate comparison criterion, joint constraints at the rule level, responsibility and information conditions, and end-to-end timing. C1--C16 retain their numbers; C1--C20 have fixed citation anchors. C17 is not a direct deduction from an existing guarantee; training, planning and rules still require domain validation.
 
 No empirical results are added. The control article contains no specific accident case or operational advice for a concrete system. Existing English counterparts are updated; untranslated texts continue to link to the Chinese edition. Other unfinished consistency items remain separate, and existing article addresses continue to work.
 
@@ -34,9 +52,9 @@ No empirical results are added. The control article contains no specific acciden
 
 **Standardised timing from detection to completion.** Separates execution duration, full response duration including assessment and coordination, and effective margin after allowing for the whole response. The latest start of the whole process \(t_R\) is recorded separately from the latest start of execution \(t_L\).
 
-- [Canonical Vocabulary v0.4](./framework/methods/canonical-vocabulary.md#recovery-time-structure) supplies definitions, mappings from older notation, response-specific assumptions and an example with non-zero coordination delay. [Stress Testing v0.2](https://sl-knowledge.github.io/knowledge-site/framework/methods/stress-testing#st8) updates ST8 while retaining the fixed principle numbers.
-- [The first draft v0.3](https://sl-knowledge.github.io/knowledge-site/framework/book/constraints-and-future-options#recovery-time-structure) and [the third draft v0.2](https://sl-knowledge.github.io/knowledge-site/framework/book/acting-under-uncertainty) use the same full-response convention.
-- [The cooperation article v0.11](https://sl-knowledge.github.io/knowledge-site/applications/cooperation-under-incomplete-trust) keeps the original five numerical conditions with an explicit zero pre-execution delay; a separate one-week coordination variant has four weeks of effective margin. [Physical AI v0.4](https://sl-knowledge.github.io/knowledge-site/applications/physical-ai-interview) states its zero extra delay assumption; [the control principles v0.1.1](https://sl-knowledge.github.io/knowledge-site/applications/viability-first-control) clarify handover timing.
+- [Canonical Vocabulary v0.4](./framework/methods/canonical-vocabulary.md#recovery-time-structure) supplies definitions, mappings from older notation, response-specific assumptions and an example with non-zero coordination delay. [Stress Testing v0.2](https://sl-knowledge.github.io/knowledge-site-en/framework/methods/stress-testing#st8) updates ST8 while retaining the fixed principle numbers.
+- [The first draft v0.3](https://sl-knowledge.github.io/knowledge-site-en/framework/book/constraints-and-future-options#recovery-time-structure) and [the third draft v0.2](https://sl-knowledge.github.io/knowledge-site-en/framework/book/acting-under-uncertainty) use the same full-response convention.
+- [The cooperation article v0.11](https://sl-knowledge.github.io/knowledge-site-en/applications/cooperation-under-incomplete-trust) keeps the original five numerical conditions with an explicit zero pre-execution delay; a separate one-week coordination variant has four weeks of effective margin. [Physical AI v0.4](https://sl-knowledge.github.io/knowledge-site-en/applications/physical-ai-interview) states its zero extra delay assumption; [the control principles v0.1.1](https://sl-knowledge.github.io/knowledge-site-en/applications/viability-first-control) clarify handover timing.
 
 The older detection-to-latest-execution window equals the effective margin only with zero extra delay. Non-zero delay needs recalculation. Warning gap, detection delay and effective margin remain distinct quantities. The formulas are conditional time-accounting relations, add no empirical results, and are not operational advice. The existing English vocabulary page is updated; full translations of the other articles are still pending.
 
@@ -48,10 +66,10 @@ The older detection-to-latest-execution window equals the effective margin only 
 
 - [Theory Framework](./framework/index.md#scope) separates continuity and adaptation under constraints from representation, testing and revision. The six diagnostic conditions are not a checklist that must be satisfied in full. [About](./about.md) adds a short explanation.
 - [Canonical Vocabulary](./framework/methods/canonical-vocabulary.md) moves from v0.2 to v0.3: adds the three path objects, recovery-window time structure, gradual lock-in and deadlines, and separately labels working terms and mechanism hypotheses such as default bearers and path shifts.
-- [Constraints, Viability and Future Options](https://sl-knowledge.github.io/knowledge-site/framework/book/constraints-and-future-options) moves from v0.1 to v0.2: Chapter 5 separates actual feasibility, agent beliefs and acceptability; new Section 7.4 distinguishes zero margin from a missed latest start and spells out the hypothetical eight-week inventory, four-week shutdown tolerance and twelve-week adaptation case.
+- [Constraints, Viability and Future Options](https://sl-knowledge.github.io/knowledge-site-en/framework/book/constraints-and-future-options) moves from v0.1 to v0.2: Chapter 5 separates actual feasibility, agent beliefs and acceptability; new Section 7.4 distinguishes zero margin from a missed latest start and spells out the hypothetical eight-week inventory, four-week shutdown tolerance and twelve-week adaptation case.
 - Overview entries now explain the content to readers, and punctuation is corrected. Existing English counterparts are updated; the untranslated first draft continues to link to the Chinese text.
 
-The application source is [Cooperation Under Incomplete Trust v0.10](https://sl-knowledge.github.io/knowledge-site/applications/cooperation-under-incomplete-trust). Time relations are limited to the stated simplified model; inclusion in the trunk does not raise a claim's evidence level. Existing section numbers and formulas are retained; Section 7.4 and its corresponding formula are added. No empirical results are added. Existing addresses and citation entries remain available.
+The application source is [Cooperation Under Incomplete Trust v0.10](https://sl-knowledge.github.io/knowledge-site-en/applications/cooperation-under-incomplete-trust). Time relations are limited to the stated simplified model; inclusion in the trunk does not raise a claim's evidence level. Existing section numbers and formulas are retained; Section 7.4 and its corresponding formula are added. No empirical results are added. Existing addresses and citation entries remain available.
 
 <a id="v0-2-1"></a>
 
@@ -63,7 +81,7 @@ The homepage subtitle now reads: "An independent researcher’s open research si
 
 ## v0.2.0 · 2026-11-02
 
-**[Cooperation Under Incomplete Trust: Warning Margin and Recoverability](https://sl-knowledge.github.io/knowledge-site/applications/cooperation-under-incomplete-trust) updated from public edition v0.8 to v0.10.**
+**[Cooperation Under Incomplete Trust: Warning Margin and Recoverability](https://sl-knowledge.github.io/knowledge-site-en/applications/cooperation-under-incomplete-trust) updated from public edition v0.8 to v0.10.**
 
 - States the abstract mechanism position between general agents more precisely, and writes internal change, deadlines, self-binding and external support as conditional research propositions.
 - Adds "cooperation and future optionality", separating what is actually feasible, what the agent knows, and what the agent believes it can accept.
@@ -101,8 +119,8 @@ The four reading paths and the way the outline opens level by level are kept. Th
 - The homepage, the top navigation and the left reading outline are unified as [theory framework](./framework/index.md), [research methods](./framework/methods/index.md), [theory applications](./applications/index.md) and [reading the drafts](./framework/book/index.md).
 - The theory framework takes reality, representation and decision as its three trunks, supported by the overall architecture and the canonical vocabulary; systems, values and the exploratory topics are listed separately.
 - [Companies and investment](./applications/index.md#company) separates domain frameworks, domain research methods and cases. The company analysis protocol and the investment research charter are read from that entry point.
-- [Stress testing](https://sl-knowledge.github.io/knowledge-site/framework/methods/stress-testing) stays in the general research methods, and the ST1—ST12 reference numbering is unchanged.
-- The [five parts and fifty-two chapters](https://sl-knowledge.github.io/knowledge-site/framework/book/book-reading-guide) keep their full order. Part four is also entered from the investment applications, and part five also from the research methods.
+- [Stress testing](https://sl-knowledge.github.io/knowledge-site-en/framework/methods/stress-testing) stays in the general research methods, and the ST1—ST12 reference numbering is unchanged.
+- The [five parts and fifty-two chapters](https://sl-knowledge.github.io/knowledge-site-en/framework/book/book-reading-guide) keep their full order. Part four is also entered from the investment applications, and part five also from the research methods.
 
 ### Returning from applications to theory
 

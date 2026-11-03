@@ -17,9 +17,9 @@ The five drafts keep the full order of the argument, 52 chapters in all. Reading
 
 <a id="guide"></a>
 
-## Guide to the first part
+## Guide to the first draft
 
-[First draft: an overview of the five parts and fifty-two chapters](https://sl-knowledge.github.io/knowledge-site/framework/book/book-reading-guide) provides direct links to every chapter. The overview uses the numbering of chapters 1—52 of the whole book, each part's web pages are numbered from chapter 1, and the two correspond in the guide.
+[First draft: an overview of the five parts and fifty-two chapters](https://sl-knowledge.github.io/knowledge-site-en/framework/book/book-reading-guide) provides direct links to every chapter. The overview uses the numbering of chapters 1—52 of the whole book, each part's web pages are numbered from chapter 1, and the two correspond in the guide.
 
 <a id="parts"></a>
 
@@ -27,11 +27,11 @@ The five drafts keep the full order of the argument, 52 chapters in all. Reading
 
 | Order                    | Full text                                                                                                                                | Main responsibility                                                               | Read by function                                           |
 | ------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| Part one · 8 chapters    | [Constraints, Viability and Future Options](https://sl-knowledge.github.io/knowledge-site/framework/book/constraints-and-future-options) | System, environment, capability, constraints and feasible paths                   | [Theory framework](../index.md#reality)                    |
-| Part two · 12 chapters   | [How Do We Know What Belongs in a Model](https://sl-knowledge.github.io/knowledge-site/framework/book/what-belongs-in-a-model)           | Evidence, representation, competing explanations, prediction and revision         | [Theory framework](../index.md#representation)             |
-| Part three · 10 chapters | [Acting in an Uncertain World](https://sl-knowledge.github.io/knowledge-site/framework/book/acting-under-uncertainty)                    | Consequences, robustness, commitment and adaptive policy                          | [Theory framework](../index.md#decision)                   |
-| Part four · 12 chapters  | [The Three Systems of Investment](https://sl-knowledge.github.io/knowledge-site/framework/book/investment-three-systems)                 | Domain research on the three systems of company, market and investor              | [Theory applications](../../applications/index.md#company) |
-| Part five · 10 chapters  | [Human-AI Joint Cognitive Research System](https://sl-knowledge.github.io/knowledge-site/framework/book/human-ai-research-system)        | Keeping research state, versions, evidence and revision running over the long run | [Research methods](../methods/index.md#research-system)    |
+| Part one · 8 chapters    | [Constraints, Viability and Future Options](https://sl-knowledge.github.io/knowledge-site-en/framework/book/constraints-and-future-options) | System, environment, capability, constraints and feasible paths                   | [Theory framework](../index.md#reality)                    |
+| Part two · 12 chapters   | [How Do We Know What Belongs in a Model](https://sl-knowledge.github.io/knowledge-site-en/framework/book/what-belongs-in-a-model)           | Evidence, representation, competing explanations, prediction and revision         | [Theory framework](../index.md#representation)             |
+| Part three · 10 chapters | [Acting in an Uncertain World](https://sl-knowledge.github.io/knowledge-site-en/framework/book/acting-under-uncertainty)                    | Consequences, robustness, commitment and adaptive policy                          | [Theory framework](../index.md#decision)                   |
+| Part four · 12 chapters  | [The Three Systems of Investment](https://sl-knowledge.github.io/knowledge-site-en/framework/book/investment-three-systems)                 | Domain research on the three systems of company, market and investor              | [Theory applications](../../applications/index.md#company) |
+| Part five · 10 chapters  | [Human-AI Joint Cognitive Research System](https://sl-knowledge.github.io/knowledge-site-en/framework/book/human-ai-research-system)        | Keeping research state, versions, evidence and revision running over the long run | [Research methods](../methods/index.md#research-system)    |
 
 <a id="companions"></a>
 

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="880" viewBox="0 0 1100 880" role="img" aria-labelledby="title desc">
+<title id="title">The proposed writing-systems generator</title>
+<desc id="desc">A schematic of this draft's hypothesis. Rebus borrowing branches according to the size of the borrowed unit. The diagram is not evidence of a universal historical sequence.</desc>
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10Z" fill="#869b90"/></marker></defs>
+<rect width="1100" height="880" fill="#17251e"/>
+<g font-family="Arial, sans-serif" text-anchor="middle" fill="#eef3ef">
+<text x="550" y="35" font-size="23" font-weight="700">Rebus borrowing: how the unit borrowed shapes a script</text>
+<text x="550" y="62" font-size="15" fill="#b8cdc0">Schematic of the draft's proposed mechanism — not a verified universal history</text>
+<g fill="none" stroke="#869b90" stroke-width="2" marker-end="url(#arrow)">
+<path d="M550 150V187"/><path d="M550 255V295"/>
+<path d="M405 345H185V430"/><path d="M550 395V430"/><path d="M695 345H915V430"/>
+<path d="M185 520V575"/><path d="M550 520V575"/><path d="M915 520V575"/>
+<path d="M185 640V694"/><path d="M550 640V694"/><path d="M915 640V694"/>
+</g>
+<g fill="#21372b" stroke="#638570" stroke-width="1.5">
+<rect x="295" y="88" width="510" height="62" rx="10"/>
+<rect x="295" y="187" width="510" height="68" rx="10"/>
+<path d="M550 295L695 345L550 395L405 345Z"/>
+<rect x="35" y="430" width="300" height="90" rx="10"/>
+<rect x="400" y="430" width="300" height="90" rx="10"/>
+<rect x="765" y="430" width="300" height="90" rx="10"/>
+<rect x="35" y="575" width="300" height="65" rx="10"/>
+<rect x="400" y="575" width="300" height="65" rx="10"/>
+<rect x="765" y="575" width="300" height="65" rx="10"/>
+<rect x="35" y="694" width="300" height="88" rx="10" stroke="#a0d0b5" stroke-width="2"/>
+<rect x="400" y="694" width="300" height="88" rx="10"/>
+<rect x="765" y="694" width="300" height="88" rx="10"/>
+</g>
+<g font-size="18">
+<text x="550" y="126">Primary scripts: an ideographic starting point</text>
+<text x="550" y="216">Rebus borrowing: use a sign</text><text x="550" y="240">for a word with the same sound</text>
+<text x="550" y="340" font-size="17">How large is</text><text x="550" y="363" font-size="17">the borrowed unit?</text>
+<text x="185" y="460" font-weight="700">Whole morphemes</text><text x="185" y="491" font-size="16">Morpheme and syllable coincide</text>
+<text x="550" y="460" font-weight="700">Grammatical fragments</text><text x="550" y="491" font-size="16">Only partial coincidence</text>
+<text x="915" y="456" font-weight="700">Signs borrowed across languages</text><text x="915" y="488" font-size="16">Sound alone is retained</text>
+<text x="185" y="600" font-size="16">Add semantic determinatives</text><text x="185" y="623" font-size="16">to anchor meaning</text>
+<text x="550" y="600" font-size="16">Content: semantic signs</text><text x="550" y="623" font-size="16">Grammar: phonetic signs</text>
+<text x="915" y="614">Discard the semantic value</text>
+<text x="185" y="723" font-weight="700">Morphemic writing</text><text x="185" y="754" font-size="16">Chinese · Tangut · Chữ Nôm</text>
+<text x="550" y="723" font-weight="700">Mixed writing</text><text x="550" y="752" font-size="15">Sumerian · Egyptian · Maya</text><text x="550" y="772" font-size="15">Japanese</text>
+<text x="915" y="723" font-weight="700">Purely phonographic writing</text><text x="915" y="754" font-size="16">Phoenician · Greek · Akkadian</text>
+<text x="185" y="809" font-size="14" fill="#bed1c5">Without institutional repair:</text><text x="185" y="830" font-size="14" fill="#bed1c5">borrowing can persist (Zhuang scripts)</text>
+<text x="730" y="817" font-size="15" fill="#bed1c5">The proposed paths share a starting point and borrowing mechanism.</text>
+<text x="730" y="840" font-size="15" fill="#bed1c5">The left path additionally requires institutional repair (P3).</text>
+</g></g></svg>

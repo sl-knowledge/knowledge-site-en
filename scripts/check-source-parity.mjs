@@ -5,6 +5,7 @@ import { parse } from "yaml"
 const REPO = process.env.SOURCE_REPO ?? "sl-knowledge/knowledge-site"
 const REF = process.env.SOURCE_REF ?? "main"
 const SOURCE_SITE = "https://sl-knowledge.github.io/knowledge-site"
+const ENGLISH_SITE = "https://sl-knowledge.github.io/knowledge-site-en"
 const RAW = `https://raw.githubusercontent.com/${REPO}/${REF}`
 const API = `https://api.github.com/repos/${REPO}/git/trees/${REF}?recursive=1`
 const headers = process.env.GITHUB_TOKEN
@@ -32,10 +33,10 @@ const markdownLinkPaths = (body, directory) => {
 }
 
 // Repository-relative paths this page points at on the Chinese source site.
-const crossSiteLinkPaths = (body) => {
+const crossSiteLinkPaths = (body, site = SOURCE_SITE) => {
   const paths = new Set()
   const pattern = new RegExp(
-    `${SOURCE_SITE.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}/([^)\\s#]+)`,
+    `${site.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}/([^)\\s#]+)`,
     "g",
   )
   for (const [, tail] of body.matchAll(pattern)) {
@@ -130,7 +131,7 @@ for (const file of englishFiles) {
   // English page, either as an internal link or as a link to the Chinese page.
   const sourceLinks = markdownLinkPaths(sourceBody, path.posix.dirname(sourcePath))
   const englishLinks = markdownLinkPaths(body, path.posix.dirname(sourcePath))
-  const englishCrossLinks = crossSiteLinkPaths(body)
+  const englishCrossLinks = new Set([...crossSiteLinkPaths(body), ...crossSiteLinkPaths(body, ENGLISH_SITE)])
   for (const target of sourceLinks) {
     if (!englishLinks.has(target) && !englishCrossLinks.has(target)) {
       errors.push(`${file}: missing counterpart for source link ${target}`)

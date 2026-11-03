@@ -2,15 +2,15 @@
 title: "Theory Framework"
 description: "Enter through the overall architecture, the canonical vocabulary and the three trunks of reality, representation and decision, then read the systems, values, life and concept topics."
 author: "SL"
-version: "0.6"
+version: "0.7"
 created: "2026-10-31"
-updated: "2026-11-02"
+updated: "2026-11-03"
 published: "2026-10-31"
 publish: true
 kind: category
 lang: en
 source: framework/index.md
-sourceUpdated: "2026-11-02"
+sourceUpdated: "2026-11-03"
 ---
 
 This body of research turns on two questions: how do you find, from open-world evidence, a representation that is relevant to a target and a horizon; and how do you notice that the representation has failed, then restore its applicability through the structural changes that are necessary.
@@ -46,7 +46,7 @@ Individuals, companies, supply chains, cooperative arrangements and equipment-co
 - **For a sufficiently formalised problem, use the relevant mathematical or engineering method.** A verbal framework cannot replace reachability calculations under known dynamics. It can help check targets, constraints, representations and conditions, and support further testing of formal results.
 - **Optimisation in stable conditions or descriptions of population statistics may have more direct methods.** If continuity or recovery windows are not involved, these diagnostic quantities need not be imposed. Checks on representation and evidence may still help.
 - **Duration alone does not determine applicability.** Fast variables and short-horizon predictions may also involve constraints. Applicability depends on whether the model covers the relevant scales and mechanisms and whether evidence is adequate; slow variables alone cannot determine short-term changes.
-- **Sustainable does not automatically mean worth pursuing.** The framework can compare consequences and costs, but cannot replace value choices or arguments about legitimacy. See [Why Are Objective Functions Reasonable?](https://sl-knowledge.github.io/knowledge-site/framework/foundations/why-objectives-are-reasonable).
+- **Sustainable does not automatically mean worth pursuing.** The framework can compare consequences and costs, but cannot replace value choices or arguments about legitimacy. See [Why Are Objective Functions Reasonable?](https://sl-knowledge.github.io/knowledge-site-en/framework/foundations/why-objectives-are-reasonable).
 
 Scope itself needs testing. A study should specify in advance what additional constraint this representation is expected to identify, what change it should detect earlier, or what prediction it should improve relative to direct description or existing methods. Then use independent observations, counterexamples and baseline comparisons. Repeated failure to add value under the stated conditions, or persistent omission of important paths, calls for revision of the representation or a narrower claim.
 
@@ -61,32 +61,34 @@ Scope itself needs testing. A study should specify in advance what additional co
 
 ## Reality and dynamic systems
 
-- [Constraints, Viability and Future Options: An Analytical Framework for Complex Systems](https://sl-knowledge.github.io/knowledge-site/framework/book/constraints-and-future-options): systems, constraints, capability and access; reachability and viability; four boundaries and recovery windows.
+- [Constraints, Viability and Future Options: An Analytical Framework for Complex Systems](https://sl-knowledge.github.io/knowledge-site-en/framework/book/constraints-and-future-options): systems, constraints, capability and access; reachability and viability; four boundaries and recovery windows.
 
 <a id="representation"></a>
 
 ## Representation and knowing
 
-- [How Do We Know What Belongs in a Model](https://sl-knowledge.github.io/knowledge-site/framework/book/what-belongs-in-a-model): evidence, representation, competing explanations, prediction and revision: how to judge whether a model is sufficient.
+- [How Do We Know What Belongs in a Model](https://sl-knowledge.github.io/knowledge-site-en/framework/book/what-belongs-in-a-model): evidence, representation, competing explanations, prediction and revision: how to judge whether a model is sufficient.
+
+- [Simplification and Recovery Paths: Recoverability in Constrained Systems](./foundations/simplicity-and-recovery.md): SF1–SF9 separate operating cost from recovery regions and examine information distinctions, limited testing, rule retention and revision conditions.
 
 <a id="decision"></a>
 
 ## Uncertainty and decision
 
-- [Acting in an Uncertain World](https://sl-knowledge.github.io/knowledge-site/framework/book/acting-under-uncertainty): from judgement to action: consequences, robustness, the value of waiting, commitment and lock-in.
+- [Acting in an Uncertain World](https://sl-knowledge.github.io/knowledge-site-en/framework/book/acting-under-uncertainty): from judgement to action: consequences, robustness, the value of waiting, commitment and lock-in.
 
 <a id="values"></a>
 
 ## Systems, objectives and values
 
-- [Any System Is a Subsystem of the Universe](https://sl-knowledge.github.io/knowledge-site/framework/foundations/systems-within-the-universe): system boundaries as modelling choices: local-environment relations, fast and slow scales, and when a model needs to change.
-- [Why Are Objective Functions Reasonable?](https://sl-knowledge.github.io/knowledge-site/framework/foundations/why-objectives-are-reasonable): the distinction between survival conditions and value premises: whom objectives serve, who chooses, and whether feedback is genuine.
+- [Any System Is a Subsystem of the Universe](https://sl-knowledge.github.io/knowledge-site-en/framework/foundations/systems-within-the-universe): system boundaries as modelling choices: local-environment relations, fast and slow scales, and when a model needs to change.
+- [Why Are Objective Functions Reasonable?](https://sl-knowledge.github.io/knowledge-site-en/framework/foundations/why-objectives-are-reasonable): the distinction between survival conditions and value premises: whom objectives serve, who chooses, and whether feedback is genuine.
 
 ## Explorations
 
-- [Life as a Generative Structure: Core Theory Edition V2](https://sl-knowledge.github.io/knowledge-site/framework/foundations/life-as-generative-structure): EGBE is a candidate property still to be tested.
-- [Vocabulary and Experience Compression: From Concepts to Shared Symbols](https://sl-knowledge.github.io/knowledge-site/language/vocabulary-and-experience-compression): how concepts compress experience into shared symbols, connecting language research with the theoretical trunk.
+- [Life as a Generative Structure: Core Theory Edition V2](https://sl-knowledge.github.io/knowledge-site-en/framework/foundations/life-as-generative-structure): EGBE is a candidate property still to be tested.
+- [Vocabulary and Experience Compression: From Concepts to Shared Symbols](https://sl-knowledge.github.io/knowledge-site-en/language/vocabulary-and-experience-compression): how concepts compress experience into shared symbols, connecting language research with the theoretical trunk.
 
 ## Continue reading
 
-[Research methods](./methods/index.md) explains how judgements are built, checked and revised; [theory applications](https://sl-knowledge.github.io/knowledge-site/applications/) explains what extra conditions a concrete domain requires. The order of the argument is in the [five drafts](https://sl-knowledge.github.io/knowledge-site/framework/book/).
+[Research methods](./methods/index.md) explains how judgements are built, checked and revised; [theory applications](https://sl-knowledge.github.io/knowledge-site-en/applications/) explains what extra conditions a concrete domain requires. The order of the argument is in the [five drafts](https://sl-knowledge.github.io/knowledge-site-en/framework/book/).

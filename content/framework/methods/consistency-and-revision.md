@@ -123,4 +123,4 @@ A move from broad constraint-and-freedom language towards task-relevant represen
 
 These are changes in research positioning and in writing discipline. Their actual effect is judged by the comparisons proposed in the [independent validation plan](./originality-and-validation.md).
 
-Companion reading: [the overall architecture](./research-architecture.md), [the canonical vocabulary](./canonical-vocabulary.md), [reading guide to the five drafts and fifty-two chapters](https://sl-knowledge.github.io/knowledge-site/framework/book/book-reading-guide).
+Companion reading: [the overall architecture](./research-architecture.md), [the canonical vocabulary](./canonical-vocabulary.md), [reading guide to the five drafts and fifty-two chapters](https://sl-knowledge.github.io/knowledge-site-en/framework/book/book-reading-guide).

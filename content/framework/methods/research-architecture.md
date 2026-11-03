@@ -46,7 +46,7 @@ Research input is usually language, records, financial statements, behaviour, ne
 
 For problems that are partially observable, non-stationary and involve feedback, the researcher should state which conditions can be modelled and which can only be kept as scenarios or unknowns. Not every task needs a complex dynamical model; whether a layer is added should be decided by what the problem needs.
 
-The first part of this book provides the [vocabulary of systems, constraints and feasibility](https://sl-knowledge.github.io/knowledge-site/framework/book/constraints-and-future-options). These words help raise the question, but they cannot replace data, domain knowledge or an executable measurement definition.
+The first part of this book provides the [vocabulary of systems, constraints and feasibility](https://sl-knowledge.github.io/knowledge-site-en/framework/book/constraints-and-future-options). These words help raise the question, but they cannot replace data, domain knowledge or an executable measurement definition.
 
 ## 4. The representation-discovery layer: from a questioning scaffold to candidate models
 
@@ -75,11 +75,11 @@ For markets, political questions or historical problems where active experiments
 
 ## 6. The prediction and decision layer: make judgements settleable and actions adjustable
 
-A prediction should state the event, the deadline, the settlement source, the probability and the update time. Reference classes and base rates can constrain an individual story, and scoring helps to check long-run performance. [How do we know what belongs in a model](https://sl-knowledge.github.io/knowledge-site/framework/book/what-belongs-in-a-model) develops this discipline of evidence and prediction.
+A prediction should state the event, the deadline, the settlement source, the probability and the update time. Reference classes and base rates can constrain an individual story, and scoring helps to check long-run performance. [How do we know what belongs in a model](https://sl-knowledge.github.io/knowledge-site-en/framework/book/what-belongs-in-a-model) develops this discipline of evidence and prediction.
 
 Probability alone is not enough to decide an action. Consequences, who bears the risk, resource obligations, reversibility and recovery time are also needed. Depending on the task, expected utility, robustness or constraint-satisfying policies can be compared; no criterion can be declared universally suitable in advance.
 
-The output of an action should include the initial action, the observation conditions, the follow-up actions and the exit or revision rules. [Acting in an uncertain world](https://sl-knowledge.github.io/knowledge-site/framework/book/acting-under-uncertainty) discusses this layer of policy design.
+The output of an action should include the initial action, the observation conditions, the follow-up actions and the exit or revision rules. [Acting in an uncertain world](https://sl-knowledge.github.io/knowledge-site-en/framework/book/acting-under-uncertainty) discusses this layer of policy design.
 
 ## 7. The feedback and failure layer: separate the signal from the cause
 
@@ -121,10 +121,10 @@ All three objects depend on the model, the scenario and the threshold. They help
 
 The human is responsible for goals, values, acceptable risk, commitments, stopping rules and revision decisions; the AI assists retrieval, evidence organisation, candidate representations, competing hypotheses, counter-evidence search and revision proposals. The later specification calls the first role the "research governor", to avoid mixing it with the meta-control of the decision layer that "changes the space of action".
 
-The [human-AI research system](https://sl-knowledge.github.io/knowledge-site/framework/book/human-ai-research-system) is what keeps versions, evidence and predictions running across time. Investment is one of its application domains, and [the three systems of company, market and investor](https://sl-knowledge.github.io/knowledge-site/framework/book/investment-three-systems) each need their own goals, horizon and evidence. A successful explanation in one domain does not directly prove that a general architecture works.
+The [human-AI research system](https://sl-knowledge.github.io/knowledge-site-en/framework/book/human-ai-research-system) is what keeps versions, evidence and predictions running across time. Investment is one of its application domains, and [the three systems of company, market and investor](https://sl-knowledge.github.io/knowledge-site-en/framework/book/investment-three-systems) each need their own goals, horizon and evidence. A successful explanation in one domain does not directly prove that a general architecture works.
 
 ## 12. What counts as progress in research?
 
 The dimensions to compare are: representation efficiency under equal resources, predictive performance on independent samples, the timeliness and false-positive rate of failure detection, the recovery effect after a revision, and replication across domains. Every improvement has to be reported together with its cost, its failure category and its uncertainty.
 
-What is retained at present is a synthesised architecture and two questions for research. The next work should prioritise reproducible comparisons rather than adding more terminology. For the concrete plan, see the [originality and independent validation plan](./originality-and-validation.md); for the body of the five drafts, see the [reading guide](https://sl-knowledge.github.io/knowledge-site/framework/book/book-reading-guide).
+What is retained at present is a synthesised architecture and two questions for research. The next work should prioritise reproducible comparisons rather than adding more terminology. For the concrete plan, see the [originality and independent validation plan](./originality-and-validation.md); for the body of the five drafts, see the [reading guide](https://sl-knowledge.github.io/knowledge-site-en/framework/book/book-reading-guide).

@@ -12,7 +12,7 @@ type Reading = {
   readings?: string[]
 }
 
-// The Chinese edition is the source of truth. Pages that are not translated
+// Chinese records translation provenance for this baseline. Pages not translated
 // yet keep their place in the reading structure and open on the Chinese site,
 // so the outline never leads to a dead page.
 export const SOURCE_SITE = "https://sl-knowledge.github.io/knowledge-site"

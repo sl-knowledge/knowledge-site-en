@@ -2,14 +2,14 @@
 title: "About"
 description: "SL's public research: theory frameworks, research methods, domain applications, versions and copyright."
 author: SL
-version: "0.7"
+version: "0.8"
 created: "2026-10-31"
-updated: "2026-11-02"
+updated: "2026-11-03"
 published: "2026-10-31"
 publish: true
 lang: en
 source: about.md
-sourceUpdated: "2026-11-02"
+sourceUpdated: "2026-11-03"
 ---
 
 ## Research use and disclaimer
@@ -28,9 +28,17 @@ The Chinese edition's data handling is described in the [Umami privacy policy](h
 
 Every article states its author, version, creation date and update date. The first public edition was published on **2026-10-31**; earlier drafts keep their original dates where these can be confirmed, and where they cannot, the public edition date is used as the starting point.
 
-The same article is updated at the same address. A substantial revision raises the minor version (for example 0.1 → 0.2); an erratum raises the revision number (for example 0.2 → 0.2.1). The site version records each batch of content and reading-structure changes separately, in the [site update log](https://sl-knowledge.github.io/knowledge-site/updates). Cite the version of the article you refer to; important revisions and withdrawals state their impact.
+The same article is updated at the same address. A substantial revision raises the minor version (for example 0.1 → 0.2); an erratum raises the revision number (for example 0.2 → 0.2.1). The site version records each batch of content and reading-structure changes separately, in the [site update log](https://sl-knowledge.github.io/knowledge-site-en/updates). Cite the version of the article you refer to; important revisions and withdrawals state their impact.
 
-Earlier versions remain in the Git history of the site repository.
+Earlier published versions can be traced through the public repository, subject to documented withdrawals.
+
+## Primary public edition and feedback
+
+English is the primary public edition. Chinese remains available for drafting and corresponding reading. The current English corpus is translated from a recorded Chinese publication baseline; future substantive public revisions are prepared and reviewed in English first, then aligned with Chinese. Any wording discrepancy should be reported and investigated.
+
+Please cite the article version, principle or section and the URL of the edition read. [Report a correction or counterexample](https://github.com/sl-knowledge/knowledge-site-en/issues/new?template=research-feedback.yml). Include the exact claim, relevant assumptions and supporting argument or evidence. A public report is reviewed before it changes an article.
+
+See the [publication policy](https://github.com/sl-knowledge/knowledge-site-en/blob/main/PUBLICATION-POLICY.md). Article copyright remains unchanged while future licensing options are considered.
 
 ## Copyright
 

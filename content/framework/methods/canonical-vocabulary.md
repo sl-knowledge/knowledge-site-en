@@ -98,7 +98,7 @@ When analysing an agent's choice, record three objects separately:
 
 These objects need not coincide. Neither believed-feasible nor acceptable paths can be assumed to be subsets of actually feasible paths. Observing that an agent remains in an arrangement does not by itself show either that it has no exit or that it endorses the arrangement. Compare paths **inside** and **outside** the arrangement, including what each can sustain. Path counts alone cannot measure the capacity to choose: several paths may share a resource and fail together.
 
-This separates analytical objects; it is not a complete behavioural model of choice. Source and application: [Cooperation Under Incomplete Trust](https://sl-knowledge.github.io/knowledge-site/applications/cooperation-under-incomplete-trust), Sections 1.1 and 6.1.
+This separates analytical objects; it is not a complete behavioural model of choice. Source and application: [Cooperation Under Incomplete Trust](https://sl-knowledge.github.io/knowledge-site-en/applications/cooperation-under-incomplete-trust), Sections 1.1 and 6.1.
 
 ## 5. Representation, variable hierarchy and sufficiency
 
@@ -199,7 +199,7 @@ Detection delay \(t_D-t_0\), warning gap \(G_W=t_F-t_V\), and effective margin \
 
 Staged effects, start-time-dependent durations, overlapping assessment and execution, or response-specific deadlines require complete trajectory comparisons rather than this sequential sum. General recoverability still requires the full dynamics and feasible policies.
 
-Source and older case: [Cooperation Under Incomplete Trust](https://sl-knowledge.github.io/knowledge-site/applications/cooperation-under-incomplete-trust), Section 2. For checks see [Stress Testing, ST8](https://sl-knowledge.github.io/knowledge-site/framework/methods/stress-testing#st8).
+Source and older case: [Cooperation Under Incomplete Trust](https://sl-knowledge.github.io/knowledge-site-en/applications/cooperation-under-incomplete-trust), Section 2. For checks see [Stress Testing, ST8](https://sl-knowledge.github.io/knowledge-site-en/framework/methods/stress-testing#st8).
 
 ### Borrowed viability
 
@@ -218,12 +218,12 @@ These are respectively the estimated point at which the surface behaviour crosse
 | Term                        | Use in this book                                                                                                                              |
 | --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | Robustness                  | Facing a stated set of credible scenarios, avoiding performance that depends excessively on narrow assumptions; not success in any world      |
-| No-Ruin                     | Treating separately the failure modes that could destroy continuing learning, performance and action capability; not a guarantee of zero loss |
+| No-Ruin                     | Treating separately the failure modes that could destroy continuing learning, fulfilment of obligations and capacity to act; not a guarantee of zero loss |
 | Optionality                 | The value of keeping conditional action available while uncertainty is unresolved; having more options can also raise cost                    |
 | Reversibility               | Distinguished as withdrawable, costly to withdraw and in fact irreversible, with the resources and time stated                                |
 | Commitment                  | Comparing a commitment now against the best feasible waiting policy under jointly evaluated conditions                                        |
 | Forced lock-in              | The absence of a sustainable alternative path; different from a deliberate concentration of resources                                         |
-| Gradual lock-in | Alternative paths progressively narrow through local adjustments; no single step has to explicitly abandon an exit. Check each stage; see [ST7](https://sl-knowledge.github.io/knowledge-site/framework/methods/stress-testing#st7). |
+| Gradual lock-in | Alternative paths progressively narrow through local adjustments; no single step has to explicitly abandon an exit. Check each stage; see [ST7](https://sl-knowledge.github.io/knowledge-site-en/framework/methods/stress-testing#st7). |
 | Deadline | A time condition after which resources, obligations or action conditions change. Effects pass through concrete consequences and dependencies, rather than merely whether an agent values the deadline. |
 | Adaptive policy             | Initial action, ex ante observation conditions, conditional actions, and exit or revision rules                                               |
 | Signpost                    | An ex ante specified observable condition that can trigger a policy update                                                                    |
@@ -248,7 +248,7 @@ Distinguish a concept's name from empirical claims attached to it. Inclusion in 
 | Path shifts under insufficient margin | An agent that cannot accept losing an essential condition and believes a risky path might preserve it may shift to a high-variance path | An untested mechanism hypothesis: measure beliefs, consequences and evaluation rules and compare rival explanations; pressure or negative margin alone does not determine behaviour |
 | Default bearer | A participant on whom an arrangement's unallocated or uncompensated shortfall actually falls | A working label: evidence must identify who bears which shortfall. A greater tendency of these participants to disrupt an arrangement is a separate hypothesis, not a consequence of the label |
 
-Source: [Cooperation Under Incomplete Trust](https://sl-knowledge.github.io/knowledge-site/applications/cooperation-under-incomplete-trust), Sections 6.1, 8, 10.2 and 11. Domain mappings, causal interpretations and predictions still require independent evidence.
+Source: [Cooperation Under Incomplete Trust](https://sl-knowledge.github.io/knowledge-site-en/applications/cooperation-under-incomplete-trust), Sections 6.1, 8, 10.2 and 11. Domain mappings, causal interpretations and predictions still require independent evidence.
 
 ## 10. Vocabulary for a human-AI research system
 
@@ -272,9 +272,9 @@ Company-system research studies operating transformation, capital productivity a
 
 The financial statements' "output log" is a research prompt: the mechanisms that produced the result still have to be traced. It does not deny the estimates, future obligations and accounting judgements contained in the statements. Company growth, total profit growth, earnings per share growth and intrinsic value growth have to be analysed separately.
 
-A differential approximation of the return on new capital has to take capital formation, accounting conventions and time lags into account. Marginal purchasing power, narrative stage and market life cycle are representations still to be operationalised; they are not multiplicative laws for price prediction. Portfolio viability, on the other hand, concerns whether performance can continue and be adjusted under capital and liquidity shocks, and is not the same as low volatility.
+A differential approximation of the return on new capital has to take capital formation, accounting conventions and time lags into account. Marginal purchasing power, narrative stage and market life cycle are representations still to be operationalised; they are not multiplicative laws for price prediction. Portfolio viability, on the other hand, concerns whether obligations can continue to be fulfilled and adjustments made under capital and liquidity shocks, and is not the same as low volatility.
 
-For the concrete treatment and the sources of the financial concepts, see [the three systems of investment](https://sl-knowledge.github.io/knowledge-site/framework/book/investment-three-systems).
+For the concrete treatment and the sources of the financial concepts, see [the three systems of investment](https://sl-knowledge.github.io/knowledge-site-en/framework/book/investment-three-systems).
 
 ## 12. Migration of older expressions and the versioning rule
 
@@ -293,7 +293,7 @@ For the concrete treatment and the sources of the financial concepts, see [the t
 
 Plain language comes first; English terms are used to keep the correspondence between concepts; formulas appear only when they remove ambiguity, support a derivation or operationalise something. This public edition is numbered separately from the original terminology file; a substantive change to a definition or a symbol should raise the version and record the reason, while examples and wording are maintained under the public version rules.
 
-Companion reading: [the overall architecture](./research-architecture.md), [consistency audit and revision notes](./consistency-and-revision.md), [reading guide to the five drafts](https://sl-knowledge.github.io/knowledge-site/framework/book/book-reading-guide).
+Companion reading: [the overall architecture](./research-architecture.md), [consistency audit and revision notes](./consistency-and-revision.md), [reading guide to the five drafts](https://sl-knowledge.github.io/knowledge-site-en/framework/book/book-reading-guide).
 
 ## Revision note for v0.3
 

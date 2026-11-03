@@ -23,41 +23,41 @@ Some articles are related topics or working hypotheses. Being placed in the same
 
 This group is research material, not investment or trading advice; a research checklist or a scenario analysis cannot replace actual trading judgement.
 
-- [The Three Systems of Investment: Company, Market and Investor](https://sl-knowledge.github.io/knowledge-site/framework/book/investment-three-systems): domain framework: separates company, market and investor, and keeps the full argument of part four of the drafts.
-- [Company Analysis Protocol: An Operational Outline](https://sl-knowledge.github.io/knowledge-site/framework/methods/company-analysis-protocol): domain research method: customer tasks, operating mechanisms, financial checks, key evidence and long-term tracking.
-- [Investment Research and Trading Decisions: An Overall Charter](https://sl-knowledge.github.io/knowledge-site/framework/methods/investment-research-charter): domain research method: research objectives, evidence discipline, valuation scenarios and independent validation.
-- [Why Past Success Can Become the Constraint on the Next Transition?](https://sl-knowledge.github.io/knowledge-site/framework/cases/success-and-transition): historical case comparison: separates capability, organisational constraint, preparation, competitive window and other explanations.
-- [Oriental Yuhong: When Does Business Reconstruction Count as Real Improvement?](https://sl-knowledge.github.io/knowledge-site/framework/cases/business-reconstruction-yuhong): company case: checks channel structure, credit capital efficiency and the transfer of overseas capability separately.
-- [Sustainable Capability, or a Dependency That Is Hard to Exit?](https://sl-knowledge.github.io/knowledge-site/applications/physical-ai-interview): industry case: works from transcript material and a hypothetical company to analyse dependence on robot services and the recovery window.
+- [The Three Systems of Investment: Company, Market and Investor](https://sl-knowledge.github.io/knowledge-site-en/framework/book/investment-three-systems): domain framework: separates company, market and investor, and keeps the full argument of part four of the drafts.
+- [Company Analysis Protocol: An Operational Outline](https://sl-knowledge.github.io/knowledge-site-en/framework/methods/company-analysis-protocol): domain research method: customer tasks, operating mechanisms, financial checks, key evidence and long-term tracking.
+- [Investment Research and Trading Decisions: An Overall Charter](https://sl-knowledge.github.io/knowledge-site-en/framework/methods/investment-research-charter): domain research method: research objectives, evidence discipline, valuation scenarios and independent validation.
+- [Why Past Success Can Become the Constraint on the Next Transition?](https://sl-knowledge.github.io/knowledge-site-en/framework/cases/success-and-transition): historical case comparison: separates capability, organisational constraint, preparation, competitive window and other explanations.
+- [Oriental Yuhong: When Does Business Reconstruction Count as Real Improvement?](https://sl-knowledge.github.io/knowledge-site-en/framework/cases/business-reconstruction-yuhong): company case: checks channel structure, credit capital efficiency and the transfer of overseas capability separately.
+- [Sustainable Capability, or a Dependency That Is Hard to Exit?](https://sl-knowledge.github.io/knowledge-site-en/applications/physical-ai-interview): industry case: works from transcript material and a hypothetical company to analyse dependence on robot services and the recovery window.
 
 <a id="economy"></a>
 
 ## Economic circulation
 
-- [Learning Economics from First Principles](https://sl-knowledge.github.io/knowledge-site/economics/first-principles-learning): the minimal two-agent model is the starting point; institutions, money and changes in scale need additional domain mechanisms.
-- [The Essence of Economic Activity and Sustainable Circulation](https://sl-knowledge.github.io/knowledge-site/economics/sustainable-circulation): the conditions of circulation are an economic framework still to be checked; industry and policy conclusions each need their own validation.
+- [Learning Economics from First Principles](https://sl-knowledge.github.io/knowledge-site-en/economics/first-principles-learning): the minimal two-agent model is the starting point; institutions, money and changes in scale need additional domain mechanisms.
+- [The Essence of Economic Activity and Sustainable Circulation](https://sl-knowledge.github.io/knowledge-site-en/economics/sustainable-circulation): the conditions of circulation are an economic framework still to be checked; industry and policy conclusions each need their own validation.
 
 <a id="learning"></a>
 
 ## Learning and teaching
 
-- [The Framework-Driven Learning Cycle](https://sl-knowledge.github.io/knowledge-site/learning/framework-driven-learning): applies representation, deduction, expectation and difference to learning; the effect has to be compared on learning tasks.
-- [Cognitive Disequilibrium: Where Do Questions Come From?](https://sl-knowledge.github.io/knowledge-site/learning/cognitive-disequilibrium): cognitive disequilibrium does not automatically produce curiosity or effective learning; the conditions and counter-examples are kept.
-- [Handing the Control of Questioning Back to the Learner](https://sl-knowledge.github.io/knowledge-site/learning/asking-better-questions): questioning scaffolds and gradual hand-over; teaching control is not equated with engineering control.
-- [Advice for Chinese Speakers Learning English](https://sl-knowledge.github.io/knowledge-site/learning/english-for-chinese-speakers): a language hypothesis turned into a training design still has to be tested on learning outcomes; it is not a general law for a native-language group.
+- [The Framework-Driven Learning Cycle](https://sl-knowledge.github.io/knowledge-site-en/learning/framework-driven-learning): applies representation, deduction, expectation and difference to learning; the effect has to be compared on learning tasks.
+- [Cognitive Disequilibrium: Where Do Questions Come From?](https://sl-knowledge.github.io/knowledge-site-en/learning/cognitive-disequilibrium): cognitive disequilibrium does not automatically produce curiosity or effective learning; the conditions and counter-examples are kept.
+- [Handing the Control of Questioning Back to the Learner](https://sl-knowledge.github.io/knowledge-site-en/learning/asking-better-questions): questioning scaffolds and gradual hand-over; teaching control is not equated with engineering control.
+- [Advice for Chinese Speakers Learning English](https://sl-knowledge.github.io/knowledge-site-en/learning/english-for-chinese-speakers): a language hypothesis turned into a training design still has to be tested on learning outcomes; it is not a general law for a native-language group.
 
 <a id="language"></a>
 
 ## Language and writing systems
 
-- [The Origins of Writing: How Language Structure Grew a Writing System](https://sl-knowledge.github.io/knowledge-site/language/origins-of-writing): the correspondence with the trunk still needs work; the history of writing systems and the parameter explanation need independent evidence.
-- [Concept Packaging and the Constraint of Characters: How Chinese Characters Fix the Monosyllabic Morpheme Structure of Chinese](https://sl-knowledge.github.io/knowledge-site/language/concept-packaging-and-characters): keeps co-evolution, competing explanations and testable predictions; correlation is not written as proven causation.
+- [The Origins of Writing: How Language Structure Grew a Writing System](https://sl-knowledge.github.io/knowledge-site-en/language/origins-of-writing): the correspondence with the trunk still needs work; the history of writing systems and the parameter explanation need independent evidence.
+- [Concept Packaging and the Constraint of Characters: How Chinese Characters Fix the Monosyllabic Morpheme Structure of Chinese](https://sl-knowledge.github.io/knowledge-site-en/language/concept-packaging-and-characters): keeps co-evolution, competing explanations and testable predictions; correlation is not written as proven causation.
 
 <a id="cooperation"></a>
 
 ## Cooperation and commitment
 
-- [Cooperation Under Incomplete Trust: Warning Margin and Recoverability](https://sl-knowledge.github.io/knowledge-site/applications/cooperation-under-incomplete-trust): v0.10: at the level of general agents, discusses credibility, recoverability, future optionality and acceptability, and connects the existing drafts and stress testing.
+- [Cooperation Under Incomplete Trust: Warning Margin and Recoverability](https://sl-knowledge.github.io/knowledge-site-en/applications/cooperation-under-incomplete-trust): v0.10: at the level of general agents, discusses credibility, recoverability, future optionality and acceptability, and connects the existing drafts and stress testing.
 
 <a id="control"></a>
 
@@ -65,10 +65,10 @@ This group is research material, not investment or trading advice; a research ch
 
 This group is research material, not operational guidance; formal conditions, research principles and the validation of real systems have to be treated separately.
 
-- [Control, Information and Time: Principles of Viability-First Control and Safety Design](https://sl-knowledge.github.io/knowledge-site/applications/viability-first-control): abstract control research: the C1—C16 principles, three failure types, the guarantee conditions, and their relation to information, authority and time.
+- [Control, Information and Time: Principles of Viability-First Control and Safety Design](https://sl-knowledge.github.io/knowledge-site-en/applications/viability-first-control): abstract control research: the C1—C16 principles, three failure types, the guarantee conditions, and their relation to information, authority and time.
 
 <a id="personal"></a>
 
 ## Personal choice
 
-- [Freedom and Ease: Keeping Future Options Open Under Constraints](https://sl-knowledge.github.io/knowledge-site/framework/foundations/freedom-and-future-options): personal philosophy: thinking about future paths, recovery capacity, autonomous commitment and the choice of a life.
+- [Freedom and Ease: Keeping Future Options Open Under Constraints](https://sl-knowledge.github.io/knowledge-site-en/framework/foundations/freedom-and-future-options): personal philosophy: thinking about future paths, recovery capacity, autonomous commitment and the choice of a life.

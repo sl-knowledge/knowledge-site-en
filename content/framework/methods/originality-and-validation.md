@@ -41,7 +41,7 @@ The original set-intersection formulation did not give a complete way to generat
 
 ### 3. Look for discriminating disturbances or observations
 
-Stress may expose buffers, substitution capability and constraints; it may equally just add noise, cause truncation, or make the system fail outright. The candidate hypothesis is that for some tasks there are more discriminating observation conditions, and that closer to danger is not closer to the truth.
+Stress may expose buffers, substitution capability and constraints; it may equally just add noise, cause truncation, or make the system fail outright. The candidate hypothesis is that for some tasks there are more discriminating observation conditions, and that being closer to danger does not necessarily mean being closer to the truth.
 
 A change in prediction around a natural event can still come from new information, from the passage of time, and from sample selection. To isolate the effect of stress itself, corresponding comparison conditions are needed. Engineering or synthetic experiments can control the disturbance; social and market observation has to keep its confounding limits.
 
@@ -126,7 +126,7 @@ Modules can interact: a module that is useless alone may help when combined with
 
 In synthetic systems, the true structure, the range of disturbances and the available observations can be specified in advance, and the identification of hidden mechanisms and the subsequent prediction compared across conditions. The design has to cover counterexamples where there is no "high-information stress region".
 
-For real events, freeze the judgement before the shock, after the shock and before the target outcome settles, then compare the update gain, adding a control with similar time and information conditions. Only the second comparison has a clear enough structure to discuss the extra effect of stress or of a discriminating event.
+For real events, freeze the judgement before the shock, after the shock and before the target outcome settles, then compare the update gain, adding a control with similar time and information conditions. The additional effect of stress or a discriminating event can be discussed only if the controlled comparison is sufficiently well specified.
 
 The cases that led to system failure, that interrupted the material and that are hard to classify also have to be preserved. Analysing only the surviving events with clear mechanisms exaggerates the effect of the method.
 
@@ -164,4 +164,4 @@ The development set and the test set are kept apart. Thresholds, prompts and def
 
 "Not significant" and "equivalent" must be kept apart. What is really worth protecting is not a particular term but a process that allows the results to change the research position.
 
-Companion reading: [the overall architecture](./research-architecture.md), [the canonical vocabulary](./canonical-vocabulary.md), [the human-AI research system](https://sl-knowledge.github.io/knowledge-site/framework/book/human-ai-research-system), [reading guide to the five drafts](https://sl-knowledge.github.io/knowledge-site/framework/book/book-reading-guide).
+Companion reading: [the overall architecture](./research-architecture.md), [the canonical vocabulary](./canonical-vocabulary.md), [the human-AI research system](https://sl-knowledge.github.io/knowledge-site-en/framework/book/human-ai-research-system), [reading guide to the five drafts](https://sl-knowledge.github.io/knowledge-site-en/framework/book/book-reading-guide).

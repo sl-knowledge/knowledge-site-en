@@ -17,17 +17,24 @@
         {
           "id": "reality",
           "title": "Reality and dynamic systems",
-          "slugs": ["framework/book/constraints-and-future-options"]
+          "slugs": [
+            "framework/book/constraints-and-future-options"
+          ]
         },
         {
           "id": "representation",
           "title": "Representation and knowing",
-          "slugs": ["framework/book/what-belongs-in-a-model"]
+          "slugs": [
+            "framework/book/what-belongs-in-a-model",
+            "framework/foundations/simplicity-and-recovery"
+          ]
         },
         {
           "id": "decision",
           "title": "Uncertainty and decision",
-          "slugs": ["framework/book/acting-under-uncertainty"]
+          "slugs": [
+            "framework/book/acting-under-uncertainty"
+          ]
         },
         {
           "id": "values",
@@ -56,17 +63,23 @@
         {
           "id": "representation",
           "title": "Building representations",
-          "slugs": ["framework/methods/cf-grammar"]
+          "slugs": [
+            "framework/methods/cf-grammar"
+          ]
         },
         {
           "id": "testing",
           "title": "Discrimination and scenarios",
-          "slugs": ["framework/methods/stress-testing"]
+          "slugs": [
+            "framework/methods/stress-testing"
+          ]
         },
         {
           "id": "research-system",
           "title": "Human-AI collaboration and long-running research",
-          "slugs": ["framework/book/human-ai-research-system"]
+          "slugs": [
+            "framework/book/human-ai-research-system"
+          ]
         },
         {
           "id": "validation",
@@ -99,7 +112,10 @@
         {
           "id": "economy",
           "title": "Economic circulation",
-          "slugs": ["economics/first-principles-learning", "economics/sustainable-circulation"]
+          "slugs": [
+            "economics/first-principles-learning",
+            "economics/sustainable-circulation"
+          ]
         },
         {
           "id": "learning",
@@ -114,22 +130,31 @@
         {
           "id": "language",
           "title": "Language and writing systems",
-          "slugs": ["language/origins-of-writing", "language/concept-packaging-and-characters"]
+          "slugs": [
+            "language/origins-of-writing",
+            "language/concept-packaging-and-characters"
+          ]
         },
         {
           "id": "cooperation",
           "title": "Cooperation and commitment",
-          "slugs": ["applications/cooperation-under-incomplete-trust"]
+          "slugs": [
+            "applications/cooperation-under-incomplete-trust"
+          ]
         },
         {
           "id": "control",
           "title": "Control, information and safety",
-          "slugs": ["applications/viability-first-control"]
+          "slugs": [
+            "applications/viability-first-control"
+          ]
         },
         {
           "id": "personal",
           "title": "Personal choice",
-          "slugs": ["framework/foundations/freedom-and-future-options"]
+          "slugs": [
+            "framework/foundations/freedom-and-future-options"
+          ]
         }
       ]
     },
@@ -142,7 +167,9 @@
         {
           "id": "guide",
           "title": "Guide to the first part",
-          "slugs": ["framework/book/book-reading-guide"]
+          "slugs": [
+            "framework/book/book-reading-guide"
+          ]
         },
         {
           "id": "parts",
@@ -184,14 +211,18 @@
       "group": "architecture",
       "role": "Cross-article definition standard",
       "bookReference": "The vocabulary companion to the whole book",
-      "readings": ["framework/methods/research-architecture"]
+      "readings": [
+        "framework/methods/research-architecture"
+      ]
     },
     "framework/book/constraints-and-future-options": {
       "section": "theory",
       "group": "reality",
       "role": "Trunk argument",
       "bookReference": "Part one, chapters 1–8",
-      "readings": ["framework/methods/canonical-vocabulary"]
+      "readings": [
+        "framework/methods/canonical-vocabulary"
+      ]
     },
     "framework/book/what-belongs-in-a-model": {
       "section": "theory",
@@ -218,7 +249,9 @@
       "group": "values",
       "role": "Foundational-concept topic",
       "bookReference": "Thematic links to part one, chapters 2, 6 and 8",
-      "readings": ["framework/book/constraints-and-future-options"]
+      "readings": [
+        "framework/book/constraints-and-future-options"
+      ]
     },
     "framework/foundations/why-objectives-are-reasonable": {
       "section": "theory",
@@ -245,7 +278,9 @@
       "group": "explorations",
       "role": "Representation-related topic",
       "bookReference": "Conceptual links to part two, chapters 9 and 11",
-      "readings": ["framework/book/what-belongs-in-a-model"]
+      "readings": [
+        "framework/book/what-belongs-in-a-model"
+      ]
     },
     "framework/methods/cf-grammar": {
       "section": "methods",
@@ -312,7 +347,10 @@
       "group": "company",
       "role": "Domain method",
       "bookReference": "Part four, chapters 31–36 and 38",
-      "readings": ["framework/book/investment-three-systems", "framework/methods/cf-grammar"]
+      "readings": [
+        "framework/book/investment-three-systems",
+        "framework/methods/cf-grammar"
+      ]
     },
     "framework/methods/investment-research-charter": {
       "section": "applications",
@@ -389,14 +427,20 @@
       "group": "learning",
       "role": "Learning-mechanism hypothesis and its limits",
       "bookReference": "Part two, chapters 15 and 17",
-      "readings": ["learning/framework-driven-learning", "framework/book/what-belongs-in-a-model"]
+      "readings": [
+        "learning/framework-driven-learning",
+        "framework/book/what-belongs-in-a-model"
+      ]
     },
     "learning/asking-better-questions": {
       "section": "applications",
       "group": "learning",
       "role": "Teaching design",
       "bookReference": "Part two, chapters 9, 12 and 15",
-      "readings": ["learning/framework-driven-learning", "framework/book/what-belongs-in-a-model"]
+      "readings": [
+        "learning/framework-driven-learning",
+        "framework/book/what-belongs-in-a-model"
+      ]
     },
     "learning/english-for-chinese-speakers": {
       "section": "applications",
@@ -423,7 +467,10 @@
       "group": "language",
       "role": "Domain mechanism hypothesis",
       "bookReference": "Part one, chapter 3; conceptual links to part two, chapters 14–15",
-      "readings": ["language/origins-of-writing", "language/vocabulary-and-experience-compression"]
+      "readings": [
+        "language/origins-of-writing",
+        "language/vocabulary-and-experience-compression"
+      ]
     },
     "applications/cooperation-under-incomplete-trust": {
       "section": "applications",
@@ -464,6 +511,17 @@
         "framework/methods/research-architecture",
         "framework/methods/canonical-vocabulary"
       ]
+    },
+    "framework/foundations/simplicity-and-recovery": {
+      "section": "theory",
+      "group": "representation",
+      "role": "Abstract structure and conditional arguments",
+      "bookReference": "Part two: decision sufficiency; part three: recoverability; control principle C17",
+      "readings": [
+        "framework/book/what-belongs-in-a-model",
+        "framework/book/acting-under-uncertainty",
+        "framework/methods/stress-testing"
+      ]
     }
   },
   "titles": {
@@ -473,32 +531,33 @@
     "framework/methods/stress-testing": "Stress Testing: Constraint Identification, Feedback and Recovery Windows",
     "framework/methods/originality-and-validation": "Originality Self-Check and Independent Validation Plan",
     "framework/methods/consistency-and-revision": "From Research Cards to Drafts: Consistency Audit and Revision Notes",
-    "framework/methods/company-analysis-protocol": "Company Analysis Protocol: An Operational Outline",
-    "framework/methods/investment-research-charter": "Investment Research and Trading Decisions: An Overall Charter",
-    "framework/book/constraints-and-future-options": "Constraints, Viability and Future Options: An Analytical Framework for Complex Systems",
-    "framework/book/what-belongs-in-a-model": "How Do We Know What Belongs in a Model",
+    "framework/methods/company-analysis-protocol": "Company Analysis Protocol",
+    "framework/methods/investment-research-charter": "Investment Research and Trading Decision Charter",
+    "framework/book/constraints-and-future-options": "Constraints, Feasibility and Future Options: A Framework for Complex Systems Analysis",
+    "framework/book/what-belongs-in-a-model": "How We Know What Belongs in a Model",
     "framework/book/acting-under-uncertainty": "Acting in an Uncertain World",
     "framework/book/investment-three-systems": "The Three Systems of Investment: Company, Market and Investor",
-    "framework/book/human-ai-research-system": "Human-AI Joint Cognitive Research System",
-    "framework/book/book-reading-guide": "First draft: an overview of the five parts and fifty-two chapters",
-    "framework/foundations/systems-within-the-universe": "Any System Is a Subsystem of the Universe",
-    "framework/foundations/why-objectives-are-reasonable": "Why Are Objective Functions Reasonable?",
-    "framework/foundations/life-as-generative-structure": "Life as a Generative Structure: Core Theory Edition V2",
-    "framework/foundations/freedom-and-future-options": "Freedom and Ease: Keeping Future Options Open Under Constraints",
-    "framework/cases/success-and-transition": "Why Past Success Can Become the Constraint on the Next Transition?",
-    "framework/cases/business-reconstruction-yuhong": "Oriental Yuhong: When Does Business Reconstruction Count as Real Improvement?",
+    "framework/book/human-ai-research-system": "Human–AI Research System: Sustaining Evidence, Forecasts and Revision",
+    "framework/book/book-reading-guide": "First Draft: A Reading Guide to Five Parts and Fifty-Two Chapters",
+    "framework/foundations/systems-within-the-universe": "Every System Is a Subsystem of the Universe",
+    "framework/foundations/why-objectives-are-reasonable": "Why Is an Objective Function Justified?",
+    "framework/foundations/life-as-generative-structure": "Life as Generative Structure: Core Theory V2",
+    "framework/foundations/freedom-and-future-options": "Freedom and Unconstrained Wandering: Retaining Future Options within Constraints",
+    "framework/cases/success-and-transition": "Why Can Past Success Constrain the Next Transition?",
+    "framework/cases/business-reconstruction-yuhong": "Oriental Yuhong: What Would Count as Genuine Improvement through Business Reconstruction?",
     "economics/first-principles-learning": "Learning Economics from First Principles",
-    "economics/sustainable-circulation": "The Essence of Economic Activity and Sustainable Circulation",
+    "economics/sustainable-circulation": "Economic Activity and Sustainable Circulation",
     "learning/framework-driven-learning": "The Framework-Driven Learning Cycle",
-    "learning/cognitive-disequilibrium": "Cognitive Disequilibrium: Where Do Questions Come From?",
-    "learning/asking-better-questions": "Handing the Control of Questioning Back to the Learner",
-    "learning/english-for-chinese-speakers": "Advice for Chinese Speakers Learning English",
-    "language/origins-of-writing": "The Origins of Writing: How Language Structure Grew a Writing System",
-    "language/concept-packaging-and-characters": "Concept Packaging and the Constraint of Characters: How Chinese Characters Fix the Monosyllabic Morpheme Structure of Chinese",
+    "learning/cognitive-disequilibrium": "Cognitive Disequilibrium: Where Questions Come From",
+    "learning/asking-better-questions": "Giving Learners Control over Asking Questions",
+    "learning/english-for-chinese-speakers": "Suggestions for Native Chinese Speakers Learning English",
+    "language/origins-of-writing": "The Origins of Writing: How Language Structure Gives Rise to Writing Systems",
+    "language/concept-packaging-and-characters": "Concept Packaging and the Constraints of Characters: How Chinese Writing Stabilizes Monosyllabic Morpheme Structure",
     "language/vocabulary-and-experience-compression": "Vocabulary and Experience Compression: From Concepts to Shared Symbols",
-    "applications/cooperation-under-incomplete-trust": "Cooperation Under Incomplete Trust: Warning Margin and Recoverability",
-    "applications/viability-first-control": "Control, Information and Time: Principles of Viability-First Control and Safety Design",
-    "applications/physical-ai-interview": "Sustainable Capability, or a Dependency That Is Hard to Exit? — Reading a Physical AI Interview"
+    "applications/cooperation-under-incomplete-trust": "Cooperation under Incomplete Trust: Warning Margin and Recoverability",
+    "applications/viability-first-control": "Control Authority, Information and Time: Viability-First Principles for Control and Safety Design",
+    "applications/physical-ai-interview": "Continuing Capability or Dependency That Is Hard to Exit? Reading a Physical AI Interview",
+    "framework/foundations/simplicity-and-recovery": "Simplification and Recovery Paths: Recoverability in Constrained Systems"
   },
   "labels": {
     "framework/book/constraints-and-future-options": "Part one | Reality and dynamic systems",

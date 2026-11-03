@@ -51,6 +51,16 @@ This notice explains the publishing purpose and the boundaries of use for this s
 
 The body of an article still has to keep a careful, explicit research register. Giving execution advice in the body and closing with a single "for reference only" does not fit the research position of this site.
 
+## English summary
+
+**Research and educational use only.** These notes contain simplified models, conditional arguments and unvalidated hypotheses. They are not professional instructions for a reader's actual circumstances.
+
+**Safety research is not operational guidance.** It is not a flight manual, emergency checklist, certified design or deployment approval. Proposed models and control arrangements have not been validated by this website for any specific system. Do not use these notes as a basis for changing operations, overriding protections, modifying equipment or conducting unauthorised tests. They do not replace applicable current approved documentation, procedures, qualified training or independent engineering review.
+
+**Investment research is not investment or trading advice.** Company names, valuation examples and scenarios are not recommendations, target prices or promises of returns. No personal suitability assessment is provided. Examples, simulations and backtests do not establish executable performance or guarantee future results. Investment can result in loss, including loss of capital. These notes should not be used as a basis for trading.
+
+Information may be incomplete, incorrect or outdated. Citations do not imply endorsement. This notice explains the intended use of the publication; it is not an assurance of legal compliance or a guarantee of safety, accuracy or investment performance.
+
 ## Reading references
 
 - [SEC Investor Education: Performance Claims](https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-47): distinguishes claims about historical performance, backtests, targets and forecasts. That material does not represent an endorsement of this site.
