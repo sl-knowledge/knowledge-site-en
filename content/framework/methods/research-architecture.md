@@ -2,20 +2,20 @@
 title: "The Overall Architecture of Open-World Research: Representation, Reasoning, Action and Revision"
 description: "Starts from two core research questions and explains the full loop of representation discovery, existing methods, feedback diagnosis and human-AI execution."
 author: "SL"
-version: "0.1"
+version: "0.1.1"
 created: "2026-11-01"
-updated: "2026-11-02"
+updated: "2026-11-03"
 published: "2026-11-01"
 publish: true
 kind: article
 lang: en
 source: framework/methods/research-architecture.md
-sourceUpdated: "2026-11-01"
+sourceUpdated: "2026-11-03"
 aliases:
   - framework/research-architecture
 ---
 
-> **Public edition v0.1 · a synthesised research architecture.** Organised from _Theory Architecture v1.0_ (2026-10-06), and adopting the corrections in the canonical vocabulary and the consistency audit of the same day. This article describes the research process that is intended to be used and the questions that remain to be tested; it does not report that its effects have been empirically confirmed.
+> **Public edition v0.1.1 · a synthesised research architecture.** Organised from _Theory Architecture v1.0_ (2026-10-06), and adopting the corrections in the canonical vocabulary and the consistency audit of the same day. This article describes the research process that is intended to be used and the questions that remain to be tested; it does not report that its effects have been empirically confirmed.
 
 ## 1. From "one unified explanation of the world" to two concrete questions
 

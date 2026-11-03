@@ -2,20 +2,20 @@
 title: "Canonical Vocabulary, Symbols and Knowledge Levels"
 description: "Places the definitions of state, constraint, reachability, representation failure and research governance in one reference specification."
 author: "SL"
-version: "0.4"
+version: "0.4.1"
 created: "2026-11-01"
-updated: "2026-11-02"
+updated: "2026-11-03"
 published: "2026-11-01"
 publish: true
 kind: article
 lang: en
 source: framework/methods/canonical-vocabulary.md
-sourceUpdated: "2026-11-02"
+sourceUpdated: "2026-11-03"
 aliases:
   - framework/canonical-vocabulary
 ---
 
-> **Public edition v0.4 · the internal terminology specification of this body of work.** Organised from _Canonical Vocabulary & Notation v1.0_ (2026-10-06). "Canonical" here applies to this book and its public editions; it does not mean that every research field uses the same terms, and it does not mean that a working definition has become a standard in the literature.
+> **Public edition v0.4.1 · the internal terminology specification of this body of work.** Organised from _Canonical Vocabulary & Notation v1.0_ (2026-10-06). "Canonical" here applies to this book and its public editions; it does not mean that every research field uses the same terms, and it does not mean that a working definition has become a standard in the literature.
 
 ## 1. Distinguish knowledge levels from evidence types first
 
@@ -40,7 +40,7 @@ Evidence records are classified separately: verified records (FACT), other peopl
 | Disturbance                 | \(d_t\)                                      | External input varying within a defined range                                                 |
 | Dynamics                    | \(F\)                                        | The state-transition relation; no longer doubles as freedom or a set of futures               |
 | Target and horizon          | \(T,H\)                                      | What is being answered, and over what period it is evaluated                                  |
-| Raw evidence                | \(\mathcal D_t\)                             | Observations and records; not mixed with environmental notation                               |
+| Raw evidence | \(\mathcal D\), or \(\mathcal D_t\) when time-indexed | Observations and records; distinct from environmental \(e_t\) and the ordinary \(D\) denoting the latest completion deadline |
 | Representation and version  | \(Z_t,Z_t^{(v)}\)                            | The organisation of current variables, relations and hypotheses                               |
 | Candidate model set         | \(\mathcal M\)                               | One or more candidate models and their mechanism hypotheses                                   |
 | Scenario or uncertainty set | \(\Sigma\)                                   | The future or disturbance conditions currently held in view                                   |
@@ -66,6 +66,8 @@ When citing another field, keep the source's symbols and state the mapping expli
 Older drafts used Generator, split by context into capability, mechanism, dynamics or production process. When the word is kept, the specific meaning has to be stated; it is no longer a technical atom that explains everything.
 
 ## 4. Reachability, viability and four boundaries
+
+**Terminology convention.** This corpus uses one preferred Chinese rendering each for viability, viability kernel and viability boundary. Older Chinese renderings are retained as aliases for the same objects, without introducing new mathematical definitions. Viability asks whether a policy can continue satisfying the constraints under stated conditions and a stated horizon; current compliance alone does not guarantee continued feasibility, permanent safety or zero risk.
 
 Reachability asks where you can get to; viability asks whether you can continue inside the constraints. Reaching a state does not mean you can hold it afterwards. Tasks with limited resources also have to state the safe endpoint and the deadline for reaching it.
 
@@ -114,7 +116,15 @@ A discriminating observation is an observation, event or intervention that makes
 
 ## 6. Failure signals, failure causes and representational fragility
 
-Failure signals include persistent residuals, anomalous responses, degraded calibration and newly appearing important differences. Failure causes fall into specification miss, structural drift and task mismatch. New evidence may reveal an error that was already there; it is not the evidence itself that changed the structure of reality.
+Failure signals include persistent residuals, anomalous responses, degraded calibration and newly appearing important differences. For why a representation loses applicability, this corpus uses the following shared categories:
+
+| Preferred category | Meaning | Distinction |
+| --- | --- | --- |
+| Specification miss | Important variables, mechanisms or scope were relevant from the start but were left out of the initial representation | New evidence may reveal an old error rather than a new change in reality |
+| Structural drift | Relations, rules or constraints that may once have been modelled adequately subsequently change | Distinguish when reality changed from when the analyst noticed |
+| Task mismatch | A representation is used for a different target, horizon or evaluation problem | It may still suit its original task; misuse alone does not establish that the representation itself is invalid |
+
+These are working categories of representation-failure causes, not an exhaustive or mutually exclusive classification. Several causes may coexist, or the cause may remain unknown. Alternative Chinese names in earlier drafts are retained as aliases, not new categories. Discovering a pre-existing condition does not mean the structure of reality has just changed; attribution needs evidence that distinguishes these situations.
 
 Policy fragility studies which scenarios make an action policy lose its intended performance; representational fragility is this book's working definition and studies which world conditions or task changes make the representation lose sufficiency. The two should be recorded separately.
 

@@ -2,18 +2,31 @@
 title: "Site Update Log"
 description: "Records site versions, release dates, additions and important revisions, and their effect on reading and citation."
 author: SL
-version: "0.7"
+version: "0.8"
 created: "2026-11-02"
-updated: "2026-11-02"
+updated: "2026-11-03"
 published: "2026-11-02"
 publish: true
 kind: release
 lang: en
 source: updates.md
-sourceUpdated: "2026-11-02"
+sourceUpdated: "2026-11-03"
 ---
 
 A site version records a batch of public content and reading-structure changes; every article keeps its own version and update date.
+
+<a id="v0-5-0"></a>
+
+## v0.5.0 · 2026-11-03
+
+**Publishes the completed Chinese terminology revisions and updates the control-theory article.**
+
+- **Evidence notation (CN-02).** [The second draft v0.1.1](https://sl-knowledge.github.io/knowledge-site/framework/book/what-belongs-in-a-model) uses \(\mathcal D\), or \(\mathcal D_t\) when time-indexed. Completion deadline \(D\) and detection time \(t_D\) retain their meanings.
+- **Viability terminology (CN-03).** [Canonical Vocabulary v0.4.1](./framework/methods/canonical-vocabulary.md) adopts consistent Chinese names for viability, viability kernel and viability boundary, retaining earlier names as aliases and old section entries. [Architecture v0.1.1](./framework/methods/research-architecture.md) and [Consistency Notes v0.2.1](./framework/methods/consistency-and-revision.md) are aligned.
+- **Representation-failure categories (CN-04).** Specification miss, structural drift and task mismatch use consistent names, with earlier names mapped as aliases. Causes may coexist or remain unknown; the examples are retained. [The fifth draft v0.1.1](https://sl-knowledge.github.io/knowledge-site/framework/book/human-ai-research-system) aligns its revision records.
+- **[Control, Information and Time v0.2](https://sl-knowledge.github.io/knowledge-site/applications/viability-first-control).** Adds C17--C20: recoverability as a candidate comparison criterion, joint constraints at the rule level, responsibility and information conditions, and end-to-end timing. C1--C16 retain their numbers; C1--C20 have fixed citation anchors. C17 is not a direct deduction from an existing guarantee; training, planning and rules still require domain validation.
+
+No empirical results are added. The control article contains no specific accident case or operational advice for a concrete system. Existing English counterparts are updated; untranslated texts continue to link to the Chinese edition. Other unfinished consistency items remain separate, and existing article addresses continue to work.
 
 <a id="v0-4-0"></a>
 

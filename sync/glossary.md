@@ -34,14 +34,16 @@ Knowledge Levels](content/framework/methods/canonical-vocabulary.md).
 
 ## Reachability, viability and boundaries
 
+Preferred Chinese terms here are 可生存性, 可生存核 and 可生存性边界. The earlier renderings 存活性, 存活核 and 存活性边界 are aliases, not additional concepts. Keep the English names Viability, Viability kernel and Viability Boundary respectively.
+
 | Chinese                | English                | Note                                                      |
 | ---------------------- | ---------------------- | --------------------------------------------------------- |
 | 分析范围               | System Scope           | One of the four boundaries. **Fixed.**                    |
 | 约束边界               | Constraint Boundary    | One of the four boundaries. **Fixed.**                    |
-| 存活性边界             | Viability Boundary     | One of the four boundaries. **Fixed.**                    |
+| 可生存性边界             | Viability Boundary     | One of the four boundaries. **Fixed.**                    |
 | 可达前沿               | Reachability Frontier  | One of the four boundaries. **Fixed.**                    |
-| 存活性                 | Viability              | Continuing to satisfy the constraints.                    |
-| 存活核                 | Viability kernel       | \(\operatorname{Viab}_H(K)\)                              |
+| 可生存性                 | Viability              | Continuing to satisfy the constraints.                    |
+| 可生存核                 | Viability kernel       | \(\operatorname{Viab}_H(K)\)                              |
 | 适应时间余量           | Adaptation time margin | \(\widehat m_\tau\)                                       |
 | 实施时长 | Execution duration | \(\tau_{\mathrm{exec}}\): actual execution through completion and effect. |
 | 实施前延迟 | Pre-execution delay | \(\ell\): required assessment, coordination and start-up before execution. |
@@ -54,6 +56,8 @@ Knowledge Levels](content/framework/methods/canonical-vocabulary.md).
 | 自由                   | Freedom                | Kept as a natural-language upper term; split in analysis. |
 
 ## Representation and evidence
+
+CN-04 uses 初始设定遗漏 (Specification miss), 结构漂移 (Structural drift) and 任务错配 (Task mismatch). The earlier Chinese labels 初始表示遗漏 and 任务不匹配 are aliases for the first and third categories. Discovering an old omission is distinct from a later change in reality; causes may coexist or remain unknown.
 
 | Chinese          | English                    | Note                                                                         |
 | ---------------- | -------------------------- | ---------------------------------------------------------------------------- |

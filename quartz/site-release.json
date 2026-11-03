@@ -1,6 +1,6 @@
 {
-  "version": "0.4.0",
-  "date": "2026-11-02",
-  "title": "Full response duration and effective margin",
-  "summary": "Accounts separately for assessment, coordination and execution, distinguishes two latest start times, and checks the examples while retaining their zero-extra-delay values."
+  "version": "0.5.0",
+  "date": "2026-11-03",
+  "title": "Terminology alignment and control-theory update",
+  "summary": "Publishes CN-02--04 and adds conditional principles C17--C20 to the Chinese control article, with explicit validation limits."
 }

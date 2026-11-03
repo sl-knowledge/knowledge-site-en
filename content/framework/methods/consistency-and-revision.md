@@ -2,20 +2,20 @@
 title: "From Research Cards to Drafts: Consistency Audit and Revision Notes"
 description: "Records eight key conceptual corrections, the division of definitions across the five drafts, and the editing principles from cards to drafts."
 author: "SL"
-version: "0.2"
+version: "0.2.1"
 created: "2026-11-01"
-updated: "2026-11-02"
+updated: "2026-11-03"
 published: "2026-11-01"
 publish: true
 kind: article
 lang: en
 source: framework/methods/consistency-and-revision.md
-sourceUpdated: "2026-11-01"
+sourceUpdated: "2026-11-03"
 aliases:
   - framework/consistency-and-revision
 ---
 
-> **Public edition v0.1 · a historical editing audit and revision notes.** Organised from _Whole-Book Consistency Audit v1.0_ (2026-10-06). The original audit addressed the then-current working draft of the five-part restructuring; this article explains its problems and editing decisions. It is not a third-party consistency certification of all the public articles, and it does not prove that the theory holds.
+> **Public edition v0.2.1 · a historical editing audit and revision notes.** Organised from _Whole-Book Consistency Audit v1.0_ (2026-10-06). The original audit addressed the then-current working draft of the five-part restructuring; this article explains its problems and editing decisions. It is not a third-party consistency certification of all the public articles, and it does not prove that the theory holds.
 
 ## 1. What has to change between a research card and a draft?
 
