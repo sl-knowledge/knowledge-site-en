@@ -23,6 +23,7 @@
   "content/framework/foundations/why-objectives-are-reasonable.md",
   "content/framework/methods/company-analysis-protocol.md",
   "content/framework/methods/investment-research-charter.md",
+  "content/framework/methods/stress-testing.md",
   "content/language/concept-packaging-and-characters.md",
   "content/language/index.md",
   "content/language/origins-of-writing.md",
@@ -31,5 +32,6 @@
   "content/learning/cognitive-disequilibrium.md",
   "content/learning/english-for-chinese-speakers.md",
   "content/learning/framework-driven-learning.md",
-  "content/learning/index.md"
+  "content/learning/index.md",
+  "content/updates.md"
 ]

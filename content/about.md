@@ -1,15 +1,15 @@
 ---
 title: "About"
-description: "SL's public research notes, revision practice and copyright notice."
+description: "SL's public research: theory frameworks, research methods, domain applications, versions and copyright."
 author: SL
-version: "0.5"
+version: "0.6"
 created: "2026-10-31"
 updated: "2026-11-02"
 published: "2026-10-31"
 publish: true
 lang: en
 source: about.md
-sourceUpdated: "2026-11-01"
+sourceUpdated: "2026-11-02"
 ---
 
 ## Research use and disclaimer
@@ -20,7 +20,7 @@ The full scope and the English statement are in the [research-use disclaimer](./
 
 ## Visitor statistics
 
-The Chinese edition publishes an aggregate page-view counter in its footer, updated about every hour. This English edition does not collect visitor statistics yet: no visitor identifiers and no session replay are added, and no analytics script is loaded.
+The Chinese edition publishes an aggregate page-view counter in its footer, updated about every hour. This English edition reports into the same Umami property, so the counter covers both sites.
 
 The Chinese edition's data handling is described in the [Umami privacy policy](https://umami.is/privacy).
 
@@ -28,7 +28,9 @@ The Chinese edition's data handling is described in the [Umami privacy policy](h
 
 Every article states its author, version, creation date and update date. The first public edition was published on **2026-10-31**; earlier drafts keep their original dates where these can be confirmed, and where they cannot, the public edition date is used as the starting point.
 
-The same article is updated at the same address. A substantial revision raises the minor version (for example 0.1 → 0.2); an erratum raises the revision number (for example 0.2 → 0.2.1). Earlier versions remain in the Git history of the site repository.
+The same article is updated at the same address. A substantial revision raises the minor version (for example 0.1 → 0.2); an erratum raises the revision number (for example 0.2 → 0.2.1). The site version records each batch of content and reading-structure changes separately, in the [site update log](https://sl-knowledge.github.io/knowledge-site/updates). Cite the version of the article you refer to; important revisions and withdrawals state their impact.
+
+Earlier versions remain in the Git history of the site repository.
 
 ## Copyright
 

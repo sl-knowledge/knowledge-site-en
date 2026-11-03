@@ -1,8 +1,8 @@
 ---
-title: "Research Methods and Standards"
-description: "Consult research methods and standards, from CF diagnosis to representation, the investment research charter, vocabulary, independent validation and revision."
+title: "Research Methods"
+description: "CF Grammar, stress testing, human-AI collaboration, and the standards for validation and revision; the bridge between the theory trunks and domain research."
 author: "SL"
-version: "0.2"
+version: "0.4"
 created: "2026-11-01"
 updated: "2026-11-02"
 published: "2026-11-01"
@@ -10,31 +10,36 @@ publish: true
 kind: category
 lang: en
 source: framework/methods/index.md
-sourceUpdated: "2026-11-01"
+sourceUpdated: "2026-11-02"
 ---
 
-This set of articles helps answer one question: how do you turn an open-world problem into a representation you can reason about, check and revise?
+This section collects research methods that work across domains, and the architecture that keeps evidence, prediction and revision running. Shared definitions are in the [canonical vocabulary](./canonical-vocabulary.md); the position of the whole body of work is in the [theory framework](../index.md).
 
-## Understand the method first, then look things up as needed
+<a id="representation"></a>
 
-1. [CF Grammar: from constraint diagnosis to a testable research representation](./cf-grammar.md): organises enables, constrains, buffers and substitutes relations through system, target profile, environment and horizon; with teaching examples and a working checklist.
-2. [The overall architecture of open-world research](./research-architecture.md): sets out the division of labour between representation discovery, existing methods, prediction and action, feedback from reality, and minimal revision.
-3. [Canonical vocabulary, symbols and knowledge levels](./canonical-vocabulary.md): look up the definitions of state, constraint, capability, reachability, viability, failure and knowledge levels.
+## Building representations
 
-## Investment and company research methods
+- [CF Grammar: From Constraint Diagnosis to a Testable Research Representation](./cf-grammar.md): organises candidate variables, mechanisms and unknowns through system, target, environment and horizon; a questioning scaffold and a diagnostic method.
 
-The two charters are companions. Their public drafts are based on the v2.0 sources of 2026-10-11 and are numbered from public version v0.1 onwards. They discuss research methods and give no trading instructions.
+<a id="testing"></a>
 
-- [Investment research and trading decision charter](https://sl-knowledge.github.io/knowledge-site/framework/methods/investment-research-charter): research objectives, operating mechanisms, evidentiary consequences and degree of support, valuation scenarios and independent validation.
-- [Company analysis operating charter](https://sl-knowledge.github.io/knowledge-site/framework/methods/company-analysis-protocol): three questions, layered research, twelve questions, financial reconciliation, key evidence and event tracking.
+## Discrimination and scenarios
 
-To see how the division of labour works as a whole, read [the three systems of investment](https://sl-knowledge.github.io/knowledge-site/framework/book/investment-three-systems); for concrete applications, see the [case studies](https://sl-knowledge.github.io/knowledge-site/framework/cases/).
+- [Stress Testing: Constraint Identification, Feedback and Recovery Windows](https://sl-knowledge.github.io/knowledge-site/framework/methods/stress-testing): the ST1–ST12 principles, checking scenarios, feedback, withdrawal of support, recovery deadlines and common failure.
 
-## Validation and editing standards
+<a id="research-system"></a>
 
-- [Originality self-check and independent validation plan](./originality-and-validation.md): compares candidate ideas with existing methods and designs baselines, ablations and prospective tests.
-- [From research cards to drafts: consistency audit and revision notes](./consistency-and-revision.md): records the vocabulary corrections, the division of definitions across the five drafts, and the editing principles.
+## Human-AI collaboration and long-running research
 
-For the full expansion, continue with the [five drafts](https://sl-knowledge.github.io/knowledge-site/framework/book/); if you would rather see a concrete problem first, enter the [case studies](https://sl-knowledge.github.io/knowledge-site/framework/cases/).
+- [Human-AI Joint Cognitive Research System](https://sl-knowledge.github.io/knowledge-site/framework/book/human-ai-research-system): the fifth of the five drafts, on maintaining representations, evidence, predictions, versions and revision records over the long run.
 
-[Back to the theory framework](../index.md)
+<a id="validation"></a>
+
+## Validation and revision
+
+- [Originality Self-Check and Independent Validation Plan](./originality-and-validation.md): turns candidate ideas into comparison questions with baselines, ablations and prospective records.
+- [From Research Cards to Drafts: Consistency Audit and Revision Notes](./consistency-and-revision.md): the conceptual corrections and the division of definitions across the parts.
+
+## Entering a concrete domain
+
+The charters for company analysis and investment research sit in [theory applications → company and investment](https://sl-knowledge.github.io/knowledge-site/applications/#company). They turn general methods into domain research with financial, competitive, price and cash-cycle conditions.

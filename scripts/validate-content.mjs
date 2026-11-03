@@ -66,11 +66,14 @@ for (const file of files) {
   for (const [, target] of text.matchAll(/\]\(([^)\s]+)(?:\s+"[^"]*")?\)/g)) {
     if (/^(https?:|mailto:|#)/.test(target)) {
       if (target.startsWith(SOURCE_SITE)) {
-        const tail = target.slice(SOURCE_SITE.length).replace(/^\//, "")
-        // The source site serves extensionless URLs, so a tail with a space,
-        // a query, a fragment or a .md suffix is malformed.
-        if (tail && (/[\s?#]/.test(tail) || tail.endsWith(".md") || tail.includes("//"))) {
+        const [path, anchor] = target.slice(SOURCE_SITE.length).replace(/^\//, "").split("#")
+        // The source site serves extensionless URLs, so a path with a space, a
+        // query or a .md suffix is malformed. A trailing "#anchor" is fine.
+        if (path && (/[\s?]/.test(path) || path.endsWith(".md") || path.includes("//"))) {
           problems.push(`${file}: cross-edition link looks malformed: ${target}`)
+        }
+        if (anchor && !/^[\w-]+$/.test(anchor)) {
+          problems.push(`${file}: cross-edition link has an invalid anchor: ${target}`)
         }
       }
       continue

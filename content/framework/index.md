@@ -1,8 +1,8 @@
 ---
 title: "Theory Framework"
-description: "Read through four routes: five drafts, research methods and standards, systems, life and values, and case studies."
+description: "Enter through the overall architecture, the canonical vocabulary and the three trunks of reality, representation and decision, then read the systems, values, life and concept topics."
 author: "SL"
-version: "0.3"
+version: "0.5"
 created: "2026-10-31"
 updated: "2026-11-02"
 published: "2026-10-31"
@@ -10,28 +10,52 @@ publish: true
 kind: category
 lang: en
 source: framework/index.md
-sourceUpdated: "2026-11-01"
+sourceUpdated: "2026-11-02"
 ---
 
-Around the understanding, representation, action and revision of complex systems, the material here is divided into four topics according to how you want to read it.
+This body of research turns on two questions: how do you find, from open-world evidence, a representation that is relevant to a target and a horizon; and how do you notice that the representation has failed, then restore its applicability through the structural changes that are necessary.
 
-## Choose a reading route first
+The trunk is **reality → representation → reasoning and decision → feedback → revision**. Below are the shared architecture and the three trunks, then the systems, values and exploratory topics. Working hypotheses inside a topic keep their own validation requirements.
 
-| What problem do you want to solve?                 | Where to start?                                                                                  | Content                                                                       |
-| -------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- |
-| Read the whole body of work as a system            | [Five drafts](https://sl-knowledge.github.io/knowledge-site/framework/book/)                     | A reading overview and the full text of the five drafts, 52 chapters in total |
-| Learn diagnostic, modelling and validation methods | [Research methods and standards](./methods/index.md)                                             | CF Grammar, the overall architecture, vocabulary, validation and revision     |
-| Think about systems, life, objectives and freedom  | [Systems, life and values](https://sl-knowledge.github.io/knowledge-site/framework/foundations/) | Four topics that can each be read on their own                                |
-| See how a method enters a concrete problem         | [Case studies](https://sl-knowledge.github.io/knowledge-site/framework/cases/)                   | Two cases on transition and business reconstruction                           |
+<a id="architecture"></a>
 
-On a first visit, start with the [CF Grammar guide](./methods/cf-grammar.md) and then pick one topic according to your interest. For continuous reading, use the [overview of the five drafts and fifty-two chapters](https://sl-knowledge.github.io/knowledge-site/framework/book/book-reading-guide); to look up a definition, go to the [canonical vocabulary](./methods/canonical-vocabulary.md).
+## Overall architecture and vocabulary
 
-## How do these relate?
+- [The Overall Architecture of Open-World Research: Representation, Reasoning, Action and Revision](methods/research-architecture.md): promoted from the research-methods section to the entry point of the whole system.
+- [Canonical Vocabulary, Symbols and Knowledge Levels](methods/canonical-vocabulary.md): the shared definitions.
 
-The five drafts run along "reality → representation → action → application → continuing research". The methods topic provides cross-references; the systems, life and values topic raises independent questions; the cases are used to check explanations against evidence.
+<a id="reality"></a>
 
-They are at different research states: mature methods, synthesised frameworks, working diagnostics and unvalidated hypotheses, each stated separately in its own article. A reader can enter by question and then return to the text to check the conditions and the derivation.
+## Reality and dynamic systems
 
-## Related directions
+- [Constraints, Viability and Future Options: An Analytical Framework for Complex Systems](https://sl-knowledge.github.io/knowledge-site/framework/book/constraints-and-future-options): the full text and the entry point to the drafts.
 
-[Language and writing](https://sl-knowledge.github.io/knowledge-site/language/) discusses vocabulary, concepts and expression; [economics](https://sl-knowledge.github.io/knowledge-site/economics/) develops an economic understanding from a minimal exchange model.
+<a id="representation"></a>
+
+## Representation and knowing
+
+- [How Do We Know What Belongs in a Model](https://sl-knowledge.github.io/knowledge-site/framework/book/what-belongs-in-a-model): the trunk definitions of evidence, representation, error diagnosis and revision.
+
+<a id="decision"></a>
+
+## Uncertainty and decision
+
+- [Acting in an Uncertain World](https://sl-knowledge.github.io/knowledge-site/framework/book/acting-under-uncertainty): a decision criterion has to correspond to the target, the horizon, the consequences and the uncertainty.
+
+<a id="values"></a>
+
+## Systems, objectives and values
+
+- [Any System Is a Subsystem of the Universe](https://sl-knowledge.github.io/knowledge-site/framework/foundations/systems-within-the-universe): emphasises system scope and environment.
+- [Why Are Objective Functions Reasonable?](https://sl-knowledge.github.io/knowledge-site/framework/foundations/why-objectives-are-reasonable): value premises need an argument; they cannot be read off survival conditions alone.
+
+<a id="explorations"></a>
+
+## Explorations
+
+- [Life as a Generative Structure: Core Theory Edition V2](https://sl-knowledge.github.io/knowledge-site/framework/foundations/life-as-generative-structure): EGBE is a candidate property still to be tested.
+- [Vocabulary and Experience Compression: From Concepts to Shared Symbols](https://sl-knowledge.github.io/knowledge-site/language/vocabulary-and-experience-compression): the cross-entry into the language topic.
+
+## Continue reading
+
+[Research methods](./methods/index.md) explains how judgements are built, checked and revised; [theory applications](https://sl-knowledge.github.io/knowledge-site/applications/) explains what extra conditions a concrete domain requires. The order of the argument is in the [five drafts](https://sl-knowledge.github.io/knowledge-site/framework/book/).
