@@ -2,15 +2,15 @@
 title: "Research-Use Disclaimer"
 description: "States the boundaries of using this site's research notes, separating safety research from operational guidance, and investment research from trading advice."
 author: SL
-version: "0.1"
+version: "0.1.1"
 created: "2026-11-01"
-updated: "2026-11-02"
+updated: "2026-11-03"
 published: "2026-11-01"
 publish: true
 kind: policy
 lang: en
 source: disclaimer.md
-sourceUpdated: "2026-11-01"
+sourceUpdated: "2026-11-03"
 ---
 
 ## What the content here is for
@@ -66,4 +66,4 @@ Information may be incomplete, incorrect or outdated. Citations do not imply end
 - [SEC Investor Education: Performance Claims](https://www.investor.gov/introduction-investing/general-resources/news-alerts/alerts-bulletins/investor-bulletins-47): distinguishes claims about historical performance, backtests, targets and forecasts. That material does not represent an endorsement of this site.
 - [FAA: Aviation Handbooks & Manuals](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation): a public entry point for aviation education material; the articles here do not replace the approved documentation that applies to a particular aircraft type and operating task.
 
-[About the author, versions and copyright](./about.md)
+[About, versions and copyright](./about.md)

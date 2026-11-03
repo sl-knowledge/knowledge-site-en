@@ -1,20 +1,19 @@
 {
   "schemaVersion": 1,
-  "release": "0.8.1",
+  "release": "0.8.2",
   "date": "2026-11-03",
-  "publicationRef": "site-v0.8.1",
-  "chineseResearchBaselineCommit": "c12f403b6c9a9b6ef3bab08c4130ff5395015754",
+  "publicationRef": "site-v0.8.2",
   "chineseResearchBaselineTag": "site-v0.6.0",
   "hashDefinition": "SHA-256 of UTF-8 Markdown with CRLF normalised to LF; includes frontmatter.",
   "notice": "A translation and publication snapshot, not evidence that every claim has been validated.",
   "pages": [
     {
       "path": "about.md",
-      "version": "0.9",
+      "version": "0.9.1",
       "sourceUpdated": "2026-11-03",
       "kind": null,
-      "chineseTextSha256": "7137baebf4cb121fc3dd90fa398367b0cf1861e5bbca1cb7f5ef0c23616cbf7f",
-      "englishTextSha256": "684ab3a149f18c755196ddfb0586d3faa5a186634208aaa3510bf4c8820bee2f"
+      "chineseTextSha256": "8858bac15177ccbc1615cec040b52fc636c26292c5802435e6efdb9005a3e031",
+      "englishTextSha256": "7d964a3a8465d660efd5045211df20af91e08b3329d5374f87e0c291044213eb"
     },
     {
       "path": "applications/cooperation-under-incomplete-trust.md",
@@ -58,11 +57,11 @@
     },
     {
       "path": "disclaimer.md",
-      "version": "0.1",
-      "sourceUpdated": "2026-11-01",
+      "version": "0.1.1",
+      "sourceUpdated": "2026-11-03",
       "kind": "policy",
-      "chineseTextSha256": "b925075d2631d1feb11f2ac826bd6d356ba96323c3734ca4cfe808372269c8e0",
-      "englishTextSha256": "732053ae8a64a5f55a61f731ab7616f8f3a07879028fae512ff1e7c5bb21892a"
+      "chineseTextSha256": "d18b458e7c164536d98ac1f9139e0b24bc7af1687f4cc27c81dd208f77f1c3c3",
+      "englishTextSha256": "06cf45a4d628f13f6bacda88f90be103b99d3e3f947db2c8afdc03887c6c62d4"
     },
     {
       "path": "economics/first-principles-learning.md",
@@ -386,20 +385,20 @@
     },
     {
       "path": "site-purpose.md",
-      "version": "0.5.10",
+      "version": "0.5.11",
       "sourceUpdated": "2026-11-03",
       "kind": "guide",
-      "chineseTextSha256": "286a6df7b5b01f6f4261a7d2285023d0b116ad83d58f47fc6ca5d37427c7529d",
-      "englishTextSha256": "6bd81317e7acd186637b5bb4f3bf66d07041f8e02798382faac12262fbb650d9"
+      "chineseTextSha256": "0c1312da584217c6762886d6f171716e853b268d265779b8b0f0843e70f027e5",
+      "englishTextSha256": "007f575ce63294c59d856633aa4d72e9ef0853eaa9aca55b45fcecf99467b250"
     },
     {
       "path": "updates.md",
-      "version": "1.1.1",
+      "version": "1.1.2",
       "sourceUpdated": "2026-11-03",
       "kind": "release",
-      "chineseTextSha256": "95b3337cfd089b0b69a06f1b756056b2096206804e63a73ccae6fff0acee1177",
-      "englishTextSha256": "7876bb11c04823df183917a3378123e1df3c19e37fa935178b890163806030be"
+      "chineseTextSha256": "dc92af3fe32534e5a6b18d20e007e262bb4b238845bff142c4f0fcd0007db7c2",
+      "englishTextSha256": "e96b1bc5a29f38a69d80125a1e8ac2cd9b85e066bf514ada4912e65936250394"
     }
   ],
-  "previousPublicationRef": "site-v0.8.0"
+  "previousPublicationRef": "site-v0.8.1"
 }

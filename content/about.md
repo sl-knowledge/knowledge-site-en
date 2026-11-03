@@ -2,7 +2,7 @@
 title: "About"
 description: "SL's public research: theory frameworks, research methods, domain applications, versions and copyright."
 author: SL
-version: "0.9"
+version: "0.9.1"
 created: "2026-10-31"
 updated: "2026-11-03"
 published: "2026-10-31"

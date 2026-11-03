@@ -2,7 +2,7 @@
 title: "Site Update Log"
 description: "Records site versions, release dates, additions and important revisions, and their effect on reading and citation."
 author: SL
-version: "1.1.1"
+version: "1.1.2"
 created: "2026-11-02"
 updated: "2026-11-03"
 published: "2026-11-02"
@@ -14,6 +14,8 @@ sourceUpdated: "2026-11-03"
 ---
 
 A site version records a batch of public content and reading-structure changes; every article keeps its own version and update date.
+
+<a id="v0-8-2"></a>
 
 <a id="v0-8-1"></a>
 

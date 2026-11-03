@@ -2,7 +2,7 @@
 title: "What This Site Is For"
 description: "Drawing theory from concrete questions and connecting knowledge across fields, so people and AI can understand, transfer, test and use it more easily."
 author: SL
-version: "0.5.10"
+version: "0.5.11"
 created: "2026-11-03"
 updated: "2026-11-03"
 published: "2026-11-03"
