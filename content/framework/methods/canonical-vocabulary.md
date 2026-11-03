@@ -2,7 +2,7 @@
 title: "Canonical Vocabulary, Symbols and Knowledge Levels"
 description: "Places the definitions of state, constraint, reachability, representation failure and research governance in one reference specification."
 author: "SL"
-version: "0.2"
+version: "0.3"
 created: "2026-11-01"
 updated: "2026-11-02"
 published: "2026-11-01"
@@ -10,12 +10,12 @@ publish: true
 kind: article
 lang: en
 source: framework/methods/canonical-vocabulary.md
-sourceUpdated: "2026-11-01"
+sourceUpdated: "2026-11-02"
 aliases:
   - framework/canonical-vocabulary
 ---
 
-> **Public edition v0.1 · the internal terminology specification of this body of work.** Organised from _Canonical Vocabulary & Notation v1.0_ (2026-10-06). "Canonical" here applies to this book and its public editions; it does not mean that every research field uses the same terms, and it does not mean that a working definition has become a standard in the literature.
+> **Public edition v0.3 · the internal terminology specification of this body of work.** Organised from _Canonical Vocabulary & Notation v1.0_ (2026-10-06). "Canonical" here applies to this book and its public editions; it does not mean that every research field uses the same terms, and it does not mean that a working definition has become a standard in the literature.
 
 ## 1. Distinguish knowledge levels from evidence types first
 
@@ -82,6 +82,22 @@ When discussing something "close to the boundary", say which boundary is meant.
 
 "Freedom" is kept as a natural-language upper term; concrete studies split it into reachable options, options that remain sustainable after arrival, and the ability to reconstruct a path after the environment changes. A count of states cannot give a single general freedom score for a person, a company or a state.
 
+<a id="path-objects"></a>
+
+### Three objects of path analysis
+
+When analysing an agent's choice, record three objects separately:
+
+| Object | Question | Common error or limit |
+| --- | --- | --- |
+| Model-estimated actually feasible paths | Under the stated constraints, scenario and horizon, which paths can hold conditionally? | Actual feasibility is the object being studied; the analyst still has an estimate that may omit conditions |
+| Paths the agent knows or believes feasible | What information does the agent have, and how does it understand consequences? | A real exit may be missed, or an infeasible plan may be believed feasible |
+| Paths the agent considers acceptable | Which goals, values and risk criteria guide comparison? | An executable path may be rejected; acceptability judgements may also rely on false beliefs |
+
+These objects need not coincide. Neither believed-feasible nor acceptable paths can be assumed to be subsets of actually feasible paths. Observing that an agent remains in an arrangement does not by itself show either that it has no exit or that it endorses the arrangement. Compare paths **inside** and **outside** the arrangement, including what each can sustain. Path counts alone cannot measure the capacity to choose: several paths may share a resource and fail together.
+
+This separates analytical objects; it is not a complete behavioural model of choice. Source and application: [Cooperation Under Incomplete Trust](https://sl-knowledge.github.io/knowledge-site/applications/cooperation-under-incomplete-trust), Sections 1.1 and 6.1.
+
 ## 5. Representation, variable hierarchy and sufficiency
 
 A representation is a compression relative to a target, a horizon and the available evidence. Competing representations are candidate models that remain compatible with the same observations but give different accounts of the future or of the mechanism.
@@ -127,6 +143,35 @@ This is a table of operations for comparing changes, not an algorithm to be trie
 
 It compares the estimated support time with the adaptation time under a given policy, model and scenario. A positive value does not guarantee success; a negative value indicates that the described path may not arrive in time. The time estimates themselves need intervals and dependency conditions.
 
+<a id="recovery-time-structure"></a>
+
+### The time structure of a recovery window
+
+**A working diagnostic and its assumptions.** First fix the scenario, constraints, horizon and set of known executable responses. This simplified model assumes a common completion deadline, fixed completion durations, no loss mitigation before completion, and responses that actually maintain the required constraints once completed. Let the adverse change begin at \(t_0\):
+
+| Symbol | Name | Meaning |
+| --- | --- | --- |
+| \(D\) | Latest completion deadline | The last time the essential constraints can be maintained without a completed effective response; in this model, completing an effective response by this time avoids a breach |
+| \(t_L\) | Latest start time | \(t_L=D-\tau^{*}_{\mathrm{adapt}}\), where \(\tau^{*}_{\mathrm{adapt}}\) is the fixed completion duration of the fastest response in the stated set |
+| \(t_D\) | Detection time | When the agent detects the adverse change; not necessarily when a response starts |
+
+Using the same model and estimation basis, the margin at detection is
+
+\[
+\widehat m_\tau=\widehat t_L-\widehat t_D
+=(\widehat D-\widehat t_D)-\widehat\tau^{*}_{\mathrm{adapt}}.
+\]
+
+Here \(\widehat D-\widehat t_D\) corresponds to \(\widehat\tau_{\mathrm{survive}}\) measured from detection along the no-response baseline. It corresponds directly to the adaptation time margin above only when the reference time, response and scenario match. Additional decision, coordination and start-up delays also consume margin; do not count the same delay in more than one duration.
+
+**Reaching a boundary differs from crossing it.** Starting the fastest response exactly at \(t_L\) can still finish at \(D\) in this deterministic model, with no tolerance for error. Only after \(t_L\), with no response started, are the listed responses too late. This does not establish that every unknown or newly available response is infeasible. General recoverability still requires the full dynamics, policies and constraints; a time difference cannot replace that analysis.
+
+The danger time for the warning gap may be set to \(t_V=t_L-\delta\), where \(\delta\ge0\) is an ex ante time safety threshold. Let \(t_F\) be when observable performance crosses its failure threshold. The two thresholds differ. The order of \(t_L\) and \(t_F\) depends on the system; only scenarios where the recovery window narrows before visible failure have \(t_V\le t_L\le t_F\).
+
+**Detection delay and warning gap are different quantities.** Detection delay is \(t_D-t_0\). With baseline trajectory and thresholds held fixed, earlier information changes \(t_D\) without changing \(G_W=t_F-t_V\). If monitoring changes actions or mutual responses, re-estimate the trajectory. Both \(D\) and \(t_L\) depend on the no-response baseline and may change once action begins. Staged mitigation, durations that depend on start time, or response-specific deadlines require separate calculations; subtracting the fastest duration is then insufficient.
+
+Source and hypothetical numerical example: [Cooperation Under Incomplete Trust](https://sl-knowledge.github.io/knowledge-site/applications/cooperation-under-incomplete-trust), Section 2, especially 2.2 and 2.7. For checks, see [Stress Testing, ST8](https://sl-knowledge.github.io/knowledge-site/framework/methods/stress-testing#st8).
+
 ### Borrowed viability
 
 Compares which states or paths are sustainable when external access is allowed with the ones that survive on defined internal capability alone. The model conditions have to stay comparable, and it has to be recorded whether the external access adds debt, dependency or risk; it cannot be assumed that the two feasible sets are necessarily nested.
@@ -149,6 +194,8 @@ These are respectively the estimated point at which the surface behaviour crosse
 | Reversibility               | Distinguished as withdrawable, costly to withdraw and in fact irreversible, with the resources and time stated                                |
 | Commitment                  | Comparing a commitment now against the best feasible waiting policy under jointly evaluated conditions                                        |
 | Forced lock-in              | The absence of a sustainable alternative path; different from a deliberate concentration of resources                                         |
+| Gradual lock-in | Alternative paths progressively narrow through local adjustments; no single step has to explicitly abandon an exit. Check each stage; see [ST7](https://sl-knowledge.github.io/knowledge-site/framework/methods/stress-testing#st7). |
+| Deadline | A time condition after which resources, obligations or action conditions change. Effects pass through concrete consequences and dependencies, rather than merely whether an agent values the deadline. |
 | Adaptive policy             | Initial action, ex ante observation conditions, conditional actions, and exit or revision rules                                               |
 | Signpost                    | An ex ante specified observable condition that can trigger a policy update                                                                    |
 | Delayed constraint feedback | The performance of a constraint is buffered or delayed; this does not mean the constraint has disappeared for good                            |
@@ -159,6 +206,20 @@ If the value of waiting already includes future information and conditional choi
 High-variance action near failure does not by itself prove that a person's psychological risk preference has changed. Describe the objective, the available actions and the structure of consequences first, and only then discuss whether a psychological explanation is needed.
 
 Outcome path diversity looks at probability, payoff and dependency; fatal mode exposure looks at severity, common causes, irreversibility and probability. Writing more related stories does not produce genuinely independent outcome paths.
+
+<a id="working-mechanism-hypotheses"></a>
+
+### Working diagnostics and mechanism hypotheses
+
+Distinguish a concept's name from empirical claims attached to it. Inclusion in this vocabulary makes an item easier to look up; it does not validate a mechanism.
+
+| Item | Working meaning | Knowledge status and testing requirement |
+| --- | --- | --- |
+| Non-equivalence of capability and access | Providing the same function today does not imply continuity after external access is withdrawn | A conditional comparative diagnostic: check control, continuity, switching time, obligations and common-cause failure separately; internal capability is not necessarily superior |
+| Path shifts under insufficient margin | An agent that cannot accept losing an essential condition and believes a risky path might preserve it may shift to a high-variance path | An untested mechanism hypothesis: measure beliefs, consequences and evaluation rules and compare rival explanations; pressure or negative margin alone does not determine behaviour |
+| Default bearer | A participant on whom an arrangement's unallocated or uncompensated shortfall actually falls | A working label: evidence must identify who bears which shortfall. A greater tendency of these participants to disrupt an arrangement is a separate hypothesis, not a consequence of the label |
+
+Source: [Cooperation Under Incomplete Trust](https://sl-knowledge.github.io/knowledge-site/applications/cooperation-under-incomplete-trust), Sections 6.1, 8, 10.2 and 11. Domain mappings, causal interpretations and predictions still require independent evidence.
 
 ## 10. Vocabulary for a human-AI research system
 
@@ -197,8 +258,14 @@ For the concrete treatment and the sources of the financial concepts, see [the t
 | Keep / Drop                            | Changed to core / monitor / archive                                  |
 | Human = MetaController                 | Use research governor in a human-AI context                          |
 | True Viability Margin                  | Changed to an estimate under model and scenario conditions           |
+| Treating completion deadline as the end of the recovery window | Distinguish completion deadline \(D\), latest start time \(t_L\) and detection time \(t_D\), with the simplified model assumptions stated |
+| Counting only current options | Separate model estimates, agent beliefs and acceptability, and compare paths inside and outside the arrangement |
 | Explaining everything with the outcome | Keep ex ante judgements, competing explanations and revision records |
 
 Plain language comes first; English terms are used to keep the correspondence between concepts; formulas appear only when they remove ambiguity, support a derivation or operationalise something. This public edition is numbered separately from the original terminology file; a substantive change to a definition or a symbol should raise the version and record the reason, while examples and wording are maintained under the public version rules.
 
 Companion reading: [the overall architecture](./research-architecture.md), [consistency audit and revision notes](./consistency-and-revision.md), [reading guide to the five drafts](https://sl-knowledge.github.io/knowledge-site/framework/book/book-reading-guide).
+
+## Revision note for v0.3
+
+Adds path objects, recovery-window structure and decision vocabulary while retaining existing section numbers and diagnostic formulas. The time structure is a conditional simplified model; mechanism hypotheses still need testing. The public version label at the start now reads v0.3; the original research file keeps its separate version.

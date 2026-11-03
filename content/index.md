@@ -1,8 +1,8 @@
 ---
 title: "SL · Research & Learning"
-description: "Public research notes on learning, economics, language and writing, and complex systems. Start from small models and understand larger worlds."
+description: "An independent researcher’s open research site: continuously revised drafts, working papers and testable inferences."
 author: SL
-version: "0.6"
+version: "0.7"
 created: "2026-10-31"
 updated: "2026-11-02"
 published: "2026-10-31"

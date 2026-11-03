@@ -82,9 +82,9 @@ export const PublicationMeta: QuartzComponent = ({ fileData, allFiles }: QuartzC
           understand larger worlds.
         </h1>
         <p class="hero-description">
-          Research notes on learning, economics, language and complex systems.
+          An independent researcher’s open research site:
           <br />
-          Let deduction form expectations; let reality correct understanding.
+          continuously revised drafts, working papers and testable inferences.
         </p>
         <div class="hero-bottom">
           <span>{String(notes.length).padStart(2, "0")} published notes / four reading paths</span>
