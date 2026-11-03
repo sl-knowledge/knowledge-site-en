@@ -2,7 +2,7 @@
 title: "Site Update Log"
 description: "Records site versions, release dates, additions and important revisions, and their effect on reading and citation."
 author: SL
-version: "1.0.1"
+version: "1.1"
 created: "2026-11-02"
 updated: "2026-11-03"
 published: "2026-11-02"
@@ -14,6 +14,18 @@ sourceUpdated: "2026-11-03"
 ---
 
 A site version records a batch of public content and reading-structure changes; every article keeps its own version and update date.
+
+<a id="v0-8-0"></a>
+
+## v0.8.0 · 2026-11-03
+
+Three introductory and retrospective essays are now available in both Chinese and English:
+
+- [What This Site Is For v0.5.9](./site-purpose.md): research aims, the relationship between theory and applications, human–AI collaboration and knowledge transfer.
+- [Research History: 2025–2026 v0.1.5](./research-history.md): the development from early philosophical questions to concrete research methods.
+- [From Reflections on the Universe to Later Research v0.2](./cosmic-reflections-and-later-research.md): threads concerning generation, history and framework revision, especially how information diffusion, condensation and renewed diffusion relate to the present research.
+
+The home page, reading outline and about page provide reading links. Corresponding versions and references are preserved across both sites. These essays reflect on and explain the research process; they do not establish the conjecture about cosmic evolution.
 
 <a id="v0-7-1"></a>
 

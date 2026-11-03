@@ -109,6 +109,7 @@ export const ReadingNavigation: QuartzComponent = ({ fileData, allFiles }) => {
             )
           })}
           <ul class="reading-utility">
+            {item("site-purpose", "What this site is for")}
             {item("updates", "Site update log")}
             {item("about", "About and copyright")}
           </ul>

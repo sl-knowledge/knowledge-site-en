@@ -2,7 +2,7 @@
 title: "About"
 description: "SL's public research: theory frameworks, research methods, domain applications, versions and copyright."
 author: SL
-version: "0.8.1"
+version: "0.9"
 created: "2026-10-31"
 updated: "2026-11-03"
 published: "2026-10-31"
@@ -11,6 +11,12 @@ lang: en
 source: about.md
 sourceUpdated: "2026-11-03"
 ---
+
+## Explore the site
+
+- [What This Site Is For](./site-purpose.md): the purpose of the research, the site's structure and how to use the articles.
+- [Research History: 2025–2026](./research-history.md): how the questions and research methods developed.
+- [From Reflections on the Universe to Later Research](./cosmic-reflections-and-later-research.md): how information diffusion and condensation connect the early reflections with the present work.
 
 ## Research use and disclaimer
 

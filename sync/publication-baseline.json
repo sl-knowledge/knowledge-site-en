@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "release": "0.7.0",
+  "release": "0.8.0",
   "date": "2026-11-03",
-  "publicationRef": "site-v0.7.0",
+  "publicationRef": "site-v0.8.0",
   "chineseResearchBaselineCommit": "c12f403b6c9a9b6ef3bab08c4130ff5395015754",
   "chineseResearchBaselineTag": "site-v0.6.0",
   "hashDefinition": "SHA-256 of UTF-8 Markdown with CRLF normalised to LF; includes frontmatter.",
@@ -10,11 +10,11 @@
   "pages": [
     {
       "path": "about.md",
-      "version": "0.8",
+      "version": "0.9",
       "sourceUpdated": "2026-11-03",
       "kind": null,
-      "chineseTextSha256": "fce51a00c5bef93e04d26044da84eaadc0df479511da9279fc60e0399de17763",
-      "englishTextSha256": "35f1d94d9aad93d99dbdf32e19d92ad7f517890a4b3b375183829ae60bf41323"
+      "chineseTextSha256": "7137baebf4cb121fc3dd90fa398367b0cf1861e5bbca1cb7f5ef0c23616cbf7f",
+      "englishTextSha256": "684ab3a149f18c755196ddfb0586d3faa5a186634208aaa3510bf4c8820bee2f"
     },
     {
       "path": "applications/cooperation-under-incomplete-trust.md",
@@ -47,6 +47,14 @@
       "kind": "article",
       "chineseTextSha256": "80c54179767927794d6371033510f24f4e7ae8bcffca1aad27c0f6e533e15bfd",
       "englishTextSha256": "104849e2565436c0f255ad6fcdc3548cbbcf35b3b2eca6a9ab57a3fe2c1f0347"
+    },
+    {
+      "path": "cosmic-reflections-and-later-research.md",
+      "version": "0.2",
+      "sourceUpdated": "2026-11-03",
+      "kind": "guide",
+      "chineseTextSha256": "0f6602b40709c5d4eb4da82325ac88bfc88d09b133cf75c3ffca6eca50d9061a",
+      "englishTextSha256": "5b23810b0f7e116eccdd3cd70b838742db6a7b1bbeafd3b044fd4be0b8b92846"
     },
     {
       "path": "disclaimer.md",
@@ -290,11 +298,11 @@
     },
     {
       "path": "index.md",
-      "version": "0.8",
+      "version": "0.8.2",
       "sourceUpdated": "2026-11-03",
       "kind": "home",
-      "chineseTextSha256": "aeb255b444e7bcf8ae5095869d2185d52c5d9f83d81059fb9faee8a7e13bc282",
-      "englishTextSha256": "fc988d7881242785637570309aec9fbb3da694e071cd0f2073e255286cd9c888"
+      "chineseTextSha256": "76a7759aeed7855b0fb58bac449991523ed3f865bdb6399e0f63c0a8c6edaaed",
+      "englishTextSha256": "ed53145732c51e02d2518cad524e5b715a375c8837b7d4a5b15734b4526eeb4f"
     },
     {
       "path": "language/concept-packaging-and-characters.md",
@@ -369,12 +377,29 @@
       "englishTextSha256": "c0495a6f2a4aa247656dbd1778657965f643e934de941322ad76e0ea1cc4fc3d"
     },
     {
+      "path": "research-history.md",
+      "version": "0.1.5",
+      "sourceUpdated": "2026-11-03",
+      "kind": "guide",
+      "chineseTextSha256": "5b07923997a44aa26b0b5a0406650769f2bff54d2a675283a569d4bc70aefcb2",
+      "englishTextSha256": "d840d223028bc76632c265be185dfd27c01cdf3d1442c3b6dd9bdde5085ed4ce"
+    },
+    {
+      "path": "site-purpose.md",
+      "version": "0.5.9",
+      "sourceUpdated": "2026-11-03",
+      "kind": "guide",
+      "chineseTextSha256": "1fabd853a2ad2c41f71cb6bab879b94b1a5a6fd458ccbbf97bf953cfb666e22e",
+      "englishTextSha256": "e5bc521bfac72edace65e86db6375a8a86b473dc4b350ee0e66d38406818c706"
+    },
+    {
       "path": "updates.md",
-      "version": "1.0",
+      "version": "1.1",
       "sourceUpdated": "2026-11-03",
       "kind": "release",
-      "chineseTextSha256": "e405599cc79cc3c593837360bf908ec7d0a5390f264b3df1113494cee4b858aa",
-      "englishTextSha256": "6b5e4df8eb3c4ac1ee586fff94a543786b8ea510716884f42eb9f52265d528d5"
+      "chineseTextSha256": "637a358dc7b6228f9dcbc05813b31640ba205b799c3b145fc5fce87643a9d56b",
+      "englishTextSha256": "9fd27fcb284f97494f964c18b005f63c92765047162561ab72730695c61e96e5"
     }
-  ]
+  ],
+  "previousPublicationRef": "site-v0.7.0"
 }

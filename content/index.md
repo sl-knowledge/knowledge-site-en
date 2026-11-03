@@ -2,7 +2,7 @@
 title: "SL · Research & Learning"
 description: "An independent researcher’s open research site: continuously revised drafts, working papers and testable inferences."
 author: SL
-version: "0.8.1"
+version: "0.8.2"
 created: "2026-10-31"
 updated: "2026-11-03"
 published: "2026-10-31"
@@ -26,7 +26,7 @@ You can start from a question that interests you, or follow the drafts from the 
 - [Theory applications](https://sl-knowledge.github.io/knowledge-site-en/applications/): putting the ideas to work on concrete problems.
 - [Reading the drafts](https://sl-knowledge.github.io/knowledge-site-en/framework/book/): read on in the order of the five parts and fifty-two chapters.
 
-[See what has changed recently](https://sl-knowledge.github.io/knowledge-site-en/updates) · [About this site and how to read it](./about.md)
+[See what has changed recently](https://sl-knowledge.github.io/knowledge-site-en/updates) · [What this site is for](./site-purpose.md) · [About and reading conventions](./about.md)
 
 ## Research feedback
 
