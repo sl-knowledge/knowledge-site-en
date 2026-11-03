@@ -43,6 +43,12 @@ Knowledge Levels](content/framework/methods/canonical-vocabulary.md).
 | 存活性                 | Viability              | Continuing to satisfy the constraints.                    |
 | 存活核                 | Viability kernel       | \(\operatorname{Viab}_H(K)\)                              |
 | 适应时间余量           | Adaptation time margin | \(\widehat m_\tau\)                                       |
+| 实施时长 | Execution duration | \(\tau_{\mathrm{exec}}\): actual execution through completion and effect. |
+| 实施前延迟 | Pre-execution delay | \(\ell\): required assessment, coordination and start-up before execution. |
+| 完整应对时长 | Full response duration | \(\tau_{\mathrm{response}}=\ell+\tau_{\mathrm{exec}}\) in the sequential model. |
+| 有效余量 | Effective margin | \(m_{\mathrm{eff}}=D-t_D-\tau_{\mathrm{response}}\). |
+| 最迟开始整个应对流程 | Latest start of the whole response process | \(t_R=D-\tau_{\mathrm{response}}\), distinct from execution. |
+| 最迟开始实际实施 | Latest start of execution | \(t_L=D-\tau_{\mathrm{exec}}\). |
 | 外部通道依赖型可生存性 | Borrowed viability     | Viability that depends on external access.                |
 | 预警间隔               | Warning gap            | \(\widehat G_W\)                                          |
 | 自由                   | Freedom                | Kept as a natural-language upper term; split in analysis. |

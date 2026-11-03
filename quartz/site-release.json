@@ -1,6 +1,6 @@
 {
-  "version": "0.3.0",
+  "version": "0.4.0",
   "date": "2026-11-02",
-  "title": "Scope and shared vocabulary",
-  "summary": "Separates two research lines, adds path objects and recovery windows, and states simplified-model assumptions and the evidence limits of mechanism hypotheses."
+  "title": "Full response duration and effective margin",
+  "summary": "Accounts separately for assessment, coordination and execution, distinguishes two latest start times, and checks the examples while retaining their zero-extra-delay values."
 }

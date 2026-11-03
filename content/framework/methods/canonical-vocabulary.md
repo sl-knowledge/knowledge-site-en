@@ -2,7 +2,7 @@
 title: "Canonical Vocabulary, Symbols and Knowledge Levels"
 description: "Places the definitions of state, constraint, reachability, representation failure and research governance in one reference specification."
 author: "SL"
-version: "0.3"
+version: "0.4"
 created: "2026-11-01"
 updated: "2026-11-02"
 published: "2026-11-01"
@@ -15,7 +15,7 @@ aliases:
   - framework/canonical-vocabulary
 ---
 
-> **Public edition v0.3 · the internal terminology specification of this body of work.** Organised from _Canonical Vocabulary & Notation v1.0_ (2026-10-06). "Canonical" here applies to this book and its public editions; it does not mean that every research field uses the same terms, and it does not mean that a working definition has become a standard in the literature.
+> **Public edition v0.4 · the internal terminology specification of this body of work.** Organised from _Canonical Vocabulary & Notation v1.0_ (2026-10-06). "Canonical" here applies to this book and its public editions; it does not mean that every research field uses the same terms, and it does not mean that a working definition has become a standard in the literature.
 
 ## 1. Distinguish knowledge levels from evidence types first
 
@@ -137,40 +137,59 @@ This is a table of operations for comparing changes, not an algorithm to be trie
 
 ### Adaptation time margin
 
+This edition standardises the comparison as an **effective margin**: time left after allowing for the full response from a common reference time. The full response includes post-detection assessment, coordination, start-up and execution. The delay before detection is not included again.
+
 \[
-\widehat m_\tau=\widehat\tau_{\mathrm{survive}}-\widehat\tau_{\mathrm{adapt}}.
+\widehat m_\tau=\widehat m_{\mathrm{eff}}
+=\widehat\tau_{\mathrm{survive}}-\widehat\tau_{\mathrm{response}}.
 \]
 
-It compares the estimated support time with the adaptation time under a given policy, model and scenario. A positive value does not guarantee success; a negative value indicates that the described path may not arrive in time. The time estimates themselves need intervals and dependency conditions.
+Both durations must be measured from the same reference time. This edition keeps \(m_\tau\) as a compatible notation for the effective margin. The stages covered by the older \(\tau_{\mathrm{adapt}}\) must be specified before mapping it to this edition; it is not the new shared duration name. A positive margin does not guarantee success. Estimates need intervals, dependency conditions and an effective response.
 
 <a id="recovery-time-structure"></a>
 
 ### The time structure of a recovery window
 
-**A working diagnostic and its assumptions.** First fix the scenario, constraints, horizon and set of known executable responses. This simplified model assumes a common completion deadline, fixed completion durations, no loss mitigation before completion, and responses that actually maintain the required constraints once completed. Let the adverse change begin at \(t_0\):
+**A working diagnostic and its assumptions.** Fix the scenario, constraints, horizon and set of known executable responses. This simplified model assumes a fixed deadline and fixed stage durations, no mitigation before completion, and an effective response that maintains the required constraints after completion. Durations are non-negative. Real studies use estimates; unaccented symbols below describe idealised accounting.
 
-| Symbol | Name | Meaning |
+The timeline is: adverse change begins \(t_0\) → detection \(t_D\) → actual execution starts \(t_A\) → completion and effect \(t_C\). For a specified response:
+
+| Symbol | Shared name | Meaning |
 | --- | --- | --- |
-| \(D\) | Latest completion deadline | The last time the essential constraints can be maintained without a completed effective response; in this model, completing an effective response by this time avoids a breach |
-| \(t_L\) | Latest start time | \(t_L=D-\tau^{*}_{\mathrm{adapt}}\), where \(\tau^{*}_{\mathrm{adapt}}\) is the fixed completion duration of the fastest response in the stated set |
-| \(t_D\) | Detection time | When the agent detects the adverse change; not necessarily when a response starts |
-
-Using the same model and estimation basis, the margin at detection is
+| \(D\) | Latest completion deadline | The last time essential constraints can be maintained without a completed effective response; completing it by this time avoids a breach in the model |
+| \(\ell\) | Pre-execution delay | Assessment, coordination and start-up from starting the response process to actual execution; the formula assumes the process begins immediately after detection, without additional optional waiting |
+| \(\tau_{\mathrm{exec}}\) | Execution duration | Time from actual execution to completion and effect |
+| \(\tau_{\mathrm{response}}=\ell+\tau_{\mathrm{exec}}\) | Full response duration | All required post-detection assessment, coordination, start-up and execution |
+| \(t_L=D-\tau_{\mathrm{exec}}\) | Latest start of execution | Subtracts execution only; it is not a time at which discussion or coordination may still begin |
+| \(t_R=D-\tau_{\mathrm{response}}\) | Latest start of the whole response process | Leaves time for both the pre-execution delay and execution |
 
 \[
-\widehat m_\tau=\widehat t_L-\widehat t_D
-=(\widehat D-\widehat t_D)-\widehat\tau^{*}_{\mathrm{adapt}}.
+t_C=t_D+\ell+\tau_{\mathrm{exec}},\qquad
+m_{\mathrm{eff}}=D-t_D-\tau_{\mathrm{response}}
+=t_R-t_D=t_L-t_D-\ell.
 \]
 
-Here \(\widehat D-\widehat t_D\) corresponds to \(\widehat\tau_{\mathrm{survive}}\) measured from detection along the no-response baseline. It corresponds directly to the adaptation time margin above only when the reference time, response and scenario match. Additional decision, coordination and start-up delays also consume margin; do not count the same delay in more than one duration.
+Thus \(t_L-t_D\) is the **window from detection to the latest start of execution**, which must still accommodate \(\ell\). It equals the effective margin only when \(\ell=0\). If the process starts after an additional wait \(w\), add \(w\) to completion time and subtract it from the realised margin. Do not count the same interval in both full response duration and an extra delay.
 
-**Reaching a boundary differs from crossing it.** Starting the fastest response exactly at \(t_L\) can still finish at \(D\) in this deterministic model, with no tolerance for error. Only after \(t_L\), with no response started, are the listed responses too late. This does not establish that every unknown or newly available response is infeasible. General recoverability still requires the full dynamics, policies and constraints; a time difference cannot replace that analysis.
+From detection, \(\tau_{\mathrm{survive}}=D-t_D\), so the two effective-margin formulas correspond. If the reference time differs, or a response is already in progress, use remaining support time and remaining response stages from the same time.
 
-The danger time for the warning gap may be set to \(t_V=t_L-\delta\), where \(\delta\ge0\) is an ex ante time safety threshold. Let \(t_F\) be when observable performance crosses its failure threshold. The two thresholds differ. The order of \(t_L\) and \(t_F\) depends on the system; only scenarios where the recovery window narrows before visible failure have \(t_V\le t_L\le t_F\).
+**Just in time differs from too late.** \(m_{\mathrm{eff}}=0\) means completion exactly at \(D\), with no tolerance for error in this deterministic model. The specified response is too late if its whole process has not begun after \(t_R\), or its execution has not begun after \(t_L\). This does not rule out unknown or newly available responses.
 
-**Detection delay and warning gap are different quantities.** Detection delay is \(t_D-t_0\). With baseline trajectory and thresholds held fixed, earlier information changes \(t_D\) without changing \(G_W=t_F-t_V\). If monitoring changes actions or mutual responses, re-estimate the trajectory. Both \(D\) and \(t_L\) depend on the no-response baseline and may change once action begins. Staged mitigation, durations that depend on start time, or response-specific deadlines require separate calculations; subtracting the fastest duration is then insufficient.
+For multiple responses, record \(\ell(o)\) and \(\tau_{\mathrm{exec}}(o)\) separately. With a common deadline \(D\), let \(\tau_{\mathrm{response}}^*=\min_o[\ell(o)+\tau_{\mathrm{exec}}(o)]\), giving \(t_R^*=D-\tau_{\mathrm{response}}^*\). The response with the fastest execution need not have the fastest full response. If there is no effective executable response, an empty set cannot be turned into a meaningful positive margin.
 
-Source and hypothetical numerical example: [Cooperation Under Incomplete Trust](https://sl-knowledge.github.io/knowledge-site/applications/cooperation-under-incomplete-trust), Section 2, especially 2.2 and 2.7. For checks, see [Stress Testing, ST8](https://sl-knowledge.github.io/knowledge-site/framework/methods/stress-testing#st8).
+### A timing example with coordination delay
+
+Hypothetical assumptions: \(D=12\) weeks, \(t_D=3\), \(\ell=1\), and \(\tau_{\mathrm{exec}}=4\) weeks. The full response takes five weeks; its latest process start is week 7 and latest execution start is week 8. Starting the process at week 3 gives execution at week 4 and completion at week 8, leaving four weeks of effective margin. The five-week detection-to-latest-execution window includes one week of coordination, so it is not five weeks of additional slack.
+
+### Relationship to the warning gap and older notation
+
+For a fixed baseline process that has not started, set \(t_V=t_R^*-\delta\) using the fastest full response, where \(\delta\ge0\) is an ex ante time safety threshold and \(t_F\) is when observable performance crosses its failure threshold. Then \(m_{\mathrm{eff}}^*\ge\delta\) is equivalent to \(t_D\le t_V\). The older \(t_V=t_L-\delta\) agrees when \(\ell=0\) for the corresponding response; otherwise pre-execution delay cannot be ignored. There is no universal ordering of \(t_F\) and the latest start times.
+
+Detection delay \(t_D-t_0\), warning gap \(G_W=t_F-t_V\), and effective margin \(m_{\mathrm{eff}}\) are recorded separately. With baseline trajectory, process durations and thresholds unchanged, earlier information changes \(t_D\) without changing that baseline \(G_W\). If monitoring changes actions or reactions, re-estimate the trajectory.
+
+Staged effects, start-time-dependent durations, overlapping assessment and execution, or response-specific deadlines require complete trajectory comparisons rather than this sequential sum. General recoverability still requires the full dynamics and feasible policies.
+
+Source and older case: [Cooperation Under Incomplete Trust](https://sl-knowledge.github.io/knowledge-site/applications/cooperation-under-incomplete-trust), Section 2. For checks see [Stress Testing, ST8](https://sl-knowledge.github.io/knowledge-site/framework/methods/stress-testing#st8).
 
 ### Borrowed viability
 
@@ -182,7 +201,7 @@ Compares which states or paths are sustainable when external access is allowed w
 \widehat G_W=\widehat t_F-\widehat t_V.
 \]
 
-These are respectively the estimated point at which the surface behaviour crosses the failure threshold, and the estimated point at which recovery capability enters the preset danger zone. The result depends on the model, the scenario and the threshold; the time needed for detection, decision and execution also has to be deducted before any real action window can be discussed.
+These are respectively the estimated point at which the surface behaviour crosses the failure threshold, and the estimated point at which recovery capability enters the preset danger zone. The result depends on the model, scenario and thresholds. Whether action can finish in time must be calculated separately from detection, the full response duration and the completion deadline; detection delay cannot simply be subtracted from the warning gap.
 
 ## 9. Vocabulary for decision policy
 
@@ -269,3 +288,7 @@ Companion reading: [the overall architecture](./research-architecture.md), [cons
 ## Revision note for v0.3
 
 Adds path objects, recovery-window structure and decision vocabulary while retaining existing section numbers and diagnostic formulas. The time structure is a conditional simplified model; mechanism hypotheses still need testing. The public version label at the start now reads v0.3; the original research file keeps its separate version.
+
+## Revision note for v0.4
+
+Standardises execution duration, full response duration and effective margin; distinguishes the latest process start from the latest execution start. Adds a non-zero coordination-delay example, response-by-response comparison and mappings from older notation. The evidence status of general recoverability and mechanism hypotheses is unchanged.

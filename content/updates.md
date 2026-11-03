@@ -2,7 +2,7 @@
 title: "Site Update Log"
 description: "Records site versions, release dates, additions and important revisions, and their effect on reading and citation."
 author: SL
-version: "0.6"
+version: "0.7"
 created: "2026-11-02"
 updated: "2026-11-02"
 published: "2026-11-02"
@@ -14,6 +14,18 @@ sourceUpdated: "2026-11-02"
 ---
 
 A site version records a batch of public content and reading-structure changes; every article keeps its own version and update date.
+
+<a id="v0-4-0"></a>
+
+## v0.4.0 · 2026-11-02
+
+**Standardised timing from detection to completion.** Separates execution duration, full response duration including assessment and coordination, and effective margin after allowing for the whole response. The latest start of the whole process \(t_R\) is recorded separately from the latest start of execution \(t_L\).
+
+- [Canonical Vocabulary v0.4](./framework/methods/canonical-vocabulary.md#recovery-time-structure) supplies definitions, mappings from older notation, response-specific assumptions and an example with non-zero coordination delay. [Stress Testing v0.2](https://sl-knowledge.github.io/knowledge-site/framework/methods/stress-testing#st8) updates ST8 while retaining the fixed principle numbers.
+- [The first draft v0.3](https://sl-knowledge.github.io/knowledge-site/framework/book/constraints-and-future-options#recovery-time-structure) and [the third draft v0.2](https://sl-knowledge.github.io/knowledge-site/framework/book/acting-under-uncertainty) use the same full-response convention.
+- [The cooperation article v0.11](https://sl-knowledge.github.io/knowledge-site/applications/cooperation-under-incomplete-trust) keeps the original five numerical conditions with an explicit zero pre-execution delay; a separate one-week coordination variant has four weeks of effective margin. [Physical AI v0.4](https://sl-knowledge.github.io/knowledge-site/applications/physical-ai-interview) states its zero extra delay assumption; [the control principles v0.1.1](https://sl-knowledge.github.io/knowledge-site/applications/viability-first-control) clarify handover timing.
+
+The older detection-to-latest-execution window equals the effective margin only with zero extra delay. Non-zero delay needs recalculation. Warning gap, detection delay and effective margin remain distinct quantities. The formulas are conditional time-accounting relations, add no empirical results, and are not operational advice. The existing English vocabulary page is updated; full translations of the other articles are still pending.
 
 <a id="v0-3-0"></a>
 
