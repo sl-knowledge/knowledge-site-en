@@ -2,13 +2,11 @@
   "schemaVersion": 1,
   "release": "0.7.0",
   "date": "2026-11-03",
-  "primaryPublicLanguage": "en",
-  "draftingLanguage": "zh-CN",
   "publicationRef": "site-v0.7.0",
   "chineseResearchBaselineCommit": "c12f403b6c9a9b6ef3bab08c4130ff5395015754",
   "chineseResearchBaselineTag": "site-v0.6.0",
   "hashDefinition": "SHA-256 of UTF-8 Markdown with CRLF normalised to LF; includes frontmatter.",
-  "notice": "A translation and publication snapshot, not evidence that every claim has been validated. Future substantive public revisions are reviewed in English first.",
+  "notice": "A translation and publication snapshot, not evidence that every claim has been validated.",
   "pages": [
     {
       "path": "about.md",

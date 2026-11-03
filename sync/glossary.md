@@ -1,6 +1,6 @@
 # Terminology table
 
-English is the primary public edition; Chinese remains a drafting and corresponding reading edition. This table fixes the English rendering of
+This table fixes the English rendering of
 the terms that recur across the corpus, so that the two editions use one vocabulary
 rather than two drifting ones. Terms marked **fixed** must not be reworded in a
 translation; the others may be adjusted for readability only when the fixed sense

@@ -2,7 +2,7 @@
 title: "Site Update Log"
 description: "Records site versions, release dates, additions and important revisions, and their effect on reading and citation."
 author: SL
-version: "1.0"
+version: "1.0.1"
 created: "2026-11-02"
 updated: "2026-11-03"
 published: "2026-11-02"
@@ -15,13 +15,19 @@ sourceUpdated: "2026-11-03"
 
 A site version records a batch of public content and reading-structure changes; every article keeps its own version and update date.
 
+<a id="v0-7-1"></a>
+
+## v0.7.1 · 2026-11-03
+
+Simplified the home and about pages. Research article content, versions and URLs are unchanged.
+
 <a id="v0-7-0"></a>
 
 ## v0.7.0 · 2026-11-03
 
-English becomes the primary public edition; Chinese remains a drafting and corresponding reading edition. The English site now includes all 33 current research articles and all category, reading-guide and auxiliary pages: 46 pages in total. Equations, examples, research status and principle identifiers are retained; linguistic examples keep their original forms with English explanations.
+The English site now includes all 33 current research articles and all category, reading-guide and auxiliary pages: 46 pages in total. Equations, examples, research status and principle identifiers are retained; linguistic examples keep their original forms with English explanations.
 
-Corresponding pages can be switched between languages. A research-feedback link welcomes precise corrections, counterexamples and translation reports. Article versions are retained; substantive future public revisions are prepared in English first, then aligned with Chinese and any discrepancies recorded.
+Corresponding pages can be switched between languages. A research-feedback link welcomes precise corrections, counterexamples and translation reports. Article versions are retained.
 
 The translation baseline records provenance and versions, not validation of the theory. Private cases are excluded. Articles continue to retain all rights; Quartz code keeps its MIT licence. No new content licence has been adopted.
 
@@ -31,7 +37,7 @@ The translation baseline records provenance and versions, not validation of the 
 
 Published [Simplification and Recovery Paths: Recoverability in Constrained Systems v0.2](./framework/foundations/simplicity-and-recovery.md), under Theory Framework → Representation and knowing. SF1–SF9 distinguish operating cost, recovery regions, information distinctions and limited testing, with conditional arguments, six reading prompts and testing boundaries.
 
-The article contains no particular events or operating rules for a particular system. Existing article URLs and bodies are retained; this public baseline supplies the sources for full English translation, preserving equations, examples and knowledge status.
+The article contains no particular events or operating rules for a particular system. Existing article URLs and bodies are retained.
 
 <a id="v0-5-0"></a>
 

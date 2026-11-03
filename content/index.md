@@ -2,7 +2,7 @@
 title: "SL · Research & Learning"
 description: "An independent researcher’s open research site: continuously revised drafts, working papers and testable inferences."
 author: SL
-version: "0.8"
+version: "0.8.1"
 created: "2026-10-31"
 updated: "2026-11-03"
 published: "2026-10-31"
@@ -28,8 +28,6 @@ You can start from a question that interests you, or follow the drafts from the 
 
 [See what has changed recently](https://sl-knowledge.github.io/knowledge-site-en/updates) · [About this site and how to read it](./about.md)
 
-## English-first public research
-
-English is now the primary public edition. Chinese can remain the drafting language; corresponding versions preserve the same claims, assumptions and article identifiers. The current collection is available in English in full.
+## Research feedback
 
 Corrections, counterexamples and translation reports are welcome through [Research feedback](https://github.com/sl-knowledge/knowledge-site-en/issues/new?template=research-feedback.yml). Include the article version and the precise statement you are questioning.

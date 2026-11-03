@@ -10,9 +10,8 @@ other use requires the author's permission in advance.
 
 Third-party material remains the property of its original rights holders.
 
-English is the primary public edition. The current translation baseline comes
-from https://github.com/sl-knowledge/knowledge-site; corresponding Chinese and
-English editions are both covered by this notice.
+The English and Chinese editions are both covered by this notice.
+Chinese edition: https://github.com/sl-knowledge/knowledge-site.
 
 The Quartz software and its derived code remain under the MIT licence in
 LICENSE.txt. The software licence is not a grant of use rights for the articles

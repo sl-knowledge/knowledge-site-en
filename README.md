@@ -1,10 +1,10 @@
 # SL · Research & Learning
 
-[Primary public edition](https://sl-knowledge.github.io/knowledge-site-en/) · [Corresponding Chinese edition](https://sl-knowledge.github.io/knowledge-site/)
+[English website](https://sl-knowledge.github.io/knowledge-site-en/) · [Corresponding Chinese edition](https://sl-knowledge.github.io/knowledge-site/)
 
 An independent researcher's open research site: continuously revised drafts, working papers and testable inferences. Each article states its author, version, dates and research status.
 
-The complete current public collection is available in English. Chinese can remain the drafting language; substantive public revisions are prepared and reviewed in English first, then aligned with Chinese. Translation preserves distinctions between established work, conditional arguments, hypotheses and observations.
+The complete current public collection is available in English and Chinese. Articles distinguish established work, conditional arguments, hypotheses and observations.
 
 [Report a correction or counterexample](https://github.com/sl-knowledge/knowledge-site-en/issues/new?template=research-feedback.yml), including the article version, exact claim and relevant assumptions. See the [publication policy](PUBLICATION-POLICY.md) and [feedback guide](CONTRIBUTING.md).
 
