@@ -8,6 +8,10 @@ The complete current public collection is available in English and Chinese. Arti
 
 [Report a correction or counterexample](https://github.com/sl-knowledge/knowledge-site-en/issues/new?template=research-feedback.yml), including the article version, exact claim and relevant assumptions. See the [publication policy](PUBLICATION-POLICY.md) and [feedback guide](CONTRIBUTING.md).
 
+## Contact
+
+For research collaboration or enquiries about content use and licensing, including AI training and evaluation, contact [slknowledge@outlook.com](mailto:slknowledge@outlook.com).
+
 ## Copyright and research use
 
 Original articles: © 2026 SL. All rights reserved. See [CONTENT-LICENSE.md](CONTENT-LICENSE.md). No Creative Commons licence has been adopted.
