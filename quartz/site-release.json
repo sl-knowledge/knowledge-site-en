@@ -1,6 +1,6 @@
 {
-  "version": "0.8.3",
+  "version": "0.8.4",
   "date": "2026-11-03",
-  "title": "Markdown formatting fixes",
-  "summary": "Fixed emphasis around Chinese punctuation and checked Markdown rendering across the site."
+  "title": "Introduction revision",
+  "summary": "Revised the structure and wording of the site introduction."
 }

@@ -1,8 +1,8 @@
 ---
 title: "What This Site Is For"
-description: "Drawing theory from concrete questions and connecting knowledge across fields, so people and AI can understand, transfer, test and use it more easily."
+description: "An evolving personal research archive of book drafts, working papers and analytical essays, recording how theories and applications develop, are tested and are revised."
 author: SL
-version: "0.5.12"
+version: "0.6.2"
 created: "2026-11-03"
 updated: "2026-11-03"
 published: "2026-11-03"
@@ -14,45 +14,15 @@ source: site-purpose.md
 sourceUpdated: "2026-11-03"
 ---
 
+This is an evolving personal research archive. It keeps book drafts, working papers and analytical essays produced during the research, and records how ideas take shape and are revised through testing.
+
 Things that seem entirely unrelated may have something in common underneath.
 
 Should a company expand? Should a collaboration deepen? Should someone change jobs? Follow these questions far enough, and a few others often appear: How much room is left? Once this step is taken, will there still be a way back?
 
-This site tries to find those connections, explain them clearly, and offer something you can try in a field you know.
+The continuing work here is to record these questions, compare the relationships they reveal, and gradually organise them into theories and methods for further study.
 
----
-
-## What you can find here
-
-**If you are working through questions in your own field:** there are some tools for thinking across fields, to help you examine what is actually holding you back, what paths remain, and which steps will be difficult to reverse. How to use them depends on your knowledge of that field.
-
-**If you are interested in how people and AI can do research together:** these articles gradually took shape through back-and-forth discussions with AI. Versions and revision histories show how many ideas changed, sometimes enough to require a fresh start.
-
----
-
-## How the questions change
-
-Research often begins with a question. As a discussion continues, its wording can change: sometimes the question needs to become more specific; sometimes what is really worth finding out needs another look.
-
-A recurring turning point in discussions with AI is this: **the AI has already given a long answer, and the response is, “No, that is not what I am asking.”** The answer may contain plenty of detail. But the discussion has revealed a need to ask the question differently.
-
-In one discussion, I introduced Newton as an analogy to explain what interested me most: **how to discover laws and formulate equations from observations, rather than simply use existing equations.**
-
-Similar questions arise elsewhere:
-
-- **Studying a company:** beyond asking how much profit has grown, how is the money actually earned? Why can this company make money, and will it still be able to when conditions change?
-- **Studying AI:** beyond whether an answer is correct, why does the model understand the question this way? Why do different models give completely different answers about the same thing?
-- **Studying life:** beyond how a fertilised egg develops into an adult, why does life start again from a tiny egg rather than directly copy an adult organism?
-
-Another example came from an ordinary moment.
-
-In September 2026, I was planting hydrangeas in the garden and hurt my back while digging a flower bed. The work had to stop. Later, in a discussion with AI, the question became: **Does back pain count as a “constraint”?**
-
-If the flowers had to be planted personally that day, the pain was clearly an obstacle. If the task was only to sketch a plan for the bed, it mattered much less. Change the conditions again: if planting did not have to be finished that day, could it wait until the back recovered? Could someone help?
-
-The back pain was the same. What changed was the task, its timing, and the availability of another approach. The question changed with them: **whether a condition is a constraint depends on what you are trying to do, as well as on the condition itself.**
-
-Many discussions begin this way. A small incident leads to a changing question. Even an apparently complete answer can leave another question worth asking: **before continuing to look for answers, is there a better question to ask?**
+Its organisation follows the research as it develops, retaining provisional ideas, unresolved questions and gaps still to be filled.
 
 ---
 
@@ -63,39 +33,37 @@ Many discussions begin this way. A small incident leads to a changing question. 
 | 2025 | Philosophical reflections on the universe proposed that “the universe moves towards the highest complexity at the fastest possible rate.” The original text formulated its central principle as selecting, among all possible paths, the path that maximises the growth rate of internal structural complexity. |
 | July 2026 | Discussions began with the universe, life and information, asking how structures form and persist. |
 | Late July–August | The search turned to common mechanisms across different phenomena, breaking the broad evolutionary conjecture into more specific questions: How do structures form and persist? Can a system retain information from its past and use it to change its future? |
-| September | The emphasis shifted from “explaining the world” towards “finding a way to study it.” An early version of [CF Grammar](./framework/methods/cf-grammar.md) took shape, and some unsupported claims were removed or narrowed. |
+| September | The emphasis shifted from “explaining the world” towards “finding a way to study it.” An early version of [CF Grammar](https://sl-knowledge.github.io/knowledge-site-en/framework/methods/cf-grammar) took shape, and some unsupported claims were removed or narrowed. |
 | Late September–October | “Abstraction itself” became a subject: which differences must be retained, and which can be set aside? Five book drafts were organised. |
 | Late October–November | The framework was used to examine itself, alongside further work on safety and control, information and time, and simplification and recoverability. |
 
 Looking back, the initial questions about the universe, life and order were difficult to answer directly. As the research continued, the questions became more specific, and the claims became easier to test against reality. Some of the resulting theories and methods also turned out to be worth trying in other fields.
 
-For more detail, see the [research history](./research-history.md).
+The process is recorded in the [research history](https://sl-knowledge.github.io/knowledge-site-en/research-history).
 
 ---
 
-## Drawing theory from concrete problems, then returning to different fields
+## From concrete questions to theory and applications
 
-Research often starts with concrete problems. Comparing different examples can reveal that, although their objects and settings differ, some relationships may be shared: which differences change a judgement, what conditions limit a choice, or how an action changes the room available afterwards.
+These articles took shape through repeated questioning. Sometimes the AI has already given a long answer, and the response is, “No, that is not what I am asking.” Discussion gradually makes the question more specific and brings the underlying interest into view.
 
-Extracting these relationships from examples, explaining the conditions they depend on, what they imply and what remains uncertain, gradually produces the theory presented here. The level of abstraction is deliberately raised so that the names and settings of objects can change while the relationships and conditions being compared remain clear. **Concrete problems offer clues for discovery; abstraction allows the structures within them to be discussed, compared and tested in their own right.**
+In one discussion, I introduced Newton as an analogy to explain what interested me most: **how to discover laws and formulate equations from observations, rather than simply use existing equations.**
 
-Such abstraction also offers a way to connect theories. Theories scattered across fields may use different terms while discussing similar relationships. Making the relationships and their conditions explicit makes it easier to see connections, and to tell which structures can be borrowed and which differences must remain.
+Similar interests arise in other topics: studying a company leads to questions about the mechanisms behind its profits; studying AI raises questions about why it understands a problem in a particular way; studying life raises the question of why a complex organism is generated anew from a fertilised egg or seed.
 
-This is why the site has a separate theory section: to bring together concepts, relationships and conditions gradually drawn from concrete questions, and to connect relevant theories. Readers can map them onto fields they know; AI can use them to compare problems, organise knowledge and assist analysis.
+An everyday example helped clarify one relationship. In September 2026, I was planting hydrangeas in the garden and hurt my back while digging a flower bed. The work had to stop. Later, in a discussion with AI, the question became: Does back pain count as a “constraint”?
 
-The main sections follow this route:
+If the flowers had to be planted personally that day, the pain was an obstacle. If the task was only to sketch a plan for the bed, it mattered much less. More time, or someone available to help, would change the feasible approaches again.
 
-- **Theory framework:** concepts and relationships, with the conditions on which judgements depend.
-- **Research methods:** how to construct representations, seek evidence, test explanations and revise them when problems emerge.
-- **Theory applications:** returning to particular fields to explain what the relationships correspond to, what domain knowledge is needed and how far testing has progressed.
+A relationship can be drawn from this example: **whether a condition is a constraint must be assessed in relation to the goal, the time available and the alternatives.** That relationship can be discussed apart from the garden setting and examined in other problems.
 
-For continuous reading, “Reading the drafts” provides the full sequence of the five book drafts.
+Theory here gradually develops in this way: compare examples, extract their relationships, and specify the conditions they depend on, what they imply and what remains uncertain. The level of abstraction is deliberately raised so that objects and settings can change while the relationships being compared remain clear.
 
-Reading a theoretical claim, you may recognise a similar structure in your own field. Domain knowledge can then fill in the mapping: What are the variables? Where are the constraints? Are the conditions the same? What evidence is still needed? This use may produce new applications, and may also expose conditions missing from the original theory.
+Theories scattered across fields may also use different terms for similar relationships. Organising their structures and conditions offers a way to connect previously separate knowledge, making it easier for people and AI to understand and use.
 
-**The value this site hopes to offer is to connect theories and knowledge scattered across fields through abstraction, making them easier for people and AI to understand, transfer and use.** How broadly those connections hold remains to be worked out through applications, testing and feedback in different fields.
+Applications bring those relationships back into particular fields, supplying variables, mechanisms and evidence. A new application may generate knowledge or expose a missing condition, prompting further revision. **Theory and application thus form a continuing exchange.**
 
-This work can also be understood through the earlier philosophical idea of “information diffusion and condensation.” Bringing together knowledge accumulated in different fields and distilling it into theory is a round of condensation. Taking that theory into new fields, where it produces applications, questions and knowledge, begins another round of diffusion. The new material can then prompt further condensation and revision. For how this cycle connects the early reflections with the present research, see [From Reflections on the Universe to Later Research](./cosmic-reflections-and-later-research.md).
+This also connects with the earlier philosophical idea of “information diffusion and condensation.” Distilling scattered knowledge into theory is a round of condensation. Taking the theory into different fields, where it produces applications, questions and knowledge, begins another round of diffusion. The new material then provides a basis for renewed condensation. This thread is developed in [From Reflections on the Universe to Later Research](https://sl-knowledge.github.io/knowledge-site-en/cosmic-reflections-and-later-research).
 
 ---
 
@@ -152,37 +120,21 @@ These examples connect knowledge in different ways. They all suggest that knowle
 
 Swanson's example shows how connections between separate literatures can generate a research hypothesis. The emphasis here is on deliberately placing concrete problems and different theories at a higher level of abstraction, organising comparable concepts, relationships and conditions so that knowledge is easier to transfer and reuse. Both approaches are concerned with connections among scattered knowledge, with different emphases.
 
-Presenting abstracted theory publicly is intended to help people and AI recognise relevant structures when facing new problems, connect existing knowledge, and then supply the conditions and evidence needed in the particular field. Whether this connection and transfer actually helps research and application is itself something the site seeks to test.
-
-One point matters throughout: **structures can be borrowed; conclusions need to be tested again under the new conditions.** Before transferring a relationship, check that the objects, constraints and evidence really correspond.
-
----
-
-## How to use this site
-
-- **Start with an article that interests you.** Follow its references to related pieces.
-- **Bring a question of your own.** When you read a principle, ask what it corresponds to in a field you know.
-- **Treat it as a tool rather than an answer.** Which ideas are useful, and whether they hold in your setting, require examination in the concrete problem.
+**Structures can be borrowed; conclusions need to be tested again under the new conditions.** Transferring a relationship requires checking that the objects, constraints and evidence correspond across fields.
 
 ---
 
 ## Why make the work public?
 
-These articles will have room for improvement, and some ideas may eventually be overturned. Publishing them invites more people to examine them. The experience of a person working with AI to turn scattered questions into articles over several months is also worth recording.
+These articles have room for improvement, and some ideas may eventually be overturned. Sharing the research records also invites people to use and test them in different fields, and to raise questions.
 
-The site publishes articles and revision histories; the original conversations are not currently public. The account of the research process above was assembled retrospectively. These materials may offer a useful starting point for others interested in trying this kind of collaboration.
-
-Some articles include dated predictions. Their outcomes will continue to be recorded. Corrections are welcome.
-
----
-
-## A question still open
-
-Many of the “parts” have already been studied. One question worth pursuing is:
+The experience of working with AI also leaves a question worth testing:
 
 > **Can repeatedly reframing a question, and using AI to find material, seek counterexamples and revise ideas, make it easier to discover new questions and produce research that stands up to others' scrutiny?**
 
-The answer is not yet known. This site is an open attempt to find out.
+The answer is not yet known. The site keeps articles and revision histories; the original conversations are not currently public, and the account of the research process was assembled retrospectively. These materials form a provisional record of this way of doing research.
+
+Some articles include dated predictions. Their outcomes will continue to be recorded. Corrections, counterexamples and new ways of testing the ideas are welcome.
 
 ---
 
