@@ -2,7 +2,7 @@
 title: "Simplification and Recovery Paths: Recoverability in Constrained Systems"
 description: "Separates the cost of representation, rules and execution from recoverability, and examines sufficiency, rule retention under limited testing and conditional comparisons."
 author: SL
-version: "0.2"
+version: "0.2.1"
 created: "2026-11-03"
 updated: "2026-11-03"
 published: "2026-11-03"
@@ -287,6 +287,8 @@ If existing tests do not distinguish two candidates, the cost ordering does not 
 New counterexamples, independent validation, model analysis or actively expanded testing may trigger revision and interrupt this mechanism. “An uncovered distinction lacks a correction signal” is therefore a conditional retention mechanism. Its frequency, duration and principal causal link require independent testing.
 
 Repeating similar scenarios adds evidence about performance under those conditions but does not automatically expand coverage. Conversely, a few tests capable of distinguishing candidates may expose a critical gap. This connects to ST3's discriminating observations and SF7's ex ante testing.
+
+The risk consequences of this retention mechanism are examined separately in [Smooth Operation Does Not Guarantee Recovery, LK1–LK4](./lock-in-vs-probability.md#lk1): routine performance, problem probability, conditional lock-in probability and consequences require separate assessment. That article supplements SF9's risk analysis; it is not evidence that the mechanism has already been empirically validated.
 
 ## 10. Reading prompts: six relationships easily confused
 

@@ -2,7 +2,7 @@
 title: "Control Authority, Information and Time: Viability-First Principles for Control and Safety Design"
 description: "Research material, not operational guidance. Examines who acts on which variables, using what information and within what time, through three failure categories, four assurance obligations and five comparative properties."
 author: SL
-version: "0.2.1"
+version: "0.2.2"
 created: "2026-11-02"
 updated: "2026-11-03"
 published: "2026-11-02"
@@ -177,6 +177,8 @@ Comparable structures appear in organisational cooperation, long-term relationsh
 > **C17. Under uncertainty, explicitly compare recoverability and future options.** When no action can be certified safe for all compatible states, effects on subsequent recoverability, effective options and irreversibility may serve as a candidate comparison criterion. Specify model, scenarios, horizon, constraints, costs and evaluation standards.
 
 This **candidate decision principle** is introduced where C12's guarantee cannot be obtained. It is not deduced from C12 alone and supplies no safety guarantee. More paths are not automatically better: they may fail together, be unaffordable, or exist only in an estimate omitting conditions. Define the objects and comparison relation rather than counting options. All actions may be unrecoverable, unrankable or insufficiently evidenced.
+
+For a probabilistic comparison, [Smooth Operation Does Not Guarantee Recovery, LK1, LK2 and LK5](../framework/foundations/lock-in-vs-probability.md#lk5), separates problem probability, conditional lock-in probability and consequences, and explains why high conditional lock-in probability alone does not justify exclusion. Specify events, horizon, information and resources; a recovery guarantee or upper bound within a model is not automatically a safety certification for the actual system.
 
 **Principles need implementation and testing.** Comprehensive comparison may be impossible under time pressure. Research may translate validated judgement into recognisable triggers, training, planning or bounded authority during preparation, then test usability under information error, cognitive load and delay. Pre-excluding options needs validation of boundaries, mistaken exclusions and alternatives; the principle alone specifies no action direction and certifies no remaining option.
 

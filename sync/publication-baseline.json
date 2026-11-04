@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "release": "0.8.3",
+  "release": "0.9.0",
   "date": "2026-11-03",
-  "publicationRef": "site-v0.8.3",
+  "publicationRef": "site-v0.9.0",
   "chineseResearchBaselineTag": "site-v0.6.0",
   "hashDefinition": "SHA-256 of UTF-8 Markdown with CRLF normalised to LF; includes frontmatter.",
   "notice": "A translation and publication snapshot, not evidence that every claim has been validated.",
@@ -41,11 +41,11 @@
     },
     {
       "path": "applications/viability-first-control.md",
-      "version": "0.2.1",
+      "version": "0.2.2",
       "sourceUpdated": "2026-11-03",
       "kind": "article",
-      "chineseTextSha256": "3df3061df6c668b577cb5255f0610f75849350f9866b6d0c1ca1ed678677e507",
-      "englishTextSha256": "b487d12b60dcc1d8420119e1761276af00cc5b5d08fd1a45121cde44182a57d3"
+      "chineseTextSha256": "3a6f7611c08cced21eb3818ed78a9ed466a10956948f41722807212754215f12",
+      "englishTextSha256": "32adfdf051f2b25d405daf1a8817913b79d713cfb86a213989bb6f1ed949134b"
     },
     {
       "path": "cosmic-reflections-and-later-research.md",
@@ -89,11 +89,11 @@
     },
     {
       "path": "framework/book/acting-under-uncertainty.md",
-      "version": "0.2.1",
+      "version": "0.2.2",
       "sourceUpdated": "2026-11-03",
       "kind": "article",
-      "chineseTextSha256": "65c534f5d1fd77fdc0de099314d95dd53a318a9db866c50d79f3fd8ed5ba7a0b",
-      "englishTextSha256": "7ab4a7ad2d238df8610f717316d799da1e7be3fd75c5b1c8db1c8aed8bc63afb"
+      "chineseTextSha256": "1f103e13a9454e4b3511330b4c74a189de85429ec54bcbb38dfcdb8843f23c40",
+      "englishTextSha256": "e29bfa67bf7d54614bcab82926bfd57c45078950017946fcd205de3cda658a8f"
     },
     {
       "path": "framework/book/book-reading-guide.md",
@@ -192,12 +192,20 @@
       "englishTextSha256": "4ce7c0d4286c39ba8125b5d5de36c115a111ecc60fc774878a1beb1343423306"
     },
     {
-      "path": "framework/foundations/simplicity-and-recovery.md",
-      "version": "0.2",
+      "path": "framework/foundations/lock-in-vs-probability.md",
+      "version": "0.4",
       "sourceUpdated": "2026-11-03",
       "kind": "article",
-      "chineseTextSha256": "f905cc00865c5a3175ee92a5e649f7930b74290675d3cc3b69811dc61cbf91c9",
-      "englishTextSha256": "814a3ec77f9a6c11ced539b739b8d8491f051e79e0302406a6e770beedcba8cc"
+      "chineseTextSha256": "171c09e59677362e773a3b00b610d6a2b3d711ed89e3f5945c87af84cc818945",
+      "englishTextSha256": "f601124f7621786e8495d1132a7b600246cacda85e2bb78f997ef81284ef48ac"
+    },
+    {
+      "path": "framework/foundations/simplicity-and-recovery.md",
+      "version": "0.2.1",
+      "sourceUpdated": "2026-11-03",
+      "kind": "article",
+      "chineseTextSha256": "92f57d6c64b75048b60977d1c944b96ba371111363173c4030ca316d0447770a",
+      "englishTextSha256": "d80c0100167e90763ac2bb26e9a67e68e991c582e0813defb3a9d0804e109777"
     },
     {
       "path": "framework/foundations/systems-within-the-universe.md",
@@ -217,11 +225,11 @@
     },
     {
       "path": "framework/index.md",
-      "version": "0.7",
+      "version": "0.8",
       "sourceUpdated": "2026-11-03",
       "kind": "category",
-      "chineseTextSha256": "48cf60cbb406b5f28d79351806fa6904b1c565e8d43cd9d012a420fc066a6a5d",
-      "englishTextSha256": "ab2119f154462878dff67e6671cbbaa9fb46e3481120666c9db01d32a768a383"
+      "chineseTextSha256": "345158c963893d7819f47535ecfd58514cd0c548681463db821dad499f47158a",
+      "englishTextSha256": "0ff7e760ba7a4ad323e01c7401ec0ee1529225cc0fa58d3544ddf0d259a59027"
     },
     {
       "path": "framework/methods/canonical-vocabulary.md",
@@ -289,11 +297,11 @@
     },
     {
       "path": "framework/methods/stress-testing.md",
-      "version": "0.2",
-      "sourceUpdated": "2026-11-02",
+      "version": "0.2.1",
+      "sourceUpdated": "2026-11-03",
       "kind": "article",
-      "chineseTextSha256": "036b2fb0b3964bcaaec22abaad9921a7d638511da9ead8267c1ca869c3681c88",
-      "englishTextSha256": "b3e903ea988b0658074d831c85cec25b7a07bd7cfd9c91e14eb959a324577fa3"
+      "chineseTextSha256": "59ae13270263e2c1445234a458d0d7eebcc59a67ea4dc5a927098aabec70a6db",
+      "englishTextSha256": "7bd12fab4be575ac8cdb96be787e1a0609bb3673121897168d499fc6ae8a51d7"
     },
     {
       "path": "index.md",
@@ -385,19 +393,19 @@
     },
     {
       "path": "site-purpose.md",
-      "version": "0.5.12",
+      "version": "0.6.2",
       "sourceUpdated": "2026-11-03",
       "kind": "guide",
-      "chineseTextSha256": "79bca0b62be205f64aba3f33910d2c6f07cd4ed1ba5e96e48afcdab345faf803",
-      "englishTextSha256": "509516aa782f71c79d73f0b367def7ef17649a7a5680a190f96252bc45fc559e"
+      "chineseTextSha256": "5b7c2257098e00797a349bd3acf20e8dc7a21cebfb25a642624b93bed8de26bd",
+      "englishTextSha256": "99cb561aa7f91d37ebfd6292dea81ce7b0c9b27f698a816f1c786ab7577a4d3a"
     },
     {
       "path": "updates.md",
-      "version": "1.1.4",
+      "version": "1.2",
       "sourceUpdated": "2026-11-03",
       "kind": "release",
-      "chineseTextSha256": "9fd0f81bb26ab6ef7041d5d15aef68647ad093008ef3b43ccec5e09f95cabd09",
-      "englishTextSha256": "e744aeab98aa1120c7ea13548abbdef8f881ccd328bae5f6a6a9c618f6645e9d"
+      "chineseTextSha256": "901c6acbae9b479d5221c4a6c31e985f1a3f8e46bb4a4810a993ba0841aea971",
+      "englishTextSha256": "840586d8c5506ca4066a29b74a69da34962ffc1e1c9364bec417c9f1a1c2e45c"
     }
   ],
   "previousPublicationRef": "site-v0.8.2"

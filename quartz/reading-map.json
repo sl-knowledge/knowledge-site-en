@@ -33,7 +33,8 @@
           "id": "decision",
           "title": "Uncertainty and decision",
           "slugs": [
-            "framework/book/acting-under-uncertainty"
+            "framework/book/acting-under-uncertainty",
+            "framework/foundations/lock-in-vs-probability"
           ]
         },
         {
@@ -522,6 +523,16 @@
         "framework/book/acting-under-uncertainty",
         "framework/methods/stress-testing"
       ]
+    },
+    "framework/foundations/lock-in-vs-probability": {
+      "section": "theory",
+      "group": "decision",
+      "role": "Probability definitions and conditional risk analysis",
+      "bookReference": "Part three: unrecoverable losses; SF9: screening and retention",
+      "readings": [
+        "framework/book/acting-under-uncertainty",
+        "framework/foundations/simplicity-and-recovery"
+      ]
     }
   },
   "titles": {
@@ -557,7 +568,8 @@
     "applications/cooperation-under-incomplete-trust": "Cooperation under Incomplete Trust: Warning Margin and Recoverability",
     "applications/viability-first-control": "Control Authority, Information and Time: Viability-First Principles for Control and Safety Design",
     "applications/physical-ai-interview": "Continuing Capability or Dependency That Is Hard to Exit? Reading a Physical AI Interview",
-    "framework/foundations/simplicity-and-recovery": "Simplification and Recovery Paths: Recoverability in Constrained Systems"
+    "framework/foundations/simplicity-and-recovery": "Simplification and Recovery Paths: Recoverability in Constrained Systems",
+    "framework/foundations/lock-in-vs-probability": "Smooth Operation Does Not Guarantee Recovery: Problem Probability and Lock-In Risk"
   },
   "labels": {
     "framework/book/constraints-and-future-options": "Part one | Reality and dynamic systems",

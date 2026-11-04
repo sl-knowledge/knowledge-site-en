@@ -2,9 +2,9 @@
 title: "Stress Testing: Constraint Identification, Feedback and Recovery Windows"
 description: "ST1–ST12 organise checks of constraints, feedback, recovery windows and common failure, separating scenario diagnosis, mechanism hypotheses and empirical validation."
 author: SL
-version: "0.2"
+version: "0.2.1"
 created: "2026-11-02"
-updated: "2026-11-02"
+updated: "2026-11-03"
 status: "Public research draft · working methodological framework"
 published: "2026-11-02"
 publish: true
@@ -12,7 +12,7 @@ kind: article
 lang: en
 language: en
 source: framework/methods/stress-testing.md
-sourceUpdated: "2026-11-02"
+sourceUpdated: "2026-11-03"
 aliases:
   - framework/stress-testing
 ---
@@ -114,6 +114,8 @@ Useful monitoring also needs defined information recipients, authority, executio
 ### ST11. Distinguish deduction, observation and causal identification
 
 Hypothetical examples illustrate logic; simulations depend on models; a historical event consistent with a theory provides only limited evidence. Natural shocks, randomised experiments and retrospective tests have different identification conditions. Passing listed scenarios does not guarantee responses to unlisted ones, and a single failure does not establish a unique mechanism. Report uncertainty, sensitivity, attrition and model omissions.
+
+Probability assessment also separates scenario coverage from event rates. [Smooth Operation Does Not Guarantee Recovery, LK1, LK2 and LK6](../foundations/lock-in-vs-probability.md#lk6), explains probability decomposition, policy guarantees versus unrecoverable states, and exposure denominators for comparison. A test failure proportion cannot serve as an actual conditional lock-in probability or credible upper bound without a probability model and an account of sampling.
 
 <a id="st12"></a>
 

@@ -2,7 +2,7 @@
 title: "Site Update Log"
 description: "Records site versions, release dates, additions and important revisions, and their effect on reading and citation."
 author: SL
-version: "1.1.5"
+version: "1.2"
 created: "2026-11-02"
 updated: "2026-11-03"
 published: "2026-11-02"
@@ -14,6 +14,12 @@ sourceUpdated: "2026-11-03"
 ---
 
 A site version records a batch of public content and reading-structure changes; every article keeps its own version and update date.
+
+<a id="v0-9-0"></a>
+
+## v0.9.0 · 2026-11-03
+
+Published [Smooth Operation Does Not Guarantee Recovery v0.4](./framework/foundations/lock-in-vs-probability.md) under Theory Framework → Uncertainty and decision, separating problem probability, conditional lock-in probability and consequences. Added contextual references in Simplification and Recovery Paths, Acting in an Uncertain World, Stress Testing, and Control Authority, Information and Time; their principle identifiers are retained. Both editions are updated.
 
 <a id="v0-8-4"></a>
 

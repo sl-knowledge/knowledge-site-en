@@ -2,7 +2,7 @@
 title: "Theory Framework"
 description: "Enter through the overall architecture, the canonical vocabulary and the three trunks of reality, representation and decision, then read the systems, values, life and concept topics."
 author: "SL"
-version: "0.7"
+version: "0.8"
 created: "2026-10-31"
 updated: "2026-11-03"
 published: "2026-10-31"
@@ -76,6 +76,8 @@ Scope itself needs testing. A study should specify in advance what additional co
 ## Uncertainty and decision
 
 - [Acting in an Uncertain World](https://sl-knowledge.github.io/knowledge-site-en/framework/book/acting-under-uncertainty): from judgement to action: consequences, robustness, the value of waiting, commitment and lock-in.
+
+- [Smooth Operation Does Not Guarantee Recovery: Problem Probability and Lock-In Risk](./foundations/lock-in-vs-probability.md): LK1–LK6 distinguish routine performance, probability, recoverability and consequences; a risk-analysis supplement to SF9.
 
 <a id="values"></a>
 

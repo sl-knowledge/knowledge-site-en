@@ -2,7 +2,7 @@
 title: "Acting in an Uncertain World"
 description: "Ten chapters distinguish forecasts from consequences and examine viability, robustness, reversibility, information value, commitment and adaptive strategies."
 author: SL
-version: "0.2.1"
+version: "0.2.2"
 created: "2026-11-01"
 updated: "2026-11-03"
 published: "2026-11-01"
@@ -65,6 +65,8 @@ In the factory snapshot, committing the full 80 leaves 20, below the illustrativ
 The task is to turn severe failure into explicit checks rather than merely saying “the risk is high”: what triggers it, is the consequence unrecoverable, can it be isolated, are there common causes, and what evidence or resource arrangements would make the path executable?
 
 Allowing recoverable trial and error while preserving the conditions for further learning is the process this framework seeks to protect.
+
+For a probabilistic formulation, [Smooth Operation Does Not Guarantee Recovery, LK1–LK2](../foundations/lock-in-vs-probability.md#lk1), separately defines problem probability, conditional lock-in probability and consequences. Lack of a recovery guarantee for the current policy differs from having no recovery method under the permitted conditions; high conditional lock-in probability does not by itself establish higher overall lock-in probability.
 
 ## Chapter 3. Robustness: examine which futures make a strategy fail
 
