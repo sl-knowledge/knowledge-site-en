@@ -9,11 +9,11 @@
   "pages": [
     {
       "path": "about.md",
-      "version": "0.10.0",
+      "version": "0.10.1",
       "sourceUpdated": "2026-11-04",
       "kind": null,
-      "chineseTextSha256": "5d9f692ae44876c952e10afd157c7e7670491ab48d746888ab5faa733e6bf425",
-      "englishTextSha256": "d6ec76b0cd55927b2951fe703d4697b6e65963c4a471465408e607485aa332d9"
+      "chineseTextSha256": "5a4d77a6cc2a6dbc745ea834684db76ff884a6fe9a8b50b215b134c14858758b",
+      "englishTextSha256": "0f509371528a0135df1372444c8d284e378ca981f93cfb243c7548aa3f944248"
     },
     {
       "path": "applications/cooperation-under-incomplete-trust.md",
@@ -412,8 +412,8 @@
       "version": "1.4.1",
       "sourceUpdated": "2026-11-04",
       "kind": "release",
-      "chineseTextSha256": "81775d033705cf71c575a85b629f44d2079d0a9e4b21cbf729868bfc7321fc1b",
-      "englishTextSha256": "a3c95b02ad9011d86c6e6410c871c142387d2112dc8adec4cef3b68b5e77a0dd"
+      "chineseTextSha256": "1e831f34260215e71f99fc76e47cdd8ef1ce70276639822b998d1312224cc689",
+      "englishTextSha256": "7cac857e2c6a1e9258d81b316b7ed195b304e6baffd226688deaae9f59a29f60"
     }
   ],
   "previousPublicationRef": "site-v0.8.2"

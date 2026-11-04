@@ -10,7 +10,7 @@ The complete current public collection is available in English and Chinese. Arti
 
 ## Contact
 
-For research collaboration or enquiries about content use and licensing, including AI training and evaluation, contact [slknowledge@outlook.com](mailto:slknowledge@outlook.com).
+For enquiries about content use and licensing, including AI training and evaluation, contact [slknowledge@outlook.com](mailto:slknowledge@outlook.com).
 
 ## Copyright and research use
 

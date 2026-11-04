@@ -19,7 +19,7 @@ A site version records a batch of public content and reading-structure changes; 
 
 ## v0.11.1 · 2026-11-04
 
-Added a [contact section](./about.md#contact) for research collaboration and content-use enquiries. A Contact link in each edition's footer opens the contact details.
+Added a [contact section](./about.md#contact) for content-use enquiries. A Contact link in each edition's footer opens the contact details.
 
 <a id="v0-11-0"></a>
 

@@ -2,7 +2,7 @@
 title: "About"
 description: "SL's public research: theory frameworks, research methods, domain applications, versions and copyright."
 author: SL
-version: "0.10.0"
+version: "0.10.1"
 created: "2026-10-31"
 updated: "2026-11-04"
 published: "2026-10-31"
@@ -40,7 +40,7 @@ Earlier published versions can be traced through the public repository, subject 
 
 ## Contact
 
-For research collaboration or enquiries about content use and licensing, including AI training and evaluation, contact [slknowledge@outlook.com](mailto:slknowledge@outlook.com).
+For enquiries about content use and licensing, including AI training and evaluation, contact [slknowledge@outlook.com](mailto:slknowledge@outlook.com).
 
 ## Research feedback
 
