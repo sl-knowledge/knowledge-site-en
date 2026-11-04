@@ -2,14 +2,14 @@
 title: "About"
 description: "SL's public research: theory frameworks, research methods, domain applications, versions and copyright."
 author: SL
-version: "0.9.1"
+version: "0.10.0"
 created: "2026-10-31"
-updated: "2026-11-03"
+updated: "2026-11-04"
 published: "2026-10-31"
 publish: true
 lang: en
 source: about.md
-sourceUpdated: "2026-11-03"
+sourceUpdated: "2026-11-04"
 ---
 
 ## Explore the site
@@ -37,6 +37,10 @@ Every article states its author, version, creation date and update date. The fir
 The same article is updated at the same address. A substantial revision raises the minor version (for example 0.1 → 0.2); an erratum raises the revision number (for example 0.2 → 0.2.1). The site version records each batch of content and reading-structure changes separately, in the [site update log](https://sl-knowledge.github.io/knowledge-site-en/updates). Cite the version of the article you refer to; important revisions and withdrawals state their impact.
 
 Earlier published versions can be traced through the public repository, subject to documented withdrawals.
+
+## Contact
+
+For research collaboration or enquiries about content use and licensing, including AI training and evaluation, contact [slknowledge@outlook.com](mailto:slknowledge@outlook.com).
 
 ## Research feedback
 

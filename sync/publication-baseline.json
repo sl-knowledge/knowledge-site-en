@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "release": "0.11.0",
+  "release": "0.11.1",
   "date": "2026-11-04",
-  "publicationRef": "site-v0.11.0",
+  "publicationRef": "site-v0.11.1",
   "chineseResearchBaselineTag": "site-v0.6.0",
   "hashDefinition": "SHA-256 of UTF-8 Markdown with CRLF normalised to LF; includes frontmatter.",
   "notice": "A translation and publication snapshot, not evidence that every claim has been validated.",
   "pages": [
     {
       "path": "about.md",
-      "version": "0.9.1",
-      "sourceUpdated": "2026-11-03",
+      "version": "0.10.0",
+      "sourceUpdated": "2026-11-04",
       "kind": null,
-      "chineseTextSha256": "8858bac15177ccbc1615cec040b52fc636c26292c5802435e6efdb9005a3e031",
-      "englishTextSha256": "7d964a3a8465d660efd5045211df20af91e08b3329d5374f87e0c291044213eb"
+      "chineseTextSha256": "5d9f692ae44876c952e10afd157c7e7670491ab48d746888ab5faa733e6bf425",
+      "englishTextSha256": "d6ec76b0cd55927b2951fe703d4697b6e65963c4a471465408e607485aa332d9"
     },
     {
       "path": "applications/cooperation-under-incomplete-trust.md",
@@ -409,11 +409,11 @@
     },
     {
       "path": "updates.md",
-      "version": "1.4",
+      "version": "1.4.1",
       "sourceUpdated": "2026-11-04",
       "kind": "release",
-      "chineseTextSha256": "045511d7a5454c88e1217913f98af29dd978445616f56336c995a287662dde6c",
-      "englishTextSha256": "dc539b4050d709a8a3ba814e38ba5569a5c0e54341841865e5ecad8637f77545"
+      "chineseTextSha256": "81775d033705cf71c575a85b629f44d2079d0a9e4b21cbf729868bfc7321fc1b",
+      "englishTextSha256": "a3c95b02ad9011d86c6e6410c871c142387d2112dc8adec4cef3b68b5e77a0dd"
     }
   ],
   "previousPublicationRef": "site-v0.8.2"

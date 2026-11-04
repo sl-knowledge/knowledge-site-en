@@ -234,6 +234,7 @@ export const PublicationFooter: QuartzComponent = ({ fileData }: QuartzComponent
         <a class="internal" href={`${root}/about`}>
           About &amp; copyright
         </a>
+        <a class="internal" href={`${root}/about#contact`}>Contact</a>
         <a class="language-switch" href={sourceUrl(fileData.slug!)} hreflang="zh-CN" lang="zh-CN">
           中文版
         </a>
