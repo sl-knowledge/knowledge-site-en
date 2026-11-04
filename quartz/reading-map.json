@@ -538,11 +538,13 @@
     "applications/investment-evidence-self-check": {
       "section": "applications",
       "group": "company",
-      "role": "Evidence review and research self-check",
-      "bookReference": "Part four: investment evidence; part two: competing explanations and revision",
+      "role": "Hypothesis dependencies and evidence updating",
+      "bookReference": "Part two: representation and revision; timescales and constraints",
       "readings": [
-        "framework/methods/investment-research-charter",
-        "framework/book/what-belongs-in-a-model"
+        "framework/book/what-belongs-in-a-model",
+        "framework/foundations/systems-within-the-universe",
+        "framework/methods/stress-testing",
+        "framework/methods/investment-research-charter"
       ]
     }
   },
@@ -581,7 +583,7 @@
     "applications/physical-ai-interview": "Continuing Capability or Dependency That Is Hard to Exit? Reading a Physical AI Interview",
     "framework/foundations/simplicity-and-recovery": "Simplification and Recovery Paths: Recoverability in Constrained Systems",
     "framework/foundations/lock-in-vs-probability": "Smooth Operation Does Not Guarantee Recovery: Problem Probability and Lock-In Risk",
-    "applications/investment-evidence-self-check": "Is Evidence Updating the Judgement or Defending the Original View? A Self-Check for Investment Research"
+    "applications/investment-evidence-self-check": "Is Evidence Updating the Judgement or Defending the Original View?"
   },
   "labels": {
     "framework/book/constraints-and-future-options": "Part one | Reality and dynamic systems",

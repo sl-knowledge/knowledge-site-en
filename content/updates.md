@@ -2,7 +2,7 @@
 title: "Site Update Log"
 description: "Records site versions, release dates, additions and important revisions, and their effect on reading and citation."
 author: SL
-version: "1.3"
+version: "1.4"
 created: "2026-11-02"
 updated: "2026-11-04"
 published: "2026-11-02"
@@ -14,6 +14,12 @@ sourceUpdated: "2026-11-04"
 ---
 
 A site version records a batch of public content and reading-structure changes; every article keeps its own version and update date.
+
+<a id="v0-11-0"></a>
+
+## v0.11.0 · 2026-11-04
+
+Updated [Is Evidence Updating the Judgement or Defending the Original View? to v0.3](./applications/investment-evidence-self-check.md). The general method now begins with a hypothesis dependency graph and twelve review questions, then develops timescales, conditional transmission, blocking points, relevance review and mechanism reassessment. Node and evidence cards accompany an abstract conditional analysis. Related research and references are collected at the end. The article remains under Companies and investment; both editions are updated.
 
 <a id="v0-10-0"></a>
 

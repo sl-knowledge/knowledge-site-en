@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "release": "0.10.0",
+  "release": "0.11.0",
   "date": "2026-11-04",
-  "publicationRef": "site-v0.10.0",
+  "publicationRef": "site-v0.11.0",
   "chineseResearchBaselineTag": "site-v0.6.0",
   "hashDefinition": "SHA-256 of UTF-8 Markdown with CRLF normalised to LF; includes frontmatter.",
   "notice": "A translation and publication snapshot, not evidence that every claim has been validated.",
@@ -25,19 +25,19 @@
     },
     {
       "path": "applications/index.md",
-      "version": "0.6",
+      "version": "0.7",
       "sourceUpdated": "2026-11-04",
       "kind": "category",
-      "chineseTextSha256": "2eb85365d826953e35032f425843152318249866796425517fc52503684b2712",
-      "englishTextSha256": "77f7eaf3da237c1d150c3eea3b1461ce4e90a7038af76a27b5f979696946c1c3"
+      "chineseTextSha256": "f339b4086d8cb4e8b38efa49993e2cb01663ac12bc281c348c3b42567ff69384",
+      "englishTextSha256": "f4ef2f107ee1c098f230505eebfa2b85deef4ad6a5c4daa13ac377aeb4a0c530"
     },
     {
       "path": "applications/investment-evidence-self-check.md",
-      "version": "0.1",
+      "version": "0.3",
       "sourceUpdated": "2026-11-04",
       "kind": "article",
-      "chineseTextSha256": "e6408b5bfee92118cc195b5c3150d8a3c04d1f0a00d636f33b65d40463dc62e2",
-      "englishTextSha256": "d94eaf4d80bf98bf74ce096e66c28fdb1fc2cf9e441bf4bb0f8a29208b89a425"
+      "chineseTextSha256": "8bb48a6f1005778b66dbd91b58dc2c3b8f9c1b9dbe56d7f41c1ef09035af698c",
+      "englishTextSha256": "64c53d8ab8e1b9bf200c24eecd086f871bf09a2a3e7b669a968c429b31b00130"
     },
     {
       "path": "applications/physical-ai-interview.md",
@@ -409,11 +409,11 @@
     },
     {
       "path": "updates.md",
-      "version": "1.3",
+      "version": "1.4",
       "sourceUpdated": "2026-11-04",
       "kind": "release",
-      "chineseTextSha256": "be8161e3724b0d9b6aca30a46e18a091133e70fa43868d41777fb511f1808488",
-      "englishTextSha256": "96476ef2111e90cfef008a0e418ca4ee1b944338ace57ca2438f909c91c6d32f"
+      "chineseTextSha256": "045511d7a5454c88e1217913f98af29dd978445616f56336c995a287662dde6c",
+      "englishTextSha256": "dc539b4050d709a8a3ba814e38ba5569a5c0e54341841865e5ecad8637f77545"
     }
   ],
   "previousPublicationRef": "site-v0.8.2"

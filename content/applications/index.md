@@ -2,7 +2,7 @@
 title: "Theory Applications"
 description: "Enter through companies, economic circulation, learning, language, cooperation, control and personal choice, separating domain frameworks, methods, cases and hypotheses still to be tested."
 author: SL
-version: "0.6"
+version: "0.7"
 created: "2026-11-02"
 updated: "2026-11-04"
 published: "2026-11-02"
@@ -26,7 +26,7 @@ This group is research material, not investment or trading advice; a research ch
 - [The Three Systems of Investment: Company, Market and Investor](https://sl-knowledge.github.io/knowledge-site-en/framework/book/investment-three-systems): domain framework: separates company, market and investor, and keeps the full argument of part four of the drafts.
 - [Company Analysis Protocol: An Operational Outline](https://sl-knowledge.github.io/knowledge-site-en/framework/methods/company-analysis-protocol): domain research method: customer tasks, operating mechanisms, financial checks, key evidence and long-term tracking.
 - [Investment Research and Trading Decisions: An Overall Charter](https://sl-knowledge.github.io/knowledge-site-en/framework/methods/investment-research-charter): domain research method: research objectives, evidence discipline, valuation scenarios and independent validation.
-- [Is Evidence Updating the Judgement or Defending the Original View?](./investment-evidence-self-check.md): a research self-check covering information gathering, evaluation, updating and review, with a hypothesis card and evidence-update record.
+- [Is Evidence Updating the Judgement or Defending the Original View?](./investment-evidence-self-check.md): a general evidence-updating method with hypothesis dependencies, twelve review questions, timescales, conditional transmission and reviewable records.
 - [Why Past Success Can Become the Constraint on the Next Transition?](https://sl-knowledge.github.io/knowledge-site-en/framework/cases/success-and-transition): historical case comparison: separates capability, organisational constraint, preparation, competitive window and other explanations.
 - [Oriental Yuhong: When Does Business Reconstruction Count as Real Improvement?](https://sl-knowledge.github.io/knowledge-site-en/framework/cases/business-reconstruction-yuhong): company case: checks channel structure, credit capital efficiency and the transfer of overseas capability separately.
 - [Sustainable Capability, or a Dependency That Is Hard to Exit?](https://sl-knowledge.github.io/knowledge-site-en/applications/physical-ai-interview): industry case: works from transcript material and a hypothetical company to analyse dependence on robot services and the recovery window.
