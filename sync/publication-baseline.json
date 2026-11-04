@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "release": "0.9.0",
-  "date": "2026-11-03",
-  "publicationRef": "site-v0.9.0",
+  "release": "0.10.0",
+  "date": "2026-11-04",
+  "publicationRef": "site-v0.10.0",
   "chineseResearchBaselineTag": "site-v0.6.0",
   "hashDefinition": "SHA-256 of UTF-8 Markdown with CRLF normalised to LF; includes frontmatter.",
   "notice": "A translation and publication snapshot, not evidence that every claim has been validated.",
@@ -25,11 +25,19 @@
     },
     {
       "path": "applications/index.md",
-      "version": "0.5",
-      "sourceUpdated": "2026-11-02",
+      "version": "0.6",
+      "sourceUpdated": "2026-11-04",
       "kind": "category",
-      "chineseTextSha256": "b383c4a87aadafbff685b8507e4bc3e56873bb07cd8a1aff328650bf7a78ecc6",
-      "englishTextSha256": "f5e01ff7f56cdfc222c50ebeed44f074f53e4dee8f5a89bd9cce586151e148cc"
+      "chineseTextSha256": "2eb85365d826953e35032f425843152318249866796425517fc52503684b2712",
+      "englishTextSha256": "77f7eaf3da237c1d150c3eea3b1461ce4e90a7038af76a27b5f979696946c1c3"
+    },
+    {
+      "path": "applications/investment-evidence-self-check.md",
+      "version": "0.1",
+      "sourceUpdated": "2026-11-04",
+      "kind": "article",
+      "chineseTextSha256": "e6408b5bfee92118cc195b5c3150d8a3c04d1f0a00d636f33b65d40463dc62e2",
+      "englishTextSha256": "d94eaf4d80bf98bf74ce096e66c28fdb1fc2cf9e441bf4bb0f8a29208b89a425"
     },
     {
       "path": "applications/physical-ai-interview.md",
@@ -401,11 +409,11 @@
     },
     {
       "path": "updates.md",
-      "version": "1.2",
-      "sourceUpdated": "2026-11-03",
+      "version": "1.3",
+      "sourceUpdated": "2026-11-04",
       "kind": "release",
-      "chineseTextSha256": "901c6acbae9b479d5221c4a6c31e985f1a3f8e46bb4a4810a993ba0841aea971",
-      "englishTextSha256": "840586d8c5506ca4066a29b74a69da34962ffc1e1c9364bec417c9f1a1c2e45c"
+      "chineseTextSha256": "be8161e3724b0d9b6aca30a46e18a091133e70fa43868d41777fb511f1808488",
+      "englishTextSha256": "96476ef2111e90cfef008a0e418ca4ee1b944338ace57ca2438f909c91c6d32f"
     }
   ],
   "previousPublicationRef": "site-v0.8.2"

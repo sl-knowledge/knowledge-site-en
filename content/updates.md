@@ -2,18 +2,24 @@
 title: "Site Update Log"
 description: "Records site versions, release dates, additions and important revisions, and their effect on reading and citation."
 author: SL
-version: "1.2"
+version: "1.3"
 created: "2026-11-02"
-updated: "2026-11-03"
+updated: "2026-11-04"
 published: "2026-11-02"
 publish: true
 kind: release
 lang: en
 source: updates.md
-sourceUpdated: "2026-11-03"
+sourceUpdated: "2026-11-04"
 ---
 
 A site version records a batch of public content and reading-structure changes; every article keeps its own version and update date.
+
+<a id="v0-10-0"></a>
+
+## v0.10.0 · 2026-11-04
+
+Published [Is Evidence Updating the Judgement or Defending the Original View? v0.1](./applications/investment-evidence-self-check.md) under Theory Applications → Companies and investment. The article compares five studies with the existing research methods and provides twelve self-check questions, a hypothesis card and an evidence-update record. It remains a working research method whose overall effectiveness has not been independently validated. Both editions are available.
 
 <a id="v0-9-0"></a>
 
