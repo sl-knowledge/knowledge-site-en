@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "release": "0.11.1",
-  "date": "2026-11-04",
-  "publicationRef": "site-v0.11.1",
+  "release": "0.12.0",
+  "date": "2026-11-06",
+  "publicationRef": "site-v0.12.0",
   "chineseResearchBaselineTag": "site-v0.6.0",
   "hashDefinition": "SHA-256 of UTF-8 Markdown with CRLF normalised to LF; includes frontmatter.",
   "notice": "A translation and publication snapshot, not evidence that every claim has been validated.",
@@ -425,11 +425,11 @@
     },
     {
       "path": "updates.md",
-      "version": "1.4.1",
-      "sourceUpdated": "2026-11-04",
+      "version": "1.5.0",
+      "sourceUpdated": "2026-11-06",
       "kind": "release",
-      "chineseTextSha256": "1e831f34260215e71f99fc76e47cdd8ef1ce70276639822b998d1312224cc689",
-      "englishTextSha256": "7cac857e2c6a1e9258d81b316b7ed195b304e6baffd226688deaae9f59a29f60"
+      "chineseTextSha256": "8a8a4bde7a352821569eaeb58d33bf9846abe234a940a957ee8befba0f806e51",
+      "englishTextSha256": "97b7f2924c60f7042d8bf9726b8c76350d58bd9760adef0fdd1d5fcdfc1c6133"
     }
   ],
   "previousPublicationRef": "site-v0.8.2"

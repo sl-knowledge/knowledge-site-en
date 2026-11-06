@@ -2,18 +2,28 @@
 title: "Site Update Log"
 description: "Records site versions, release dates, additions and important revisions, and their effect on reading and citation."
 author: SL
-version: "1.4.1"
+version: "1.5.0"
 created: "2026-11-02"
-updated: "2026-11-04"
+updated: "2026-11-06"
 published: "2026-11-02"
 publish: true
 kind: release
 lang: en
 source: updates.md
-sourceUpdated: "2026-11-04"
+sourceUpdated: "2026-11-06"
 ---
 
 A site version records a batch of public content and reading-structure changes; every article keeps its own version and update date.
+
+<a id="v0-12-0"></a>
+
+## v0.12.0 · 2026-11-06
+
+- Added [What Are We Studying, and Why? v0.1](./research-programme.md). The opening of [What This Site Is For v0.7.1](./site-purpose.md) summarises the research subject and purpose and links to the full programme.
+- Published [From Cosmic Questions to Research Methods: Bunge and My Two Research Paths v0.1.2](./bunge-and-research-path.md), with an entry in [Research History: 2025–2026 v0.1.7](./research-history.md).
+- Added “Research programme and history” and “Subject indexes” groups to the sidebar, covering all 53 public pages. Build checks verify sidebar coverage on every page.
+
+Both editions are updated. Existing article URLs are retained.
 
 <a id="v0-11-1"></a>
 
