@@ -1,8 +1,8 @@
 ---
-title: "From Cosmic Questions to Research Methods: Bunge’s Path and Mine"
-description: "Mario Bunge’s research path provides a point of comparison for a retrospective account of this site’s move from language and cosmic questions towards representation and research methods."
+title: "From Cosmic Questions to Research Methods: Bunge and My Two Research Paths"
+description: "An essay comparing Bunge’s research path with the author’s path from language and cosmic questions towards representation and research methods."
 author: SL
-version: "0.1.1"
+version: "0.1.2"
 created: "2026-11-06"
 updated: "2026-11-06"
 published: "2026-11-06"
@@ -15,111 +15,98 @@ source: bunge-and-research-path.md
 sourceUpdated: "2026-11-06"
 ---
 
-Recently, while looking for work related to this site's research, I began learning about Mario Bunge. A question worth comparing emerged: why did two research paths with philosophical beginnings come to place increasing importance on concepts, systems, mechanisms and methods?
-
-The comparison first helped clarify my own questions. The early questions about the universe, life and order were profound and difficult to answer directly. Later work made the questions more specific, the claims more testable, and began trying the resulting methods in different fields.
-
-**A worthwhile result need not be a final explanation of the whole world. It can also be a way of conducting research that can discover and correct its own errors.**
-
-This is a retrospective account and comparison of research paths.
+*A short essay on how research gradually takes shape | 6 November 2026*
 
 <a id="bunge-background"></a>
 
-## 1. Bunge's research path as a point of comparison
+## First, an introduction to Bunge
 
-### Philosophical interests and scientific training
+Mario Bunge (1919–2020), born in Argentina and later a professor at McGill University in Canada, was a **physicist and philosopher of science**. He studied physics while also pursuing a broader question: how should we understand the real world? He wrote extensively throughout his life. His eight-volume *Treatise on Basic Philosophy*, completed over many years, sought to connect questions about the composition of the world, scientific knowledge, research methods and ethics.
 
-Mario Bunge (1919–2020) was born in Argentina and later taught at McGill University in Canada. A physicist and philosopher of science, he worked across disciplines.[1](#ref-1) [2](#ref-2)
+Bunge was not content to discuss individual physical phenomena or philosophical questions separately. He sought a **common language for understanding things across disciplines**. His systemism, for example, emphasises that studying something requires examining not only the thing itself, but also what it consists of, its environment, its relations with other things, and the mechanisms that maintain or change its state.
 
-In a 2006 interview, he recalled becoming interested in philosophy while still at school. Eddington's and Jeans's philosophical interpretations of physics and the universe attracted his interest in the 1930s but also raised doubts; he connected his decision to study physics with the wish to examine those interpretations. This account draws on his later recollection.[3](#ref-3)
+Recently, while searching for work similar to my research framework, I discovered Bunge and began learning about him. A question worth comparing emerged: **why did two research paths beginning with philosophical questions gradually move towards systems, mechanisms and research methods?** This short essay records those similarities and their limits.
 
-### A philosophical system developed over time
+<a id="bunge-systematic-philosophy"></a>
 
-In a 1987 interview, Bunge traced a plan for semantics and ontology to 1966, and a more comprehensive philosophical treatise to 1972.[4](#ref-4) McGill's memorial tribute dates the eight-volume *Treatise on Basic Philosophy* to 1974–1989.[2](#ref-2)
+## Bunge: from philosophical questions to systematic philosophy
 
-These records support an account of extended development. Describing it as a movement from philosophical questions towards systematic research is a perspective for comparison, not a substitute for studying his full intellectual history.
+In his recollections and interviews, Bunge said that he developed a strong interest in philosophy while still at school. In the 1930s, the astrophysicists Arthur Eddington and James Jeans offered philosophical interpretations of the universe and physics that fascinated him but also raised doubts. To judge whether these claims held up, he chose to study physics seriously rather than argue solely at the philosophical level.
 
-### Concepts, systems and mechanisms
+He subsequently spent many years studying the foundations of physics, causality and scientific method. Around 1966, he began planning more systematic work on semantics and ontology; in 1972, this developed into a plan for a comprehensive philosophical treatise. Published between 1974 and 1989, the eight-volume *Treatise on Basic Philosophy* placed language and meaning, the composition of the world, knowledge and method, science and ethics within an interconnected system.
 
-The first volume of the *Treatise* is *Semantics I: Sense and Reference*.[5](#ref-5) For me, that arrangement is a reminder that the concepts used to refer to research objects also need examination.
+His systemism emphasises that understanding things requires more than examining isolated parts or an abstract whole. It also requires studying composition, environment, structure and the mechanisms that produce change.
 
-For concrete systems, Bunge's CESM model organises composition, environment, structure and mechanism. This provides an explicit way to organise a description of a concrete system.[6](#ref-6)
+Notably, **Bunge did not first possess a complete theory of the world and then fit facts into it**. Decades of specialist research and repeated revision separated his early questions from his mature system.
 
 <a id="language-and-concepts"></a>
 
-## 2. An earlier thread: language, writing and concepts
+## An earlier thread: a year studying Chinese and linguistics
 
-The beginning cannot be located solely in the cosmic reflections of 2025. Around 2024–2025, I spent roughly a year studying linguistics, including Chinese, English and their comparison, alongside questions about writing, meaning and concepts.
+Looking back at my own experience, I find that the starting point cannot be located solely in the cosmic philosophy of 2025. Around 2024–2025, I spent a full year studying linguistics, including Chinese, English and comparisons between them. My interest extended beyond linguistic expression to writing, meaning and concepts. This preceded the later systematic work on the universe, life and complex systems by some time.
 
-Later articles on language and writing connect with that earlier interest. As the work developed into CF Grammar and research on representation, one question continued through it: **what symbols and concepts do we use to describe the world? What do those concepts refer to, and do they express the distinctions that matter in reality?**
+I later wrote articles specifically about writing, language and concepts. These interests did not arise from nowhere; they connect with the earlier linguistic thinking. As the research developed into CF Grammar and Representation, one question continued throughout: **what symbols and concepts do we use to describe the world? What exactly do these concepts refer to? Do they express the crucial distinctions in reality?**
 
-There is continuity between these interests, but it does not establish an inevitable development. Language studies, cosmic reflections and subsequent methodological work were threads that gradually connected through different questions.
+Bunge placed semantics at the beginning of the eight-volume *Treatise on Basic Philosophy*, suggesting an important order: before discussing what the world consists of and why it changes, we need to examine **the relations between language, concepts and reality**. If concepts are unclear, even rigorous reasoning may concern an object that has not been represented correctly.
+
+Of course, the two bodies of work should not be conflated. My earlier work concerned Chinese and linguistics; Bunge's systematic semantics focuses more on scientific concepts, reference, explanation and truth. Their objects and technical content differ. **What they share is a sustained concern with how we understand the world through concepts.** At present, we can identify continuity between these earlier interests and later research, but should not portray the entire research path as an inevitable, predetermined development.
 
 <a id="cosmic-questions-to-representation"></a>
 
-## 3. From the universe, life and information towards representation
+## My path: from the universe, life and information towards Representation
 
-The cosmic reflections of 2025 proposed a conjecture: **the universe moves towards the highest complexity at the fastest possible rate.** It concerned not only the appearance of complex structures but their rate of formation, and how order, life, cognition and civilisation become possible. This is a philosophical conjecture, not a physically validated theory.
+Looking back at my research, its starting point also had a strongly philosophical character.
 
-In July and August 2026, the questions became more specific: how do structures form and persist? Are there comparable generative mechanisms behind different phenomena? One question was: **can a system retain information from its past and use it to change the states it can reach in the future?**
+In 2025, I wrote a first version of my cosmic philosophy, addressing a broad question: why can a seemingly disordered world give rise to order, life, cognition and civilisation? This was an open philosophical research agenda, not a theory already validated by physics.
 
-This shift requires separating the early conjecture from particular explanations. A broad proposition about the universe cannot replace investigation of a particular system's states, conditions and mechanisms.
+In July and August 2026, I continued asking: how do structures form and persist? Do phenomena that appear entirely different across fields share generative mechanisms? The research also gradually showed that “the universe tends towards increasing complexity” could not simply be treated as a conclusion. A more specific question emerged: **can a system retain information from its past and use it to change the states it can reach in the future?**
 
-By September, increasing attention went to how a question was represented at the outset. What is the object? What state is it in? How does it interact with its environment? Which constraints are active? Under a specified objective and horizon, which future paths remain feasible?
+By September, the focus shifted again. Increasingly, the concern was not only how to explain a phenomenon, but **whether we had represented the problem correctly in the first place**. What state is a thing in? How does it interact with its environment? Which constraints limit it? Under a particular objective and horizon, what feasible paths remain?
 
-CF Grammar gradually took shape. Capabilities and mechanisms, viability and evidence updating subsequently entered a shared workflow and were tried in company research, economics, control, learning and other questions. Viability theory is an existing source that the work has continued to draw on, not a new theory proposed here.
-
-<a id="what-the-method-seeks"></a>
-
-## 4. The research task becoming clearer
-
-The focus is now: **when studying changing things, how should questions be framed, representations built, mechanisms investigated and future possibilities understood—and how should understanding be revised when reality differs from expectation?**
-
-Two kinds of work need distinguishing: how external systems form, maintain and change their states, and how researchers construct models from limited observations, test them and revise or rebuild them.
-
-A model cannot replace specialist knowledge in each field. A shared research language needs to show its value in actual problems: does it reveal representational omissions earlier, reduce unsupported transfers of evidence, identify more discriminating counterevidence, and leave reviewable update records?
-
-AI introduces a further practical objective: make some disciplines of inference that otherwise depend on extensive experience explicit, so more people can use processes and tools to conduct research. This remains a goal to test against existing methods, not an established effect.
+CF Grammar gradually took shape. Generator, Viability, Evidence Updating and other concepts and methods were subsequently brought into a shared research workflow and applied to companies, economics, flight, learning and other concrete questions. Viability Theory was not a new discovery here, but an important existing source that had already been drawn on and incorporated over time.
 
 <a id="comparison-and-limits"></a>
 
-## 5. Similarities and limits of the comparison
+## Similarities and differences between the two paths
 
-The two paths can be compared from one angle:
+Placing the two research paths side by side reveals a shared pattern of progression:
 
-**Philosophical questions → scientific and real-world constraints → examination of concepts and mechanisms → organisation of research methods → testing in particular problems.**
+**Broad philosophical questions → tests from specific sciences and reality → a search for mechanisms shared across fields → more stable concepts and research methods → a return to reality for testing.**
 
-This sketch does not require all research to pass through these stages, nor imply that the two processes were actually the same.
+But the differences matter just as much.
 
-The earlier language studies and Bunge's semantics can both prompt attention to language, concepts and reality. Their objects and technical content differ: Chinese, English and writing phenomena on one side; scientific concepts, reference and knowledge on the other. The comparison arose later and cannot be written back into the earlier work as evidence of direct influence.
+Through extensive training in physics, mathematics and the philosophy of science, Bunge developed a substantial philosophical and ontological system. Subsequent researchers have also developed his CESM representation into practical modelling guides.
 
-Bunge developed a broad philosophical system through sustained scientific and philosophical research. This site's current work focuses more narrowly on processes for representing problems, examining states and constraints, reasoning about future paths and updating from evidence. It requires field-specific models and needs to establish what additional value it offers.
+My research currently focuses more on **how to represent problems correctly across fields, identify states and constraints, infer future paths, and revise or even rebuild representations when evidence does not fit**. It does not seek to replace each discipline's specialist models, but to develop a common research language that can be used in practice. AI introduces a further practical objective: enabling ordinary people to use processes and tools to reduce errors of reasoning that would otherwise require extensive experience to recognise.
 
-**Similar research paths do not establish equivalent theories, maturity, originality or effectiveness.** Finding an intellectual point of comparison may improve the questions; whether it improves judgement needs separate testing.
+These directions overlap, but **similar research paths do not imply equivalent theories, much less comparable maturity or effectiveness**. In particular, whether the proposed processes actually improve judgement still needs testing against existing methods.
 
 <a id="revisable-method"></a>
 
-## 6. Let the research method itself be revised
+## From “explaining the whole world” to “learning how to study the world”
 
-The value of this comparison is a clearer view of what persisted and what changed. Questions about the world as a whole still provide direction, while particular problems require variables, evidence, conditions and tests.
+At first, we may want to answer an enormous question: why has the world become what it is today?
 
-Research need not end with an all-encompassing answer. It may continually produce more specific questions, more suitable representations and more reliable ways to revise them.
+<a id="what-the-method-seeks"></a>
+
+As research develops, however, a more basic and practical question may emerge: **when facing changing things in the world, how should we frame questions, build representations, investigate mechanisms, understand future possibilities and recognise when our understanding is wrong?**
+
+In this sense, a research outcome need not be an all-encompassing final answer. It may also be a more reliable way of understanding.
 
 **Philosophical questions provide direction; reality and science supply constraints. A living research method must allow itself to be revised.**
 
+---
+
 <a id="sources"></a>
 
-## Sources and notes
+### Sources and notes
 
-The materials below support the account of Bunge's life, publications and concepts. They do not validate the effectiveness or originality of this site's methods.
+- [McGill University: Mario Bunge, Philosophy and Physics](https://www.mcgill.ca/newsroom/spotlight/philosophy-and-physics): Bunge's work in physics and philosophy and his major publications.
+- [McGill University memorial tribute (2020)](https://www.mcgill.ca/senate/files/senate/final_senate_minutes_nov._18_2020.pdf): his dates, interdisciplinary work and eight-volume treatise.
+- Mario Bunge, [*Memoirs of a Philosopher-Scientist*, pre-publication manuscript](https://www.hpsst.com/uploads/6/2/9/3/62931075/bunge_memoirs__mrm_.pdf): Bunge's recollections of his early philosophical interests and reasons for studying physics.
+- Mario Bunge, [2006 American Philosophical Association interview](https://cdn.ymaws.com/www.apaonline.org/resource/collection/60044C96-F3E0-4049-BC5A-271C673FA1E5/v06n1Hispanic.pdf): the research path between philosophy and physics.
+- [*Let's Be as Precise as Possible: An Interview with Mario Bunge*](https://www.academia.edu/45444057/Lets_be_as_precise_as_possible_An_interview_with_Mario_Bunge): recollections of the plans of 1966 and 1972.
+- [Stanford Encyclopedia of Philosophy: Philosophy of Science in Latin America](https://plato.stanford.edu/archives/win2016/entries/phil-science-latin-america/): background on Bunge's major publications and system.
+- This site's draft of [What This Site Is For](./site-purpose.md), dated 3 November 2026, and research records from 2025–2026: chronological sources for “my research path”.
 
-1. <span id="ref-1"></span>DLMPST/IUHPST: [Mario Bunge (1919–2020)](https://dlmps.org/media/pdfs/dlmpst.bunge.pdf). Dates and academic appointments.
-2. <span id="ref-2"></span>McGill University: [Mario Bunge: Philosophy and Physics](https://www.mcgill.ca/newsroom/spotlight/philosophy-and-physics); [Senate memorial tribute, 18 November 2020, PDF page 2](https://www.mcgill.ca/senate/files/senate/final_senate_minutes_nov._18_2020.pdf#page=2). Academic background and the publication period of the eight-volume *Treatise*.
-3. <span id="ref-3"></span>Gregory D. Gilson, interviewer: [The Project of Exact Philosophy: An Interview with Mario Bunge](https://cdn.ymaws.com/www.apaonline.org/resource/collection/60044C96-F3E0-4049-BC5A-271C673FA1E5/v06n1Hispanic.pdf#page=10), *APA Newsletter on Hispanic/Latino Issues in Philosophy*, 6(1), Fall 2006. Bunge's retrospective account of his early interests and motivations.
-4. <span id="ref-4"></span>Pierre Moessinger (1987): [*Let's Be as Precise as Possible: An Interview with Mario Bunge*](https://doi.org/10.1016/0732-118X(87)90007-9), *New Ideas in Psychology*. The [interview text](https://www.academia.edu/45444057/Lets_be_as_precise_as_possible_An_interview_with_Mario_Bunge) discusses the plans of 1966 and 1972.
-5. <span id="ref-5"></span>Mario Bunge (1974): [*Treatise on Basic Philosophy, Volume 1: Semantics I: Sense and Reference*](https://link.springer.com/book/10.1007/978-94-010-9920-2). The volume's place and subject inform the comparison.
-6. <span id="ref-6"></span>Mario Bunge (2004): [*How Does It Work? The Search for Explanatory Mechanisms*](https://journals.sagepub.com/doi/10.1177/0048393103262550), *Philosophy of the Social Sciences*, 34(2), 182–210. CESM is explained on pages 188–189; an [article text](https://attachments.kaanu.org/files/explanatory%20mechanisms%202004%20Bunge.pdf) is available.
-
-Further reading: [*Between Two Worlds: Memoirs of a Philosopher-Scientist*, pre-publication manuscript](https://www.hpsst.com/uploads/6/2/9/3/62931075/bunge_memoirs__mrm_.pdf). The linked document identifies itself as an uncorrected pre-publication manuscript and is not cited as the final edition.
-
-Related site records: [Research History: 2025–2026](./research-history.md), [What Are We Studying, and Why?](./research-programme.md), [From Reflections on the Universe to Later Research](./cosmic-reflections-and-later-research.md), and [Canonical Vocabulary and Notation](./framework/methods/canonical-vocabulary.md). The personal timeline draws on the author's recollection and existing site records.
+*This is a comparative essay on research and intellectual paths. It does not claim that the two theories are independently equivalent or treat philosophical similarity as evidence of scientific validity.*

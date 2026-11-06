@@ -57,11 +57,11 @@
     },
     {
       "path": "bunge-and-research-path.md",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "sourceUpdated": "2026-11-06",
       "kind": "guide",
-      "chineseTextSha256": "a8152de4bbea65e01495e33fbcec1d01cb4086e7efd9ebeb74dbee32897b0cf1",
-      "englishTextSha256": "93dde25d7715627721f0e15c3601b1f949f4b3909caeb4bf56e916c5946ac8a7"
+      "chineseTextSha256": "a64d18de3f7f4faa76e196c92a71faa13bafdca03fd94fb2f32b4afe51c7ecdd",
+      "englishTextSha256": "5a6ac03d57b6bcb56cd56b9560c9d9961e505594b73caeb2ff1e729a06d2434f"
     },
     {
       "path": "cosmic-reflections-and-later-research.md",
