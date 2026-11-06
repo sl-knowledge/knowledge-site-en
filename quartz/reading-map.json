@@ -614,5 +614,35 @@
       "section": "theory",
       "group": "explorations"
     }
-  }
+  },
+  "sidebarGroups": [
+    {
+      "id": "research-history",
+      "title": "Research programme and history",
+      "slugs": [
+        "research-programme",
+        "research-history",
+        "cosmic-reflections-and-later-research",
+        "bunge-and-research-path"
+      ]
+    },
+    {
+      "id": "subject-indexes",
+      "title": "Subject indexes",
+      "slugs": [
+        "economics/index",
+        "learning/index",
+        "language/index",
+        "framework/cases/index",
+        "framework/foundations/index"
+      ]
+    }
+  ],
+  "utilitySlugs": [
+    "index",
+    "site-purpose",
+    "updates",
+    "disclaimer",
+    "about"
+  ]
 }

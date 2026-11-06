@@ -110,3 +110,20 @@ assert.ok(
 console.log(
   `Verified reading coverage for ${englishArticles.size} English articles, ${Object.keys(readingMap.articles).length} mapped articles and site release v${release.version}.`,
 )
+
+// Every public page, including guides and policies, must be discoverable in the sidebar.
+const publicSlugs = new Set(files.map(file => file.replaceAll(path.sep, "/").replace(/\.md$/, "")))
+for (const file of files) {
+  const slug = file.replaceAll(path.sep, "/").replace(/\.md$/, "")
+  const html = fs.readFileSync(`public/${slug}.html`, "utf8")
+  const outline = html.match(/<nav class="reading-navigation"[\s\S]*?<\/nav>/)?.[0]
+  assert.ok(outline, `${file}: missing sidebar`)
+  const targets = new Set([...outline.matchAll(/href="([^"#]+)"/g)].map(([, href]) => {
+    const url = new URL(href, `https://sidebar.invalid/${slug}`)
+    assert.equal(url.origin, "https://sidebar.invalid", `${file}: sidebar must use this edition`)
+    const target = decodeURIComponent(url.pathname).replace(/^\//, "")
+    return target.endsWith("/") ? `${target}index` : target || "index"
+  }))
+  assert.deepEqual(targets, publicSlugs, `${file}: sidebar must cover every public page`)
+}
+console.log(`Verified sidebar links to all ${publicSlugs.size} public pages on every page.`)

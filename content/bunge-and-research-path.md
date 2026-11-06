@@ -1,8 +1,8 @@
 ---
 title: "From Cosmic Questions to Research Methods: Bunge’s Path and Mine"
-description: "A retrospective account of the move from language, cosmic and information questions towards representation and research methods, followed by a bounded comparison with Mario Bunge."
+description: "Mario Bunge’s research path provides a point of comparison for a retrospective account of this site’s move from language and cosmic questions towards representation and research methods."
 author: SL
-version: "0.1"
+version: "0.1.1"
 created: "2026-11-06"
 updated: "2026-11-06"
 published: "2026-11-06"
@@ -23,45 +23,9 @@ The comparison first helped clarify my own questions. The early questions about 
 
 This is a retrospective account and comparison of research paths.
 
-<a id="language-and-concepts"></a>
-
-## 1. An earlier thread: language, writing and concepts
-
-The beginning cannot be located solely in the cosmic reflections of 2025. Around 2024–2025, I spent roughly a year studying linguistics, including Chinese, English and their comparison, alongside questions about writing, meaning and concepts.
-
-Later articles on language and writing connect with that earlier interest. As the work developed into CF Grammar and research on representation, one question continued through it: **what symbols and concepts do we use to describe the world? What do those concepts refer to, and do they express the distinctions that matter in reality?**
-
-There is continuity between these interests, but it does not establish an inevitable development. Language studies, cosmic reflections and subsequent methodological work were threads that gradually connected through different questions.
-
-<a id="cosmic-questions-to-representation"></a>
-
-## 2. From the universe, life and information towards representation
-
-The cosmic reflections of 2025 proposed a conjecture: **the universe moves towards the highest complexity at the fastest possible rate.** It concerned not only the appearance of complex structures but their rate of formation, and how order, life, cognition and civilisation become possible. This is a philosophical conjecture, not a physically validated theory.
-
-In July and August 2026, the questions became more specific: how do structures form and persist? Are there comparable generative mechanisms behind different phenomena? One question was: **can a system retain information from its past and use it to change the states it can reach in the future?**
-
-This shift requires separating the early conjecture from particular explanations. A broad proposition about the universe cannot replace investigation of a particular system's states, conditions and mechanisms.
-
-By September, increasing attention went to how a question was represented at the outset. What is the object? What state is it in? How does it interact with its environment? Which constraints are active? Under a specified objective and horizon, which future paths remain feasible?
-
-CF Grammar gradually took shape. Capabilities and mechanisms, viability and evidence updating subsequently entered a shared workflow and were tried in company research, economics, control, learning and other questions. Viability theory is an existing source that the work has continued to draw on, not a new theory proposed here.
-
-<a id="what-the-method-seeks"></a>
-
-## 3. The research task becoming clearer
-
-The focus is now: **when studying changing things, how should questions be framed, representations built, mechanisms investigated and future possibilities understood—and how should understanding be revised when reality differs from expectation?**
-
-Two kinds of work need distinguishing: how external systems form, maintain and change their states, and how researchers construct models from limited observations, test them and revise or rebuild them.
-
-A model cannot replace specialist knowledge in each field. A shared research language needs to show its value in actual problems: does it reveal representational omissions earlier, reduce unsupported transfers of evidence, identify more discriminating counterevidence, and leave reviewable update records?
-
-AI introduces a further practical objective: make some disciplines of inference that otherwise depend on extensive experience explicit, so more people can use processes and tools to conduct research. This remains a goal to test against existing methods, not an established effect.
-
 <a id="bunge-background"></a>
 
-## 4. Bunge's research path as a point of comparison
+## 1. Bunge's research path as a point of comparison
 
 ### Philosophical interests and scientific training
 
@@ -80,6 +44,42 @@ These records support an account of extended development. Describing it as a mov
 The first volume of the *Treatise* is *Semantics I: Sense and Reference*.[5](#ref-5) For me, that arrangement is a reminder that the concepts used to refer to research objects also need examination.
 
 For concrete systems, Bunge's CESM model organises composition, environment, structure and mechanism. This provides an explicit way to organise a description of a concrete system.[6](#ref-6)
+
+<a id="language-and-concepts"></a>
+
+## 2. An earlier thread: language, writing and concepts
+
+The beginning cannot be located solely in the cosmic reflections of 2025. Around 2024–2025, I spent roughly a year studying linguistics, including Chinese, English and their comparison, alongside questions about writing, meaning and concepts.
+
+Later articles on language and writing connect with that earlier interest. As the work developed into CF Grammar and research on representation, one question continued through it: **what symbols and concepts do we use to describe the world? What do those concepts refer to, and do they express the distinctions that matter in reality?**
+
+There is continuity between these interests, but it does not establish an inevitable development. Language studies, cosmic reflections and subsequent methodological work were threads that gradually connected through different questions.
+
+<a id="cosmic-questions-to-representation"></a>
+
+## 3. From the universe, life and information towards representation
+
+The cosmic reflections of 2025 proposed a conjecture: **the universe moves towards the highest complexity at the fastest possible rate.** It concerned not only the appearance of complex structures but their rate of formation, and how order, life, cognition and civilisation become possible. This is a philosophical conjecture, not a physically validated theory.
+
+In July and August 2026, the questions became more specific: how do structures form and persist? Are there comparable generative mechanisms behind different phenomena? One question was: **can a system retain information from its past and use it to change the states it can reach in the future?**
+
+This shift requires separating the early conjecture from particular explanations. A broad proposition about the universe cannot replace investigation of a particular system's states, conditions and mechanisms.
+
+By September, increasing attention went to how a question was represented at the outset. What is the object? What state is it in? How does it interact with its environment? Which constraints are active? Under a specified objective and horizon, which future paths remain feasible?
+
+CF Grammar gradually took shape. Capabilities and mechanisms, viability and evidence updating subsequently entered a shared workflow and were tried in company research, economics, control, learning and other questions. Viability theory is an existing source that the work has continued to draw on, not a new theory proposed here.
+
+<a id="what-the-method-seeks"></a>
+
+## 4. The research task becoming clearer
+
+The focus is now: **when studying changing things, how should questions be framed, representations built, mechanisms investigated and future possibilities understood—and how should understanding be revised when reality differs from expectation?**
+
+Two kinds of work need distinguishing: how external systems form, maintain and change their states, and how researchers construct models from limited observations, test them and revise or rebuild them.
+
+A model cannot replace specialist knowledge in each field. A shared research language needs to show its value in actual problems: does it reveal representational omissions earlier, reduce unsupported transfers of evidence, identify more discriminating counterevidence, and leave reviewable update records?
+
+AI introduces a further practical objective: make some disciplines of inference that otherwise depend on extensive experience explicit, so more people can use processes and tools to conduct research. This remains a goal to test against existing methods, not an established effect.
 
 <a id="comparison-and-limits"></a>
 
