@@ -2,7 +2,7 @@
 title: "What This Site Is For"
 description: "An evolving personal research archive of book drafts, working papers and analytical essays, recording how theories and applications develop, are tested and are revised."
 author: SL
-version: "0.7.0"
+version: "0.7.1"
 created: "2026-11-03"
 updated: "2026-11-06"
 published: "2026-11-03"
@@ -17,6 +17,8 @@ sourceUpdated: "2026-11-06"
 **We study the states of things in the world, the conditions that affect them, why they change, and what possibilities lie ahead.**
 
 **Our purpose is to understand the world better, assess what the future may hold, reduce errors, discover and create new possibilities, and understand the limitations of both things and people.**
+
+Full research programme: [What Are We Studying, and Why?](./research-programme.md).
 
 This is an evolving personal research archive. It keeps book drafts, working papers and analytical essays produced during the research, and records how ideas take shape and are revised through testing.
 

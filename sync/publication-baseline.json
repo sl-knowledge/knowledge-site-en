@@ -400,12 +400,20 @@
       "englishTextSha256": "22be7cbf2077cf8495b92aa6eb7dcffc1f936be71c53d7371d410620ad0b9dc0"
     },
     {
-      "path": "site-purpose.md",
-      "version": "0.7.0",
+      "path": "research-programme.md",
+      "version": "0.1",
       "sourceUpdated": "2026-11-06",
       "kind": "guide",
-      "chineseTextSha256": "26427b2559c01b39b6c4ee3be56b46015a8f066cd975bfe4554100dc4b4ac04e",
-      "englishTextSha256": "a3e3470a1bfcb66777798e959066e4dfbb2825b27223826342021779911f748b"
+      "chineseTextSha256": "cb639ba2674bdc24c7dd10dfe0c4524afda5274dc3b007974c9917495a8cec78",
+      "englishTextSha256": "20f80d21ebefb5170168ef3f2ec9828947c4790d69daa504eca8a00001433a14"
+    },
+    {
+      "path": "site-purpose.md",
+      "version": "0.7.1",
+      "sourceUpdated": "2026-11-06",
+      "kind": "guide",
+      "chineseTextSha256": "cffab24be5ce99b4a0d21d46bf7499d800f518b5c8d1cf633e09bfd308fcdf6e",
+      "englishTextSha256": "80cfb632eee1d7600512931919e52b53890893c2b6c2634e8b3faececbd1c945"
     },
     {
       "path": "updates.md",
