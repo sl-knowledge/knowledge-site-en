@@ -2,16 +2,16 @@
 title: "Research History: 2025–2026"
 description: "A retrospective account of the research, from philosophical questions in 2025 to human–AI collaboration in late 2026, including narrowed claims, removed concepts and changes of direction."
 author: SL
-version: "0.1.6"
+version: "0.1.7"
 created: "2026-11-03"
-updated: "2026-11-03"
+updated: "2026-11-06"
 published: "2026-11-03"
 publish: true
 status: "Research essay"
 kind: guide
 lang: en
 source: research-history.md
-sourceUpdated: "2026-11-03"
+sourceUpdated: "2026-11-06"
 ---
 
 > This account was assembled retrospectively with AI assistance. The original conversations are not public, and the narrative may be more coherent than the actual process. Article versions and the [site's revision history](https://github.com/sl-knowledge/knowledge-site-en) help trace changes to the public texts, but cannot fully reproduce the early discussions. The stages below are also a retrospective organisation. For the site's purpose and how to use it, see [What This Site Is For](./site-purpose.md).
@@ -72,6 +72,8 @@ Work also moved further into safety and control: who is responsible for protecti
 > **A conjecture about cosmic evolution maximising complexity growth → structure generation, hierarchical causation and control → constraints and reachability → a testable diagnostic language**
 
 The broad questions about the universe were gradually divided into more specific research questions, with clearer conditions and evidence requirements. Some early claims were narrowed or revised. Meanwhile, analysis of constraints, representation and recovery paths began to be used in different fields.
+
+For an earlier linguistic thread and a comparison with Bunge's work, see [From Cosmic Questions to Research Methods: Bunge’s Path and Mine](./bunge-and-research-path.md).
 
 ---
 

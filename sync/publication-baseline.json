@@ -56,6 +56,14 @@
       "englishTextSha256": "32adfdf051f2b25d405daf1a8817913b79d713cfb86a213989bb6f1ed949134b"
     },
     {
+      "path": "bunge-and-research-path.md",
+      "version": "0.1",
+      "sourceUpdated": "2026-11-06",
+      "kind": "guide",
+      "chineseTextSha256": "1007491d3831140d211c9a98f48d8a9a1c435d028c38bfcf0d5c246678265c72",
+      "englishTextSha256": "eb73a1cfdb5b4304e6e7ae0771fb5e355d47be53d83064b21ac01e90d523a447"
+    },
+    {
       "path": "cosmic-reflections-and-later-research.md",
       "version": "0.2.1",
       "sourceUpdated": "2026-11-03",
@@ -393,11 +401,11 @@
     },
     {
       "path": "research-history.md",
-      "version": "0.1.6",
-      "sourceUpdated": "2026-11-03",
+      "version": "0.1.7",
+      "sourceUpdated": "2026-11-06",
       "kind": "guide",
-      "chineseTextSha256": "f05e0b3a083367f85f54a26ef7987d61de041ca4ac3508f540192e78a2319dda",
-      "englishTextSha256": "22be7cbf2077cf8495b92aa6eb7dcffc1f936be71c53d7371d410620ad0b9dc0"
+      "chineseTextSha256": "78faf78096c84c909fa3dd9ad1c35b1824a15a492038c5e9eb7004acc30c0a7a",
+      "englishTextSha256": "bd0b166a5c9a463570b45491c8826fb794260af635f607490dfa079389d75b50"
     },
     {
       "path": "research-programme.md",
