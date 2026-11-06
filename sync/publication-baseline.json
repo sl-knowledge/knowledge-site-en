@@ -401,11 +401,11 @@
     },
     {
       "path": "site-purpose.md",
-      "version": "0.6.2",
-      "sourceUpdated": "2026-11-03",
+      "version": "0.7.0",
+      "sourceUpdated": "2026-11-06",
       "kind": "guide",
-      "chineseTextSha256": "5b7c2257098e00797a349bd3acf20e8dc7a21cebfb25a642624b93bed8de26bd",
-      "englishTextSha256": "99cb561aa7f91d37ebfd6292dea81ce7b0c9b27f698a816f1c786ab7577a4d3a"
+      "chineseTextSha256": "26427b2559c01b39b6c4ee3be56b46015a8f066cd975bfe4554100dc4b4ac04e",
+      "englishTextSha256": "a3e3470a1bfcb66777798e959066e4dfbb2825b27223826342021779911f748b"
     },
     {
       "path": "updates.md",
