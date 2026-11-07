@@ -86,6 +86,7 @@ export const PublicationMeta: QuartzComponent = ({ fileData, allFiles }: QuartzC
           <br />
           continuously revised drafts, working papers and testable inferences.
         </p>
+        <p class="hero-purpose"><a class="internal" href={`${root}/site-purpose`}>What This Site Is For <span aria-hidden="true">→</span></a></p>
         <div class="hero-bottom">
           <span>{String(notes.length).padStart(2, "0")} published notes / four reading paths</span>
           <a class="internal" href={`${root}/updates`}>

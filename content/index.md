@@ -2,15 +2,15 @@
 title: "SL · Research & Learning"
 description: "An independent researcher’s open research site: continuously revised drafts, working papers and testable inferences."
 author: SL
-version: "0.8.2"
+version: "0.8.3"
 created: "2026-10-31"
-updated: "2026-11-03"
+updated: "2026-11-07"
 published: "2026-10-31"
 publish: true
 kind: home
 lang: en
 source: index.md
-sourceUpdated: "2026-11-03"
+sourceUpdated: "2026-11-07"
 ---
 
 ## How these notes grow

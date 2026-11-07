@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "release": "0.13.0",
+  "release": "0.13.1",
   "date": "2026-11-07",
-  "publicationRef": "site-v0.13.0",
+  "publicationRef": "site-v0.13.1",
   "chineseResearchBaselineTag": "site-v0.6.0",
   "hashDefinition": "SHA-256 of UTF-8 Markdown with CRLF normalised to LF; includes frontmatter.",
   "notice": "A translation and publication snapshot, not evidence that every claim has been validated.",
@@ -321,11 +321,11 @@
     },
     {
       "path": "index.md",
-      "version": "0.8.2",
-      "sourceUpdated": "2026-11-03",
+      "version": "0.8.3",
+      "sourceUpdated": "2026-11-07",
       "kind": "home",
-      "chineseTextSha256": "76a7759aeed7855b0fb58bac449991523ed3f865bdb6399e0f63c0a8c6edaaed",
-      "englishTextSha256": "ed53145732c51e02d2518cad524e5b715a375c8837b7d4a5b15734b4526eeb4f"
+      "chineseTextSha256": "2de973f65e66206aa0743bf1a47c58d206bb077b7aa2945366c1a37cd0b2e04a",
+      "englishTextSha256": "3ed975cdc04c09b795da29f772e214a253d5367fa421f03e904053fa71e54b5e"
     },
     {
       "path": "language/concept-packaging-and-characters.md",
@@ -425,11 +425,11 @@
     },
     {
       "path": "updates.md",
-      "version": "1.6.0",
+      "version": "1.6.1",
       "sourceUpdated": "2026-11-07",
       "kind": "release",
-      "chineseTextSha256": "f65ad227bc00aa9563f0d508589d1f43c843f88c1836fd8673b777f4031da5c8",
-      "englishTextSha256": "ac89b661d0a10c247ff2623a2a5820716b1275bace5f66c6b56f52ef90183a33"
+      "chineseTextSha256": "1929674f39019ac36e7a194e3f555eeea02e57ec1e8885b48e09ca124327c698",
+      "englishTextSha256": "b6e5db84fcea63da5700975752c746fa4cf4da3bf0f90aa0b2047d42600c797a"
     }
   ],
   "previousPublicationRef": "site-v0.8.2"
