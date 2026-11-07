@@ -1,6 +1,6 @@
 {
-  "version": "0.13.1",
+  "version": "0.13.2",
   "date": "2026-11-07",
-  "title": "Homepage purpose link",
-  "summary": "Added a direct link to What This Site Is For below the homepage introduction."
+  "title": "Site purpose wording",
+  "summary": "Simplified the research-history wording on the site purpose page."
 }

@@ -2,16 +2,16 @@
 title: "What This Site Is For"
 description: "An evolving personal research archive of book drafts, working papers and analytical essays, recording how theories and applications develop, are tested and are revised."
 author: SL
-version: "0.7.1"
+version: "0.7.2"
 created: "2026-11-03"
-updated: "2026-11-06"
+updated: "2026-11-07"
 published: "2026-11-03"
 publish: true
 status: "Research essay"
 kind: guide
 lang: en
 source: site-purpose.md
-sourceUpdated: "2026-11-06"
+sourceUpdated: "2026-11-07"
 ---
 
 **We study the states of things in the world, the conditions that affect them, why they change, and what possibilities lie ahead.**
@@ -36,7 +36,7 @@ Its organisation follows the research as it develops, retaining provisional idea
 
 | When | What happened |
 |---|---|
-| 2025 | Philosophical reflections on the universe proposed that “the universe moves towards the highest complexity at the fastest possible rate.” The original text formulated its central principle as selecting, among all possible paths, the path that maximises the growth rate of internal structural complexity. |
+| 2025 | The early work explored philosophical questions about the direction of cosmic evolution and its relationship to complexity. |
 | July 2026 | Discussions began with the universe, life and information, asking how structures form and persist. |
 | Late July–August | The search turned to common mechanisms across different phenomena, breaking the broad evolutionary conjecture into more specific questions: How do structures form and persist? Can a system retain information from its past and use it to change its future? |
 | September | The emphasis shifted from “explaining the world” towards “finding a way to study it.” An early version of [CF Grammar](https://sl-knowledge.github.io/knowledge-site-en/framework/methods/cf-grammar) took shape, and some unsupported claims were removed or narrowed. |
