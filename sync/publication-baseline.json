@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "release": "0.12.0",
-  "date": "2026-11-06",
-  "publicationRef": "site-v0.12.0",
+  "release": "0.13.0",
+  "date": "2026-11-07",
+  "publicationRef": "site-v0.13.0",
   "chineseResearchBaselineTag": "site-v0.6.0",
   "hashDefinition": "SHA-256 of UTF-8 Markdown with CRLF normalised to LF; includes frontmatter.",
   "notice": "A translation and publication snapshot, not evidence that every claim has been validated.",
@@ -369,11 +369,11 @@
     },
     {
       "path": "learning/cognitive-disequilibrium.md",
-      "version": "0.1",
-      "sourceUpdated": "2026-10-31",
+      "version": "0.2",
+      "sourceUpdated": "2026-11-07",
       "kind": "article",
-      "chineseTextSha256": "ef4d8445692e281503a87545c29347840ae3cdd09f278b4514a39682b507d46e",
-      "englishTextSha256": "46fc3a24cc7e9cf7c9dbc455886b1539c3069b358cdb57d974f0f6d4ba6468b8"
+      "chineseTextSha256": "58f25751c3ca768459400b40a99ff59d4aebd02568f7f242b06638dfb1570b7d",
+      "englishTextSha256": "e48960c420834dcab73de49260c8aa52c8db334b4e238adac06d637dfbf8c133"
     },
     {
       "path": "learning/english-for-chinese-speakers.md",
@@ -425,11 +425,11 @@
     },
     {
       "path": "updates.md",
-      "version": "1.5.0",
-      "sourceUpdated": "2026-11-06",
+      "version": "1.6.0",
+      "sourceUpdated": "2026-11-07",
       "kind": "release",
-      "chineseTextSha256": "8a8a4bde7a352821569eaeb58d33bf9846abe234a940a957ee8befba0f806e51",
-      "englishTextSha256": "97b7f2924c60f7042d8bf9726b8c76350d58bd9760adef0fdd1d5fcdfc1c6133"
+      "chineseTextSha256": "f65ad227bc00aa9563f0d508589d1f43c843f88c1836fd8673b777f4031da5c8",
+      "englishTextSha256": "ac89b661d0a10c247ff2623a2a5820716b1275bace5f66c6b56f52ef90183a33"
     }
   ],
   "previousPublicationRef": "site-v0.8.2"

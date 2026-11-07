@@ -2,18 +2,24 @@
 title: "Site Update Log"
 description: "Records site versions, release dates, additions and important revisions, and their effect on reading and citation."
 author: SL
-version: "1.5.0"
+version: "1.6.0"
 created: "2026-11-02"
-updated: "2026-11-06"
+updated: "2026-11-07"
 published: "2026-11-02"
 publish: true
 kind: release
 lang: en
 source: updates.md
-sourceUpdated: "2026-11-06"
+sourceUpdated: "2026-11-07"
 ---
 
 A site version records a batch of public content and reading-structure changes; every article keeps its own version and update date.
+
+<a id="v0-13-0"></a>
+
+## v0.13.0 · 2026-11-07
+
+Updated [Cognitive Disequilibrium: Where Questions Come From to v0.2](./learning/cognitive-disequilibrium.md). Clarifies the aims of a short course on exploring languages and the limits of cognitive disequilibrium, organising the teaching sequence, eight risks, assessment measures and a four-group evaluation design. Related research and eight references appear at the end. The course's effectiveness remains to be tested. Both editions are updated.
 
 <a id="v0-12-0"></a>
 
