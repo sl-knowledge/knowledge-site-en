@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "release": "0.15.1",
+  "release": "0.15.2",
   "date": "2026-11-08",
-  "publicationRef": "site-v0.15.1",
+  "publicationRef": "site-v0.15.2",
   "chineseResearchBaselineTag": "site-v0.6.0",
   "hashDefinition": "SHA-256 of UTF-8 Markdown with CRLF normalised to LF; includes frontmatter.",
   "notice": "A translation and publication snapshot, not evidence that every claim has been validated.",
@@ -281,11 +281,11 @@
     },
     {
       "path": "framework/methods/from-question-to-mechanism.md",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "sourceUpdated": "2026-11-08",
       "kind": "article",
-      "chineseTextSha256": "504dece5f65e9f17b7190633bc26354d3d84ae4593339ded81b1fc2b403527de",
-      "englishTextSha256": "b17d352c80dc9df3f03547890a7a9ea84c1ce0f88fc83bcf1403539d1811de8e"
+      "chineseTextSha256": "77ce20b65828a00a92fe27ce05f4650a17ff05b902b8ded386b69fc65c95cf7f",
+      "englishTextSha256": "95792d85ac68e2819ef0bbe4b8ef39f8380ece57bee75e3e8da43dca626c3146"
     },
     {
       "path": "framework/methods/index.md",
@@ -433,11 +433,11 @@
     },
     {
       "path": "updates.md",
-      "version": "1.8.1",
+      "version": "1.8.2",
       "sourceUpdated": "2026-11-08",
       "kind": "release",
-      "chineseTextSha256": "2608a7edfefbe7c9407bc74cd270fd6d6583d210b28324f9862cfdaaf6c529b1",
-      "englishTextSha256": "c73a8f8c33b6bb1bfbe8508e5e8379dad6b7fda478aa964f7a35ce9656fe99cf"
+      "chineseTextSha256": "0154a49e0d2baafd80176222de16a26421acb0a0539bfa02285fc78b9ceb29c9",
+      "englishTextSha256": "2cd184d2033c8c025127e9ac1a0b2ecb7b6d1513993f435b4a1c27be79b1913d"
     }
   ],
   "previousPublicationRef": "site-v0.8.2"

@@ -2,7 +2,7 @@
 title: "Site Update Log"
 description: "Records site versions, release dates, additions and important revisions, and their effect on reading and citation."
 author: SL
-version: "1.8.1"
+version: "1.8.2"
 created: "2026-11-02"
 updated: "2026-11-08"
 published: "2026-11-02"
@@ -14,6 +14,12 @@ sourceUpdated: "2026-11-08"
 ---
 
 A site version records a batch of public content and reading-structure changes; every article keeps its own version and update date.
+
+<a id="v0-15-2"></a>
+
+## v0.15.2 · 2026-11-08
+
+Updated [From a Concrete Question to a Generative Mechanism to v0.1.2](./framework/methods/from-question-to-mechanism.md), adding a retrospective account of reflexivity, relational analogy and possible memory activation. Both editions are updated.
 
 <a id="v0-15-1"></a>
 
