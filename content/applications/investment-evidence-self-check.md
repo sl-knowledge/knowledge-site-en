@@ -2,9 +2,9 @@
 title: "Is Evidence Updating the Judgement or Defending the Original View?"
 description: "A hypothesis dependency graph, twelve review questions and record templates for evidence location, timescales, conditional transmission, relevance review and mechanism reassessment. Research only; investment uses are not investment or trading advice."
 author: SL
-version: "0.3"
+version: "0.3.1"
 created: "2026-11-04"
-updated: "2026-11-04"
+updated: "2026-11-08"
 published: "2026-11-04"
 publish: true
 status: "Public research draft · hypothesis dependencies and evidence updating"
@@ -13,7 +13,7 @@ researchScope: investment
 lang: en
 language: en
 source: applications/investment-evidence-self-check.md
-sourceUpdated: "2026-11-04"
+sourceUpdated: "2026-11-08"
 tags:
   - theory-applications
   - investment-research
@@ -25,7 +25,7 @@ Many judgements in research and decision-making require continuing updates from 
 
 This article proposes a reviewable method: **distinguish hypotheses and their dependencies, locate evidence by object, variable and timescale, and examine the conditions through which it affects other judgements.** Stronger support, weaker support, no change and inability to judge all need reasons.
 
-The main text presents a hypothesis dependency graph, twelve review questions, transmission and revision rules, record templates and an abstract conditional analysis. The complete method still needs independent testing. It supports research review and does not directly generate operational instructions; investment uses do not constitute investment or trading advice.
+The main text presents a hypothesis dependency graph, twelve review questions, transmission and revision rules, record templates and an abstract conditional analysis. The complete method still needs independent testing. It supports research review.
 
 <a id="hypothesis-dependencies"></a>
 
@@ -320,6 +320,14 @@ These requirements inform the method here. The dependency graph, checklist and r
 - [Company Analysis Protocol v0.1.1](https://sl-knowledge.github.io/knowledge-site-en/framework/methods/company-analysis-protocol): competitors, disconfirmation, critical evidence and boundaries on conclusions.
 - [How Do We Know What Belongs in a Model v0.1.2](https://sl-knowledge.github.io/knowledge-site-en/framework/book/what-belongs-in-a-model): evidence types, competing explanations, prospective tests and revision.
 - [The Three Systems of Investment v0.2.1](https://sl-knowledge.github.io/knowledge-site-en/framework/book/investment-three-systems): business operations, markets and the investor's own constraints.
+
+---
+
+<a id="research-notes"></a>
+
+## Research and version notes
+
+It does not directly generate operational instructions; investment uses do not constitute investment or trading advice.
 
 ---
 

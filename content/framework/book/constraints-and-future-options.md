@@ -2,21 +2,19 @@
 title: "Constraints, Feasibility and Future Options: A Framework for Complex Systems Analysis"
 description: "Based on the October 6 book draft v2.0, this framework connects constraints, reachability, viability, external access and internal capabilities, with stress-testing procedures and a research card."
 author: SL
-version: "0.3"
+version: "0.3.1"
 created: "2026-10-06"
-updated: "2026-11-02"
+updated: "2026-11-08"
 published: "2026-10-31"
 publish: true
 kind: article
 lang: en
 language: en
 source: framework/book/constraints-and-future-options.md
-sourceUpdated: "2026-11-02"
+sourceUpdated: "2026-11-08"
 aliases:
   - framework/constraints-and-future-options
 ---
-
-> **Public edition v0.3 · a working framework.** Based primarily on *Reality: The World Is Not a Flat Table of Variables*, structural consolidation v2.0 dated 2026-10-06, using the terminology discipline of the architecture from the same date. Stress testing and analytical steps are adapted from methodology v0.4 dated 2026-09-24. Public-edition versions are recorded separately from source-research versions.
 
 ## Version selection and reading route
 
@@ -518,3 +516,11 @@ Chapter 5 distinguishes path objects. Section 7.4 adds cooperation research's ti
 ## v0.3 revision note
 
 Sections 7.1 and 7.4 align full response duration and effective margin, distinguish two latest-start times and add a coordination-delay variant. Earlier case values remain under zero additional delay; general recoverability still requires a specific model.
+
+---
+
+<a id="research-notes"></a>
+
+## Research and version notes
+
+> **Public edition v0.3 · a working framework.** Based primarily on *Reality: The World Is Not a Flat Table of Variables*, structural consolidation v2.0 dated 2026-10-06, using the terminology discipline of the architecture from the same date. Stress testing and analytical steps are adapted from methodology v0.4 dated 2026-09-24. Public-edition versions are recorded separately from source-research versions.

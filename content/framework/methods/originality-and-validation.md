@@ -2,20 +2,18 @@
 title: "Originality Self-Check and Independent Validation Plan"
 description: "Compares six candidate ideas and proposes a validation scheme covering baselines, ablation, prospective prediction and representation revision."
 author: "SL"
-version: "0.1"
+version: "0.1.1"
 created: "2026-11-01"
-updated: "2026-11-02"
+updated: "2026-11-08"
 published: "2026-11-01"
 publish: true
 kind: article
 lang: en
 source: framework/methods/originality-and-validation.md
-sourceUpdated: "2026-11-01"
+sourceUpdated: "2026-11-08"
 aliases:
   - framework/originality-and-validation
 ---
-
-> **Public edition v0.1 · originality self-check and research design.** Organised from _Originality Audit and Independent Validation Plan v0.1_ (2026-10-05), and adopting the corrections in the later overall architecture and canonical vocabulary. What follows is a comparison scheme that is intended to be run; it is not an experiment that has already been executed, a public pre-registration, or a third-party assessment of originality.
 
 ## 1. Turning "it sounds reasonable" into a comparable question
 
@@ -165,3 +163,11 @@ The development set and the test set are kept apart. Thresholds, prompts and def
 "Not significant" and "equivalent" must be kept apart. What is really worth protecting is not a particular term but a process that allows the results to change the research position.
 
 Companion reading: [the overall architecture](./research-architecture.md), [the canonical vocabulary](./canonical-vocabulary.md), [the human-AI research system](https://sl-knowledge.github.io/knowledge-site-en/framework/book/human-ai-research-system), [reading guide to the five drafts](https://sl-knowledge.github.io/knowledge-site-en/framework/book/book-reading-guide).
+
+---
+
+<a id="research-notes"></a>
+
+## Research and version notes
+
+> **Public edition v0.1 · originality self-check and research design.** Organised from _Originality Audit and Independent Validation Plan v0.1_ (2026-10-05), and adopting the corrections in the later overall architecture and canonical vocabulary. What follows is a comparison scheme that is intended to be run; it is not an experiment that has already been executed, a public pre-registration, or a third-party assessment of originality.

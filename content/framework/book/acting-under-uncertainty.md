@@ -2,21 +2,19 @@
 title: "Acting in an Uncertain World"
 description: "Ten chapters distinguish forecasts from consequences and examine viability, robustness, reversibility, information value, commitment and adaptive strategies."
 author: SL
-version: "0.2.2"
+version: "0.2.3"
 created: "2026-11-01"
-updated: "2026-11-03"
+updated: "2026-11-08"
 published: "2026-11-01"
 publish: true
 kind: article
 lang: en
 language: en
 source: framework/book/acting-under-uncertainty.md
-sourceUpdated: "2026-11-03"
+sourceUpdated: "2026-11-08"
 aliases:
   - framework/acting-under-uncertainty
 ---
-
-> **Public edition v0.2 · decision methods and a working framework.** Prepared from the *Decision* structural consolidation v2.0 dated 2026-10-06. It retains the ten-chapter argument and adds a standalone explanation, fictional examples and research sources. This article organises existing decision ideas into a working procedure; the incremental effectiveness of the complete procedure still requires testing.
 
 ## Introduction: why does a judgement not yet tell us how to act?
 
@@ -219,3 +217,11 @@ Related reading: [Complex Systems Analysis Framework](./constraints-and-future-o
 ## v0.2 revision note
 
 Chapter 7 explicitly uses the full response duration, including judgement, coordination and execution, for the time margin and links to the shared definitions. The original factory-budget example and chapter numbers are retained.
+
+---
+
+<a id="research-notes"></a>
+
+## Research and version notes
+
+> **Public edition v0.2 · decision methods and a working framework.** Prepared from the *Decision* structural consolidation v2.0 dated 2026-10-06. It retains the ten-chapter argument and adds a standalone explanation, fictional examples and research sources. This article organises existing decision ideas into a working procedure; the incremental effectiveness of the complete procedure still requires testing.

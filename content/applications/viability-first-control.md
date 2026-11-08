@@ -2,9 +2,9 @@
 title: "Control Authority, Information and Time: Viability-First Principles for Control and Safety Design"
 description: "Research material, not operational guidance. Examines who acts on which variables, using what information and within what time, through three failure categories, four assurance obligations and five comparative properties."
 author: SL
-version: "0.2.2"
+version: "0.2.3"
 created: "2026-11-02"
-updated: "2026-11-03"
+updated: "2026-11-08"
 published: "2026-11-02"
 publish: true
 researchScope: safety
@@ -12,15 +12,9 @@ kind: article
 lang: en
 language: en
 source: applications/viability-first-control.md
-sourceUpdated: "2026-11-03"
+sourceUpdated: "2026-11-08"
 aliases:
   - framework/viability-first-control
----
-
-> **Public research draft v0.2 · Theoretical principles and research hypotheses, without validation or certification for a concrete system.** This article extracts independently usable theoretical material from the author's automation-authority and cross-domain safety research. It analyses no particular model, accident or system. It distinguishes established mathematics, proposed analytical principles and untested hypotheses. It is not operational guidance or a design standard for any domain.
->
-> **Citation.** Principles have stable identifiers C1–C20 and section anchors, such as [#c17](#c17). Cite, for example, "Control Authority, Information and Time, C5".
-
 ---
 
 ## Introduction: safe now does not mean a path remains
@@ -378,3 +372,13 @@ This public edition retains the newest source's direction while qualifying overs
 ## v0.1.1 revision note
 
 Section 6.3 clarifies full handover response time and two latest starts. C1–C16 numbering and research scope remain.
+
+---
+
+<a id="research-notes"></a>
+
+## Research and version notes
+
+> **Public research draft v0.2 · Theoretical principles and research hypotheses, without validation or certification for a concrete system.** This article extracts independently usable theoretical material from the author's automation-authority and cross-domain safety research. It analyses no particular model, accident or system. It distinguishes established mathematics, proposed analytical principles and untested hypotheses. It is not operational guidance or a design standard for any domain.
+>
+> **Citation.** Principles have stable identifiers C1–C20 and section anchors, such as [#c17](#c17). Cite, for example, "Control Authority, Information and Time, C5".

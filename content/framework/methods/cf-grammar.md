@@ -2,18 +2,16 @@
 title: "CF Grammar: From Constraint Diagnosis to a Testable Research Representation"
 description: "Organises diagnosis around system, target, environment and horizon, separates enables, constrains, buffers and substitutes, and returns mechanism hypotheses to the evidence-and-revision loop."
 author: SL
-version: "0.1"
+version: "0.1.1"
 created: "2026-11-01"
-updated: "2026-11-02"
+updated: "2026-11-08"
 published: "2026-11-01"
 publish: true
 kind: article
 lang: en
 source: framework/methods/cf-grammar.md
-sourceUpdated: "2026-11-01"
+sourceUpdated: "2026-11-08"
 ---
-
-> **Public edition v0.1 · a method guide and working diagnostic framework.** It draws on Constraint–Freedom Grammar v0.3, the prediction-layer notes v0.1, and the later overall architecture, canonical vocabulary and research charter. Here CF stands for Constraint–Freedom. This article aligns with the later conceptual revisions; its public version number is recorded separately from the original grammar draft. It does not announce a new stable grammar standard, and it does not mean that the predictive extension has been validated.
 
 ## 1. What is CF Grammar trying to help us do?
 
@@ -168,3 +166,11 @@ The public version of this article is **v0.1**. It synthesises the following res
 This edition tightened the statements about freedom, constraint and predictive advantage, and added joint constraints, time conditions and one teaching-factory example. The original draft is kept; this article is a method guide that can be read on its own, not a verbatim translation of the original English grammar draft nor a complete machine specification.
 
 Related reading: [research methods and standards](./index.md), [reading guide to the five drafts](https://sl-knowledge.github.io/knowledge-site-en/framework/book/book-reading-guide), [systems, life and values](https://sl-knowledge.github.io/knowledge-site-en/framework/foundations/).
+
+---
+
+<a id="research-notes"></a>
+
+## Research and version notes
+
+> **Public edition v0.1 · a method guide and working diagnostic framework.** It draws on Constraint–Freedom Grammar v0.3, the prediction-layer notes v0.1, and the later overall architecture, canonical vocabulary and research charter. Here CF stands for Constraint–Freedom. This article aligns with the later conceptual revisions; its public version number is recorded separately from the original grammar draft. It does not announce a new stable grammar standard, and it does not mean that the predictive extension has been validated.

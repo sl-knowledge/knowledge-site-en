@@ -2,9 +2,9 @@
 title: "Continuing Capability or Dependency That Is Hard to Exit? Reading a Physical AI Interview"
 description: "A research example, not investment or trading advice. Uses a public interview to ask how robot-service adoption creates continuing capability or dependency that is hard to exit."
 author: SL
-version: "0.4"
+version: "0.4.1"
 created: "2026-11-02"
-updated: "2026-11-02"
+updated: "2026-11-08"
 published: "2026-11-02"
 publish: true
 researchScope: investment
@@ -12,16 +12,10 @@ kind: article
 lang: en
 language: en
 source: applications/physical-ai-interview.md
-sourceUpdated: "2026-11-02"
+sourceUpdated: "2026-11-08"
 aliases:
   - framework/cases/physical-ai-interview
 ---
-
-> **Public edition v0.4 · Method demonstration, not investment, trading or business advice, and not contractual or engineering implementation guidance.** A public interview illustrates how this site's theory tools participate in analysing a practical question. The objects are expressed views and their premises, not the speaker personally.
->
-> **Materials and checking.** Paraphrases use approximately 36 minutes of timestamped, automatically generated subtitles; parentheses identify subtitle positions. Audio has not been checked sentence by sentence. Industry claims have not been independently verified; the original video governs. Section 3's company is **fictional**, and numbers illustrate the method only.
-
-**Public-editing note.** This copy corrects recovery-capacity and timing conventions and limits what contract clauses, acquisitions and public samples can establish. The model remains hypothetical and predictions untested.
 
 **Material:** PIVOT Official Channel, *[The Robot Supremacy Race] Can America Beat China? / Entrepreneurs Behind Chinese Competitiveness / Japan Behind in Chips and "Brains" / Three Areas of Opportunity for Japan / US Startups to Watch [PIVOT BUSINESS]* (English rendering of the Japanese title).
 
@@ -261,3 +255,15 @@ Related: [Framework](../framework/book/constraints-and-future-options.md), [Acti
 ## v0.4 revision note
 
 The model explicitly uses full response duration/effective margin, detection as zero and zero pre-execution delay. Capacity assumptions, notice/sudden-stop scenarios, stage numbers and frozen predictions remain unchanged. Nonzero delay requires recalculation.
+
+---
+
+<a id="research-notes"></a>
+
+## Research and version notes
+
+> **Public edition v0.4 · Method demonstration, not investment, trading or business advice, and not contractual or engineering implementation guidance.** A public interview illustrates how this site's theory tools participate in analysing a practical question. The objects are expressed views and their premises, not the speaker personally.
+>
+> **Materials and checking.** Paraphrases use approximately 36 minutes of timestamped, automatically generated subtitles; parentheses identify subtitle positions. Audio has not been checked sentence by sentence. Industry claims have not been independently verified; the original video governs. Section 3's company is **fictional**, and numbers illustrate the method only.
+
+**Public-editing note.** This copy corrects recovery-capacity and timing conventions and limits what contract clauses, acquisitions and public samples can establish. The model remains hypothetical and predictions untested.

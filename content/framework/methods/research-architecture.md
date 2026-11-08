@@ -2,20 +2,18 @@
 title: "The Overall Architecture of Open-World Research: Representation, Reasoning, Action and Revision"
 description: "Starts from two core research questions and explains the full loop of representation discovery, existing methods, feedback diagnosis and human-AI execution."
 author: "SL"
-version: "0.1.1"
+version: "0.1.2"
 created: "2026-11-01"
-updated: "2026-11-03"
+updated: "2026-11-08"
 published: "2026-11-01"
 publish: true
 kind: article
 lang: en
 source: framework/methods/research-architecture.md
-sourceUpdated: "2026-11-03"
+sourceUpdated: "2026-11-08"
 aliases:
   - framework/research-architecture
 ---
-
-> **Public edition v0.1.1 · a synthesised research architecture.** Organised from _Theory Architecture v1.0_ (2026-10-06), and adopting the corrections in the canonical vocabulary and the consistency audit of the same day. This article describes the research process that is intended to be used and the questions that remain to be tested; it does not report that its effects have been empirically confirmed.
 
 ## 1. From "one unified explanation of the world" to two concrete questions
 
@@ -128,3 +126,11 @@ The [human-AI research system](https://sl-knowledge.github.io/knowledge-site-en/
 The dimensions to compare are: representation efficiency under equal resources, predictive performance on independent samples, the timeliness and false-positive rate of failure detection, the recovery effect after a revision, and replication across domains. Every improvement has to be reported together with its cost, its failure category and its uncertainty.
 
 What is retained at present is a synthesised architecture and two questions for research. The next work should prioritise reproducible comparisons rather than adding more terminology. For the concrete plan, see the [originality and independent validation plan](./originality-and-validation.md); for the body of the five drafts, see the [reading guide](https://sl-knowledge.github.io/knowledge-site-en/framework/book/book-reading-guide).
+
+---
+
+<a id="research-notes"></a>
+
+## Research and version notes
+
+> **Public edition v0.1.1 · a synthesised research architecture.** Organised from _Theory Architecture v1.0_ (2026-10-06), and adopting the corrections in the canonical vocabulary and the consistency audit of the same day. This article describes the research process that is intended to be used and the questions that remain to be tested; it does not report that its effects have been empirically confirmed.

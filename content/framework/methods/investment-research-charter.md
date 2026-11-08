@@ -2,9 +2,9 @@
 title: "Investment Research and Trading Decision Charter"
 description: "Research only, not investment or trading advice. Objectives, mechanisms, critical evidence, valuation scenarios and independent validation are retained; trading actions become research hypotheses."
 author: "SL"
-version: "0.1.1"
+version: "0.1.2"
 created: "2026-11-01"
-updated: "2026-11-03"
+updated: "2026-11-08"
 published: "2026-11-01"
 sourceVersion: "2.0"
 sourceDate: "2026-10-11"
@@ -13,15 +13,13 @@ kind: article
 lang: en
 language: en
 source: framework/methods/investment-research-charter.md
-sourceUpdated: "2026-11-03"
+sourceUpdated: "2026-11-08"
 researchScope: investment
 ---
 
-> **Public edition v0.1 · source v2.0 (2026-10-11).** An investment-research methodology retaining the principal source sections, edited for public research boundaries. Material, models and examples are not investment or trading advice. No excess-return ability validated through large samples, out-of-sample tests and actual portfolio performance is reported.
-
 ## 0. One-page charter: what are we doing?
 
-**Research objective:** use reliable evidence to understand a company's ability to sustain cash value attributable to each share in changing environments, compare scenario-conditioned value estimates with assumptions required by prices, and test whether this research adds explanatory or predictive value. This article provides no reader-directed return targets, trading plans or suitability judgements.
+**Research objective:** use reliable evidence to understand a company's ability to sustain cash value attributable to each share in changing environments, compare scenario-conditioned value estimates with assumptions required by prices, and test whether this research adds explanatory or predictive value.
 
 **One core chain:**
 
@@ -293,3 +291,13 @@ Prepared from the unified *Investment Research and Trading Decision Charter v2.0
 These sources ground concepts, not excess-return superiority of the complete framework. No large-sample, out-of-sample or actual-portfolio validation is reported; working terminology cannot replace causal identification.
 
 Related: [The Three Systems of Investment](../book/investment-three-systems.md), [Research Methods and Standards](./index.md), [Case Studies](../cases/index.md), [Research-use disclaimer](../../disclaimer.md).
+
+---
+
+<a id="research-notes"></a>
+
+## Research and version notes
+
+> **Public edition v0.1 · source v2.0 (2026-10-11).** An investment-research methodology retaining the principal source sections, edited for public research boundaries. Material, models and examples are not investment or trading advice. No excess-return ability validated through large samples, out-of-sample tests and actual portfolio performance is reported.
+
+This article provides no reader-directed return targets, trading plans or suitability judgements.

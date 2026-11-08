@@ -2,20 +2,18 @@
 title: "Canonical Vocabulary, Symbols and Knowledge Levels"
 description: "Places the definitions of state, constraint, reachability, representation failure and research governance in one reference specification."
 author: "SL"
-version: "0.4.1"
+version: "0.4.2"
 created: "2026-11-01"
-updated: "2026-11-03"
+updated: "2026-11-08"
 published: "2026-11-01"
 publish: true
 kind: article
 lang: en
 source: framework/methods/canonical-vocabulary.md
-sourceUpdated: "2026-11-03"
+sourceUpdated: "2026-11-08"
 aliases:
   - framework/canonical-vocabulary
 ---
-
-> **Public edition v0.4.1 · the internal terminology specification of this body of work.** Organised from _Canonical Vocabulary & Notation v1.0_ (2026-10-06). "Canonical" here applies to this book and its public editions; it does not mean that every research field uses the same terms, and it does not mean that a working definition has become a standard in the literature.
 
 ## 1. Distinguish knowledge levels from evidence types first
 
@@ -302,3 +300,11 @@ Adds path objects, recovery-window structure and decision vocabulary while retai
 ## Revision note for v0.4
 
 Standardises execution duration, full response duration and effective margin; distinguishes the latest process start from the latest execution start. Adds a non-zero coordination-delay example, response-by-response comparison and mappings from older notation. The evidence status of general recoverability and mechanism hypotheses is unchanged.
+
+---
+
+<a id="research-notes"></a>
+
+## Research and version notes
+
+> **Public edition v0.4.1 · the internal terminology specification of this body of work.** Organised from _Canonical Vocabulary & Notation v1.0_ (2026-10-06). "Canonical" here applies to this book and its public editions; it does not mean that every research field uses the same terms, and it does not mean that a working definition has become a standard in the literature.

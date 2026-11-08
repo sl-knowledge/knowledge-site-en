@@ -2,19 +2,17 @@
 title: "Giving Learners Control over Asking Questions"
 description: "From discovering answers to asking independently: scaffolds that help learners generate questions worth investigating."
 author: SL
-version: "0.1.1"
+version: "0.1.2"
 created: "2026-10-31"
-updated: "2026-11-03"
+updated: "2026-11-08"
 published: "2026-10-31"
 publish: true
 kind: article
 lang: en
 language: en
 source: learning/asking-better-questions.md
-sourceUpdated: "2026-11-03"
+sourceUpdated: "2026-11-08"
 ---
-
-> This is a research note. It retains the exploratory process and conversational tone; its views and references will continue to be revised as the research develops.
 
 I think the focus of course design should move beyond “letting students discover answers for themselves” toward **“training students to generate the next question worth investigating.”**
 
@@ -199,3 +197,11 @@ We can start with a small experiment in Japanese lesson zero: instead of first p
 The change we really want is from “Teacher, what do we learn next?” to “I have just thought of a question. Can we try it?”
 
 That is the result worth pursuing in this round of research.
+
+---
+
+<a id="research-notes"></a>
+
+## Research and version notes
+
+> This is a research note. It retains the exploratory process and conversational tone; its views and references will continue to be revised as the research develops.

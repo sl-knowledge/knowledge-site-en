@@ -2,19 +2,17 @@
 title: "Economic Activity and Sustainable Circulation"
 description: "Views the economy as reciprocal production and need fulfilment, asking how circulation is maintained."
 author: SL
-version: "0.1"
+version: "0.1.1"
 created: "2026-10-15"
-updated: "2026-10-31"
+updated: "2026-11-08"
 published: "2026-10-31"
 publish: true
 kind: article
 lang: en
 language: en
 source: economics/sustainable-circulation.md
-sourceUpdated: "2026-10-31"
+sourceUpdated: "2026-11-08"
 ---
-
-> A research note retaining exploration and conversational elements; views and references remain revisable.
 
 > **Research note · v0.1**<br>
 > Purpose: understand economic activity through a minimally sufficient model, diagnose constraints breaking circulation, and analyse policy and corporate value generation.
@@ -208,3 +206,11 @@ Vague "good", "fair" and "stable" allow incompatible theories to coexist. Bad st
 I partly agree with observing economics from outside ordinary standpoints: studying mechanisms as natural phenomena avoids some positional disputes. But "bad" ultimately relates to needs, since serving needs is economics' purpose. Broad harm makes some agreement easier.
 
 Remaining disputes often concern one bad outcome raising another's risk—for example, suppressing inflation increasing unemployment. Then ask which boundary is nearer and what to prevent first, returning to timescale and stage.
+
+---
+
+<a id="research-notes"></a>
+
+## Research and version notes
+
+> A research note retaining exploration and conversational elements; views and references remain revisable.

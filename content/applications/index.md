@@ -2,15 +2,15 @@
 title: "Theory Applications"
 description: "Enter through companies, economic circulation, learning, language, cooperation, control and personal choice, separating domain frameworks, methods, cases and hypotheses still to be tested."
 author: SL
-version: "0.7"
+version: "0.7.1"
 created: "2026-11-02"
-updated: "2026-11-04"
+updated: "2026-11-08"
 published: "2026-11-02"
 publish: true
 kind: category
 lang: en
 source: applications/index.md
-sourceUpdated: "2026-11-04"
+sourceUpdated: "2026-11-08"
 ---
 
 Here theory and research methods are placed into concrete domains. Each domain separates the framework, the research procedure and the cases; while reading, check which concepts are invoked, which domain assumptions are added, and which results are still to be verified.
@@ -20,8 +20,6 @@ Some articles are related topics or working hypotheses. Being placed in the same
 <a id="company"></a>
 
 ## Companies and investment
-
-This group is research material, not investment or trading advice; a research checklist or a scenario analysis cannot replace actual trading judgement.
 
 - [The Three Systems of Investment: Company, Market and Investor](https://sl-knowledge.github.io/knowledge-site-en/framework/book/investment-three-systems): domain framework: separates company, market and investor, and keeps the full argument of part four of the drafts.
 - [Company Analysis Protocol: An Operational Outline](https://sl-knowledge.github.io/knowledge-site-en/framework/methods/company-analysis-protocol): domain research method: customer tasks, operating mechanisms, financial checks, key evidence and long-term tracking.
@@ -64,8 +62,6 @@ This group is research material, not investment or trading advice; a research ch
 
 ## Control, information and safety
 
-This group is research material, not operational guidance; formal conditions, research principles and the validation of real systems have to be treated separately.
-
 - [Control, Information and Time: Principles of Viability-First Control and Safety Design](https://sl-knowledge.github.io/knowledge-site-en/applications/viability-first-control): abstract control research: the C1—C16 principles, three failure types, the guarantee conditions, and their relation to information, authority and time.
 
 <a id="personal"></a>
@@ -73,3 +69,13 @@ This group is research material, not operational guidance; formal conditions, re
 ## Personal choice
 
 - [Freedom and Ease: Keeping Future Options Open Under Constraints](https://sl-knowledge.github.io/knowledge-site-en/framework/foundations/freedom-and-future-options): personal philosophy: thinking about future paths, recovery capacity, autonomous commitment and the choice of a life.
+
+---
+
+<a id="research-notes"></a>
+
+## Research and version notes
+
+**Companies and investment.** This group is research material, not investment or trading advice; a research checklist or a scenario analysis cannot replace actual trading judgement.
+
+**Control and safety.** This group is research material, not operational guidance; formal conditions, research principles and the validation of real systems have to be treated separately.

@@ -2,9 +2,9 @@
 title: "Case Studies"
 description: "Research material, not investment or trading advice. Corporate transformation and business reconstruction test constraint diagnosis, mechanisms and evidential boundaries."
 author: "SL"
-version: "0.3"
+version: "0.3.1"
 created: "2026-11-01"
-updated: "2026-11-02"
+updated: "2026-11-08"
 published: "2026-11-01"
 publish: true
 kind: category
@@ -12,7 +12,7 @@ researchScope: investment
 lang: en
 language: en
 source: framework/cases/index.md
-sourceUpdated: "2026-11-02"
+sourceUpdated: "2026-11-08"
 ---
 
 These cases belong to [Applications → Companies and investment](../../applications/index.md#company), alongside the [company-analysis protocol](../methods/company-analysis-protocol.md).

@@ -2,21 +2,19 @@
 title: "Human–AI Research System: Sustaining Evidence, Forecasts and Revision"
 description: "Ten chapters cover research state, memory selection, competing explanations, forecast ledgers, stopping rules and minimal revision, with an example of versioned updating."
 author: SL
-version: "0.1.1"
+version: "0.1.2"
 created: "2026-11-01"
-updated: "2026-11-03"
+updated: "2026-11-08"
 published: "2026-11-01"
 publish: true
 kind: article
 lang: en
 language: en
 source: framework/book/human-ai-research-system.md
-sourceUpdated: "2026-11-03"
+sourceUpdated: "2026-11-08"
 aliases:
   - framework/human-ai-research-system
 ---
-
-> **Public edition v0.1.1 · research methods and a system-design proposal.** Retains the ten chapters of the *Human–AI Research OS* structural consolidation v2.0 dated 2026-10-06, organised alongside the *Human–AI Joint Cognition Research Charter* v1.1 dated 2026-10-09. It describes how long-term inquiry should be organised; implementation status and effectiveness require separate records.
 
 ## Introduction: give long-term inquiry a traceable state
 
@@ -741,3 +739,11 @@ Retrieval, memory, reflection and feedback have research foundations; this artic
 These studies do not directly establish effectiveness of the complete procedure here. Compare ordinary dialogue, retrieval alone, explicit state, and then forecasts plus revision under similar material, time and computational budgets. Also record whether independent human questioning, understanding of limits and cross-task transfer improve.
 
 This public edition adds a standalone introduction, reading guidance, a workflow example and research entry points. Continuous source-book numbering is adjusted, and cross-part dependencies become local definitions and internal links. The original research draft is retained.
+
+---
+
+<a id="research-notes"></a>
+
+## Research and version notes
+
+> **Public edition v0.1.1 · research methods and a system-design proposal.** Retains the ten chapters of the *Human–AI Research OS* structural consolidation v2.0 dated 2026-10-06, organised alongside the *Human–AI Joint Cognition Research Charter* v1.1 dated 2026-10-09. It describes how long-term inquiry should be organised; implementation status and effectiveness require separate records.

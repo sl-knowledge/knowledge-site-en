@@ -2,19 +2,17 @@
 title: "Learning Economics from First Principles"
 description: "Builds economic understanding from two actors' production and demand through exchange, division of labour and feedback."
 author: SL
-version: "0.2"
+version: "0.2.1"
 created: "2026-10-15"
-updated: "2026-10-31"
+updated: "2026-11-08"
 published: "2026-10-31"
 publish: true
 kind: article
 lang: en
 language: en
 source: economics/first-principles-learning.md
-sourceUpdated: "2026-10-31"
+sourceUpdated: "2026-11-08"
 ---
-
-> A research note retaining exploratory and conversational elements; views and references remain revisable.
 
 > **Build foundations, then deepen as needed.** Reconstruct mechanisms from minimal real situations, identify new structures at larger scales, compare established knowledge and test with discriminating evidence.
 >
@@ -310,3 +308,11 @@ Consider government arrears and builders:
 ## Appendix: one sentence
 
 > **An economy is a dynamic system in which behaviourally complex actors continually form and adjust cooperation through information, incentives, commitments and rules under real resource constraints, serving goals, preserving capabilities and generating new ones. Start with minimal real cooperation, then check scale transitions, constraints and feedback, letting established theory and evidence jointly determine conclusions.**
+
+---
+
+<a id="research-notes"></a>
+
+## Research and version notes
+
+> A research note retaining exploratory and conversational elements; views and references remain revisable.

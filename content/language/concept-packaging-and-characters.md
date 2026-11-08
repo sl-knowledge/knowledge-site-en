@@ -2,9 +2,9 @@
 title: "Concept Packaging and the Constraints of Characters: How Chinese Writing Stabilizes Monosyllabic Morpheme Structure"
 description: "Explore character constraints, concept packaging and language learning through homomorphic and arbitrary codes. Theoretical draft v0.1."
 author: SL
-version: "0.1"
+version: "0.1.1"
 created: "2026-10-30"
-updated: "2026-10-31"
+updated: "2026-11-08"
 published: "2026-10-31"
 publish: true
 kind: article
@@ -12,10 +12,10 @@ status: "Theoretical draft"
 lang: en
 language: en
 source: language/concept-packaging-and-characters.md
-sourceUpdated: "2026-10-31"
+sourceUpdated: "2026-11-08"
 ---
 
-> **Theoretical draft v0.1** · This article contains hypotheses and proposed implications awaiting testing. Evidential limitations, counterexamples and references awaiting verification are retained.
+**Theoretical draft · hypotheses to be tested**
 
 ## Abstract
 
@@ -471,3 +471,11 @@ These are teaching hypotheses derived from the propositions, requiring learning-
 - [Tan, Xu, Chang & Siok (2013), China’s language input system in the digital age affects children’s reading development, PNAS](https://pmc.ncbi.nlm.nih.gov/articles/PMC3549123)
 
 Other prior work—Hockett, Xu Tongqiang, Masini, Baxter and Sagart, Dingemanse, Kirby, Christiansen and Chater, Schmid and Corson—is cited from memory and has not yet been checked individually against the originals.
+
+---
+
+<a id="research-notes"></a>
+
+## Research and version notes
+
+> **Theoretical draft v0.1** · This article contains hypotheses and proposed implications awaiting testing. Evidential limitations, counterexamples and references awaiting verification are retained.

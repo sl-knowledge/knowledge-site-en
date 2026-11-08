@@ -2,9 +2,9 @@
 title: "Company Analysis Protocol"
 description: "Research only, not investment or trading advice. Three questions, tiered inquiry and twelve ordered problems lead into financial checks, critical evidence and traceable monitoring; the protocol concerns research."
 author: "SL"
-version: "0.1.1"
+version: "0.1.2"
 created: "2026-11-01"
-updated: "2026-11-03"
+updated: "2026-11-08"
 published: "2026-11-01"
 sourceVersion: "2.0"
 sourceDate: "2026-10-11"
@@ -13,11 +13,9 @@ kind: article
 lang: en
 language: en
 source: framework/methods/company-analysis-protocol.md
-sourceUpdated: "2026-11-03"
+sourceUpdated: "2026-11-08"
 researchScope: investment
 ---
-
-> **Public edition v0.1 · source v2.0 (2026-10-11).** An investment-research methodology retaining the main source sections, edited for public research boundaries. Material, models and examples are not investment or trading advice. No ability to earn excess returns validated through large samples, out-of-sample tests and actual portfolio performance is reported.
 
 ## 0. Default starting page: three questions and a research gate
 
@@ -328,3 +326,11 @@ The public edition replaces security-action codes with research status, unverifi
 A coherent company model does not establish independent predictive advantage or strategy executability. Advance records, competitive baselines, failed cases, out-of-sample tests and cost checks remain required. Without them, validated excess returns cannot be claimed.
 
 [Research Methods and Standards](./index.md) · [Research-use disclaimer](../../disclaimer.md)
+
+---
+
+<a id="research-notes"></a>
+
+## Research and version notes
+
+> **Public edition v0.1 · source v2.0 (2026-10-11).** An investment-research methodology retaining the main source sections, edited for public research boundaries. Material, models and examples are not investment or trading advice. No ability to earn excess returns validated through large samples, out-of-sample tests and actual portfolio performance is reported.

@@ -2,22 +2,20 @@
 title: "The Three Systems of Investment: Company, Market and Investor"
 description: "Research only, not investment or trading advice. Twelve chapters connect operating states and per-share value to expectation gaps, execution and investors' ability to continue deciding."
 author: "SL"
-version: "0.2.1"
+version: "0.2.2"
 created: "2026-11-01"
-updated: "2026-11-01"
+updated: "2026-11-08"
 published: "2026-11-01"
 publish: true
 kind: article
 lang: en
 language: en
 source: framework/book/investment-three-systems.md
-sourceUpdated: "2026-11-01"
+sourceUpdated: "2026-11-08"
 aliases:
   - framework/investment-three-systems
 researchScope: investment
 ---
-
-> **Public edition v0.2.1 · investment research methods.** Prepared from the *Investment* structural consolidation v2.0 dated 2026-10-06. The twelve-chapter argument is retained, with standalone explanations, examples and research sources. This is an analytical procedure and working representation awaiting testing; it reports neither live strategy results nor backtest performance.
 
 ## Introduction: investment as a testing ground for method
 
@@ -194,3 +192,11 @@ This article follows the twelve chapters of part four of the five-part draft. Pu
 - [Acting in an Uncertain World](./acting-under-uncertainty.md) and [Human–AI Research System](./human-ai-research-system.md), connecting decision policies and evidence updating respectively.
 
 These sources ground related concepts. The three-system organisation and the complete research procedure here still require advance records and later tests of incremental value.
+
+---
+
+<a id="research-notes"></a>
+
+## Research and version notes
+
+> **Public edition v0.2.1 · investment research methods.** Prepared from the *Investment* structural consolidation v2.0 dated 2026-10-06. The twelve-chapter argument is retained, with standalone explanations, examples and research sources. This is an analytical procedure and working representation awaiting testing; it reports neither live strategy results nor backtest performance.

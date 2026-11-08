@@ -2,9 +2,9 @@
 title: "Why Can Past Success Constrain the Next Transition?"
 description: "Research material, not investment or trading advice. Sony and Apple in digital music illustrate resources, organisational constraints, preparation, competitive windows and historical contingency."
 author: SL
-version: "0.2.1"
+version: "0.2.2"
 created: "2026-11-01"
-updated: "2026-11-03"
+updated: "2026-11-08"
 published: "2026-11-01"
 publish: true
 kind: article
@@ -14,10 +14,8 @@ researchScope: investment
 lang: en
 language: en
 source: framework/cases/success-and-transition.md
-sourceUpdated: "2026-11-03"
+sourceUpdated: "2026-11-08"
 ---
-
-> **Public edition v0.2 · Corporate history and mechanism hypotheses.** Based on *Early Success, Advance Preparation and Cross-Generation Reconstruction in Japanese Companies* v0.4 (23 October 2026), focused on Sony/Apple digital music. Primary announcements and research references checked 1 November 2026. The case proposes competing explanations; causal contributions remain untested.
 
 ## 1. What does success leave behind?
 
@@ -109,3 +107,11 @@ If poorly prepared/misaligned pioneers repeatedly catch up while prepared entran
 Past success changes future choice conditions. Observe how conditions affect executable actions and whether feedback supports adjustment.
 
 Framework: [Constraints, Feasibility and Future Options](../book/constraints-and-future-options.md).
+
+---
+
+<a id="research-notes"></a>
+
+## Research and version notes
+
+> **Public edition v0.2 · Corporate history and mechanism hypotheses.** Based on *Early Success, Advance Preparation and Cross-Generation Reconstruction in Japanese Companies* v0.4 (23 October 2026), focused on Sony/Apple digital music. Primary announcements and research references checked 1 November 2026. The case proposes competing explanations; causal contributions remain untested.

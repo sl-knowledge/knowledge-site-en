@@ -2,20 +2,18 @@
 title: "From Research Cards to Drafts: Consistency Audit and Revision Notes"
 description: "Records eight key conceptual corrections, the division of definitions across the five drafts, and the editing principles from cards to drafts."
 author: "SL"
-version: "0.2.1"
+version: "0.2.2"
 created: "2026-11-01"
-updated: "2026-11-03"
+updated: "2026-11-08"
 published: "2026-11-01"
 publish: true
 kind: article
 lang: en
 source: framework/methods/consistency-and-revision.md
-sourceUpdated: "2026-11-03"
+sourceUpdated: "2026-11-08"
 aliases:
   - framework/consistency-and-revision
 ---
-
-> **Public edition v0.2.1 · a historical editing audit and revision notes.** Organised from _Whole-Book Consistency Audit v1.0_ (2026-10-06). The original audit addressed the then-current working draft of the five-part restructuring; this article explains its problems and editing decisions. It is not a third-party consistency certification of all the public articles, and it does not prove that the theory holds.
 
 ## 1. What has to change between a research card and a draft?
 
@@ -124,3 +122,11 @@ A move from broad constraint-and-freedom language towards task-relevant represen
 These are changes in research positioning and in writing discipline. Their actual effect is judged by the comparisons proposed in the [independent validation plan](./originality-and-validation.md).
 
 Companion reading: [the overall architecture](./research-architecture.md), [the canonical vocabulary](./canonical-vocabulary.md), [reading guide to the five drafts and fifty-two chapters](https://sl-knowledge.github.io/knowledge-site-en/framework/book/book-reading-guide).
+
+---
+
+<a id="research-notes"></a>
+
+## Research and version notes
+
+> **Public edition v0.2.1 · a historical editing audit and revision notes.** Organised from _Whole-Book Consistency Audit v1.0_ (2026-10-06). The original audit addressed the then-current working draft of the five-part restructuring; this article explains its problems and editing decisions. It is not a third-party consistency certification of all the public articles, and it does not prove that the theory holds.

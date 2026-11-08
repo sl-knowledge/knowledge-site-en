@@ -2,19 +2,17 @@
 title: "The Framework-Driven Learning Cycle"
 description: "Use representations, derivations and expectations to generate the next question from discrepancies with reality, with a one-page practice template."
 author: SL
-version: "0.3"
+version: "0.3.1"
 created: "2026-10-27"
-updated: "2026-11-01"
+updated: "2026-11-08"
 published: "2026-10-31"
 publish: true
 kind: article
 lang: en
 language: en
 source: learning/framework-driven-learning.md
-sourceUpdated: "2026-11-01"
+sourceUpdated: "2026-11-08"
 ---
-
-> This is a research note. It retains the exploratory process and conversational tone; its views and references will continue to be revised.
 
 Oct 27, 2026 · @SL
 
@@ -122,3 +120,11 @@ Suppose a learner expects that memorizing a set of sentences will enable the cor
 The next question is not simply how to memorize more. It is whether the initial representation omitted retrieval speed, intention recognition and transfer across situations. In the next round, hold vocabulary difficulty constant and change only the question wording to see whether errors persist.
 
 If the discrepancy shrinks, record which changes mattered. If it remains unexplained, keep revising the representation. This scenario illustrates how questions are generated and tested; it reports no actual classroom trial.
+
+---
+
+<a id="research-notes"></a>
+
+## Research and version notes
+
+> This is a research note. It retains the exploratory process and conversational tone; its views and references will continue to be revised.

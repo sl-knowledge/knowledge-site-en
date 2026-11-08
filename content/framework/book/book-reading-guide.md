@@ -2,21 +2,19 @@
 title: "First Draft: A Reading Guide to Five Parts and Fifty-Two Chapters"
 description: "Five main parts, direct links to 52 chapters, and companion architecture, vocabulary, validation and revision documents."
 author: "SL"
-version: "0.2"
+version: "0.2.1"
 created: "2026-11-01"
-updated: "2026-11-01"
+updated: "2026-11-08"
 published: "2026-11-01"
 publish: true
 kind: article
 lang: en
 language: en
 source: framework/book/book-reading-guide.md
-sourceUpdated: "2026-11-01"
+sourceUpdated: "2026-11-08"
 aliases:
   - framework/book-reading-guide
 ---
-
-> **Public edition v0.1 · an entry point to the first draft.** Compiled from the unified book contents v1.1 dated 2026-10-06 and the five public parts on this site. They retain 8, 12, 10, 12 and 10 chapters respectively, totalling 52. Titles follow the public editions and sometimes differ from the original contents.
 
 ## Where to begin?
 
@@ -135,3 +133,11 @@ For an analysis, use part one to specify systems and feasibility and part two to
 The five structural consolidations are the principal public versions; companion documents retain their own provenance and status. Earlier reconstructions and conversational drafts remain in the research library for traceability, rather than appearing as several near-duplicate current texts.
 
 Readers can follow later changes through page versions and the site's Git history. Source drafts remain intact; public editions are maintained separately by the site.
+
+---
+
+<a id="research-notes"></a>
+
+## Research and version notes
+
+> **Public edition v0.1 · an entry point to the first draft.** Compiled from the unified book contents v1.1 dated 2026-10-06 and the five public parts on this site. They retain 8, 12, 10, 12 and 10 chapters respectively, totalling 52. Titles follow the public editions and sometimes differ from the original contents.

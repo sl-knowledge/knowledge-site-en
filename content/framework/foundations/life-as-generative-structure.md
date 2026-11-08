@@ -2,9 +2,9 @@
 title: "Life as Generative Structure: Core Theory V2"
 description: "From relational renewal and persistent execution to recovery: the EGBE working definition, a three-variable bridge model and proposed validation."
 author: "SL"
-version: "0.2.1"
+version: "0.2.2"
 created: "2026-09-28"
-updated: "2026-11-03"
+updated: "2026-11-08"
 published: "2026-11-01"
 publish: true
 kind: article
@@ -13,10 +13,8 @@ aliases:
 lang: en
 language: en
 source: framework/foundations/life-as-generative-structure.md
-sourceUpdated: "2026-11-03"
+sourceUpdated: "2026-11-08"
 ---
-
-> **Public edition v0.1 · a relational perspective on life and research hypotheses.** Organized primarily from *Life as Generative Structure: Core Theory V2* (Core v2.0), dated 2026-09-28. No new experimental data are reported. EGBE is a candidate property, and the bridge model and experimental plan await validation. This page does not announce an established necessary-and-sufficient definition of life.
 
 ## Starting point: life concerns not only material, but how organization continues
 
@@ -632,3 +630,11 @@ Based primarily on Core v2.0 of 2026-09-28, this page retains the seven-part arg
 Appendix C’s proofs, mappings and old simulations are archival pointers. This page neither supplies nor revalidates the simulations or treats them as reproduced results. The original document is retained; the web edition is maintained separately.
 
 Related concepts: [Constraints and Future Options](../book/constraints-and-future-options.md), [Representation and Testing](../book/what-belongs-in-a-model.md), [Originality and Independent Validation](../methods/originality-and-validation.md).
+
+---
+
+<a id="research-notes"></a>
+
+## Research and version notes
+
+> **Public edition v0.1 · a relational perspective on life and research hypotheses.** Organized primarily from *Life as Generative Structure: Core Theory V2* (Core v2.0), dated 2026-09-28. No new experimental data are reported. EGBE is a candidate property, and the bridge model and experimental plan await validation. This page does not announce an established necessary-and-sufficient definition of life.

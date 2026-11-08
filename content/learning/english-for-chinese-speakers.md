@@ -2,19 +2,17 @@
 title: "Suggestions for Native Chinese Speakers Learning English"
 description: "Turn understanding into usable English habits through sentence skeletons, grammatical information, reduced-speech listening, verb patterns and concept packaging."
 author: SL
-version: "0.1"
+version: "0.1.1"
 created: "2026-10-31"
-updated: "2026-10-31"
+updated: "2026-11-08"
 published: "2026-10-31"
 publish: true
 kind: article
 lang: en
 language: en
 source: learning/english-for-chinese-speakers.md
-sourceUpdated: "2026-10-31"
+sourceUpdated: "2026-11-08"
 ---
-
-> **Teaching suggestions · public edition v0.1.** This article turns language-research hypotheses into training methods that can be tried. Teaching analogies must be distinguished from general linguistic laws; effects should be checked against learner performance and feedback.
 
 Read alongside [Concept Packaging and the Constraints of Characters](../language/concept-packaging-and-characters.md). Use the [framework-driven learning cycle](./framework-driven-learning.md) to record predictions, discrepancies and revisions.
 
@@ -67,3 +65,11 @@ This section applies retention, feedback and habit-formation ideas to practice d
 These suggestions address long-term learners seeking real command of English. Those who only want a few common expressions can use existing materials.
 
 For implementation, divide section 2 into six practice units: attempt an expression, record what was actually omitted, then re-express it with the target construction. Focus on one or two errors at a time and check independent use in new situations, rather than success only on the original item.
+
+---
+
+<a id="research-notes"></a>
+
+## Research and version notes
+
+> **Teaching suggestions · public edition v0.1.** This article turns language-research hypotheses into training methods that can be tried. Teaching analogies must be distinguished from general linguistic laws; effects should be checked against learner performance and feedback.

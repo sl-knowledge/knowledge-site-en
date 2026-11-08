@@ -2,18 +2,24 @@
 title: "Site Update Log"
 description: "Records site versions, release dates, additions and important revisions, and their effect on reading and citation."
 author: SL
-version: "1.6.2"
+version: "1.7.0"
 created: "2026-11-02"
-updated: "2026-11-07"
+updated: "2026-11-08"
 published: "2026-11-02"
 publish: true
 kind: release
 lang: en
 source: updates.md
-sourceUpdated: "2026-11-07"
+sourceUpdated: "2026-11-08"
 ---
 
 A site version records a batch of public content and reading-structure changes; every article keeps its own version and update date.
+
+<a id="v0-14-0"></a>
+
+## v0.14.0 · 2026-11-08
+
+Moved full research-use disclaimers and long opening editorial notes to the ends of articles. Conditions, hypothesis labels and evidential limits remain alongside the relevant arguments. Both editions retain the complete disclaimer page and footer links; build checks verify the new placement.
 
 <a id="v0-13-2"></a>
 

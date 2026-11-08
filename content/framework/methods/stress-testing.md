@@ -2,9 +2,9 @@
 title: "Stress Testing: Constraint Identification, Feedback and Recovery Windows"
 description: "ST1–ST12 organise checks of constraints, feedback, recovery windows and common failure, separating scenario diagnosis, mechanism hypotheses and empirical validation."
 author: SL
-version: "0.2.1"
+version: "0.2.2"
 created: "2026-11-02"
-updated: "2026-11-03"
+updated: "2026-11-08"
 status: "Public research draft · working methodological framework"
 published: "2026-11-02"
 publish: true
@@ -12,12 +12,10 @@ kind: article
 lang: en
 language: en
 source: framework/methods/stress-testing.md
-sourceUpdated: "2026-11-03"
+sourceUpdated: "2026-11-08"
 aliases:
   - framework/stress-testing
 ---
-
-> **Public edition v0.2 · a working methodological framework.** This draft aligns material from the original methodology v0.1–v0.4 with terminology revisions in the later book drafts and time definitions in recent applications, providing a reference for future citation. ST1–ST12 are stable cross-article references that organise research questions, not twelve independently validated theorems. This draft has not undertaken a systematic external literature review; its incremental value still requires comparison with established analytical methods.
 
 ## The core in one sentence
 
@@ -165,3 +163,11 @@ These applications illustrate questions and models; they do not establish that t
 ## v0.2 revision note
 
 ST8 aligns time stages and the effective margin, mapping the earlier latest-start notation for the process to t_R. The original minimal example explicitly assumes zero pre-execution delay and retains +1 and −4 weeks. ST1–ST12 numbers and stable citation anchors are preserved.
+
+---
+
+<a id="research-notes"></a>
+
+## Research and version notes
+
+> **Public edition v0.2 · a working methodological framework.** This draft aligns material from the original methodology v0.1–v0.4 with terminology revisions in the later book drafts and time definitions in recent applications, providing a reference for future citation. ST1–ST12 are stable cross-article references that organise research questions, not twelve independently validated theorems. This draft has not undertaken a systematic external literature review; its incremental value still requires comparison with established analytical methods.

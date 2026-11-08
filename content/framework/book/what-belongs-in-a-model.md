@@ -2,21 +2,19 @@
 title: "How We Know What Belongs in a Model"
 description: "Twelve chapters and a running example examine minimal representations, probabilistic forecasts, error classification and minimal revision through objectives, evidence and competing explanations."
 author: SL
-version: "0.1.2"
+version: "0.1.3"
 created: "2026-11-01"
-updated: "2026-11-03"
+updated: "2026-11-08"
 published: "2026-11-01"
 publish: true
 kind: article
 lang: en
 language: en
 source: framework/book/what-belongs-in-a-model.md
-sourceUpdated: "2026-11-03"
+sourceUpdated: "2026-11-08"
 aliases:
   - framework/what-belongs-in-a-model
 ---
-
-> **Public edition v0.1.1 · research methods and a framework awaiting validation.** Prepared from the *Representation* structural consolidation v2.0 dated 2026-10-06. The twelve-chapter argument is retained, with a standalone introduction, running example and research sources. This article proposes a way to organise inquiry and testing; it has not established that the complete procedure reliably improves forecasting or decisions.
 
 ## Introduction: choices have already been made before reasoning begins
 
@@ -244,3 +242,11 @@ The twelve chapters retain five working habits: establish the objective and hori
 Together they support a research objective: reason carefully within models while testing why those elements belong and whether they remain sufficient as reality changes.
 
 Related reading: [Constraints, Feasibility and Future Options](./constraints-and-future-options.md) and [Human–AI Research System](./human-ai-research-system.md). The latter explains how objects, evidence and version changes can be retained and run over time.
+
+---
+
+<a id="research-notes"></a>
+
+## Research and version notes
+
+> **Public edition v0.1.1 · research methods and a framework awaiting validation.** Prepared from the *Representation* structural consolidation v2.0 dated 2026-10-06. The twelve-chapter argument is retained, with a standalone introduction, running example and research sources. This article proposes a way to organise inquiry and testing; it has not established that the complete procedure reliably improves forecasting or decisions.

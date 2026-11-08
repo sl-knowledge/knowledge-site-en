@@ -1,6 +1,6 @@
 {
-  "version": "0.13.2",
-  "date": "2026-11-07",
-  "title": "Site purpose wording",
-  "summary": "Simplified the research-history wording on the site purpose page."
+  "version": "0.14.0",
+  "date": "2026-11-08",
+  "title": "Article notes and disclaimer placement",
+  "summary": "Full disclaimers and long editorial notes now follow the articles."
 }

@@ -2,28 +2,20 @@
 title: "Cooperation under Incomplete Trust: Warning Margin and Recoverability"
 description: "Distinguishes commitment credibility, cooperation recoverability and arrangement acceptability, and examines future options, dependency and recovery windows. An abstract mechanism framework and hypotheses, not execution guidance for actual arrangements."
 author: SL
-version: "0.11"
+version: "0.11.1"
 created: "2026-11-02"
-updated: "2026-11-02"
+updated: "2026-11-08"
 published: "2026-11-02"
 publish: true
 kind: article
 lang: en
 language: en
 source: applications/cooperation-under-incomplete-trust.md
-sourceUpdated: "2026-11-02"
+sourceUpdated: "2026-11-08"
 aliases:
   - applications/credible-commitment
   - framework/credible-commitment
   - framework/cooperation-under-incomplete-trust
----
-
-> **Public research draft v0.11 · An abstract mechanism framework and hypotheses awaiting testing.** This article asks under what conditions two interdependent actors may accept cooperation without fully trusting each other. Actors A and B are abstract agents; each domain must separately define their goals, authority, resources and timescales. All scenarios are illustrative. The propositions are **mechanism hypotheses**, requiring domain-specific operationalisation and testing.
->
-> **Scope and use.** The article studies relationships between credibility, recoverability and acceptability in cooperation, offering concepts, conditions and testable propositions. Behavioural judgements in any concrete domain need a domain model and independent evidence. This article is not execution guidance or professional advice for actual arrangements.
-
-**Version note (v0.11):** Full response duration and effective margin now use a common accounting convention, distinguishing the latest start of the whole response process from that of execution. The original five conditions explicitly assume zero additional delay and retain their numbers; a separate variant adds one week of coordination delay. With nonzero delay, the detection-to-latest-execution window cannot be treated directly as effective margin. Proposition, principle and section numbering are retained; Appendix III records earlier structural and statistical corrections.
-
 ---
 
 ## Introduction: Why can cooperation remain impossible even with understanding?
@@ -868,3 +860,15 @@ Before data collection, register contrasts, scales, smallest meaningful effects,
 - Add future incentives to voluntary commitment; remove universal ranking of difficult settings.
 - Correct Fortna discussion: separately examined measures do not all support the article.
 - Add dependency reduction and Snyder's deterrence by denial.
+
+---
+
+<a id="research-notes"></a>
+
+## Research and version notes
+
+> **Public research draft v0.11 · An abstract mechanism framework and hypotheses awaiting testing.** This article asks under what conditions two interdependent actors may accept cooperation without fully trusting each other. Actors A and B are abstract agents; each domain must separately define their goals, authority, resources and timescales. All scenarios are illustrative. The propositions are **mechanism hypotheses**, requiring domain-specific operationalisation and testing.
+>
+> **Scope and use.** The article studies relationships between credibility, recoverability and acceptability in cooperation, offering concepts, conditions and testable propositions. Behavioural judgements in any concrete domain need a domain model and independent evidence. This article is not execution guidance or professional advice for actual arrangements.
+
+**Version note (v0.11):** Full response duration and effective margin now use a common accounting convention, distinguishing the latest start of the whole response process from that of execution. The original five conditions explicitly assume zero additional delay and retain their numbers; a separate variant adds one week of coordination delay. With nonzero delay, the detection-to-latest-execution window cannot be treated directly as effective margin. Proposition, principle and section numbering are retained; Appendix III records earlier structural and statistical corrections.

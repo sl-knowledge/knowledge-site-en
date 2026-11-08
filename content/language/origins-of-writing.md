@@ -2,9 +2,9 @@
 title: "The Origins of Writing: How Language Structure Gives Rise to Writing Systems"
 description: "Explore writing-system formation through morpheme–syllable boundaries, script origins and institutional continuity. Theoretical draft v0.1."
 author: SL
-version: "0.1"
+version: "0.1.1"
 created: "2026-10-30"
-updated: "2026-10-31"
+updated: "2026-11-08"
 published: "2026-10-31"
 publish: true
 kind: article
@@ -12,10 +12,10 @@ status: "Theoretical draft"
 lang: en
 language: en
 source: language/origins-of-writing.md
-sourceUpdated: "2026-10-31"
+sourceUpdated: "2026-11-08"
 ---
 
-> **Theoretical draft v0.1** · This article contains hypotheses and proposed implications awaiting testing. Evidential limitations, counterexamples and references awaiting verification are retained.
+**Theoretical draft · hypotheses to be tested**
 
 ## Abstract
 
@@ -274,3 +274,11 @@ Prior work in sections 8–9:
 - Hannas (1997), [Asia’s Orthographic Dilemma](https://www.ubcpress.ca/asias-orthographic-dilemma); Hannas (2003), *The Writing on the Wall*
 - Tranter (2013), [Logography and layering: A functional cross-linguistic analysis](<https://eprints.whiterose.ac.uk/id/eprint/91110/7/NT%20(2013)%20Logography%20(WL&L)%20-%20AAM.pdf>), *Written Language and Literacy* 16(1)
 - [A computational model of the discovery of writing](https://www.benjamins.com/catalog/wll.00004.spr), *Written Language and Literacy*
+
+---
+
+<a id="research-notes"></a>
+
+## Research and version notes
+
+> **Theoretical draft v0.1** · This article contains hypotheses and proposed implications awaiting testing. Evidential limitations, counterexamples and references awaiting verification are retained.

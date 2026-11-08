@@ -2,9 +2,9 @@
 title: "Every System Is a Subsystem of the Universe"
 description: "System boundaries, observational scales, variables and noise, and when environmental changes require model revision."
 author: "SL"
-version: "0.1"
+version: "0.1.1"
 created: "2026-11-01"
-updated: "2026-11-01"
+updated: "2026-11-08"
 published: "2026-11-01"
 publish: true
 kind: article
@@ -13,10 +13,8 @@ aliases:
 lang: en
 language: en
 source: framework/foundations/systems-within-the-universe.md
-sourceUpdated: "2026-11-01"
+sourceUpdated: "2026-11-08"
 ---
-
-> **Public edition v0.1 · wholes, parts and modeling scales.** Organized from the research note of the same title, retaining environmental embeddedness, the influence of observational scale on representation, and checks on model applicability. This is a methodological and philosophical discussion. It does not propose “scale slices” as a new physical law or explain every particular system through a universal equation.
 
 ## 1. What does “subsystem” mean in the title?
 
@@ -157,3 +155,11 @@ The whole-system stance ultimately asks something concrete: **when studying a pa
 These sources provide neighboring methodological foundations, not proof of every philosophical statement here. The public edition removes praise and unsupported generalizations about research communities, qualifies absolute claims about parameters, noise, stability and phase transitions, and adds two teaching models. It reports no new experiments, predictive performance or universal mathematical result.
 
 Related reading: [Constraints, Feasibility and Future Options](../book/constraints-and-future-options.md), [Research Architecture for an Open World](../methods/research-architecture.md), [Life as Generative Structure](./life-as-generative-structure.md), [Why Is an Objective Function Justified?](./why-objectives-are-reasonable.md).
+
+---
+
+<a id="research-notes"></a>
+
+## Research and version notes
+
+> **Public edition v0.1 · wholes, parts and modeling scales.** Organized from the research note of the same title, retaining environmental embeddedness, the influence of observational scale on representation, and checks on model applicability. This is a methodological and philosophical discussion. It does not propose “scale slices” as a new physical law or explain every particular system through a universal equation.

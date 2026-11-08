@@ -2,9 +2,9 @@
 title: "Why Is an Objective Function Justified?"
 description: "From survival conditions to value choices: whose goals, effective future options, human dignity, goal-setting and genuine feedback."
 author: "SL"
-version: "0.1"
+version: "0.1.1"
 created: "2026-11-01"
-updated: "2026-11-01"
+updated: "2026-11-08"
 published: "2026-11-01"
 publish: true
 kind: article
@@ -13,10 +13,8 @@ aliases:
 lang: en
 language: en
 source: framework/foundations/why-objectives-are-reasonable.md
-sourceUpdated: "2026-11-01"
+sourceUpdated: "2026-11-08"
 ---
-
-> **Public edition v0.1 · values and research governance.** Organized from the research note of the same title, retaining two ideas: objectives should not continually destroy their sustaining conditions, and future choice and error correction deserve protection. It adds distinctions between facts and values, the standing of affected people, and procedures for setting and revising goals. These are contestable normative positions, not a uniquely derived social optimum from physical laws.
 
 ## 1. Why must an objective function itself be explained?
 
@@ -139,3 +137,11 @@ Basic standing, actual capabilities and future correction opportunities are this
 These are philosophical references, not a joint proof of every position here. Survival, agency, indicators, openness and self-undermining goals are retained from the original note. Public editing adds value premises and procedural conditions and qualifies inevitable-outcome claims about single indicators. These changes are not presented as empirical findings.
 
 Related reading: [Freedom and Ease](./freedom-and-future-options.md), [Acting in an Uncertain World](../book/acting-under-uncertainty.md), [Human–AI Research System](../book/human-ai-research-system.md), [Life as Generative Structure](./life-as-generative-structure.md).
+
+---
+
+<a id="research-notes"></a>
+
+## Research and version notes
+
+> **Public edition v0.1 · values and research governance.** Organized from the research note of the same title, retaining two ideas: objectives should not continually destroy their sustaining conditions, and future choice and error correction deserve protection. It adds distinctions between facts and values, the standing of affected people, and procedures for setting and revising goals. These are contestable normative positions, not a uniquely derived social optimum from physical laws.
