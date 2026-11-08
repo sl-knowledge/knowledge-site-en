@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "release": "0.15.2",
+  "release": "0.15.3",
   "date": "2026-11-08",
-  "publicationRef": "site-v0.15.2",
+  "publicationRef": "site-v0.15.3",
   "chineseResearchBaselineTag": "site-v0.6.0",
   "hashDefinition": "SHA-256 of UTF-8 Markdown with CRLF normalised to LF; includes frontmatter.",
   "notice": "A translation and publication snapshot, not evidence that every claim has been validated.",
   "pages": [
     {
       "path": "about.md",
-      "version": "0.10.1",
-      "sourceUpdated": "2026-11-04",
+      "version": "0.10.2",
+      "sourceUpdated": "2026-11-08",
       "kind": null,
-      "chineseTextSha256": "5a4d77a6cc2a6dbc745ea834684db76ff884a6fe9a8b50b215b134c14858758b",
-      "englishTextSha256": "0f509371528a0135df1372444c8d284e378ca981f93cfb243c7548aa3f944248"
+      "chineseTextSha256": "74a10bb78a70f17b5f76bcef3a9d6915d069654d028069189bb7f69d224ed826",
+      "englishTextSha256": "5ede6dc64f2eaa18fe5cdfcaada09d8eaebed1ce805a2c38eaacb26c07b0f051"
     },
     {
       "path": "applications/cooperation-under-incomplete-trust.md",
@@ -424,6 +424,14 @@
       "englishTextSha256": "20f80d21ebefb5170168ef3f2ec9828947c4790d69daa504eca8a00001433a14"
     },
     {
+      "path": "site-development-plan.md",
+      "version": "0.1",
+      "sourceUpdated": "2026-11-08",
+      "kind": "guide",
+      "chineseTextSha256": "7dc953d0697f6265d66046b180c7c45b053377f84baf1dd0989bd6f63004ea2b",
+      "englishTextSha256": "db1492651421e4b4d45dfd989dba450f68234b22924b5311e937ab2ebd1e67a4"
+    },
+    {
       "path": "site-purpose.md",
       "version": "0.7.2",
       "sourceUpdated": "2026-11-07",
@@ -433,11 +441,11 @@
     },
     {
       "path": "updates.md",
-      "version": "1.8.2",
+      "version": "1.8.3",
       "sourceUpdated": "2026-11-08",
       "kind": "release",
-      "chineseTextSha256": "0154a49e0d2baafd80176222de16a26421acb0a0539bfa02285fc78b9ceb29c9",
-      "englishTextSha256": "2cd184d2033c8c025127e9ac1a0b2ecb7b6d1513993f435b4a1c27be79b1913d"
+      "chineseTextSha256": "125b399db9214fabbe2d3bbee6532eeb49e4f4ae63e1de2dbda899abed170d40",
+      "englishTextSha256": "1142dd38d2c51e6c4dc87fbda4eeb1a24c5ed3f8310bce2b0339476dc0ac988b"
     }
   ],
   "previousPublicationRef": "site-v0.8.2"
