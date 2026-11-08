@@ -2,7 +2,7 @@
 title: "From a Concrete Question to a Generative Mechanism: A Human–AI Research Process"
 description: "A brief case of a discussion moving from questions about religion to a mechanism draft involving practice, feedback and entry conditions."
 author: SL
-version: "0.1"
+version: "0.1.1"
 created: "2026-11-08"
 updated: "2026-11-08"
 published: "2026-11-08"
@@ -30,5 +30,7 @@ On 8 November 2026, the author and Claude discussed religion. The question moved
 6. **From a single explanation to a generative mechanism.** Claude further suggested that belief may help sustain commitment, entry requirements differ among traditions, and social conditions affect participation. Together, these factors were organised into candidate variables and parameters. The author requested an abstract article, and Claude did the main drafting.
 
 The main exchange, lasting twenty-odd minutes, illustrates how comparison, mechanism analysis and questions about initiation can organise a concrete problem into a potentially transferable model draft. The author kept adjusting the question to be explained; Claude supplied mechanisms, contrasting situations and help with expression. Previously developed ideas about constraints, feedback and Generators ran through the process.
+
+**Subsequent review and correction.** The author then gave the conversation and draft to ChatGPT. ChatGPT summarised the development of the questions and the human–AI contributions, examining entry routes, outcome attribution and feedback direction. The author pointed out an error of level in this assessment: ChatGPT treated different entry routes as counterexamples to the framework without first checking whether they were manifestations of the same generative rule under different parameters. The original framework already distinguished entry types and gating strength. Review therefore needs to distinguish the generative rule, parameter conditions and particular manifestations before deciding whether a counterexample holds.
 
 *Prepared from the original conversation and the subsequent ChatGPT summary; the sequence of contributions was checked against the original record.*
