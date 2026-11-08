@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "release": "0.14.0",
+  "release": "0.15.0",
   "date": "2026-11-08",
-  "publicationRef": "site-v0.14.0",
+  "publicationRef": "site-v0.15.0",
   "chineseResearchBaselineTag": "site-v0.6.0",
   "hashDefinition": "SHA-256 of UTF-8 Markdown with CRLF normalised to LF; includes frontmatter.",
   "notice": "A translation and publication snapshot, not evidence that every claim has been validated.",
@@ -280,12 +280,20 @@
       "englishTextSha256": "125b2eb81a13436940dcb75f76f6a73eb44065fbcc11081111b7c1290e42f024"
     },
     {
+      "path": "framework/methods/from-question-to-mechanism.md",
+      "version": "0.1",
+      "sourceUpdated": "2026-11-08",
+      "kind": "article",
+      "chineseTextSha256": "fdb43b661909e2e1f8055c54d243cf6fa7f0a58c2300c92701962f60f599ac82",
+      "englishTextSha256": "007fdcad8651cc7641075a56adbb328b5b18ec958af0b48bb29c5121eca8d324"
+    },
+    {
       "path": "framework/methods/index.md",
-      "version": "0.4",
-      "sourceUpdated": "2026-11-02",
+      "version": "0.4.1",
+      "sourceUpdated": "2026-11-08",
       "kind": "category",
-      "chineseTextSha256": "340c5b7d8c1fcc42c130c70a37b36e78352b415ded258b4ad4372fef7fc68fc6",
-      "englishTextSha256": "5a40d37a74f6da9015a76bcf931ce85b18c08665367f13ceac334269982bb9a0"
+      "chineseTextSha256": "c05ecfb497af6d4f3909d4b1c5664e291521edcb9c8bf556cf9e90ae0ee8e4b8",
+      "englishTextSha256": "68c5e8d1febac6a3c82cc6c76a9c89634ad928ffc0c04ce0656eed9beb07351f"
     },
     {
       "path": "framework/methods/investment-research-charter.md",
@@ -425,11 +433,11 @@
     },
     {
       "path": "updates.md",
-      "version": "1.7.0",
+      "version": "1.8.0",
       "sourceUpdated": "2026-11-08",
       "kind": "release",
-      "chineseTextSha256": "9d505524802640075e383b342a526f61a94d84d68a244be2c4f966f3f0afe5d2",
-      "englishTextSha256": "a62d5c78ac7ff235dd1bb71d8869a49dbd66faedeb4adbbaa388ac25ab37e674"
+      "chineseTextSha256": "007f6cd9f449660aa27a201aa5147385720e0e02dde1997c63dfa47f6abe7264",
+      "englishTextSha256": "df7b467963126292239481051a3cb37af0f85a57065a309ecdfbbd622b1aa351"
     }
   ],
   "previousPublicationRef": "site-v0.8.2"
