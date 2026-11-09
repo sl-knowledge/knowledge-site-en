@@ -1,9 +1,9 @@
 ---
 title: Where Does Ethical Disagreement Come From?
-description: A selective synthesis connecting ethical reasons, priority rules and feasibility, with separate reports of action
-  coordination and agreement on principles.
+description: A selective synthesis from moral attention and comparison of reasons to feasible action, with separate action/principle
+  reports and a completed nine-field case card.
 author: SL
-version: '0.8'
+version: '1.0'
 created: '2026-11-09'
 updated: '2026-11-09'
 published: '2026-11-09'
@@ -16,11 +16,11 @@ source: framework/methods/ethical-disagreement-map.md
 sourceUpdated: '2026-11-09'
 ---
 
-## A shared structure across agents, evaluative reasons and feasibility—a map of interdisciplinary knowledge synthesis
+## From moral attention and comparison of reasons to practical coordination—a map of interdisciplinary knowledge synthesis
 
-*Generative mechanisms of ethical judgement and social norms · Research and learning paper v0.8 · 9 November 2026*
+*Generative mechanisms of ethical judgement and social norms · Research and learning paper v1.0 · 9 November 2026*
 
-> **The aim is simple:** When a dispute about the same situation persists, help clarify what is being disputed, why establishing the facts may not produce agreement, and why disputes about principles can continue after a practical problem is resolved.
+> **The aim is simple:** When a dispute about the same situation persists, help clarify what parties first notice and how they frame different ethical questions; where their reasons and methods of comparison then diverge; and why disputes about principles can continue after a practical problem is resolved.
 >
 > This is a **selective interdisciplinary synthesis and case analysis**. It connects existing ethics, political philosophy, argumentation, social choice and institutional research, rather than creating moral principles or adjudicating who is right. Here, “generation” primarily means **how different argumentative premises and evaluation rules produce different conclusions**, rather than speculation about why someone psychologically adopted those rules.
 
@@ -44,13 +44,15 @@ Two distinctions are central:
 
 Taking turns might resolve the immediate dispute while Anne continues to favour effective use, Bob priority for need, and Carla the maker’s rights. **Action coordination** and **agreement on principles** require separate reports.
 
+An earlier question also matters: **before listing reasons, have the parties noticed the same ethically important facts, relationships and needs?** Virtue ethics and care ethics remind us that judgement does not always begin with a complete list of reasons.
+
 Four checks organise these questions:
 
 | Check | In ordinary language | Role in the flute case |
 |---|---|---|
 | **H0 · Facts and concepts** | Are facts established, and do shared words have shared meanings? | Three central facts are acknowledged; fairness still needs clarification |
-| **H1 · Agents and positions** | Who claims, evaluates, decides and is affected? | A child’s request cannot substitute for a third party’s allocation principle |
-| **H2 · Evaluation and comparison** | What supports “ought,” and how are conflicting reasons ranked? | Utility, need and labour support distinct arguments; disagreement may persist without an accepted priority rule |
+| **H1 · Agents and positions** | Who claims, evaluates and decides; who can describe the circumstances they see? | A child’s request cannot substitute for a third party’s allocation principle |
+| **H2 · Evaluation and comparison** | What is recognised as an ethically significant reason, and how are conflicts handled? | Utility, need and labour supply allocation reasons; whether they are recognised and how they are compared require checking |
 | **H3 · Constraints and feasibility** | Can requirements be met together within actual plans? | Three exclusive allocations cannot coexist; sharing requires new checks on time, consent, rights and costs |
 
 **H0–H3 are neither mutually exclusive causes nor four sequential steps in the mind.** They are functionally distinct, overlapping checks. The article explains their use and connections to existing work.
@@ -72,6 +74,22 @@ First record four **roles**:
 
 One agent may occupy several roles. Alongside identities, record **relationships, information differences, voice, power and executive authority**. Identity alone does not determine judgement. **Making a request does not confer authority over others’ rights; benefiting from a claim does not automatically invalidate its reasons.**
 
+### 1.1 Before reasons are stated: moral attention and understanding situations
+
+Analysis can too readily assume that the facts have already been listed and only reasons and weights remain to be chosen. Disagreement sometimes begins earlier: **what in this situation deserves ethical attention has not yet been understood in a shared way**.
+
+Virtue ethics emphasises **practical wisdom**: experience matters to recognising ethically significant features of a particular situation, beyond mechanically applying general rules. Care ethics emphasises interdependence, caring relationships and others’ needs. In Joan Tronto’s analysis, noticing a need for care is itself important. Relevant sources appear below.
+
+Consider a chronically ill older person requesting help. A resource allocator might first attend to limited beds and medical benefit, while a long-term caregiver might attend to reliance on familiar surroundings, family burdens and expression of preferences. This **does not assert** that either necessarily overlooks the other’s concerns. The hypothetical example illustrates different possible focuses within one situation.
+
+At the outset, ask:
+
+- **Whose circumstances entered the question?** Whose needs, relationships or losses have not been noticed?
+- **Which features count as important?** Beyond truth, why do they have ethical significance?
+- **What changes with the scope of attention?** Does including an omitted agent or relationship require reframing the question?
+
+This requires neither speculation about unconscious motives nor denying that virtue and care ethics can provide reasons or principles. It highlights that **Representation affects both how a question is answered and which question is initially seen**.
+
 Two kinds of “why” should be separated:
 
 - **Argumentative structure—the main task:** Given the arguments presented, which premises and evaluation rules produce divergent conclusions?
@@ -86,17 +104,17 @@ These tasks are related but need not be completed together. Arguments can be ana
 A dispute often contains more than support versus opposition. It may involve:
 
 1. **Facts:** Uncertainty about the consequences of an action.
-2. **Questions:** One party addresses immediate personal action, another permissible social institutions.
+2. **Questions and moral attention:** One party focuses on immediate action, another on institutions; parties may also differ over which needs, relationships and affected agents deserve attention.
 3. **Evaluation:** Outcomes, rights, responsibilities, needs or relationships provide different grounds.
 4. **Comparison:** Parties understand each other’s reasons but disagree about priority in a conflict.
 5. **Feasibility:** Requirements cannot all be met with current resources and authority.
 6. **Decision:** Principles remain disputed, yet someone must be authorised to decide through a procedure.
 
-These expand H0–H3 rather than introduce a separate taxonomy. They can coexist and interact. The following is an analytical map, not a psychological causal sequence:
+The first five help locate the issues addressed by H0–H3. The sixth, **decision disagreement**, leads to institutional and procedural research rather than forming a parallel H0–H3 category. They can coexist and interact. The following is an analytical map, not a psychological causal sequence:
 
-> **Shared reality and relevant agents** → **facts, question boundaries and objects of evaluation** → **reasons, rules and their comparison** → **feasible actions under resources, time and authority** → **separate reports of practical arrangements and principle disagreements**.
+> **Shared situation and relevant agents** → **what is noticed and how questions are posed** → **facts, reasons and their comparison** → **feasible actions under resources, time and authority** → **separate reports of practical arrangements and principle disagreements**.
 
-Locate **substantive forks relatively upstream in the reconstructed argument** rather than demand one earliest cause for every dispute. Arguments may form networks of mutual support and objection.
+Locate **substantive forks relatively upstream in the reconstructed argument** rather than demand one earliest cause for every dispute. This is an analytical reading route, **not** a necessary psychological sequence; actual ethical understanding moves between perception, interpretation, reasons and experience of action.
 
 ### 2.2 Connecting earlier work on one map
 
@@ -111,7 +129,12 @@ Locate **substantive forks relatively upstream in the reconstructed argument** r
 | **Michael Hoffmann: Logical Argument Mapping (LAM)** | Reconstruct claims, reasons, implicit premises and objections | An established reconstruction method; this article adds fixed checks on agents, time and feasibility |
 | **Marcus Arvan: levels of moral disagreement** | Specific judgements, metaethics and philosophical methods can be disputed at different levels | Record the level rather than reduce methodological disputes to factual misunderstanding |
 | **Shi, Smock and Hitlin: everyday moral disputes** | Roles, relationships and situations shape the organisation of disputes | Enriches Q/J/Act/S with relationships, voice and power |
+| **Virtue ethics and practical wisdom** | Character and experience shape recognition of and responses to ethically relevant features | Extends analysis to what is noticed, beyond rule-based inference |
+| **Care ethics (Gilligan, Noddings, Tronto and others)** | Relationships, dependence, care needs and attention have ethical significance | Examines whose needs enter the agenda and how attention changes Representation |
 | **Medical ethics and crisis allocation** | Clinical benefit, fair procedures, responsibilities and actual system capabilities interact | Grounds H1/H3 in action, authority, deadlines and evidence |
+| **Gilabert / Lawford-Smith: political feasibility** | Relations among normative targets, agents, historical circumstances and reform paths | Distinguishes desirability from achievability under given conditions in H3 |
+| **David Wiens: feasibility frontiers** | Boundaries of achievable reforms from actual social states | Connects local plans and reachable spaces without assuming expansion exists |
+| **Sarah McGrath: epistemology of moral disagreement** | What persistent disagreement means for moral knowledge and confidence | Identifies a further question: whether beliefs should change after locating disagreement |
 | **CF Grammar / constraint–feasibility research** | Define system, target, environment, time, state and constraints before analysing choices | Discipline for identifying omissions and avoiding retrospective gap-filling |
 
 **Connection does not imply identity.** Rawls did not propose these four checks. Arrow’s impossibility concerns social choice functions under specified axioms, not every hospital triage problem. Sen examines reasons of justice, not merely private utility maximisation. Preserving distinctions keeps synthesis from becoming indiscriminate mixing.
@@ -137,7 +160,7 @@ The dimensions interact. Human dignity may involve conceptual boundaries (H0) an
 
 Do parties make opposite factual judgements about the same proposition? Can evidence be checked? Is one word being used differently? Does disagreement remain after replacing a key term with concrete statements both understand?
 
-If disagreement about decisive reasons survives factual clarification, examine H2 rather than continuing to treat it as H0. Conceptual boundaries involving different commitments about rights or responsibility also involve H2.
+If disagreement about decisive reasons survives factual clarification, examine H2 rather than continuing to treat it as H0. Conceptual boundaries involving different commitments about rights or responsibility also involve H2. Distinguish **not knowing a fact**, chiefly an H0/H1 information issue, from **knowing it but not assigning it the same ethical relevance**, which can already involve H2.
 
 ### 3.2 H1: agents are more than identity labels
 
@@ -160,19 +183,19 @@ Many sustained ethical disagreements survive factual checks. “Different values
 | **Risk and time** | How do uncertainty and long-term consequences enter? | Expected outcomes, irreversible harm or institutional feedback |
 | **Form of an acceptable answer** | What counts as answering? | A unique optimum, permissible set, sufficient reasons or a procedurally valid decision |
 
-These are **questions to check**, not eight exhaustive types of ethical evaluation. One argument may contain several.
+These are **questions to check**, not eight exhaustive types of ethical evaluation. One argument may contain several. First ask whether a need, relationship or situational feature is seen as ethically relevant at all: if unnoticed, it may never enter later comparison.
 
 #### A central structure: is there an accepted rule above competing reasons?
 
-The children may all acknowledge the force of use, need and labour while disagreeing about priority. Establishing that there is one flute does not remove this difference.
+**If** all three recognise the force of use, need and labour but disagree about priority, the dispute reaches priority rules. Sen’s original setting does not establish mutual recognition of the normative force of others’ reasons: disagreement may begin with whether something counts as a reason. Establishing that there is one flute does not automatically remove it.
 
 A minimal **argument-level structure** is:
 
-- Shared facts: `X`.
-- The parties’ reason sets: `R₁, R₂, R₃`.
-- Beyond the existence of reasons, ask **whether a mutually accepted comparison rule M** determines how to handle them here.
+- Shared facts: $X$.
+- The parties’ reason sets: $R_1, R_2, R_3$.
+- Beyond the existence of reasons, ask **whether a mutually accepted comparison rule $M$** determines how to handle them here.
 
-Without an accepted M, or with continued dispute about its justification, disagreement may persist. **This does not imply every dispute lacks M or that no defensible correct principle exists.** Sometimes a shared principle is applied to disputed facts; sometimes its applicability is contested; sometimes the disagreement is at a higher level.
+Without an accepted $M$, or with continued dispute about its justification, disagreement may persist. **Not every ethical judgement requires a complete, unified ranking rule.** Some theories emphasise practical judgement in particular situations; partial comparisons may suffice for the options at hand. $M$ is therefore a **comparison mechanism to examine**, not a universal rule the framework demands everyone possess.
 
 This goes beyond saying different values matter: **does the other party reject a reason, acknowledge it but reject its priority, or dispute the method for establishing priority?**
 
@@ -187,15 +210,15 @@ H3 addresses **what can be achieved under constraints**. Distinguish four situat
 | **Incompatible conditional requirements** | Two provisional requirements cannot coexist in a specified plan set | An empty intersection does not establish their final ethical validity |
 | **A possible moral dilemma** | Valid conflicting obligations are argued for, with no acceptable priority or exception | Requires stronger normative argument; ethical theories continue to disagree |
 
-Use consistent mathematical objects. Let `𝓕₀` be complete action plans for **the same question and time horizon**, and `C₁, C₂` the allowed-plan sets provisionally adopted as hard conditions. If
+Use consistent mathematical objects. Let $\mathcal{F}_0$ be complete action plans for **the same question and time horizon**, and $C_1, C_2$ the allowed-plan sets provisionally adopted as hard conditions. If
 
 $$
-\mathcal F_0\cap C_1\cap C_2=\varnothing,
+\mathcal{F}_0\cap C_1\cap C_2=\varnothing,
 $$
 
 the conclusion is conditional: **no given complete plan satisfies both provisional conditions**. If the requirements are considerations, preferences or tradeable objectives rather than hard conditions, this intersection test cannot be applied directly.
 
-Distinguish local plans from `𝓕_T`, the set of **evidence-supported plans reachable within the specified time**. T denotes time without conflicting with H0–H3. Before adding a plan to `𝓕_T`, check:
+Distinguish local plans from $\mathcal{F}_T$, the set of **evidence-supported plans reachable within the specified time**. $T$ denotes time without conflicting with H0–H3. Before adding a plan to $\mathcal{F}_T$, check:
 
 1. Actual technical capability and resources.
 2. Completion within the required deadline.
@@ -205,7 +228,9 @@ Distinguish local plans from `𝓕_T`, the set of **evidence-supported plans rea
 6. Opportunity costs and new risks.
 7. Adequate evidence rather than imagined possibility.
 
-A plan satisfying both conditions in `𝓕_T` can relieve local **action incompatibility**. Disagreement about **why allocation should follow that principle** may nevertheless remain.
+A plan satisfying both conditions in $\mathcal{F}_T$ can relieve local **action incompatibility**. Disagreement about **why allocation should follow that principle** may nevertheless remain.
+
+**Connection to political philosophy.** Gilabert and Lawford-Smith analyse feasibility in relation to agents, actions, outcomes and historical contexts, distinguishing normative principles, institutional implementation and reform paths. Wiens examines achievable states through a feasibility frontier and questions whether distant ideals alone adequately guide reform. The common issue is that **a desirable plan need not have a sufficiently reliable path from the current state**. This connects existing work rather than first discovering the issue.
 
 **Note:** Thought experiments deliberately restrict options to test principles. A new research aim may permit expanded practical plans, but this does not refute the original experiment.
 
@@ -226,7 +251,7 @@ One report can indicate success while the other remains unresolved. **Coordinati
 ### 4.1 Working sequence
 
 1. **Restate the arguments accurately.** Do not replace them with the framework at the outset. Record sources and the level of discussion: specific action, metaethics or philosophical method.
-2. **Align the questions.** Check the event, evaluative object, horizon and alternatives; identify Q/J/Act/S.
+2. **Examine how questions form.** Which needs, relationships and affected parties have been noticed? Check whether event, evaluative object, horizon and alternatives align; identify Q/J/Act/S.
 3. **Separate facts and concepts.** Record knowns, unknowns, conflicting evidence and meanings without inventing missing facts.
 4. **Unpack evaluation.** Specify recognised reasons, their normative form, comparison relations and **priority in conflicts**.
 5. **Locate substantive forks.** Reconstruct premise chains, allowing multiple branches rather than one earliest point.
@@ -238,7 +263,7 @@ One report can indicate success while the other remains unresolved. **Coordinati
 
 | Field | What to record |
 |---|---|
-| **Shared event and question** | Same event, Target and horizon? Which theoretical level? |
+| **Shared event, moral attention and question** | Same event? Whose needs, relationships and circumstances are noticed or omitted? Same Target and horizon? |
 | **Claims and sources** | What does each party claim, on which public premises? |
 | **H0 · Facts/concepts** | Knowns, unknowns, disputed meanings or causal judgements |
 | **H1 · Agents/relationships** | Q/J/Act/S, authority, information, relationships and omitted third parties |
@@ -248,9 +273,11 @@ One report can indicate success while the other remains unresolved. **Coordinati
 | **Report A: practical arrangement** | Is coordination possible, and on what evidence? |
 | **Report B: principle agreement** | Which principles are shared, and which remain disputed? |
 
+A completed nine-field example appears in [Appendix A: Sen’s flute case](#flute-output-card).
+
 ### 4.3 Assessing usefulness
 
-Three priorities are **faithful connections**, **clearer understanding** of reasons and forks, and **use across situations** beyond selected examples. Further comparisons could examine omissions, unsupported assumptions and reading burden when using ordinary argument texts, LAM or this map.
+Three priorities are **faithful connections** that preserve earlier work, **clearer understanding** of reasons and ethically relevant circumstances omitted from discussion, and **use across situations** beyond selected examples. Further comparisons could examine omissions, unsupported assumptions and reading burden when using ordinary argument texts, LAM or this map.
 
 These are optional improvement studies, not psychological experiments a learning-oriented review must first complete. Claims of **greater effectiveness than competing methods** would require corresponding evidence.
 
@@ -276,7 +303,7 @@ The common Target here is: **Given the facts, which allocation principle support
 | Give it to Bob | He is the poorest | Need and equality | Under which conditions does need take priority? |
 | Give it to Carla | She made it | Labour and rights | How does making it support ownership and disposal rights? |
 
-Different conclusions do not establish calculation error. The upstream fork concerns **evaluation principles and rules for comparing reasons**, rather than who wants the flute. Sen already identifies competing reasons of justice; the map organises this insight for reuse.
+Different conclusions do not establish calculation error. The substantive questions are **which reasons are recognised, what form they take and how they are compared**, rather than who wants the flute. Mutual acceptance of one reason set cannot be assumed without support from the source. Sen already identifies competing reasons of justice; the map organises this insight for reuse.
 
 A principle’s having force differs from its having **decisive priority** in a particular conflict. Acknowledging another party’s reason need not imply accepting their conclusion.
 
@@ -326,6 +353,8 @@ A hospital has **one complete unit of qualified critical-care capacity immediate
 
 Role distinctions do not identify whether P or Q should be chosen. They prevent conflating patients’ requests, clinical responsibilities and public allocation rules.
 
+**Add a moral-attention check.** Beyond priority, have actual patient preferences entered the discussion? Are family and caregiver burdens noticed? Are others waiting for care included? These facts are unknown here and **remain questions for investigation**, not grounds for assigning patient priority. This connects care ethics and agent-role analysis in actual research.
+
 ### 6.3 Where does evaluation diverge?
 
 Reasons may include benefit, urgency, fair opportunity, existing care obligations and public, consistent procedures. Distinguish **the reason (H2)** from **medical evidence for applying it here (H0)**.
@@ -350,19 +379,19 @@ An evidential limit applies: the March 2026 SCCM adult crisis-allocation guideli
 
 **Synthesis:** Responsibilities to patients and institutions, different allocation reasons, and reachability under resources, time and authority enter one analytical workflow. The common structure with the flute case does not turn patients into objects or triage into mere goods distribution.
 
-## 7. Two brief transfer tests
+## 7. Two brief illustrations of transfer
 
 ### 7.1 Trolley and transplantation: similar numbers, different judgements?
 
 Classic cases contrast diverting a trolley to save five while killing one with killing an unwilling healthy person for organs to save five patients. Similar numbers still require examining action, harm as a means, consent, agent roles and institutional consequences.
 
-This tests H2’s **evaluative object and normative form**: count survivors alone or impose action boundaries? Consequentialist and deontological positions must each be faithfully reconstructed rather than reduced to two buttons.
+This illustrates H2’s **evaluative object and normative form**: count survivors alone or impose action boundaries? Consequentialist and deontological positions must each be faithfully reconstructed rather than reduced to two buttons.
 
 ### 7.2 Future AI ethics: changing questions, reusable checks?
 
 Changes in future AI capabilities, social roles or potentially relevant interests may generate debates about safety, shutdown authority, responsibility and possible moral status. The checks remain available: facts and definitions (H0), developers and affected parties (H1), tool/delegate/possible moral-patient representations (H2), and compatibility of control and safety under specified technology (H3).
 
-Intelligent behaviour does not establish consciousness or moral status. Accommodating a new question does not prove prediction of every future dispute. The aim is to test **potential transferability**, not adjudicate AI rights.
+Intelligent behaviour does not establish consciousness or moral status. Accommodating a new question does not prove prediction of every future dispute. This illustrates **possible directions of transfer**, rather than reporting a completed transfer test or adjudicating AI rights.
 
 ---
 
@@ -370,7 +399,7 @@ Intelligent behaviour does not establish consciousness or moral status. Accommod
 
 Only connections useful for ethical disagreement are needed; the whole [CF Grammar](https://sl-knowledge.github.io/knowledge-site-en/framework/methods/cf-grammar) need not be learned first:
 
-- **Representation:** Specify who asks what, what is evaluated and what counts as an acceptable answer.
+- **Representation:** Examine which situational features are noticed, who asks what, what is evaluated and what counts as an acceptable answer.
 - **Target and Horizon:** Immediate allocation, long-term institutional design or argument reconstruction? Can action occur within the required time?
 - **[Constraint / Reachability](https://sl-knowledge.github.io/knowledge-site-en/framework/book/constraints-and-future-options):** Separate provisional normative restrictions from resource boundaries; test genuinely executable alternatives.
 - **Generator, in this article’s restricted use:** How given facts, reasons and comparison rules produce a judgement, without inferring how someone historically adopted them.
@@ -382,7 +411,11 @@ These connections require **clear representation before explanation**. Ordinary 
 
 New technology, stakeholders, institutions and capabilities keep generating ethical questions and changing older ones. The working hypothesis is that **while particular questions change, checks on agent positions, facts and concepts, evaluation and comparison, and feasibility may recur across periods**. New cases should revise them; they are no exhaustive theorem about the future.
 
-A distinct open question is: **When principles remain disputed but a collective decision is necessary, which procedure should apply?** This connects public reason, procedural legitimacy, deliberative democracy and social choice. It belongs to institutional design, rather than being replaced by the map.
+Two further questions should be connected but are not developed here.
+
+**Institutions and procedures:** When principles remain disputed but a collective decision is necessary, which procedure should apply? This connects public reason, procedural legitimacy, deliberative democracy and social choice. Complying with a decision, endorsing its procedure and endorsing its substantive principle need not coincide.
+
+**The epistemology of moral disagreement:** If someone equally serious, with similar evidence, still disagrees, should confidence fall? What does persistent disagreement mean for a claim to know what is right? Sarah McGrath’s 2008 paper directly examines disagreement and moral knowledge. Locating **where disagreement lies** does not determine **how beliefs should be revised**, or settle moral realism or scepticism. This is a further research path.
 
 One note on the work’s character: most knowledge here comes from existing research, and AI assisted reconstruction and organisation. The task is to connect knowledge for personal learning and clearer recognition, understanding and use by others. Its value does not depend on claiming new ethical principles. Inaccurate connections should be corrected.
 
@@ -390,13 +423,33 @@ One note on the work’s character: most knowledge here comes from existing rese
 
 ## 10. What should become clearer?
 
-> **Different judgements about one event need not reflect ignorance. They may concern different evaluative objects, justified reasons or priority rules among reasons.**
+> **Different judgements about one event need not reflect ignorance. Parties may first notice different needs, relationships and circumstances, or differ over evaluative objects, justified reasons and comparison methods.**
 >
 > **Mutual understanding need not supply an accepted comparison rule; successful practical coordination need not end disagreement about principles.**
 >
-> **Connecting existing work produces a checkable map—from agents and facts through evaluation and comparison to action feasibility—so that the points of disagreement become clearer.**
+> **Connecting existing work produces a checkable map—from moral attention and question formation through reasons and comparison to action feasibility and persistent disagreement. It helps reveal questions that might otherwise remain unasked, and clarify where disagreement lies.**
 
 The map makes no final moral judgement for anyone. It is first a method for learning and understanding: **separate entangled questions, then examine their connections**.
+
+---
+
+<a id="flute-output-card"></a>
+
+## Appendix A: a completed disagreement map—Sen’s flute case
+
+Source: Amartya Sen, *The Idea of Justice* (2009), Introduction, pp. 12–15. The table summarises the original facts and reasons; additional plans and condition tests are marked separately rather than treated as original facts.
+
+| Field | Completed entry |
+|---|---|
+| **Shared event, moral attention and question** | Three children claim one flute. The common Target is who should receive it on the given facts, and on what principle. Use capability, poverty-related need and labour enter the discussion; other needs and relationships are unspecified. No specific deadline is supplied. |
+| **Claims and sources** | Sen’s introduction: Anne’s unique playing capability supports use benefit; Bob’s poverty and lack of toys support need; Carla’s making the flute supports labour-related reasons. These are summaries, not verbatim quotations from the children. |
+| **H0 · Facts/concepts** | The three core facts are acknowledged; fairness may still have different meanings. Shared factual acceptance does not establish mutual recognition of normative force. Contracts, consent, other resources and deadlines remain unspecified. |
+| **H1 · Agents/relationships** | Q: Sen proposes the experiment and the children make claims. J: a third-party judge. Act: the actual allocator is unspecified. S: the children. A request confers no decision authority; benefit does not invalidate a reason. |
+| **H2 · Reasons/comparison** | Use, need and labour rights support different conclusions. Check recognised reasons, objectives versus boundaries, and comparison in conflicts. Neither acceptance of every reason nor an accepted comparison mechanism $M$ may be assumed. |
+| **H3 · Action feasibility** | If $\mathcal{F}_0$ permits only exclusive assignment to one child, three exclusive outcomes cannot coexist; this does not establish three valid obligations. Sharing, compensation and making another flute are new candidates, requiring resources, time, authority, consent and third-party-cost checks before entering $\mathcal{F}_T$. |
+| **Forks and condition tests** | Forks may concern recognition or comparison of reasons. Removing Anne’s unique skill or Bob’s relative poverty weakens the corresponding reason; an explicit commission and transfer agreement requires re-examining the labour-to-rights inference. These are conditional analyses, not psychological experiments. |
+| **Report A: practical arrangement** | Three exclusive allocations cannot coexist. The original case supplies no executable sharing, compensation or additional-flute arrangement. Coordination after expansion remains unresolved; imagined plans are not established agreements. |
+| **Report B: principle agreement** | No shared final allocation principle has been established, nor does this analysis adjudicate one as correct. Later voluntary sharing alone would not establish agreement on justification or priority. |
 
 ---
 
@@ -418,4 +471,10 @@ These are **selective connections**, not a complete history of ethics or claims 
 12. Society of Critical Care Medicine, “Guidelines for the Allocation of Critical Care Resources to Adults During Crisis-Level Shortages” (2026). [Official guideline](https://www.sccm.org/clinical-resources/guidelines/guidelines/guidelines-for-the-allocation-of-critical-care-resources), DOI:10.1097/CCM.0000000000006998.
 13. National Academies / Institute of Medicine, *Crisis Standards of Care: A Systems Framework for Catastrophic Disaster Response*. [National Academies Press](https://www.nationalacademies.org/read/13351/chapter/8).
 
-*Version note: Building on v0.7’s synthesis map, two main cases and references, v0.8 emphasises priority rules and separate reports of action coordination and principle agreement. H0–H3 become explicitly overlapping checks; H2 is unpacked, H3’s scope and thresholds for expanding reachable plans are clarified, notation is unified, and CF Grammar remains a compact methodological connection. The focus remains learning and knowledge synthesis, rather than experiments on psychological formation or proofs of originality.*
+14. Rosalind Hursthouse and Glen Pettigrove, “Virtue Ethics,” *Stanford Encyclopedia of Philosophy*, substantive revision 2026. [SEP](https://plato.stanford.edu/entries/ethics-virtue/). See practical wisdom and recognition of ethically relevant situational features.
+15. Carol Gilligan, *In a Different Voice* (1982); Nel Noddings, *Caring: A Feminine Approach to Ethics and Moral Education* (1984); Joan C. Tronto, *Moral Boundaries: A Political Argument for an Ethic of Care* (1993). [SEP: Feminist Ethics, care ethics discussion](https://plato.stanford.edu/entries/feminism-ethics/). Only connections concerning attention, relationships and needs are used here, not a complete account of these theories.
+16. Pablo Gilabert and Holly Lawford-Smith, “Political Feasibility: A Conceptual Exploration,” *Political Studies* 60(4) (2012), 809–825. [DOI](https://doi.org/10.1111/j.1467-9248.2011.00936.x).
+17. David Wiens, “Political Ideals and the Feasibility Frontier,” *Economics and Philosophy* (2015). [Publisher](https://www.cambridge.org/core/journals/economics-and-philosophy/article/abs/political-ideals-and-the-feasibility-frontier/4A061BAAA3C338ED5FC698D1D6270FB0); [DOI](https://doi.org/10.1017/S0266267115000164).
+18. Sarah McGrath, “Moral Disagreement and Moral Expertise,” *Oxford Studies in Metaethics*, vol. 3 (2008), pp. 87–108. [Oxford University Press](https://academic.oup.com/book/53345/chapter-abstract/422045916); [SEP: Moral Disagreement, epistemological issues](https://plato.stanford.edu/entries/disagreement-moral/).
+
+*Version note: v1.0 builds on v0.9 with consistent mathematical notation in prose and equations, a completed nine-field card for Sen’s flute case, and consolidated workflow, wording and link corrections. Its research position and limits concerning moral attention, comparison of reasons, feasibility and separate action/principle reports remain unchanged.*

@@ -2,7 +2,7 @@
 title: 'From an Ethical Debate to a Map of Argumentative Disagreement: A Human–AI Research Case'
 description: A case of reframing an ethical debate into the structural analysis of argumentative disagreement.
 author: SL
-version: 1.0.3
+version: 1.0.4
 created: '2026-11-09'
 updated: '2026-11-09'
 published: '2026-11-09'
@@ -15,7 +15,7 @@ source: framework/methods/from-ethical-debate-to-argument-map.md
 sourceUpdated: '2026-11-09'
 ---
 
-*A record of how questions developed in human–AI collaboration · Case record v1.0.3 · 9 November 2026*
+*A record of how questions developed in human–AI collaboration · Case record v1.0.4 · 9 November 2026*
 
 ## Starting with an apparently ordinary ethical dispute
 
@@ -229,6 +229,6 @@ This is not a mandatory division of labour for humans or AI. It is one collabora
 
 ---
 
-The subsequent synthesis is available as [Where Does Ethical Disagreement Come From? v0.8](./ethical-disagreement-map.md), with H0–H3 checks, Q/J/Act/S roles, a recording template and two worked cases. It distinguishes action coordination from agreement on principles. The process recorded here covers the earlier development through v0.4.
+The subsequent synthesis is available as [Where Does Ethical Disagreement Come From? v1.0](./ethical-disagreement-map.md), connecting moral attention and question formation with H0–H3 checks. It includes a recording template, two worked cases and a completed nine-field card, and reports action coordination separately from agreement on principles. The process recorded here covers the earlier development through v0.4.
 
 **Case scope.** This account was prepared from the ethics research exchange and the development of The Structure and Generative Mechanisms of Disagreement in Ethics from v0.1 to v0.4. Quotations select key expressions from the conversation, with some spoken hesitations omitted; in this English edition they are translations. The remaining text summarises the exchange rather than providing a verbatim transcript. Recording how a method developed does not establish the originality or universal validity of its conclusions.

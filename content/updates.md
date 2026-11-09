@@ -2,7 +2,7 @@
 title: "Site Update Log"
 description: "Records site versions, release dates, additions and important revisions, and their effect on reading and citation."
 author: SL
-version: "1.10.1"
+version: "1.11.0"
 created: "2026-11-02"
 updated: "2026-11-09"
 published: "2026-11-02"
@@ -14,6 +14,12 @@ sourceUpdated: "2026-11-09"
 ---
 
 A site version records a batch of public content and reading-structure changes; every article keeps its own version and update date.
+
+<a id="v0-18-0"></a>
+
+## v0.18.0 · 2026-11-09
+
+Updated [Where Does Ethical Disagreement Come From? to v1.0](./framework/methods/ethical-disagreement-map.md). The paper adds moral attention and question formation, clarifies the limits of comparison rules, connects political feasibility and the epistemology of moral disagreement, and includes a completed [nine-field flute case card](./framework/methods/ethical-disagreement-map.md#flute-output-card). Mathematical notation is consistent across prose and equations. Both editions and the [human–AI research case reference](./framework/methods/from-ethical-debate-to-argument-map.md) are updated; the article URL is unchanged.
 
 <a id="v0-17-1"></a>
 

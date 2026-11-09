@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "release": "0.17.1",
+  "release": "0.18.0",
   "date": "2026-11-09",
-  "publicationRef": "site-v0.17.1",
+  "publicationRef": "site-v0.18.0",
   "chineseResearchBaselineTag": "site-v0.6.0",
   "hashDefinition": "SHA-256 of UTF-8 Markdown with CRLF normalised to LF; includes frontmatter.",
   "notice": "A translation and publication snapshot, not evidence that every claim has been validated.",
@@ -281,19 +281,19 @@
     },
     {
       "path": "framework/methods/ethical-disagreement-map.md",
-      "version": "0.8",
+      "version": "1.0",
       "sourceUpdated": "2026-11-09",
       "kind": "article",
-      "chineseTextSha256": "9a73a22ea484ca7f97ef7c5c13bea14cdd6e7787c065957e2d92318b8359abab",
-      "englishTextSha256": "15cc2a5b5991e81f1dbb5ac061851395c4555265872d690308ad35454bba3dbf"
+      "chineseTextSha256": "902128d6a324adaacf3c07e7813658d9dd6c47c47f9aa03babccf2e41348f07c",
+      "englishTextSha256": "9a4ddeac9a82b7ea04308fb9c0400acb36f23644a9abb76bec6589eefe581806"
     },
     {
       "path": "framework/methods/from-ethical-debate-to-argument-map.md",
-      "version": "1.0.3",
+      "version": "1.0.4",
       "sourceUpdated": "2026-11-09",
       "kind": "article",
-      "chineseTextSha256": "096df00f27f5079ab0878cdad0c83936a2408e6fde3b1d8e727195d819a01306",
-      "englishTextSha256": "43cd3997c65b77445bc57ff81a21f102087c11d5b11365e575c74d2ced6c90c9"
+      "chineseTextSha256": "a9d651c634b2318e2750160f6019e0a4849627e8cd3d9ee0c607780ace75e385",
+      "englishTextSha256": "b6dda208e5c2ae1a6960eb16e93634d05fbb7a670318a4e459dcc300d7764eb7"
     },
     {
       "path": "framework/methods/from-question-to-mechanism.md",
@@ -305,11 +305,11 @@
     },
     {
       "path": "framework/methods/index.md",
-      "version": "0.5.1",
+      "version": "0.5.2",
       "sourceUpdated": "2026-11-09",
       "kind": "category",
-      "chineseTextSha256": "da46349f244673882583c04a6c34e1cdc4a783abcd5ec5d1c906afd40e26f150",
-      "englishTextSha256": "285755dc424e939895f5d78f40cbd049d4a9d1e7b7ac3a9e39e2a07e3ec8f7fe"
+      "chineseTextSha256": "410244571d4f8303bb284385427048de73e77dbfb49c4a9dc51c27665c76026b",
+      "englishTextSha256": "e3b222fbe2a57b1b7b128bd7aabf0c91334cbdf507b7e489019c64de98c5d49c"
     },
     {
       "path": "framework/methods/investment-research-charter.md",
@@ -457,11 +457,11 @@
     },
     {
       "path": "updates.md",
-      "version": "1.10.1",
+      "version": "1.11.0",
       "sourceUpdated": "2026-11-09",
       "kind": "release",
-      "chineseTextSha256": "b55ecbcd8bca0a1fb6a9a58d23db0d1fb60616b48248b31247f2faf09c38d2a8",
-      "englishTextSha256": "254aa8e4765eb073d5a0070949806aa63757071a43acb520979cf503847e4ec3"
+      "chineseTextSha256": "d4a4b58810adde35b6b05eb26434ede589bdef248123e341cbdcf666bbae2b04",
+      "englishTextSha256": "777dfc494ea848d6a213f13bbd995c7f778a639f5f970a285934e9af9fbb30b3"
     }
   ],
   "previousPublicationRef": "site-v0.8.2"
