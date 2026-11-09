@@ -2,17 +2,27 @@
 title: "What This Site Is For"
 description: "An evolving personal research archive of book drafts, working papers and analytical essays, recording how theories and applications develop, are tested and are revised."
 author: SL
-version: "0.7.2"
+version: "0.8"
 created: "2026-11-03"
-updated: "2026-11-07"
+updated: "2026-11-09"
 published: "2026-11-03"
 publish: true
 status: "Research essay"
 kind: guide
 lang: en
 source: site-purpose.md
-sourceUpdated: "2026-11-07"
+sourceUpdated: "2026-11-09"
 ---
+
+**I do this research first and foremost to understand the world better for myself.**
+
+As the research develops, I find that fields which seem entirely different may share similar underlying structures.
+
+Economics, ethics, the life sciences and history study different subjects, yet they all involve questions about how things form, what constrains them, how they interact and what possibilities lie ahead.
+
+Much of this knowledge has already been studied by others. What I hope to do is reconnect it, look for shared structures and organise it into a reasonably clear method that is easy to understand and use in practice.
+
+If this work also helps others see problems more clearly and avoid unnecessary detours, it gains value beyond my own learning.
 
 **We study the states of things in the world, the conditions that affect them, why they change, and what possibilities lie ahead.**
 
@@ -20,15 +30,7 @@ sourceUpdated: "2026-11-07"
 
 Full research programme: [What Are We Studying, and Why?](./research-programme.md).
 
-This is an evolving personal research archive. It keeps book drafts, working papers and analytical essays produced during the research, and records how ideas take shape and are revised through testing.
-
-Things that seem entirely unrelated may have something in common underneath.
-
-Should a company expand? Should a collaboration deepen? Should someone change jobs? Follow these questions far enough, and a few others often appear: How much room is left? Once this step is taken, will there still be a way back?
-
-The continuing work here is to record these questions, compare the relationships they reveal, and gradually organise them into theories and methods for further study.
-
-Its organisation follows the research as it develops, retaining provisional ideas, unresolved questions and gaps still to be filled.
+This is an evolving personal research archive. It keeps book drafts, working papers and analytical essays produced during the research, and records how ideas take shape and are revised through testing. Its organisation follows the research as it develops, retaining provisional ideas, unresolved questions and gaps still to be filled.
 
 ---
 
