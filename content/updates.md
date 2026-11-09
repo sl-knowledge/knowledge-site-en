@@ -2,7 +2,7 @@
 title: "Site Update Log"
 description: "Records site versions, release dates, additions and important revisions, and their effect on reading and citation."
 author: SL
-version: "1.10.0"
+version: "1.10.1"
 created: "2026-11-02"
 updated: "2026-11-09"
 published: "2026-11-02"
@@ -14,6 +14,12 @@ sourceUpdated: "2026-11-09"
 ---
 
 A site version records a batch of public content and reading-structure changes; every article keeps its own version and update date.
+
+<a id="v0-17-1"></a>
+
+## v0.17.1 · 2026-11-09
+
+Updated [Where Does Ethical Disagreement Come From? to v0.8](./framework/methods/ethical-disagreement-map.md). The revised map expands reasons and priority rules, clarifies when hard-condition compatibility tests apply, and separates reports of action coordination and agreement on principles. The workflow and template precede the cases. Both editions, navigation and the [human–AI ethics case reference](./framework/methods/from-ethical-debate-to-argument-map.md) are updated; the article URL is unchanged.
 
 <a id="v0-17-0"></a>
 

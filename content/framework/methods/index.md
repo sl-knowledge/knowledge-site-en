@@ -2,7 +2,7 @@
 title: "Research Methods"
 description: "CF Grammar, stress testing, human-AI collaboration, and the standards for validation and revision; the bridge between the theory trunks and domain research."
 author: "SL"
-version: "0.5"
+version: "0.5.1"
 created: "2026-11-01"
 updated: "2026-11-09"
 published: "2026-11-01"
@@ -25,7 +25,7 @@ This section collects research methods that work across domains, and the archite
 
 ## Argument and disagreement analysis
 
-- [The Structure and Generative Mechanisms of Ethical Disagreement](./ethical-disagreement-map.md): connect facts, roles, evaluation rules and feasible plans through H0–H3, with a workflow, recording template and worked cases.
+- [Where Does Ethical Disagreement Come From?](./ethical-disagreement-map.md): connect facts, roles, evaluation rules and feasible plans through H0–H3, with a workflow, recording template and worked cases.
 
 <a id="testing"></a>
 
