@@ -2,7 +2,7 @@
 title: "Site Update Log"
 description: "Records site versions, release dates, additions and important revisions, and their effect on reading and citation."
 author: SL
-version: "1.9.1"
+version: "1.10.0"
 created: "2026-11-02"
 updated: "2026-11-09"
 published: "2026-11-02"
@@ -14,6 +14,12 @@ sourceUpdated: "2026-11-09"
 ---
 
 A site version records a batch of public content and reading-structure changes; every article keeps its own version and update date.
+
+<a id="v0-17-0"></a>
+
+## v0.17.0 · 2026-11-09
+
+Published [The Structure and Generative Mechanisms of Ethical Disagreement v0.7](./framework/methods/ethical-disagreement-map.md), with the H0–H3 map, Q/J/A/S roles, a workflow, recording template and two worked cases. Added Research Methods → Argument and disagreement analysis, and linked the paper from the [human–AI ethics research case](./framework/methods/from-ethical-debate-to-argument-map.md). Both editions are available.
 
 <a id="v0-16-1"></a>
 

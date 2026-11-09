@@ -69,6 +69,13 @@
           ]
         },
         {
+          "id": "argument-analysis",
+          "title": "Argument and disagreement analysis",
+          "slugs": [
+            "framework/methods/ethical-disagreement-map"
+          ]
+        },
+        {
           "id": "testing",
           "title": "Discrimination and scenarios",
           "slugs": [
@@ -562,6 +569,13 @@
       "role": "Research process case",
       "bookReference": "Part V: questions, representations and human–AI roles",
       "readings": []
+    },
+    "framework/methods/ethical-disagreement-map": {
+      "section": "methods",
+      "group": "argument-analysis",
+      "role": "Knowledge synthesis and diagnostic method",
+      "bookReference": "Representation, agent roles and feasible sets",
+      "readings": []
     }
   },
   "titles": {
@@ -601,7 +615,8 @@
     "framework/foundations/lock-in-vs-probability": "Smooth Operation Does Not Guarantee Recovery: Problem Probability and Lock-In Risk",
     "applications/investment-evidence-self-check": "Is Evidence Updating the Judgement or Defending the Original View?",
     "framework/methods/from-question-to-mechanism": "From a Concrete Question to a Generative Mechanism: A Human–AI Research Process",
-    "framework/methods/from-ethical-debate-to-argument-map": "From an Ethical Debate to a Map of Argumentative Disagreement: A Human–AI Research Case"
+    "framework/methods/from-ethical-debate-to-argument-map": "From an Ethical Debate to a Map of Argumentative Disagreement: A Human–AI Research Case",
+    "framework/methods/ethical-disagreement-map": "The Structure and Generative Mechanisms of Ethical Disagreement"
   },
   "labels": {
     "framework/book/constraints-and-future-options": "Part one | Reality and dynamic systems",

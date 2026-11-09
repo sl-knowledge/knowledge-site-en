@@ -2,7 +2,7 @@
 title: 'From an Ethical Debate to a Map of Argumentative Disagreement: A Human–AI Research Case'
 description: A case of reframing an ethical debate into the structural analysis of argumentative disagreement.
 author: SL
-version: 1.0.1
+version: 1.0.2
 created: '2026-11-09'
 updated: '2026-11-09'
 published: '2026-11-09'
@@ -15,7 +15,7 @@ source: framework/methods/from-ethical-debate-to-argument-map.md
 sourceUpdated: '2026-11-09'
 ---
 
-*A record of how questions developed in human–AI collaboration · Case record v1.0.1 · 9 November 2026*
+*A record of how questions developed in human–AI collaboration · Case record v1.0.2 · 9 November 2026*
 
 ## Starting with an apparently ordinary ethical dispute
 
@@ -228,5 +228,7 @@ Those questions remain open. As a human–AI research case, the exchange also il
 This is not a mandatory division of labour for humans or AI. It is one collaborative path observable in this particular exchange.
 
 ---
+
+The subsequent synthesis is available as [The Structure and Generative Mechanisms of Ethical Disagreement v0.7](./ethical-disagreement-map.md), with the H0–H3 diagnostic map, Q/J/A/S roles, a recording template and two worked cases. The process recorded here covers the earlier development through v0.4.
 
 **Case scope.** This account was prepared from the ethics research exchange and the development of The Structure and Generative Mechanisms of Disagreement in Ethics from v0.1 to v0.4. Quotations select key expressions from the conversation, with some spoken hesitations omitted; in this English edition they are translations. The remaining text summarises the exchange rather than providing a verbatim transcript. Recording how a method developed does not establish the originality or universal validity of its conclusions.
