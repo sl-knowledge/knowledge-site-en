@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "release": "0.15.3",
-  "date": "2026-11-08",
-  "publicationRef": "site-v0.15.3",
+  "release": "0.16.0",
+  "date": "2026-11-09",
+  "publicationRef": "site-v0.16.0",
   "chineseResearchBaselineTag": "site-v0.6.0",
   "hashDefinition": "SHA-256 of UTF-8 Markdown with CRLF normalised to LF; includes frontmatter.",
   "notice": "A translation and publication snapshot, not evidence that every claim has been validated.",
@@ -280,6 +280,14 @@
       "englishTextSha256": "125b2eb81a13436940dcb75f76f6a73eb44065fbcc11081111b7c1290e42f024"
     },
     {
+      "path": "framework/methods/from-ethical-debate-to-argument-map.md",
+      "version": "1.0.1",
+      "sourceUpdated": "2026-11-09",
+      "kind": "article",
+      "chineseTextSha256": "9793bd5184dd546d773dedc75e6452714687322825b7641ab8663c2d81a1135a",
+      "englishTextSha256": "fa6892b60328d9c6db2ad37b592d49b662c91183897a646086bfa8b6ffd1613a"
+    },
+    {
       "path": "framework/methods/from-question-to-mechanism.md",
       "version": "0.1.2",
       "sourceUpdated": "2026-11-08",
@@ -289,11 +297,11 @@
     },
     {
       "path": "framework/methods/index.md",
-      "version": "0.4.1",
-      "sourceUpdated": "2026-11-08",
+      "version": "0.4.2",
+      "sourceUpdated": "2026-11-09",
       "kind": "category",
-      "chineseTextSha256": "c05ecfb497af6d4f3909d4b1c5664e291521edcb9c8bf556cf9e90ae0ee8e4b8",
-      "englishTextSha256": "68c5e8d1febac6a3c82cc6c76a9c89634ad928ffc0c04ce0656eed9beb07351f"
+      "chineseTextSha256": "ca6b422ba342572f6db83c2bb7f5bac3d9aefe5e995e1340bf7a3f176d863dc6",
+      "englishTextSha256": "91475e2ee92dc55c2772f4d0add40ec2558e0c4db277a6b1b17fe8a94db9a47d"
     },
     {
       "path": "framework/methods/investment-research-charter.md",
@@ -441,11 +449,11 @@
     },
     {
       "path": "updates.md",
-      "version": "1.8.3",
-      "sourceUpdated": "2026-11-08",
+      "version": "1.9.0",
+      "sourceUpdated": "2026-11-09",
       "kind": "release",
-      "chineseTextSha256": "125b399db9214fabbe2d3bbee6532eeb49e4f4ae63e1de2dbda899abed170d40",
-      "englishTextSha256": "1142dd38d2c51e6c4dc87fbda4eeb1a24c5ed3f8310bce2b0339476dc0ac988b"
+      "chineseTextSha256": "a9a85b6ce55c77102826652c9406a0e320583631d4e380e92837880cc7e45353",
+      "englishTextSha256": "19963fc82d15e2a7cbee811eb98df641b8ff50a88e73c91695fc1dbde2ae1301"
     }
   ],
   "previousPublicationRef": "site-v0.8.2"

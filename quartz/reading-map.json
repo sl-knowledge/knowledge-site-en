@@ -80,7 +80,8 @@
           "title": "Human-AI collaboration and long-running research",
           "slugs": [
             "framework/book/human-ai-research-system",
-            "framework/methods/from-question-to-mechanism"
+            "framework/methods/from-question-to-mechanism",
+            "framework/methods/from-ethical-debate-to-argument-map"
           ]
         },
         {
@@ -554,6 +555,13 @@
       "role": "Research process case",
       "bookReference": "Part V: research states, versions and human–AI roles",
       "readings": []
+    },
+    "framework/methods/from-ethical-debate-to-argument-map": {
+      "section": "methods",
+      "group": "research-system",
+      "role": "Research process case",
+      "bookReference": "Part V: questions, representations and human–AI roles",
+      "readings": []
     }
   },
   "titles": {
@@ -592,7 +600,8 @@
     "framework/foundations/simplicity-and-recovery": "Simplification and Recovery Paths: Recoverability in Constrained Systems",
     "framework/foundations/lock-in-vs-probability": "Smooth Operation Does Not Guarantee Recovery: Problem Probability and Lock-In Risk",
     "applications/investment-evidence-self-check": "Is Evidence Updating the Judgement or Defending the Original View?",
-    "framework/methods/from-question-to-mechanism": "From a Concrete Question to a Generative Mechanism: A Human–AI Research Process"
+    "framework/methods/from-question-to-mechanism": "From a Concrete Question to a Generative Mechanism: A Human–AI Research Process",
+    "framework/methods/from-ethical-debate-to-argument-map": "From an Ethical Debate to a Map of Argumentative Disagreement: A Human–AI Research Case"
   },
   "labels": {
     "framework/book/constraints-and-future-options": "Part one | Reality and dynamic systems",

@@ -2,18 +2,24 @@
 title: "Site Update Log"
 description: "Records site versions, release dates, additions and important revisions, and their effect on reading and citation."
 author: SL
-version: "1.8.3"
+version: "1.9.0"
 created: "2026-11-02"
-updated: "2026-11-08"
+updated: "2026-11-09"
 published: "2026-11-02"
 publish: true
 kind: release
 lang: en
 source: updates.md
-sourceUpdated: "2026-11-08"
+sourceUpdated: "2026-11-09"
 ---
 
 A site version records a batch of public content and reading-structure changes; every article keeps its own version and update date.
+
+<a id="v0-16-0"></a>
+
+## v0.16.0 · 2026-11-09
+
+Published [From an Ethical Debate to a Map of Argumentative Disagreement: A Human–AI Research Case v1.0.1](./framework/methods/from-ethical-debate-to-argument-map.md), a human–AI research case about reframing questions, comparing representations, identifying agent roles and controlling scope. Both editions are available under Research Methods → Human-AI collaboration and long-running research.
 
 <a id="v0-15-3"></a>
 
