@@ -2,18 +2,24 @@
 title: "Site Update Log"
 description: "Records site versions, release dates, additions and important revisions, and their effect on reading and citation."
 author: SL
-version: "1.11.0"
+version: "1.12.0"
 created: "2026-11-02"
-updated: "2026-11-09"
+updated: "2026-11-10"
 published: "2026-11-02"
 publish: true
 kind: release
 lang: en
 source: updates.md
-sourceUpdated: "2026-11-09"
+sourceUpdated: "2026-11-10"
 ---
 
 A site version records a batch of public content and reading-structure changes; every article keeps its own version and update date.
+
+<a id="v0-19-0"></a>
+
+## v0.19.0 · 2026-11-10
+
+Published three philosophy papers: [the practice loop](./applications/belief-gated-practice-loop.md), [needs and generative capability](./applications/needs-and-generative-capability.md), and [constraints, generation and human value](./framework/foundations/constraints-generation-and-human-value.md), all v0.2. They connect previously separate questions through explicit condensation structures, with guides or abstracts, propositions and record cards. Updated [Freedom and Unconstrained Wandering to v0.2.1](./framework/foundations/freedom-and-future-options.md), including capability feedback and self-revision. Both editions, category indexes, article connections and the complete sidebar are updated.
 
 <a id="v0-18-0"></a>
 

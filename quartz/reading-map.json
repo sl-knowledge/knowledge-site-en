@@ -42,7 +42,8 @@
           "title": "Systems, objectives and values",
           "slugs": [
             "framework/foundations/systems-within-the-universe",
-            "framework/foundations/why-objectives-are-reasonable"
+            "framework/foundations/why-objectives-are-reasonable",
+            "framework/foundations/constraints-generation-and-human-value"
           ]
         },
         {
@@ -162,9 +163,11 @@
         },
         {
           "id": "personal",
-          "title": "Personal choice",
+          "title": "Belief, practice and personal choice",
           "slugs": [
-            "framework/foundations/freedom-and-future-options"
+            "framework/foundations/freedom-and-future-options",
+            "applications/belief-gated-practice-loop",
+            "applications/needs-and-generative-capability"
           ]
         }
       ]
@@ -576,6 +579,37 @@
       "role": "Knowledge synthesis and diagnostic method",
       "bookReference": "Representation, agent roles and feasible sets",
       "readings": []
+    },
+    "applications/belief-gated-practice-loop": {
+      "section": "applications",
+      "group": "personal",
+      "role": "Mechanism hypothesis",
+      "bookReference": "Generative conditions, representation and future paths",
+      "readings": [
+        "framework/methods/cf-grammar",
+        "framework/methods/from-question-to-mechanism"
+      ]
+    },
+    "applications/needs-and-generative-capability": {
+      "section": "applications",
+      "group": "personal",
+      "role": "Mechanism hypothesis",
+      "bookReference": "Generative conditions, representation and future paths",
+      "readings": [
+        "applications/belief-gated-practice-loop",
+        "framework/foundations/freedom-and-future-options",
+        "framework/methods/stress-testing"
+      ]
+    },
+    "framework/foundations/constraints-generation-and-human-value": {
+      "section": "theory",
+      "group": "values",
+      "role": "Open philosophical outline",
+      "bookReference": "Generative conditions, representation and future paths",
+      "readings": [
+        "framework/foundations/why-objectives-are-reasonable",
+        "framework/methods/ethical-disagreement-map"
+      ]
     }
   },
   "titles": {
@@ -616,7 +650,10 @@
     "applications/investment-evidence-self-check": "Is Evidence Updating the Judgement or Defending the Original View?",
     "framework/methods/from-question-to-mechanism": "From a Concrete Question to a Generative Mechanism: A Human–AI Research Process",
     "framework/methods/from-ethical-debate-to-argument-map": "From an Ethical Debate to a Map of Argumentative Disagreement: A Human–AI Research Case",
-    "framework/methods/ethical-disagreement-map": "Where Does Ethical Disagreement Come From?"
+    "framework/methods/ethical-disagreement-map": "Where Does Ethical Disagreement Come From?",
+    "applications/belief-gated-practice-loop": "A Belief-Gated Practice Loop: A Mechanism Hypothesis for Religious Participation",
+    "applications/needs-and-generative-capability": "The Gap between Needs and Generative Capability: A Mechanism Framework for Support, Choice and Behaviour",
+    "framework/foundations/constraints-generation-and-human-value": "Constraints, Generation and Human Value"
   },
   "labels": {
     "framework/book/constraints-and-future-options": "Part one | Reality and dynamic systems",

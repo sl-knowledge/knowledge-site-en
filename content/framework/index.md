@@ -2,15 +2,15 @@
 title: "Theory Framework"
 description: "Enter through the overall architecture, the canonical vocabulary and the three trunks of reality, representation and decision, then read the systems, values, life and concept topics."
 author: "SL"
-version: "0.8"
+version: "0.8.1"
 created: "2026-10-31"
-updated: "2026-11-03"
+updated: "2026-11-10"
 published: "2026-10-31"
 publish: true
 kind: category
 lang: en
 source: framework/index.md
-sourceUpdated: "2026-11-03"
+sourceUpdated: "2026-11-10"
 ---
 
 This body of research turns on two questions: how do you find, from open-world evidence, a representation that is relevant to a target and a horizon; and how do you notice that the representation has failed, then restore its applicability through the structural changes that are necessary.
@@ -82,6 +82,8 @@ Scope itself needs testing. A study should specify in advance what additional co
 <a id="values"></a>
 
 ## Systems, objectives and values
+
+- [Constraints, Generation and Human Value](./foundations/constraints-generation-and-human-value.md): An open philosophical outline connecting generative explanation, evidential discipline and candidate values, distinguishing facts, values and multi-agent ethical judgement.
 
 - [Any System Is a Subsystem of the Universe](https://sl-knowledge.github.io/knowledge-site-en/framework/foundations/systems-within-the-universe): system boundaries as modelling choices: local-environment relations, fast and slow scales, and when a model needs to change.
 - [Why Are Objective Functions Reasonable?](https://sl-knowledge.github.io/knowledge-site-en/framework/foundations/why-objectives-are-reasonable): the distinction between survival conditions and value premises: whom objectives serve, who chooses, and whether feedback is genuine.
