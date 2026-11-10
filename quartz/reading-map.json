@@ -1,6 +1,21 @@
 {
   "sections": [
     {
+      "id": "philosophy",
+      "title": "Philosophical Reflections",
+      "slug": "philosophy/index",
+      "description": "Reflections on the universe, structure formation, life, cognition and knowledge: the underlying questions that orient this research.",
+      "groups": [
+        {
+          "id": "cosmos",
+          "title": "The universe and evolution",
+          "slugs": [
+            "philosophy/information-expansion-and-condensation"
+          ]
+        }
+      ]
+    },
+    {
       "id": "theory",
       "title": "Theory Framework",
       "slug": "framework/index",
@@ -610,6 +625,13 @@
         "framework/foundations/why-objectives-are-reasonable",
         "framework/methods/ethical-disagreement-map"
       ]
+    },
+    "philosophy/information-expansion-and-condensation": {
+      "section": "philosophy",
+      "group": "cosmos",
+      "role": "Philosophical essay",
+      "bookReference": "Structure formation, generative capability and knowledge condensation",
+      "readings": []
     }
   },
   "titles": {
@@ -653,7 +675,8 @@
     "framework/methods/ethical-disagreement-map": "Where Does Ethical Disagreement Come From?",
     "applications/belief-gated-practice-loop": "A Belief-Gated Practice Loop: A Mechanism Hypothesis for Religious Participation",
     "applications/needs-and-generative-capability": "The Gap between Needs and Generative Capability: A Mechanism Framework for Support, Choice and Behaviour",
-    "framework/foundations/constraints-generation-and-human-value": "Constraints, Generation and Human Value"
+    "framework/foundations/constraints-generation-and-human-value": "Constraints, Generation and Human Value",
+    "philosophy/information-expansion-and-condensation": "Information Expansion, Condensation and Recursive Evolution: A Philosophical Perspective on the Universe"
   },
   "labels": {
     "framework/book/constraints-and-future-options": "Part one | Reality and dynamic systems",

@@ -2,16 +2,16 @@
 title: "What This Site Is For"
 description: "An evolving personal research archive of book drafts, working papers and analytical essays, recording how theories and applications develop, are tested and are revised."
 author: SL
-version: "0.8"
+version: "0.8.1"
 created: "2026-11-03"
-updated: "2026-11-09"
+updated: "2026-11-10"
 published: "2026-11-03"
 publish: true
 status: "Research essay"
 kind: guide
 lang: en
 source: site-purpose.md
-sourceUpdated: "2026-11-09"
+sourceUpdated: "2026-11-10"
 ---
 
 **I do this research first and foremost to understand the world better for myself.**
@@ -71,7 +71,7 @@ Theories scattered across fields may also use different terms for similar relati
 
 Applications bring those relationships back into particular fields, supplying variables, mechanisms and evidence. A new application may generate knowledge or expose a missing condition, prompting further revision. **Theory and application thus form a continuing exchange.**
 
-This also connects with the earlier philosophical idea of “information diffusion and condensation.” Distilling scattered knowledge into theory is a round of condensation. Taking the theory into different fields, where it produces applications, questions and knowledge, begins another round of diffusion. The new material then provides a basis for renewed condensation. This thread is developed in [From Reflections on the Universe to Later Research](https://sl-knowledge.github.io/knowledge-site-en/cosmic-reflections-and-later-research).
+This also connects with the earlier philosophical idea of “information diffusion and condensation.” Distilling scattered knowledge into theory is a round of condensation. Taking the theory into different fields, where it produces applications, questions and knowledge, begins another round of diffusion. The new material then provides a basis for renewed condensation. This thread is developed in [From Reflections on the Universe to Later Research](https://sl-knowledge.github.io/knowledge-site-en/cosmic-reflections-and-later-research). The philosophical perspective itself is presented in [Information Expansion, Condensation and Recursive Evolution: A Philosophical Perspective on the Universe](./philosophy/information-expansion-and-condensation.md).
 
 ---
 

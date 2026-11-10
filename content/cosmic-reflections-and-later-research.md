@@ -2,16 +2,16 @@
 title: "From Reflections on the Universe to Later Research"
 description: "Understanding early philosophical reflections on the universe and the present work of organising theory, developing applications and generating knowledge through repeated diffusion and condensation of information."
 author: SL
-version: "0.2.1"
+version: "0.2.2"
 created: "2026-11-03"
-updated: "2026-11-03"
+updated: "2026-11-10"
 published: "2026-11-03"
 publish: true
 status: "Research essay"
 kind: guide
 lang: en
 source: cosmic-reflections-and-later-research.md
-sourceUpdated: "2026-11-03"
+sourceUpdated: "2026-11-10"
 ---
 
 Why does the world form structures? Why do life, cognition and civilisation appear? What do past events leave for what comes next?
@@ -23,6 +23,8 @@ One thread connecting the two is the early dynamic idea of **repeated informatio
 From this perspective, the present work of organising scattered knowledge into theory and taking it into different fields can itself be understood as a round of this cycle. The early philosophical reflections both raised research questions and offered a way of understanding what this research is doing.
 
 This essay traces several threads through the surviving texts. Correspondences between texts can show how questions continue, but cannot fully reconstruct how each idea arose or establish that every later result was derived from the early essay.
+
+The philosophical perspective is also presented in [Information Expansion, Condensation and Recursive Evolution: A Philosophical Perspective on the Universe](./philosophy/information-expansion-and-condensation.md).
 
 ## 1. The initial conjecture: how quickly complex structures form
 

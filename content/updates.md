@@ -2,7 +2,7 @@
 title: "Site Update Log"
 description: "Records site versions, release dates, additions and important revisions, and their effect on reading and citation."
 author: SL
-version: "1.12.0"
+version: "1.13.0"
 created: "2026-11-02"
 updated: "2026-11-10"
 published: "2026-11-02"
@@ -14,6 +14,12 @@ sourceUpdated: "2026-11-10"
 ---
 
 A site version records a batch of public content and reading-structure changes; every article keeps its own version and update date.
+
+<a id="v0-20-0"></a>
+
+## v0.20.0 · 2026-11-10
+
+Added [Philosophical Reflections](./philosophy/index.md) as a fifth reading path and published [Information Expansion, Condensation and Recursive Evolution: A Philosophical Perspective on the Universe](./philosophy/information-expansion-and-condensation.md) v0.1. The essay presents information expansion, condensation, stable structures and new generative capabilities as a philosophical perspective connected to the research direction. Both editions, the home page, top navigation, sidebar, site-purpose page and research-history links are updated.
 
 <a id="v0-19-0"></a>
 
