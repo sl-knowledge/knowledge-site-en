@@ -2,7 +2,7 @@
 title: "Site Update Log"
 description: "Records site versions, release dates, additions and important revisions, and their effect on reading and citation."
 author: SL
-version: "1.13.0"
+version: "1.14.0"
 created: "2026-11-02"
 updated: "2026-11-10"
 published: "2026-11-02"
@@ -14,6 +14,12 @@ sourceUpdated: "2026-11-10"
 ---
 
 A site version records a batch of public content and reading-structure changes; every article keeps its own version and update date.
+
+<a id="v0-21-0"></a>
+
+## v0.21.0 · 2026-11-10
+
+Published [When AI Evaluates the Wrong Question: A Record of Correction in Human–AI Research](./framework/methods/ai-error-and-correction-case.md) v0.1. The case records how the researcher and AI identified and corrected factual errors, mismatched evaluation and unclear roles. It includes 17 observations and a four-question check. Both editions and the [human–AI collaboration index](./framework/methods/index.md#research-system) are updated.
 
 <a id="v0-20-0"></a>
 

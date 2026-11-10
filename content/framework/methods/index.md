@@ -2,15 +2,15 @@
 title: "Research Methods"
 description: "CF Grammar, stress testing, human-AI collaboration, and the standards for validation and revision; the bridge between the theory trunks and domain research."
 author: "SL"
-version: "0.5.2"
+version: "0.5.3"
 created: "2026-11-01"
-updated: "2026-11-09"
+updated: "2026-11-10"
 published: "2026-11-01"
 publish: true
 kind: category
 lang: en
 source: framework/methods/index.md
-sourceUpdated: "2026-11-09"
+sourceUpdated: "2026-11-10"
 ---
 
 This section collects research methods that work across domains, and the architecture that keeps evidence, prediction and revision running. Shared definitions are in the [canonical vocabulary](./canonical-vocabulary.md); the position of the whole body of work is in the [theory framework](../index.md).
@@ -42,6 +42,8 @@ This section collects research methods that work across domains, and the archite
 - [From a Concrete Question to a Generative Mechanism: A Human–AI Research Process](./from-question-to-mechanism.md): a brief case showing six steps from a concrete question to a mechanism draft.
 
 - [From an Ethical Debate to a Map of Argumentative Disagreement: A Human–AI Research Case](./from-ethical-debate-to-argument-map.md): a case of reframing ethical debate through representation, agent roles and scope control.
+
+- [When AI Evaluates the Wrong Question: A Record of Correction in Human–AI Research](./ai-error-and-correction-case.md): Seventeen observations and corrections from a research conversation, distinguishing factual errors from mismatched tasks and criteria, with four checks for assessment.
 
 <a id="validation"></a>
 

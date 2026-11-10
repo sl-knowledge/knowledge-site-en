@@ -104,7 +104,8 @@
           "slugs": [
             "framework/book/human-ai-research-system",
             "framework/methods/from-question-to-mechanism",
-            "framework/methods/from-ethical-debate-to-argument-map"
+            "framework/methods/from-ethical-debate-to-argument-map",
+            "framework/methods/ai-error-and-correction-case"
           ]
         },
         {
@@ -632,6 +633,17 @@
       "role": "Philosophical essay",
       "bookReference": "Structure formation, generative capability and knowledge condensation",
       "readings": []
+    },
+    "framework/methods/ai-error-and-correction-case": {
+      "section": "methods",
+      "group": "research-system",
+      "role": "Human–AI correction case",
+      "bookReference": "Part V: research tasks, roles, evidence and revision",
+      "readings": [
+        "framework/methods/ethical-disagreement-map",
+        "framework/methods/from-question-to-mechanism",
+        "framework/methods/from-ethical-debate-to-argument-map"
+      ]
     }
   },
   "titles": {
@@ -676,7 +688,8 @@
     "applications/belief-gated-practice-loop": "A Belief-Gated Practice Loop: A Mechanism Hypothesis for Religious Participation",
     "applications/needs-and-generative-capability": "The Gap between Needs and Generative Capability: A Mechanism Framework for Support, Choice and Behaviour",
     "framework/foundations/constraints-generation-and-human-value": "Constraints, Generation and Human Value",
-    "philosophy/information-expansion-and-condensation": "Information Expansion, Condensation and Recursive Evolution: A Philosophical Perspective on the Universe"
+    "philosophy/information-expansion-and-condensation": "Information Expansion, Condensation and Recursive Evolution: A Philosophical Perspective on the Universe",
+    "framework/methods/ai-error-and-correction-case": "When AI Evaluates the Wrong Question: A Record of Correction in Human–AI Research"
   },
   "labels": {
     "framework/book/constraints-and-future-options": "Part one | Reality and dynamic systems",
