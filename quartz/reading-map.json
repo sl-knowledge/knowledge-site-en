@@ -190,6 +190,21 @@
       ]
     },
     {
+      "id": "science",
+      "title": "Popular Science",
+      "slug": "science/index",
+      "description": "Explanations of everyday questions through scientific evidence.",
+      "groups": [
+        {
+          "id": "health",
+          "title": "Health and the Human Body",
+          "slugs": [
+            "science/why-weight-loss-slows-down"
+          ]
+        }
+      ]
+    },
+    {
       "id": "book",
       "title": "Reading the Drafts",
       "slug": "framework/book/index",
@@ -655,6 +670,13 @@
       "readings": [
         "language/vocabulary-and-experience-compression"
       ]
+    },
+    "science/why-weight-loss-slows-down": {
+      "section": "science",
+      "group": "health",
+      "role": "Popular science on weight and energy balance",
+      "bookReference": "Feedback and dynamic systems",
+      "readings": []
     }
   },
   "titles": {
@@ -701,7 +723,8 @@
     "framework/foundations/constraints-generation-and-human-value": "Constraints, Generation and Human Value",
     "philosophy/information-expansion-and-condensation": "Information Expansion, Condensation and Recursive Evolution: A Philosophical Perspective on the Universe",
     "framework/methods/ai-error-and-correction-case": "When AI Evaluates the Wrong Question: A Record of Correction in Human–AI Research",
-    "language/why-translation-is-so-difficult": "Why Translation Is So Difficult"
+    "language/why-translation-is-so-difficult": "Why Translation Is So Difficult",
+    "science/why-weight-loss-slows-down": "Why Doesn’t Weight Keep Falling When You Eat Less and Move More?"
   },
   "labels": {
     "framework/book/constraints-and-future-options": "Part one | Reality and dynamic systems",

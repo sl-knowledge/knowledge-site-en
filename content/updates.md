@@ -2,18 +2,24 @@
 title: "Site Update Log"
 description: "Records site versions, release dates, additions and important revisions, and their effect on reading and citation."
 author: SL
-version: "1.15.0"
+version: "1.16.0"
 created: "2026-11-02"
-updated: "2026-11-10"
+updated: "2026-11-11"
 published: "2026-11-02"
 publish: true
 kind: release
 lang: en
 source: updates.md
-sourceUpdated: "2026-11-10"
+sourceUpdated: "2026-11-11"
 ---
 
 A site version records a batch of public content and reading-structure changes; every article keeps its own version and update date.
+
+<a id="v0-23-0"></a>
+
+## v0.23.0 · 2026-11-11
+
+Opened the [Popular Science section](./science/index.md) and published its first article in both editions. [Why Doesn’t Weight Keep Falling When You Eat Less and Move More?](./science/why-weight-loss-slows-down.md) explains changes in weight, body composition and energy balance during weight loss.
 
 <a id="v0-22-0"></a>
 
