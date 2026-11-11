@@ -2,16 +2,16 @@
 title: "Vocabulary and Experience Compression: From Concepts to Shared Symbols"
 description: "Distinguish words from concepts, examine experience organization and relational expression, and specify tests of the order-parameter analogy."
 author: "SL"
-version: "0.1.1"
+version: "0.1.2"
 created: "2026-11-01"
-updated: "2026-11-08"
+updated: "2026-11-10"
 published: "2026-11-01"
 publish: true
 kind: article
 lang: en
 language: en
 source: language/vocabulary-and-experience-compression.md
-sourceUpdated: "2026-11-08"
+sourceUpdated: "2026-11-10"
 ---
 
 ## 1. How can one word accommodate many experiences?
@@ -128,7 +128,7 @@ The value of this direction is making familiar words questionable again: **Which
 
 These are neighboring foundations, not a joint proof of all claims or a complete review. The public edition removes repetition, praise and unsupported originality percentages; distinguishes words from concepts and typicality from dynamic stability; and replaces overall language rankings with comparisons of specific uses and tasks. The proposed experiments have not been performed.
 
-Related reading: [The Origins of Writing](./origins-of-writing.md), [Concept Packaging and the Constraints of Characters](./concept-packaging-and-characters.md), [Suggestions for Native Chinese Speakers Learning English](../learning/english-for-chinese-speakers.md), [What Belongs in a Model?](../framework/book/what-belongs-in-a-model.md).
+Related reading: [The Origins of Writing](./origins-of-writing.md), [Concept Packaging and the Constraints of Characters](./concept-packaging-and-characters.md), [Suggestions for Native Chinese Speakers Learning English](../learning/english-for-chinese-speakers.md), [What Belongs in a Model?](../framework/book/what-belongs-in-a-model.md), [Why Translation Is So Difficult](./why-translation-is-so-difficult.md).
 
 ---
 

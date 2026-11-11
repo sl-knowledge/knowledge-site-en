@@ -2,7 +2,7 @@
 title: "Theory Applications"
 description: "Enter through companies, economic circulation, learning, language, cooperation, control and personal choice, separating domain frameworks, methods, cases and hypotheses still to be tested."
 author: SL
-version: "0.8"
+version: "0.8.1"
 created: "2026-11-02"
 updated: "2026-11-10"
 published: "2026-11-02"
@@ -51,6 +51,8 @@ Some articles are related topics or working hypotheses. Being placed in the same
 
 - [The Origins of Writing: How Language Structure Grew a Writing System](https://sl-knowledge.github.io/knowledge-site-en/language/origins-of-writing): the correspondence with the trunk still needs work; the history of writing systems and the parameter explanation need independent evidence.
 - [Concept Packaging and the Constraint of Characters: How Chinese Characters Fix the Monosyllabic Morpheme Structure of Chinese](https://sl-knowledge.github.io/knowledge-site-en/language/concept-packaging-and-characters): keeps co-evolution, competing explanations and testable predictions; correlation is not written as proven causation.
+
+- [Why Translation Is So Difficult](../language/why-translation-is-so-difficult.md)
 
 <a id="cooperation"></a>
 

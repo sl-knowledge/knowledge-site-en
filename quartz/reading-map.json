@@ -160,7 +160,8 @@
           "title": "Language and writing systems",
           "slugs": [
             "language/origins-of-writing",
-            "language/concept-packaging-and-characters"
+            "language/concept-packaging-and-characters",
+            "language/why-translation-is-so-difficult"
           ]
         },
         {
@@ -309,7 +310,8 @@
       "role": "Representation-related topic",
       "bookReference": "Conceptual links to part two, chapters 9 and 11",
       "readings": [
-        "framework/book/what-belongs-in-a-model"
+        "framework/book/what-belongs-in-a-model",
+        "language/why-translation-is-so-difficult"
       ]
     },
     "framework/methods/cf-grammar": {
@@ -644,6 +646,15 @@
         "framework/methods/from-question-to-mechanism",
         "framework/methods/from-ethical-debate-to-argument-map"
       ]
+    },
+    "language/why-translation-is-so-difficult": {
+      "section": "applications",
+      "group": "language",
+      "role": "Translation and meaning",
+      "bookReference": "Conceptual links to part two, chapters 9 and 11",
+      "readings": [
+        "language/vocabulary-and-experience-compression"
+      ]
     }
   },
   "titles": {
@@ -689,7 +700,8 @@
     "applications/needs-and-generative-capability": "The Gap between Needs and Generative Capability: A Mechanism Framework for Support, Choice and Behaviour",
     "framework/foundations/constraints-generation-and-human-value": "Constraints, Generation and Human Value",
     "philosophy/information-expansion-and-condensation": "Information Expansion, Condensation and Recursive Evolution: A Philosophical Perspective on the Universe",
-    "framework/methods/ai-error-and-correction-case": "When AI Evaluates the Wrong Question: A Record of Correction in Human–AI Research"
+    "framework/methods/ai-error-and-correction-case": "When AI Evaluates the Wrong Question: A Record of Correction in Human–AI Research",
+    "language/why-translation-is-so-difficult": "Why Translation Is So Difficult"
   },
   "labels": {
     "framework/book/constraints-and-future-options": "Part one | Reality and dynamic systems",

@@ -2,7 +2,7 @@
 title: "Site Update Log"
 description: "Records site versions, release dates, additions and important revisions, and their effect on reading and citation."
 author: SL
-version: "1.14.0"
+version: "1.15.0"
 created: "2026-11-02"
 updated: "2026-11-10"
 published: "2026-11-02"
@@ -14,6 +14,12 @@ sourceUpdated: "2026-11-10"
 ---
 
 A site version records a batch of public content and reading-structure changes; every article keeps its own version and update date.
+
+<a id="v0-22-0"></a>
+
+## v0.22.0 · 2026-11-10
+
+Published a bilingual essay on how translators reconstruct meaning across languages. It uses three Chinese examples to show the role of grammar, context and communicative function. [Why Translation Is So Difficult](./language/why-translation-is-so-difficult.md)
 
 <a id="v0-21-0"></a>
 
