@@ -2,15 +2,15 @@
 title: "Theory Framework"
 description: "Enter through the overall architecture, the canonical vocabulary and the three trunks of reality, representation and decision, then read the systems, values, life and concept topics."
 author: "SL"
-version: "0.8.1"
+version: "0.8.2"
 created: "2026-10-31"
-updated: "2026-11-10"
+updated: "2026-11-11"
 published: "2026-10-31"
 publish: true
 kind: category
 lang: en
 source: framework/index.md
-sourceUpdated: "2026-11-10"
+sourceUpdated: "2026-11-11"
 ---
 
 This body of research turns on two questions: how do you find, from open-world evidence, a representation that is relevant to a target and a horizon; and how do you notice that the representation has failed, then restore its applicability through the structural changes that are necessary.
@@ -62,6 +62,8 @@ Scope itself needs testing. A study should specify in advance what additional co
 ## Reality and dynamic systems
 
 - [Constraints, Viability and Future Options: An Analytical Framework for Complex Systems](https://sl-knowledge.github.io/knowledge-site-en/framework/book/constraints-and-future-options): systems, constraints, capability and access; reachability and viability; four boundaries and recovery windows.
+
+- [The Hierarchical Causal–Control Hypothesis (HCC)](./foundations/hierarchical-causal-control.md). A working paper on how stable modules and reconfigurable interfaces can expand higher-level control, with three hypotheses and ways to test them.
 
 <a id="representation"></a>
 

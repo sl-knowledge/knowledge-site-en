@@ -2,18 +2,24 @@
 title: "Site Update Log"
 description: "Records site versions, release dates, additions and important revisions, and their effect on reading and citation."
 author: SL
-version: "1.15.0"
+version: "1.16.0"
 created: "2026-11-02"
-updated: "2026-11-10"
+updated: "2026-11-11"
 published: "2026-11-02"
 publish: true
 kind: release
 lang: en
 source: updates.md
-sourceUpdated: "2026-11-10"
+sourceUpdated: "2026-11-11"
 ---
 
 A site version records a batch of public content and reading-structure changes; every article keeps its own version and update date.
+
+<a id="v0-24-0"></a>
+
+## v0.24.0 · 2026-11-11
+
+Published [The Hierarchical Causal–Control Hypothesis (HCC)](./framework/foundations/hierarchical-causal-control.md) v0.2.2 in both editions. The working paper opens with a one-page guide and proposes tests of generativity, long-term fixation and interface hardening.
 
 <a id="v0-22-0"></a>
 

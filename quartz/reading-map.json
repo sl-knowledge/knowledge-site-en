@@ -33,7 +33,8 @@
           "id": "reality",
           "title": "Reality and dynamic systems",
           "slugs": [
-            "framework/book/constraints-and-future-options"
+            "framework/book/constraints-and-future-options",
+            "framework/foundations/hierarchical-causal-control"
           ]
         },
         {
@@ -655,6 +656,16 @@
       "readings": [
         "language/vocabulary-and-experience-compression"
       ]
+    },
+    "framework/foundations/hierarchical-causal-control": {
+      "section": "theory",
+      "group": "reality",
+      "role": "Working hypotheses on constraint architecture",
+      "bookReference": "Part one: constraints, reachability and viability",
+      "readings": [
+        "framework/book/constraints-and-future-options",
+        "framework/methods/stress-testing"
+      ]
     }
   },
   "titles": {
@@ -701,7 +712,8 @@
     "framework/foundations/constraints-generation-and-human-value": "Constraints, Generation and Human Value",
     "philosophy/information-expansion-and-condensation": "Information Expansion, Condensation and Recursive Evolution: A Philosophical Perspective on the Universe",
     "framework/methods/ai-error-and-correction-case": "When AI Evaluates the Wrong Question: A Record of Correction in Human–AI Research",
-    "language/why-translation-is-so-difficult": "Why Translation Is So Difficult"
+    "language/why-translation-is-so-difficult": "Why Translation Is So Difficult",
+    "framework/foundations/hierarchical-causal-control": "The Hierarchical Causal–Control Hypothesis (HCC)"
   },
   "labels": {
     "framework/book/constraints-and-future-options": "Part one | Reality and dynamic systems",
