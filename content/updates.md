@@ -2,7 +2,7 @@
 title: "Site Update Log"
 description: "Records site versions, release dates, additions and important revisions, and their effect on reading and citation."
 author: SL
-version: "1.16.0"
+version: "1.17.0"
 created: "2026-11-02"
 updated: "2026-11-11"
 published: "2026-11-02"
@@ -14,6 +14,12 @@ sourceUpdated: "2026-11-11"
 ---
 
 A site version records a batch of public content and reading-structure changes; every article keeps its own version and update date.
+
+<a id="v0-25-0"></a>
+
+## v0.25.0 · 2026-11-11
+
+Published [How Can a System Change Its Own Constraints?](./framework/foundations/how-systems-change-their-constraints.md) v0.1 in both editions. A workstation handoff shows how a staging space and a rule change the paths available for later work.
 
 <a id="v0-24-0"></a>
 

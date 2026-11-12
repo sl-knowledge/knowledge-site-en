@@ -2,7 +2,7 @@
 title: "Theory Framework"
 description: "Enter through the overall architecture, the canonical vocabulary and the three trunks of reality, representation and decision, then read the systems, values, life and concept topics."
 author: "SL"
-version: "0.8.2"
+version: "0.8.3"
 created: "2026-10-31"
 updated: "2026-11-11"
 published: "2026-10-31"
@@ -64,6 +64,8 @@ Scope itself needs testing. A study should specify in advance what additional co
 - [Constraints, Viability and Future Options: An Analytical Framework for Complex Systems](https://sl-knowledge.github.io/knowledge-site-en/framework/book/constraints-and-future-options): systems, constraints, capability and access; reachability and viability; four boundaries and recovery windows.
 
 - [The Hierarchical Causal–Control Hypothesis (HCC)](./foundations/hierarchical-causal-control.md). A working paper on how stable modules and reconfigurable interfaces can expand higher-level control, with three hypotheses and ways to test them.
+
+- [How Can a System Change Its Own Constraints?](./foundations/how-systems-change-their-constraints.md). A workstation handoff shows how a staging space and a rule change the paths available for later work.
 
 <a id="representation"></a>
 

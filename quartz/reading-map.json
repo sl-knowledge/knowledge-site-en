@@ -34,7 +34,8 @@
           "title": "Reality and dynamic systems",
           "slugs": [
             "framework/book/constraints-and-future-options",
-            "framework/foundations/hierarchical-causal-control"
+            "framework/foundations/hierarchical-causal-control",
+            "framework/foundations/how-systems-change-their-constraints"
           ]
         },
         {
@@ -666,6 +667,16 @@
         "framework/book/constraints-and-future-options",
         "framework/methods/stress-testing"
       ]
+    },
+    "framework/foundations/how-systems-change-their-constraints": {
+      "section": "theory",
+      "group": "reality",
+      "role": "How constraints change",
+      "bookReference": "Part one: constraints and feasible paths",
+      "readings": [
+        "framework/book/constraints-and-future-options",
+        "framework/foundations/hierarchical-causal-control"
+      ]
     }
   },
   "titles": {
@@ -713,7 +724,8 @@
     "philosophy/information-expansion-and-condensation": "Information Expansion, Condensation and Recursive Evolution: A Philosophical Perspective on the Universe",
     "framework/methods/ai-error-and-correction-case": "When AI Evaluates the Wrong Question: A Record of Correction in Human–AI Research",
     "language/why-translation-is-so-difficult": "Why Translation Is So Difficult",
-    "framework/foundations/hierarchical-causal-control": "The Hierarchical Causal–Control Hypothesis (HCC)"
+    "framework/foundations/hierarchical-causal-control": "The Hierarchical Causal–Control Hypothesis (HCC)",
+    "framework/foundations/how-systems-change-their-constraints": "How Can a System Change Its Own Constraints?"
   },
   "labels": {
     "framework/book/constraints-and-future-options": "Part one | Reality and dynamic systems",
