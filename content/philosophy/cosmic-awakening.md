@@ -1,8 +1,8 @@
 ---
 title: "Cosmic Awakening: A Framework for Existence, Evolution and Meaning"
-description: "A philosophical essay on information expansion and condensation, cosmic cycles, and the meaning of a finite life."
+description: "A philosophical essay that takes information as the essence of the universe and considers expansion, condensation, cosmic cycles and the meaning of a finite life."
 author: "SL"
-version: "0.5"
+version: "0.6"
 created: "2026-11-14"
 updated: "2026-11-14"
 published: "2026-11-14"
@@ -14,15 +14,15 @@ source: "philosophy/cosmic-awakening.md"
 sourceUpdated: "2026-11-14"
 ---
 
-## 1. A philosophical perspective
+## 1. Information is the essence of the universe
 
-“Cosmic Awakening” is a philosophical framework. In this essay I describe the evolution of the world in terms of information.
+What is the universe fundamentally made of? **My philosophical position is that information is the essence of the universe, and matter is one form that information takes under particular regularities.**
+
+In this framework, information refers broadly to existence, relationships, structures and possibilities for change. This sense is broader than the knowledge people record and communicate or the quantity measured in Shannon’s theory of communication.
 
 This essay is a concise revision of my 2025 work *Cosmic Awakening Information Field Theory*.
 
-It asks how the universe gives rise to new differences, structures and possibilities, and where life, cognition and civilization fit into that process. It also asks how a finite life can understand its own existence.
-
-I think of this framework as an open idea, like a seed. It offers a way of looking at the world and can grow through reflection, discussion and revision.
+From this starting point, the next questions are how information evolves and how it takes the form of matter, life, cognition and such a diverse world. This leads to information expansion and condensation.
 
 ## 2. Information expansion and condensation
 
@@ -101,6 +101,8 @@ The meaning of life extends beyond resisting its end. It can lie in living out i
 
 ## 7. Connections with earlier ideas
 
+John Archibald Wheeler’s *It from Bit* explores the relationship between information and physical reality. Seth Lloyd approaches the universe through computation and information processing, and Stephen Wolfram studies how simple programs produce complex behavior. These are lines of thought I cited in the 2025 essay. Starting from the view that information is fundamental, this essay asks how information expands, condenses into structures and, through those structures, changes the conditions for the next round of evolution.
+
 Empedocles uses “Love” and “Strife” to describe how things come together and separate. In *First Principles*, Herbert Spencer contrasts the integration of matter and the accompanying dissipation of motion with the disintegration of matter. The *Book of Changes* depicts the alternation of yin and yang through the succession of sun and moon, cold and heat. These passages offer parallels to the alternation described here. This essay goes on to ask how structures formed through condensation preserve the past and open up the next round of possibilities. See [Empedocles’ fragments](https://en.wikisource.org/wiki/Fragments_of_Empedocles), [Spencer’s First Principles](https://constitution.org/2-Authors/hs/first_prin.htm) and [the Book of Changes, Appended Statements II](https://zh.wikisource.org/wiki/易傳/繫辭下).
 
 In *The Phenomenon of Man*, Teilhard de Chardin discusses the development of complexity and consciousness and describes evolution as moving toward the Omega Point. In *The Singularity Is Near*, Ray Kurzweil calls the stage in which intelligence spreads into the universe “The Universe Wakes Up.” This essay shares their interest in connecting cosmic evolution, complexity and consciousness. It leaves evolution open-ended, without a personal God or a final stage defined by technological expansion or an uninterrupted rise in complexity.
@@ -137,3 +139,7 @@ A separate study takes human knowledge as its subject and seeks to describe info
 8. Spencer, H. [*First Principles*](https://constitution.org/2-Authors/hs/first_prin.htm), part II, chapter 12, §§96–97.
 9. [*Book of Changes*, Appended Statements II](https://zh.wikisource.org/wiki/易傳/繫辭下), passage on the succession of sun and moon, cold and heat.
 10. Aaronson, S., Carroll, S. M., & Ouellette, L. (2014). [Quantifying the Rise and Fall of Complexity in Closed Systems: The Coffee Automaton](https://arxiv.org/abs/1405.6903). arXiv:1405.6903.
+11. Shannon, C. E. (1948). [A Mathematical Theory of Communication](https://cs-www.cs.yale.edu/homes/yry/readings/general/shannon1948.pdf). *The Bell System Technical Journal*, 27, 379–423, 623–656.
+12. Wheeler, J. A. (1990). [*Information, Physics, Quantum: The Search for Links*](https://cqi.inf.usi.ch/qic/wheeler.pdf).
+13. Lloyd, S. [*Programming the Universe*](https://www.penguinrandomhouse.com/books/102977/programming-the-universe-by-seth-lloyd/).
+14. Wolfram, S. (2002). [*A New Kind of Science*](https://www.wolframscience.com/nks/).
