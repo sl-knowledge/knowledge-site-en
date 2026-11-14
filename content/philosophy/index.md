@@ -2,16 +2,16 @@
 title: "Philosophical Reflections"
 description: "Reflections on the universe, structure formation, life, cognition and knowledge: the underlying questions that orient this research."
 author: "SL"
-version: "0.1"
+version: "0.2"
 created: "2026-11-10"
-updated: "2026-11-10"
+updated: "2026-11-14"
 published: "2026-11-10"
 publish: true
 kind: "category"
 lang: "en"
 language: "en"
 source: "philosophy/index.md"
-sourceUpdated: "2026-11-10"
+sourceUpdated: "2026-11-14"
 ---
 
 These essays preserve the philosophical questions and perspectives underlying the research: how structures emerge, how prior outcomes become conditions for later possibilities, and how inquiry participates in the world it studies.
@@ -20,6 +20,7 @@ These essays preserve the philosophical questions and perspectives underlying th
 
 ## The universe and evolution
 
+- [Cosmic Awakening: A Framework for Existence, Evolution and Meaning](./cosmic-awakening.md): A philosophical essay on information expansion and condensation, cosmic cycles, and the meaning of a finite life.
 - [Information Expansion, Condensation and Recursive Evolution: A Philosophical Perspective on the Universe](./information-expansion-and-condensation.md): expansion, condensation, recursive levels and generative rules, continuing philosophical reflections begun in 2025.
 - [From Reflections on the Universe to Later Research](../cosmic-reflections-and-later-research.md): connections between this philosophical perspective and subsequent theory-building and applications.
 

@@ -2,18 +2,24 @@
 title: "Site Update Log"
 description: "Records site versions, release dates, additions and important revisions, and their effect on reading and citation."
 author: SL
-version: "1.17.0"
+version: "1.18.0"
 created: "2026-11-02"
-updated: "2026-11-11"
+updated: "2026-11-14"
 published: "2026-11-02"
 publish: true
 kind: release
 lang: en
 source: updates.md
-sourceUpdated: "2026-11-11"
+sourceUpdated: "2026-11-14"
 ---
 
 A site version records a batch of public content and reading-structure changes; every article keeps its own version and update date.
+
+<a id="v0-26-0"></a>
+
+## v0.26.0 · 2026-11-14
+
+Published [Cosmic Awakening: A Framework for Existence, Evolution and Meaning](./philosophy/cosmic-awakening.md) v0.5 in both editions. The essay brings together information expansion and condensation, cosmic cycles, and the meaning of a finite life.
 
 <a id="v0-25-0"></a>
 
