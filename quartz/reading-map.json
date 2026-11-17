@@ -11,6 +11,11 @@
           "title": "The universe and evolution",
           "slugs": [
             "philosophy/cosmic-awakening",
+            "philosophy/cosmic-awakening-01-information-manifestation-and-condensation",
+            "philosophy/cosmic-awakening-02-endless-spiral",
+            "philosophy/cosmic-awakening-03-from-stardust-to-thought",
+            "philosophy/cosmic-awakening-04-becoming-the-part-that-can-protect",
+            "philosophy/cosmic-awakening-guide-earlier-paths",
             "philosophy/information-expansion-and-condensation"
           ]
         }
@@ -635,9 +640,15 @@
     "philosophy/cosmic-awakening": {
       "section": "philosophy",
       "group": "cosmos",
-      "role": "Philosophical essay",
+      "role": "Comprehensive cosmic philosophy essay",
       "bookReference": "Information expansion, condensation and the meaning of existence",
-      "readings": []
+      "readings": [
+        "philosophy/cosmic-awakening-01-information-manifestation-and-condensation",
+        "philosophy/cosmic-awakening-02-endless-spiral",
+        "philosophy/cosmic-awakening-03-from-stardust-to-thought",
+        "philosophy/cosmic-awakening-04-becoming-the-part-that-can-protect",
+        "philosophy/cosmic-awakening-guide-earlier-paths"
+      ]
     },
     "philosophy/information-expansion-and-condensation": {
       "section": "philosophy",
@@ -684,6 +695,59 @@
       "readings": [
         "framework/book/constraints-and-future-options",
         "framework/foundations/hierarchical-causal-control"
+      ]
+    },
+    "philosophy/cosmic-awakening-01-information-manifestation-and-condensation": {
+      "section": "philosophy",
+      "group": "cosmos",
+      "role": "Series Part I",
+      "bookReference": "Cosmic Awakening v0.22",
+      "readings": [
+        "philosophy/cosmic-awakening",
+        "philosophy/cosmic-awakening-02-endless-spiral"
+      ]
+    },
+    "philosophy/cosmic-awakening-02-endless-spiral": {
+      "section": "philosophy",
+      "group": "cosmos",
+      "role": "Series Part II",
+      "bookReference": "Cosmic Awakening v0.22",
+      "readings": [
+        "philosophy/cosmic-awakening",
+        "philosophy/cosmic-awakening-01-information-manifestation-and-condensation",
+        "philosophy/cosmic-awakening-03-from-stardust-to-thought"
+      ]
+    },
+    "philosophy/cosmic-awakening-03-from-stardust-to-thought": {
+      "section": "philosophy",
+      "group": "cosmos",
+      "role": "Series Part III",
+      "bookReference": "Cosmic Awakening v0.22",
+      "readings": [
+        "philosophy/cosmic-awakening",
+        "philosophy/cosmic-awakening-02-endless-spiral",
+        "philosophy/cosmic-awakening-04-becoming-the-part-that-can-protect"
+      ]
+    },
+    "philosophy/cosmic-awakening-04-becoming-the-part-that-can-protect": {
+      "section": "philosophy",
+      "group": "cosmos",
+      "role": "Series Part IV",
+      "bookReference": "Cosmic Awakening v0.22",
+      "readings": [
+        "philosophy/cosmic-awakening",
+        "philosophy/cosmic-awakening-03-from-stardust-to-thought",
+        "philosophy/cosmic-awakening-guide-earlier-paths"
+      ]
+    },
+    "philosophy/cosmic-awakening-guide-earlier-paths": {
+      "section": "philosophy",
+      "group": "cosmos",
+      "role": "Guide to Earlier Thought",
+      "bookReference": "Cosmic Awakening v0.22",
+      "readings": [
+        "philosophy/cosmic-awakening",
+        "philosophy/cosmic-awakening-04-becoming-the-part-that-can-protect"
       ]
     }
   },
@@ -734,7 +798,12 @@
     "framework/methods/ai-error-and-correction-case": "When AI Evaluates the Wrong Question: A Record of Correction in Human–AI Research",
     "language/why-translation-is-so-difficult": "Why Translation Is So Difficult",
     "framework/foundations/hierarchical-causal-control": "The Hierarchical Causal–Control Hypothesis (HCC)",
-    "framework/foundations/how-systems-change-their-constraints": "How Can a System Change Its Own Constraints?"
+    "framework/foundations/how-systems-change-their-constraints": "How Can a System Change Its Own Constraints?",
+    "philosophy/cosmic-awakening-01-information-manifestation-and-condensation": "Cosmic Awakening I: Information, Manifestation and Condensation",
+    "philosophy/cosmic-awakening-02-endless-spiral": "Cosmic Awakening II: The Endless Spiral",
+    "philosophy/cosmic-awakening-03-from-stardust-to-thought": "Cosmic Awakening III: From Stardust to Thought",
+    "philosophy/cosmic-awakening-04-becoming-the-part-that-can-protect": "Cosmic Awakening IV: Becoming the Part Capable of Protection",
+    "philosophy/cosmic-awakening-guide-earlier-paths": "Cosmic Awakening Guide: Paths Taken by Earlier Thinkers"
   },
   "labels": {
     "framework/book/constraints-and-future-options": "Part one | Reality and dynamic systems",

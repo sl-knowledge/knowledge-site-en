@@ -2,7 +2,7 @@
 title: "Site Update Log"
 description: "Records site versions, release dates, additions and important revisions, and their effect on reading and citation."
 author: SL
-version: "1.21.0"
+version: "1.22.0"
 created: "2026-11-02"
 updated: "2026-11-17"
 published: "2026-11-02"
@@ -14,6 +14,12 @@ sourceUpdated: "2026-11-17"
 ---
 
 A site version records a batch of public content and reading-structure changes; every article keeps its own version and update date.
+
+<a id="v0-30-0"></a>
+
+## v0.30.0 · 2026-11-17
+
+Completed the English v0.22 edition of [*Cosmic Awakening*](./philosophy/cosmic-awakening.md) and published the same four-part reading series plus the guide to earlier thought. The English structure, qualifications, predictions and 98 references now correspond to the Chinese source. Both editions and their language switches are updated.
 
 <a id="v0-29-0"></a>
 

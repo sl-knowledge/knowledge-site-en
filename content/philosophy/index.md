@@ -2,7 +2,7 @@
 title: "Philosophical Reflections"
 description: "Reflections on the universe, structure formation, life, cognition and knowledge: the underlying questions that orient this research."
 author: "SL"
-version: "0.4"
+version: "0.5"
 created: "2026-11-10"
 updated: "2026-11-17"
 published: "2026-11-10"
@@ -20,7 +20,12 @@ These essays preserve the philosophical questions and perspectives underlying th
 
 ## The universe and evolution
 
-- [Cosmic Awakening: A Framework for Existence, Evolution and Meaning](./cosmic-awakening.md): The English edition remains at v0.9; the Chinese source is now v0.22 and is also available as a four-part series plus a guide.
+- [Cosmic Awakening: A Framework for Existence, Evolution and Meaning](./cosmic-awakening.md): v0.22 complete edition, connecting existence as distinction, the information field, cosmic cycles, life and thought, meaning, good and evil, and protection.
+  - [Part I: Information, Manifestation and Condensation](./cosmic-awakening-01-information-manifestation-and-condensation.md)
+  - [Part II: The Endless Spiral](./cosmic-awakening-02-endless-spiral.md)
+  - [Part III: From Stardust to Thought](./cosmic-awakening-03-from-stardust-to-thought.md)
+  - [Part IV: Becoming the Part Capable of Protection](./cosmic-awakening-04-becoming-the-part-that-can-protect.md)
+  - [Guide: Paths Taken by Earlier Thinkers](./cosmic-awakening-guide-earlier-paths.md)
 - [Information Expansion, Condensation and Recursive Evolution: A Philosophical Perspective on the Universe](./information-expansion-and-condensation.md): expansion, condensation, recursive levels and generative rules, continuing philosophical reflections begun in 2025.
 - [From Reflections on the Universe to Later Research](../cosmic-reflections-and-later-research.md): connections between this philosophical perspective and subsequent theory-building and applications.
 
