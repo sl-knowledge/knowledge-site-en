@@ -4,15 +4,19 @@ description: "A philosophical essay that takes information as the essence of the
 author: "SL"
 version: "0.9"
 created: "2026-11-14"
-updated: "2026-11-15"
+updated: "2026-11-17"
 published: "2026-11-14"
 publish: true
 kind: "article"
 lang: "en"
 language: "en"
 source: "philosophy/cosmic-awakening.md"
-sourceUpdated: "2026-11-15"
+sourceUpdated: "2026-11-17"
+translationStatus: "English v0.9; Chinese source v0.22; translation pending"
 ---
+
+
+> **Translation status:** This English edition remains at v0.9. The [Chinese source has been updated to v0.22](https://sl-knowledge.github.io/knowledge-site/philosophy/cosmic-awakening); an English translation of the new material is pending.
 
 ## 1. Information is the essence of the universe
 

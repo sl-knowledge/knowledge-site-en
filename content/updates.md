@@ -2,18 +2,24 @@
 title: "Site Update Log"
 description: "Records site versions, release dates, additions and important revisions, and their effect on reading and citation."
 author: SL
-version: "1.20.0"
+version: "1.21.0"
 created: "2026-11-02"
-updated: "2026-11-15"
+updated: "2026-11-17"
 published: "2026-11-02"
 publish: true
 kind: release
 lang: en
 source: updates.md
-sourceUpdated: "2026-11-15"
+sourceUpdated: "2026-11-17"
 ---
 
 A site version records a batch of public content and reading-structure changes; every article keeps its own version and update date.
+
+<a id="v0-29-0"></a>
+
+## v0.29.0 · 2026-11-17
+
+Published [*Cosmic Awakening* v0.22](https://sl-knowledge.github.io/knowledge-site/philosophy/cosmic-awakening) in the Chinese edition, together with four reading parts and a guide to earlier ideas. The revision begins from “existence is distinction” and develops the information field, manifestation, condensation and expansion, the endless spiral, the path from stardust to thought, meaning, good and evil, and protection. It also adds discussions of interrupted cosmic cycles, measures of historical depth, and dark energy and contraction while distinguishing observational hints, model-dependent estimates and philosophical conjectures. The English full text remains at v0.9 and is explicitly marked as awaiting translation.
 
 <a id="v0-28-0"></a>
 
