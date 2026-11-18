@@ -2,27 +2,23 @@
 title: "Giving Learners Control over Asking Questions"
 description: "From discovering answers to asking independently: scaffolds that help learners generate questions worth investigating."
 author: SL
-version: "0.1.2"
+version: "0.2"
 created: "2026-10-31"
-updated: "2026-11-08"
+updated: "2026-11-18"
 published: "2026-10-31"
 publish: true
 kind: article
 lang: en
 language: en
 source: learning/asking-better-questions.md
-sourceUpdated: "2026-11-08"
+sourceUpdated: "2026-11-18"
 ---
 
-I think the focus of course design should move beyond “letting students discover answers for themselves” toward **“training students to generate the next question worth investigating.”**
+Course design often treats autonomous learning as letting students discover a predetermined answer. A deeper question is whether **students can generate the next question worth investigating from their current understanding.**
 
-The process through which you guided my revision of lesson zero today provides a prototype.
+One observable pattern begins when a learner understands an explanation and then asks: “If this is true, why not…?” “Is a premise missing?” or “Does this pattern hold in every case?” Such questions push the current understanding toward boundaries, counterexamples and another round of testing.
 
-I propose an explanation. You first understand it, then naturally ask: “If this is true, why not…?” “Is a premise still missing here?” “Does this pattern hold in every case?”
-
-That is precisely the ability we want to teach: taking current understanding one step further.
-
-I suggest a method provisionally called “question-generation scaffolding with gradual transfer.”
+The corresponding teaching method is called “question-generation scaffolding with gradual transfer.”
 
 Its core principle is simple:
 
@@ -30,9 +26,9 @@ The teacher can help students see the conditions from which a question arises, w
 
 This is neither unrestricted exploration nor a list of teacher-written questions for students to answer one by one. It is a planned transfer of control over asking questions.
 
-## 1. The teaching unit becomes a round of question generation, not just an item of knowledge
+## 1. A teaching unit is not only an item of knowledge but also a round of question generation
 
-I suggest including a special moment in every teaching unit: a **question handover point**.
+Each teaching unit can include a **question handover point**.
 
 The sequence is:
 
@@ -50,13 +46,11 @@ The crucial point is that the teacher should not immediately follow every explan
 
 Otherwise students remain in a state of “waiting for someone else to ask me.”
 
-That is the state we want to change.
+Teaching design needs to change this state.
 
 ## 2. What if students really cannot think of a question?
 
-This is the central technique we need to design.
-
-Rather than simply giving them the question, I suggest four levels of support.
+The central technique is not to supply the question immediately, but to prepare four levels of support.
 
 | Level | What the teacher provides | What the student does |
 | --- | --- | --- |
@@ -69,7 +63,7 @@ More support can be offered initially, then reduced toward A as ability develops
 
 D should not count as failure. For a genuine beginner, demonstrating how to ask a question once may be more effective than repeatedly offering cues they cannot use.
 
-## 3. A demonstration from our Japanese lesson zero
+## 3. A demonstration from Japanese lesson zero
 
 Suppose students have explored why different kanji can distinguish homophones:
 
@@ -97,13 +91,13 @@ That would complete the next round of question generation on the students’ beh
 
 A better prompt is:
 
-> We have just discovered one method. Before looking at the next page, what else do you think it might tell us? What would you like to understand further?
+> One method for distinguishing homophones has just appeared. Before looking at the next page: what else might this method show, and what remains worth investigating?
 
-If a student asks, “Can every Japanese word be changed to kanji?” that is exactly the behavior we hope to observe.
+If a student asks, “Can every Japanese word be changed to kanji?” that is the behaviour to observe.
 
 If not, the teacher can offer a light cue:
 
-> Both words we just saw were written entirely in kanji. Think about whether that also holds for other words.
+> Both words were written entirely in kanji. Does that also hold for other words?
 
 The teacher has indicated a testable direction without fully supplying the question.
 
@@ -117,55 +111,43 @@ Once students genuinely ask their own question, show <span lang="ja" data-lingui
 
 This is a transition from teacher-driven learning to student-driven learning.
 
-## 4. Students should also learn where questions come from
+## 4. Learners should also identify where questions come from
 
-I consider this deeper than the four levels of prompting.
+A deeper layer is helping learners identify the cognitive operation that generated a question.
 
-Today, for example, you asked: “If kanji can be used, why not use kanji for everything?”
-
-How did that question arise?
-
-You extended an already discovered solution to more cases and began checking its boundary of applicability.
+For example, “If kanji can be used, why not use kanji for everything?” extends a discovered solution to more cases and then tests its boundary of applicability.
 
 After students ask a question, the teacher can gently ask:
 
-“What made you think of asking that?”
+“Which observation produced this question?”
 
 If a student says, “Both words could be written entirely in kanji, so I wondered whether other words could too,” the teacher can help them recognize:
 
-I can derive another testable question from a pattern I have discovered.
+A discovered pattern can generate another testable question.
 
 They may then be more likely to repeat the operation independently.
 
-We should reinforce not only the particular question but also awareness of how it was generated.
+Feedback should record not only the particular question but also how it was generated.
 
 This gradually turns an implicit cognitive operation into an ability students can deliberately use.
 
 ## 5. What support can existing education research provide?
 
-This direction is not without a research basis.
+Existing research provides adjacent evidence rather than a direct test of the present teaching claim.
 
-A 2025 meta-analysis of 68 experiments found that learning prompts generally improved performance, although effects varied with prompt design, learning material and context. Combining general and targeted prompts appeared more promising than relying only on fixed prompts.
+Thomann and Deutscher’s (2025) meta-analysis of 68 digital-learning prompt experiments found that prompts were associated with improved achievement, with effects varying by prompt design, domain and learner group; the estimated effect was also smaller after adjustment for publication bias. Rouse-Billman and Alber-Morgan (2019) used systematic prompt fading in a fourth-grade reading-comprehension task and observed improvements in participants’ self-questioning and comprehension performance.
 
-ScienceDirect
+These studies support the local mechanism that prompts can be withdrawn gradually. Their settings were mainly digital learning or reading comprehension. They do not establish that a few Japanese lessons can generate cross-domain question-generation capability. **Transfer across materials, time and domains remains the central hypothesis to be tested.**
 
-Research on student self-questioning has also found that teacher demonstrations followed by gradual withdrawal of prompts can help some students develop independent questioning.
+## 6. How can course effectiveness be assessed?
 
-Get Access+1
-
-However, these studies mainly tested reading comprehension and other specific learning tasks. They have not directly established that a few Japanese lessons can develop broad, cross-domain autonomy in question generation.
-
-That should become the core hypothesis of our own experiment.
-
-## 6. How can we tell whether the course works?
-
-I suggest avoiding “how many questions students asked” as the only measure.
+“How many questions students asked” cannot be the only measure.
 
 With continual teacher prompting, students can ask many questions without the ability actually transferring.
 
 Their performance without prompts matters more.
 
-For example, we could record:
+The following can be recorded:
 
 An illustrative learning-autonomy observation sheet
 
@@ -178,13 +160,13 @@ An illustrative learning-autonomy observation sheet
 
 The most meaningful measure is whether the teacher support needed to generate grounded, testable questions declines as the course proceeds.
 
-Several days later, we could even give students wholly unfamiliar learning material without telling them which pattern to investigate, and observe whether they still initiate questions.
+Several days later, wholly unfamiliar material can be presented without specifying which pattern to investigate, allowing observation of whether learners still initiate questions.
 
-## The new design principle I now value most
+The claim would be weakened if grounded questions do not increase as prompts are reduced; if the capability disappears as soon as the material changes; if question counts increase but the questions have no relation to observations, predictions or tests; or if learners can only wait for another instruction once prompts are removed.
 
-Previously, we designed a teacher-controlled path of discovery along which students gradually found patterns.
+## 7. Design principle and recording checklist
 
-I now suggest adding a special feature:
+A conventional discovery path is usually controlled by the teacher while students gradually find patterns. Question-generation teaching adds another design requirement:
 
 Teachers should plan not only the answers students might discover, but also which new questions could naturally arise in each cognitive state, and how minimal cues could help when they cannot formulate one.
 
@@ -192,11 +174,16 @@ The teacher’s preparation therefore needs both a knowledge-structure map and a
 
 But the latter must not become a questionnaire students have to complete item by item. Other grounded questions can also open valid learning branches.
 
-We can start with a small experiment in Japanese lesson zero: instead of first producing a complete textbook, design two or three question handover points and observe how much prompting different students need and whether they begin independently proposing the next question.
+Japanese lesson zero can begin with two or three question handover points. The record should include who first raised the question, which observation grounded it, how it could be tested, which prompt level was used and whether question generation persisted with new material.
 
-The change we really want is from “Teacher, what do we learn next?” to “I have just thought of a question. Can we try it?”
+The expected change is from “Teacher, what comes next?” to “A question has just occurred to me. Can it be tested?”
 
-That is the result worth pursuing in this round of research.
+That change is the outcome to be tested.
+
+## References
+
+1. Herbert Thomann & Viola Deutscher (2025), “Scaffolding through prompts in digital learning: A systematic review and meta-analysis of effectiveness on learning achievement,” *Educational Research Review*, 47, 100686. https://doi.org/10.1016/j.edurev.2025.100686
+2. Christina Rouse-Billman & Sheila Alber-Morgan (2019), “Teaching self-questioning using systematic prompt fading: Effects on fourth graders’ reading comprehension,” *Preventing School Failure*, 63(4), 352–358. https://doi.org/10.1080/1045988X.2019.1619508
 
 ---
 
@@ -204,4 +191,4 @@ That is the result worth pursuing in this round of research.
 
 ## Research and version notes
 
-> This is a research note. It retains the exploratory process and conversational tone; its views and references will continue to be revised as the research develops.
+> **Local revision v0.2 · 18 November 2026.** This revision removes the private author–AI exchange and states question generation as a reusable teaching mechanism. It adds traceable research sources, transfer limits, failure conditions and a recording checklist. No course experiment has yet been completed.

@@ -3,9 +3,9 @@ title: Where Does Ethical Disagreement Come From?
 description: A selective synthesis from moral attention and comparison of reasons to feasible action, with separate action/principle
   reports and a completed nine-field case card.
 author: SL
-version: '1.0'
+version: '1.1'
 created: '2026-11-09'
-updated: '2026-11-09'
+updated: '2026-11-18'
 published: '2026-11-09'
 publish: true
 status: Research and learning paper · Selective knowledge synthesis
@@ -13,16 +13,16 @@ kind: article
 lang: en
 language: en
 source: framework/methods/ethical-disagreement-map.md
-sourceUpdated: '2026-11-09'
+sourceUpdated: '2026-11-18'
 ---
 
 ## From moral attention and comparison of reasons to practical coordination—a map of interdisciplinary knowledge synthesis
 
-*Generative mechanisms of ethical judgement and social norms · Research and learning paper v1.0 · 9 November 2026*
+*Generative mechanisms of ethical judgement and social norms · Research and learning paper v1.1 · 18 November 2026*
 
-> **The aim is simple:** When a dispute about the same situation persists, help clarify what parties first notice and how they frame different ethical questions; where their reasons and methods of comparison then diverge; and why disputes about principles can continue after a practical problem is resolved.
+> When disagreement about the same situation persists, it can arise at three distinct locations: what parties first notice and how they frame the ethical problem; which reasons they recognise and how they compare them; and whether different judgements of justification remain after a practical arrangement has been found.
 >
-> This is a **selective interdisciplinary synthesis and case analysis**. It connects existing ethics, political philosophy, argumentation, social choice and institutional research, rather than creating moral principles or adjudicating who is right. Here, “generation” primarily means **how different argumentative premises and evaluation rules produce different conclusions**, rather than speculation about why someone psychologically adopted those rules.
+> The article uses **selective interdisciplinary synthesis and case analysis**, connecting ethics, political philosophy, argumentation, social choice and institutional research. Here, “generation” primarily means **how different argumentative premises and evaluation rules produce different conclusions**. Independent justification of moral principles, adjudication of a particular dispute and psychological explanation of why an agent adopted a rule remain separate research questions.
 
 ---
 
@@ -477,4 +477,4 @@ These are **selective connections**, not a complete history of ethics or claims 
 17. David Wiens, “Political Ideals and the Feasibility Frontier,” *Economics and Philosophy* (2015). [Publisher](https://www.cambridge.org/core/journals/economics-and-philosophy/article/abs/political-ideals-and-the-feasibility-frontier/4A061BAAA3C338ED5FC698D1D6270FB0); [DOI](https://doi.org/10.1017/S0266267115000164).
 18. Sarah McGrath, “Moral Disagreement and Moral Expertise,” *Oxford Studies in Metaethics*, vol. 3 (2008), pp. 87–108. [Oxford University Press](https://academic.oup.com/book/53345/chapter-abstract/422045916); [SEP: Moral Disagreement, epistemological issues](https://plato.stanford.edu/entries/disagreement-moral/).
 
-*Version note: v1.0 builds on v0.9 with consistent mathematical notation in prose and equations, a completed nine-field card for Sen’s flute case, and consolidated workflow, wording and link corrections. Its research position and limits concerning moral attention, comparison of reasons, feasibility and separate action/principle reports remain unchanged.*
+*Version note: v1.1 (18 November 2026) replaces the opening purpose statement with a problem–location of disagreement–method structure. The main account of moral attention, comparison of reasons, feasibility and separate action/principle reports is unchanged. v1.0 standardised mathematical notation and added the completed nine-field card for Sen’s flute case.*

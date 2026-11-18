@@ -2,18 +2,24 @@
 title: "Site Update Log"
 description: "Records site versions, release dates, additions and important revisions, and their effect on reading and citation."
 author: SL
-version: "1.22.0"
+version: "1.23.0"
 created: "2026-11-02"
-updated: "2026-11-17"
+updated: "2026-11-18"
 published: "2026-11-02"
 publish: true
 kind: release
 lang: en
 source: updates.md
-sourceUpdated: "2026-11-17"
+sourceUpdated: "2026-11-18"
 ---
 
 A site version records a batch of public content and reading-structure changes; every article keeps its own version and update date.
+
+<a id="v0-31-0"></a>
+
+## v0.31.0 · 2026-11-18
+
+Revised three articles in both editions under the new writing discipline. [*Economic Activity and Sustainable Circulation*](./economics/sustainable-circulation.md) is now v0.2, condensing its exploratory dialogue into economic branches, four objectives, state-dependent weights and failure conditions. [*Giving Learners Control over Asking Questions*](./learning/asking-better-questions.md) is now v0.2, replacing the private exchange and placeholder citations with traceable research, transfer limits and a recording checklist. [*Where Does Ethical Disagreement Come From?*](./framework/methods/ethical-disagreement-map.md) is now v1.1, replacing purpose statements and author-centred pronouns with direct descriptions of problems, checks and outputs. The core claims, necessary safety boundaries and bilingual structures remain aligned.
 
 <a id="v0-30-0"></a>
 

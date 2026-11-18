@@ -2,20 +2,20 @@
 title: "Economic Activity and Sustainable Circulation"
 description: "Views the economy as reciprocal production and need fulfilment, asking how circulation is maintained."
 author: SL
-version: "0.1.1"
+version: "0.2"
 created: "2026-10-15"
-updated: "2026-11-08"
+updated: "2026-11-18"
 published: "2026-10-31"
 publish: true
 kind: article
 lang: en
 language: en
 source: economics/sustainable-circulation.md
-sourceUpdated: "2026-11-08"
+sourceUpdated: "2026-11-18"
 ---
 
-> **Research note · v0.1**<br>
-> Purpose: understand economic activity through a minimally sufficient model, diagnose constraints breaking circulation, and analyse policy and corporate value generation.
+> **Local revision · v0.2 · 18 November 2026**<br>
+> Research question: how does economic activity continue to meet needs, and under which constraints does circulation break?
 
 ## One sentence
 
@@ -102,110 +102,74 @@ Continuing valuable infrastructure and payment discipline require jointly addres
 
 Verify: **useful new projects, actual receipts, supplier receipt, lower capital per revenue, and risk reduction becoming sustainable cash.**
 
+## 7. From the minimal cycle to branches of economics
+
+Differences in needs, capabilities, time and forms of organisation continually generate new coordination problems. Starting from the minimal question—how people can keep meeting one another's needs—produces several lines of inquiry:
+
+| New coordination problem | Mechanism requiring explanation | Related field |
+|---|---|---|
+| Needs and capabilities do not match directly | Media of exchange, prices and purchasing power | Monetary economics |
+| Production and return are separated in time | Credit, interest, risk and maturity | Finance |
+| Labour must connect to effective demand | Employment, wages and skill transition | Labour economics |
+| Specialisation crosses territorial and institutional boundaries | Trade, exchange rates and cross-border rules | International economics |
+| Repeated exchange requires lower coordination costs | Firm boundaries, contracts and organisation | Theory of the firm and industrial organisation |
+| Shared but hard-to-exclude resources must be maintained | Public goods, externalities and collective action | Public economics |
+| Judgement, expectation and behaviour affect one another | Bounded rationality, incentives and mechanisms | Behavioural economics and mechanism design |
+| New capabilities form and spread | Technology, capital accumulation and institutional change | Growth and development economics |
+
+This table is a generative path, not a reduction of each field to the present model. If an important economic phenomenon cannot be reconstructed through changes in needs, production, exchange, commitment, organisation and constraint, the framework must add a mechanism rather than force the phenomenon into an existing category.
+
+## 8. Stability, growth, efficiency and fairness are not four coequal objectives
+
+Economic argument often invokes stability, growth, efficiency and fairness together. They can support one another and also conflict: efficiency can remove redundancy, short-term stabilisation can slow growth, and the gains from growth can be distributed unequally.
+
+The article proposes a conditional ordering:
+
+> **First preserve the feasible boundary of the mutual-service network; then compare generative capability, efficiency and fairness within that boundary.**
+
+Stability here means first that the system has not crossed critical employment, payment, supply or basic-needs boundaries. Growth is continued formation of productive and adaptive capability. Efficiency compares the resource costs of alternatives. Fairness can strengthen long-run viability, but it also contains independent value judgements that cannot be derived from system stability alone.
+
+Preserving a boundary therefore does not determine distribution within it, nor can fairness be reduced to an instrument of stability. Factual claims require evidence; value orderings require separate reasons.
+
+## 9. Objective weights depend on state
+
+The same policy can have different significance under different conditions. At least three parameters need to be stated:
+
+1. **Timescale.** Objectives that reinforce one another in the long run can conflict sharply during a short shock.
+2. **Development stage.** Capability shortage, structural maturity and retirement of obsolete capability create different binding constraints.
+3. **Distance to a boundary.** With ample buffers, more exploration is possible; near payment, employment or supply boundaries, recoverability takes priority.
+
+This yields a testable proposition rather than fixed weights: **the closer a system is to an irreversible boundary, the more decisions should shorten adjustment time, replenish buffers and preserve alternatives; farther from the boundary, there is more room to compare generation, efficiency and distribution.**
+
+## 10. What would count against the framework?
+
+A good economy may resist compression into one historically invariant optimum. Severe unemployment, hyperinflation, widespread payment-chain rupture and interruption of basic supply can instead be operationalised as different failure boundaries. Their thresholds must be estimated for a particular place, period and dataset rather than imposed as one universal number.
+
+The following observations would weaken the framework:
+
+- systems with sharply reduced buffers and adjustment times persistently longer than buffer duration are no more likely to suffer cascading interruption;
+- investment that persistently fails to meet needs and exceeds resource costs still creates net value without subsidy, monopoly or cost transfer;
+- repairing payment chains, preserving alternatives and shortening adjustment time have no identifiable effect on continuity of valuable production;
+- an important economic phenomenon depends on an independent mechanism absent from the representation, and adding it removes the explanatory force of the original claims.
+
+At minimum, a concrete circulation record should state:
+
+1. which needs are met and which agents remain unable to enter the cycle;
+2. what value is created and which resources and opportunity costs are incurred;
+3. whether the current constraint lies in demand, purchasing power, allocation, payment and credit, or adjustment speed;
+4. how long buffers last and how long correction requires;
+5. who bears risk and cost, including costs shifted outside the observed cycle;
+6. which later observation would overturn the current judgement.
+
 ## Final compression
 
-> **Economic activity serves needs through continuous coordination of specialisation, production, exchange, income, consumption and effective investment, constrained by real value, costs, purchasing power, payment/credit and adjustment buffers.**
+> **Economic activity serves needs through continuous coordination of specialisation, production, exchange, income, consumption and effective investment, constrained by real value, costs, purchasing power, payment and credit, and adjustment buffers.**
 >
-> **A healthy economy is not error-free; it detects and completes adjustment before buffers end and local error becomes systemic rupture.**
+> **A healthy economy is not error-free; it detects and completes adjustment before buffers run out and local error becomes systemic rupture.**
 
 ---
 
-*This is a minimal causal understanding, not a claimed original economic theorem. Evaluate it by explanatory and predictive usefulness.*
-
-Yes—one sign of a useful framework is that it can generate further questions, not just explain existing ones. Starting from the atom and extending directions brings out economic branches:
-
-- What you need differs from what I can do → a mediating token → **monetary economics**;
-- Cooking today, laundry tomorrow → commitments over time → **finance**;
-- Broken commitments, depleted buffers → **crisis/macroeconomic stabilisation**;
-- Is my work still needed? → **labour economics**;
-- Division across borders, greater differences/frictions → **international economics**;
-- Organise command cooperation rather than negotiate every transaction → **firm theory/industrial organisation**;
-- Everyone uses, nobody maintains → **public economics**;
-- Lying, panic, herding → **behavioural economics/mechanism design**;
-- New capabilities through mutual service → **growth/development**;
-- Rules emerge from interaction and change it → **institutional economics**.
-
-These branches encounter problems arising as the atom expands through time, scale, behaviour and boundaries, rather than being arbitrary divisions. This resembles the generative-life idea: structures unfold from a seed, earlier layers more foundational.
-
-A framework check follows: if an economic phenomenon cannot be reconstructed from the atom, perhaps a structural piece is missing, not the phenomenon strange. Add it and the framework gains a layer. Some fields differ: econometrics measures rather than branches from the atom, asking "how much".
-
-At the most abstract level:
-
-> **How can diverse people who cannot fully see one another keep meeting each other's needs, and improve?**
-
-The framework contains four objectives with familiar counterparts:
-
-| Framework | Economics | Aim |
-|---|---|---|
-| Mutual service continues (viability) | Stability | No collapse/blockage; self-correction |
-| Improving (generation) | Growth | New capabilities, technology, demand |
-| More needs with finite resources | Efficiency | Resources to needed/productive uses |
-| Everyone remains connected | Fairness | No exclusion from mutual service |
-
-Branches approach this common question differently: commitments across time, workers within networks, networks across borders, rule formation and new capabilities.
-
-The objectives conflict: efficiency may sacrifice stability, stability growth, growth fairness. Economics therefore also seeks **balance among the four**. Schools and policies disagree partly because their ordering differs.
-
-I understand: if the most fundamental purpose were identified, objectives might have a clearer order rather than collide.
-
-The framework offers one answer: treat viability as a **boundary to preserve**, not merely one objective:
-
-> **First keep the mutual-service network within feasibility; then generate as much new capability as possible.**
-
-Then:
-
-- **Efficiency** serves generation: resource use supports development.
-- **Fairness** substantially supports viability: widespread exclusion weakens the network.
-- **Stability** is viability itself.
-
-One phrase: **preserve feasible boundaries, maximise generative capability**. This ordering resolves some arguments: efficiency can trade against stability while within bounds, not when the boundary is threatened.
-
-Yet disagreement remains:
-
-1. **Facts, not purposes:** shared stability goals do not establish whether rate cuts work. Data must decide.
-2. **Values differ:** diverse needs/judgements generate economics and disagreement over burden and present/future priorities. Such disputes are not economics failing, but part of the atom.
-
-Thus a better purpose may remove many disputes; others concern testable facts and enduring values, themselves part of the system.
-
-You are right; I had misunderstood. **Relative weights change with timescale, development stage and environment.** Arguments often omit these and universalise contextual answers.
-
-Three dimensions:
-
-**1. Timescale.** Over centuries, stability, inclusion and sustained growth largely align; within a year they can conflict sharply. Crisis prioritises survival despite efficiency cost.
-
-**2. Development stage.** Early economies prioritise generative capability and entry into specialisation networks, efficiency/growth; mature ones must address stability, fairness and old-structure renewal. China's 1980 conditions and today's differ, as appropriate policy should.
-
-**3. Distance to boundary.** Far inside feasibility, pursue generation; near the edge, preserve viability first.
-
-More precisely:
-
-> **Good policy uses state-dependent weights: timescale, development stage and distance to boundaries.**
-
-Like a body—illness requires survival, growth requires development, age maintenance—the question "what matters most?" needs stage.
-
-Gerschenkron considered different catch-up paths for more backward economies; Acemoglu and colleagues relate institutions/policy to distance from the technological frontier. Everyday policy arguments often fail to specify all three dimensions.
-
-Ask competing positions: **over what period, at what stage, at what assumed distance to the boundary?** They may answer different situations rather than contradict.
-
-Your final idea is useful: **perhaps a good economy is hard to define, but bad states can be defined.**
-
-As in medicine, perfect health differs, while stopped heartbeat, persistent high fever or severe bleeding are more recognisable. Progress can begin by defining failure clearly.
-
-Widely recognised bad economic states include:
-
-- Many willing workers unable to find work;
-- Hyperinflation destroying money's purchasing power;
-- Financial collapse/runs breaking commitments;
-- Cascading defaults halting valuable production;
-- Famine and unmet basic needs.
-
-These represent **crossing feasible boundaries**, ruptures in mutual service. Rather than first locate one optimum, define boundaries. Within them, countries/stages can choose different reasonable paths.
-
-Vague "good", "fair" and "stable" allow incompatible theories to coexist. Bad states can be operationalised as unemployment, inflation or default thresholds, reducing ambiguity.
-
-I partly agree with observing economics from outside ordinary standpoints: studying mechanisms as natural phenomena avoids some positional disputes. But "bad" ultimately relates to needs, since serving needs is economics' purpose. Broad harm makes some agreement easier.
-
-Remaining disputes often concern one bad outcome raising another's risk—for example, suppressing inflation increasing unemployment. Then ask which boundary is nearer and what to prevent first, returning to timescale and stage.
+*This is a minimal causal account, not a claimed original theorem. Its value depends on its capacity to explain and predict observable economic outcomes.*
 
 ---
 
@@ -213,4 +177,4 @@ Remaining disputes often concern one bad outcome raising another's risk—for ex
 
 ## Research and version notes
 
-> A research note retaining exploration and conversational elements; views and references remain revisable.
+> **Local revision v0.2 · 18 November 2026.** This revision condenses the exploratory dialogue formerly left at the end into Sections 7–10. It retains the four objectives, state-dependent weights and failure boundaries while adding epistemic status, conditions of failure and an analysis checklist. Cross-period empirical testing remains to be done.
