@@ -2,18 +2,24 @@
 title: "Site Update Log"
 description: "Records site versions, release dates, additions and important revisions, and their effect on reading and citation."
 author: SL
-version: "1.23.0"
+version: "1.24.0"
 created: "2026-11-02"
-updated: "2026-11-18"
+updated: "2026-11-20"
 published: "2026-11-02"
 publish: true
 kind: release
 lang: en
 source: updates.md
-sourceUpdated: "2026-11-18"
+sourceUpdated: "2026-11-20"
 ---
 
 A site version records a batch of public content and reading-structure changes; every article keeps its own version and update date.
+
+<a id="v0-32-0"></a>
+
+## v0.32.0 · 2026-11-20
+
+Published [*To Be Is to Be Distinct: Existence, Distinction, Relation and Meaning*](./philosophy/to-be-is-to-be-distinct.md) v0.9 in both editions as Fundamental Philosophical Questions, Part 0.01. Beginning from the two undefined ontological terms “distinction” and “obtains,” the essay defines existence, relation, position and meaning in sequence; proves that existence is equivalent to non-empty meaning; and marks the account's limits through hard cases, objections, a consistency model and a conditional Lawvere consequence. The English edition preserves the Chinese source's structure, definitions, qualifications, glossary, references and version record. The philosophy indexes and language-switch mapping are updated in both editions.
 
 <a id="v0-31-0"></a>
 

@@ -10,6 +10,7 @@
           "id": "cosmos",
           "title": "The universe and evolution",
           "slugs": [
+            "philosophy/to-be-is-to-be-distinct",
             "philosophy/cosmic-awakening",
             "philosophy/cosmic-awakening-01-information-manifestation-and-condensation",
             "philosophy/cosmic-awakening-02-endless-spiral",
@@ -637,6 +638,16 @@
         "framework/methods/ethical-disagreement-map"
       ]
     },
+    "philosophy/to-be-is-to-be-distinct": {
+      "section": "philosophy",
+      "group": "cosmos",
+      "role": "Fundamental Philosophical Questions, Part 0.01",
+      "bookReference": "Definitional foundations of existence, distinction, relation and meaning",
+      "readings": [
+        "philosophy/cosmic-awakening",
+        "framework/foundations/constraints-generation-and-human-value"
+      ]
+    },
     "philosophy/cosmic-awakening": {
       "section": "philosophy",
       "group": "cosmos",
@@ -793,6 +804,7 @@
     "applications/belief-gated-practice-loop": "A Belief-Gated Practice Loop: A Mechanism Hypothesis for Religious Participation",
     "applications/needs-and-generative-capability": "The Gap between Needs and Generative Capability: A Mechanism Framework for Support, Choice and Behaviour",
     "framework/foundations/constraints-generation-and-human-value": "Constraints, Generation and Human Value",
+    "philosophy/to-be-is-to-be-distinct": "To Be Is to Be Distinct: Existence, Distinction, Relation and Meaning",
     "philosophy/cosmic-awakening": "Cosmic Awakening: A Framework for Existence, Evolution and Meaning",
     "philosophy/information-expansion-and-condensation": "Information Expansion, Condensation and Recursive Evolution: A Philosophical Perspective on the Universe",
     "framework/methods/ai-error-and-correction-case": "When AI Evaluates the Wrong Question: A Record of Correction in Human–AI Research",
