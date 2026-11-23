@@ -2,18 +2,24 @@
 title: "Site Update Log"
 description: "Records site versions, release dates, additions and important revisions, and their effect on reading and citation."
 author: SL
-version: "1.24.0"
+version: "1.25.0"
 created: "2026-11-02"
-updated: "2026-11-20"
+updated: "2026-11-23"
 published: "2026-11-02"
 publish: true
 kind: release
 lang: en
 source: updates.md
-sourceUpdated: "2026-11-20"
+sourceUpdated: "2026-11-23"
 ---
 
 A site version records a batch of public content and reading-structure changes; every article keeps its own version and update date.
+
+<a id="v0-33-0"></a>
+
+## v0.33.0 · 2026-11-23
+
+At the author's decision, two research materials concerning belief and religious participation were returned to internal storage in both editions. Their public texts, index entries, article relations and language switches were removed. *The Gap between Needs and Generative Capability* is now v0.2.1, with the section and reference directly connected to those internal materials removed; its claims about need coverage, capability, support, buffers and path choice are unchanged.
 
 <a id="v0-32-0"></a>
 
@@ -91,7 +97,7 @@ Added [Philosophical Reflections](./philosophy/index.md) as a fifth reading path
 
 ## v0.19.0 · 2026-11-10
 
-Published three philosophy papers: [the practice loop](./applications/belief-gated-practice-loop.md), [needs and generative capability](./applications/needs-and-generative-capability.md), and [constraints, generation and human value](./framework/foundations/constraints-generation-and-human-value.md), all v0.2. They connect previously separate questions through explicit condensation structures, with guides or abstracts, propositions and record cards. Updated [Freedom and Unconstrained Wandering to v0.2.1](./framework/foundations/freedom-and-future-options.md), including capability feedback and self-revision. Both editions, category indexes, article connections and the complete sidebar are updated.
+Published [needs and generative capability](./applications/needs-and-generative-capability.md) and [constraints, generation and human value](./framework/foundations/constraints-generation-and-human-value.md), both v0.2. One additional research item from this batch was returned to internal storage in v0.33.0. Updated [Freedom and Unconstrained Wandering to v0.2.1](./framework/foundations/freedom-and-future-options.md), including capability feedback and self-revision.
 
 <a id="v0-18-0"></a>
 
@@ -133,19 +139,19 @@ Published the [Research Site Development Plan](./site-development-plan.md), cove
 
 ## v0.15.2 · 2026-11-08
 
-Updated [From a Concrete Question to a Generative Mechanism to v0.1.2](./framework/methods/from-question-to-mechanism.md), adding a retrospective account of reflexivity, relational analogy and possible memory activation. Both editions are updated.
+The research-process material associated with this release was returned to internal storage in v0.33.0.
 
 <a id="v0-15-1"></a>
 
 ## v0.15.1 · 2026-11-08
 
-Updated [From a Concrete Question to a Generative Mechanism to v0.1.1](./framework/methods/from-question-to-mechanism.md), adding the subsequent review and the distinction between generative rules, parameter conditions and particular manifestations. Both editions are updated.
+The research-process material associated with this release was returned to internal storage in v0.33.0.
 
 <a id="v0-15-0"></a>
 
 ## v0.15.0 · 2026-11-08
 
-Published [From a Concrete Question to a Generative Mechanism: A Human–AI Research Process v0.1](./framework/methods/from-question-to-mechanism.md), a brief six-step case under Research Methods → Human-AI collaboration and long-running research. Both editions and their sidebar entries are available.
+The research-process material associated with this release was returned to internal storage in v0.33.0.
 
 <a id="v0-14-0"></a>
 

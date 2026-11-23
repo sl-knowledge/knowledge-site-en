@@ -2,15 +2,15 @@
 title: "Theory Applications"
 description: "Enter through companies, economic circulation, learning, language, cooperation, control and personal choice, separating domain frameworks, methods, cases and hypotheses still to be tested."
 author: SL
-version: "0.8.1"
+version: "0.8.2"
 created: "2026-11-02"
-updated: "2026-11-10"
+updated: "2026-11-23"
 published: "2026-11-02"
 publish: true
 kind: category
 lang: en
 source: applications/index.md
-sourceUpdated: "2026-11-10"
+sourceUpdated: "2026-11-23"
 ---
 
 Here theory and research methods are placed into concrete domains. Each domain separates the framework, the research procedure and the cases; while reading, check which concepts are invoked, which domain assumptions are added, and which results are still to be verified.
@@ -68,9 +68,7 @@ Some articles are related topics or working hypotheses. Being placed in the same
 
 <a id="personal"></a>
 
-## Belief, practice and personal choice
-
-- [A Belief-Gated Practice Loop: A Mechanism Hypothesis for Religious Participation](./belief-gated-practice-loop.md): A candidate loop connecting multiple entry routes, practice structures, outcomes and attribution, with research propositions, a record card and a condensation map.
+## Practice and personal choice
 
 - [The Gap between Needs and Generative Capability: A Mechanism Framework for Support, Choice and Behaviour](./needs-and-generative-capability.md): Distinguishes needs, capability, support, buffers and perceived paths, with time-bound combinations, six research propositions and a path-analysis card.
 
