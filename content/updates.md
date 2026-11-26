@@ -2,18 +2,24 @@
 title: "Site Update Log"
 description: "Records site versions, release dates, additions and important revisions, and their effect on reading and citation."
 author: SL
-version: "1.25.0"
+version: "1.26.0"
 created: "2026-11-02"
-updated: "2026-11-23"
+updated: "2026-11-25"
 published: "2026-11-02"
 publish: true
 kind: release
 lang: en
 source: updates.md
-sourceUpdated: "2026-11-23"
+sourceUpdated: "2026-11-25"
 ---
 
 A site version records a batch of public content and reading-structure changes; every article keeps its own version and update date.
+
+<a id="v0-34-0"></a>
+
+## v0.34.0 · 2026-11-25
+
+Added a dedicated English social-sharing image to the English edition and changed its Open Graph and Twitter image metadata to a new filename. The Chinese edition continues to use its Chinese sharing image. The new English image URL also avoids reuse of Telegram's cache for the earlier image file.
 
 <a id="v0-33-0"></a>
 

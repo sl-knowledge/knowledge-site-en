@@ -1,6 +1,6 @@
 {
-  "version": "0.33.0",
-  "date": "2026-11-23",
-  "title": "Public scope adjusted for two research materials",
-  "summary": "Two materials concerning belief and religious participation returned to internal storage, with public entries and relations removed in both editions."
+  "version": "0.34.0",
+  "date": "2026-11-25",
+  "title": "Dedicated English sharing image enabled",
+  "summary": "English pages now use an English Open Graph and Twitter image; the Chinese edition retains its Chinese sharing image."
 }
