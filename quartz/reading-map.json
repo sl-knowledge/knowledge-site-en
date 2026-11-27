@@ -161,7 +161,9 @@
             "learning/framework-driven-learning",
             "learning/cognitive-disequilibrium",
             "learning/asking-better-questions",
-            "learning/english-for-chinese-speakers"
+            "learning/english-for-chinese-speakers",
+            "learning/llm-introduction/lesson-01-representation",
+            "learning/llm-introduction/lesson-01-representation-teacher"
           ]
         },
         {
@@ -451,6 +453,24 @@
       "readings": [
         "framework/book/constraints-and-future-options",
         "economics/first-principles-learning"
+      ]
+    },
+    "learning/llm-introduction/lesson-01-representation": {
+      "section": "applications",
+      "group": "learning",
+      "role": "Introductory course · Learner’s edition",
+      "bookReference": "Part two: Representation and knowing",
+      "readings": []
+    },
+    "learning/llm-introduction/lesson-01-representation-teacher": {
+      "section": "applications",
+      "group": "learning",
+      "role": "Introductory course · Teacher’s edition",
+      "bookReference": "Part two: Representation and knowing",
+      "readings": [
+        "learning/llm-introduction/lesson-01-representation",
+        "learning/framework-driven-learning",
+        "learning/cognitive-disequilibrium"
       ]
     },
     "learning/framework-driven-learning": {
@@ -786,6 +806,8 @@
     "economics/first-principles-learning": "Learning Economics from First Principles",
     "economics/sustainable-circulation": "Economic Activity and Sustainable Circulation",
     "learning/framework-driven-learning": "The Framework-Driven Learning Cycle",
+    "learning/llm-introduction/lesson-01-representation": "Lesson 1: How Can We Use Numbers to Represent Information?",
+    "learning/llm-introduction/lesson-01-representation-teacher": "Lesson 1 (Teacher’s Edition): Basic Principles of Information Representation",
     "learning/cognitive-disequilibrium": "Cognitive Disequilibrium: Where Questions Come From",
     "learning/asking-better-questions": "Giving Learners Control over Asking Questions",
     "learning/english-for-chinese-speakers": "Suggestions for Native Chinese Speakers Learning English",
@@ -826,6 +848,10 @@
     "framework/book/book-reading-guide": "First draft: an overview of the five parts and fifty-two chapters"
   },
   "auxiliary": {
+    "learning/llm-introduction/index": {
+      "section": "applications",
+      "group": "learning"
+    },
     "economics/index": {
       "section": "applications",
       "group": "economy"
@@ -864,6 +890,7 @@
       "slugs": [
         "economics/index",
         "learning/index",
+        "learning/llm-introduction/index",
         "language/index",
         "framework/cases/index",
         "framework/foundations/index"

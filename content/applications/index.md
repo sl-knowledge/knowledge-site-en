@@ -2,7 +2,7 @@
 title: "Theory Applications"
 description: "Enter through companies, economic circulation, learning, language, cooperation, control and personal choice, separating domain frameworks, methods, cases and hypotheses still to be tested."
 author: SL
-version: "0.8.3"
+version: "0.8.4"
 created: "2026-11-02"
 updated: "2026-11-26"
 published: "2026-11-02"
@@ -44,6 +44,10 @@ Some articles are related topics or working hypotheses. Being placed in the same
 - [Cognitive Disequilibrium: Where Do Questions Come From?](https://sl-knowledge.github.io/knowledge-site-en/learning/cognitive-disequilibrium): cognitive disequilibrium does not automatically produce curiosity or effective learning; the conditions and counter-examples are kept.
 - [Handing the Control of Questioning Back to the Learner](https://sl-knowledge.github.io/knowledge-site-en/learning/asking-better-questions): questioning scaffolds and gradual hand-over; teaching control is not equated with engineering control.
 - [Advice for Chinese Speakers Learning English](https://sl-knowledge.github.io/knowledge-site-en/learning/english-for-chinese-speakers): a language hypothesis turned into a training design still has to be tested on learning outcomes; it is not a general law for a native-language group.
+
+### [Introduction to Large Language Models](../learning/llm-introduction/index.md)
+
+Design a representation in the learner’s edition, or use the activities and assessment in the teacher’s edition.
 
 <a id="language"></a>
 

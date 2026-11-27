@@ -2,7 +2,7 @@
 title: "Site Update Log"
 description: "Records site versions, release dates, additions and important revisions, and their effect on reading and citation."
 author: SL
-version: "1.27.1"
+version: "1.28.0"
 created: "2026-11-02"
 updated: "2026-11-26"
 published: "2026-11-02"
@@ -14,6 +14,12 @@ sourceUpdated: "2026-11-26"
 ---
 
 A site version records a batch of public content and reading-structure changes; every article keeps its own version and update date.
+
+<a id="v0-36-0"></a>
+
+## v0.36.0 · 2026-11-26
+
+Added [Introduction to Large Language Models](./learning/llm-introduction/index.md) and published Lesson 1 on information representation (v0.2) in both learner’s and teacher’s editions, in Chinese and English. The teacher’s edition links to the site articles on the framework-driven learning cycle and cognitive disequilibrium.
 
 <a id="v0-35-1"></a>
 
