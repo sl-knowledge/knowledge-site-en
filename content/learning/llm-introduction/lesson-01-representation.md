@@ -31,7 +31,34 @@ Imagine three athletes wearing the numbers 7, 8, and 9.
 
 Now let’s try a different game. There are three photographs on the table: a white cat, a black cat, and a white dog.
 
-You want to give each photograph a number so a friend can tell which one you mean. How would you number them? Write down your way of doing it.
+Give each photograph a number so a friend can tell which one you mean. Enter your numbers beneath the photographs or write them down on paper.
+
+<form class="course-exercise" data-course-exercise="numbering" data-success="All three numbers are different. A friend who knows your table can tell the photographs apart." data-retry="Some photographs have the same number. If your friend hears only that number, can they tell which photograph you mean?">
+<div class="course-photo-gallery">
+<figure>
+  <img src="./assets/white-cat.jpg" alt="White cat" width="1024" height="1024">
+  <figcaption>White cat
+    <label data-course-control hidden>ID<input type="text" name="white-cat" inputmode="numeric" pattern="[0-9]+" required aria-label="White cat · ID"></label>
+  </figcaption>
+</figure>
+<figure>
+  <img src="./assets/black-cat.jpg" alt="Black cat" width="1535" height="1535">
+  <figcaption>Black cat
+    <label data-course-control hidden>ID<input type="text" name="black-cat" inputmode="numeric" pattern="[0-9]+" required aria-label="Black cat · ID"></label>
+  </figcaption>
+</figure>
+<figure>
+  <img src="./assets/white-dog.jpg" alt="White dog" width="896" height="896">
+  <figcaption>White dog
+    <label data-course-control hidden>ID<input type="text" name="white-dog" inputmode="numeric" pattern="[0-9]+" required aria-label="White dog · ID"></label>
+  </figcaption>
+</figure>
+</div>
+<div class="course-check" data-course-control hidden>
+  <button type="submit">Check my numbers</button>
+  <output aria-live="polite"></output>
+</div>
+</form>
 
 <details>
 <summary>See one way to do it</summary>
@@ -100,6 +127,32 @@ If your design passed the test too, it works. You can keep it as it is.
 
 </details>
 
+<form class="course-exercise" data-course-exercise="two-box" data-course-control hidden data-success="That matches your rules for colour and animal type." data-retry="Check your rules again. The left box uses your digit for black, and the right box uses your digit for dog." data-collision="Some labels in the same group have the same digit. Give white and black different digits, and do the same for cat and dog.">
+<strong>Try the two-box design</strong>
+<p>Choose one digit for each label. Then use your own rule to write the two-box code for a black dog.</p>
+<div class="course-code-fields">
+<fieldset>
+<legend>Left box · Colour</legend>
+<label>White<input type="text" name="white" inputmode="numeric" pattern="[0-9]" maxlength="1" required></label>
+<label>Black<input type="text" name="black" inputmode="numeric" pattern="[0-9]" maxlength="1" required></label>
+</fieldset>
+<fieldset>
+<legend>Right box · Animal type</legend>
+<label>Cat<input type="text" name="cat" inputmode="numeric" pattern="[0-9]" maxlength="1" required></label>
+<label>Dog<input type="text" name="dog" inputmode="numeric" pattern="[0-9]" maxlength="1" required></label>
+</fieldset>
+<fieldset>
+<legend>Black dog’s code</legend>
+<label>Left box<input type="text" name="answer-colour" inputmode="numeric" pattern="[0-9]" maxlength="1" required></label>
+<label>Right box<input type="text" name="answer-animal" inputmode="numeric" pattern="[0-9]" maxlength="1" required></label>
+</fieldset>
+</div>
+<div class="course-check" data-course-control hidden>
+  <button type="submit">Check my black dog code</button>
+  <output aria-live="polite"></output>
+</div>
+</form>
+
 ## 3. What else do you want to know?
 
 Another photograph of a white cat appears on the table. This is a different cat from the first one.
@@ -141,11 +194,14 @@ Now let’s look at a real model. We use text to talk to a large language model.
 
 In common large language models, the text is first split into small units. Each unit has its own ID. The model uses that ID to find a group of numbers in a table that is already in place.
 
-Here are the steps.
+The process has four steps.
 
-```text
-Text → units of text → ID → a group of numbers
-```
+<ol class="course-flow">
+<li><strong>Text</strong><span>Start with a piece of text</span></li>
+<li><strong>Token</strong><span>Split the text into small units</span></li>
+<li><strong>ID</strong><span>Find the ID for each token</span></li>
+<li><strong>Vector</strong><span>Use the ID to look up a group of numbers</span></li>
+</ol>
 
 This is a little like the game we just played. Both turn what they need to work with into numbers. A real model’s table is largely learned during training. In our game, we decided in advance which box held the colour and which held the animal type. We’ll explore how the model uses its numbers to work with text in later lessons.
 

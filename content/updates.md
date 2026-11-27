@@ -2,7 +2,7 @@
 title: "Site Update Log"
 description: "Records site versions, release dates, additions and important revisions, and their effect on reading and citation."
 author: SL
-version: "1.28.0"
+version: "1.28.1"
 created: "2026-11-02"
 updated: "2026-11-26"
 published: "2026-11-02"
@@ -14,6 +14,12 @@ sourceUpdated: "2026-11-26"
 ---
 
 A site version records a batch of public content and reading-structure changes; every article keeps its own version and update date.
+
+<a id="v0-36-1"></a>
+
+## v0.36.1 · 2026-11-26
+
+[Lesson 1 for learners](./learning/llm-introduction/lesson-01-representation.md) now includes photo numbering, a two-box coding activity, and a diagram showing how text becomes vectors. These features are available in Chinese and English.
 
 <a id="v0-36-0"></a>
 
