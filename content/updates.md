@@ -2,7 +2,7 @@
 title: "Site Update Log"
 description: "Records site versions, release dates, additions and important revisions, and their effect on reading and citation."
 author: SL
-version: "1.30.0"
+version: "1.31.0"
 created: "2026-11-02"
 updated: "2026-11-27"
 published: "2026-11-02"
@@ -14,6 +14,12 @@ sourceUpdated: "2026-11-27"
 ---
 
 A site version records a batch of public content and reading-structure changes; every article keeps its own version and update date.
+
+<a id="v0-39-0"></a>
+
+## v0.39.0 · 2026-11-27
+
+[Second-Order Reflection: Treating a Framework as a Phenotype](./framework/methods/second-order-reflection.md) is now at v0.5. Section 2 pairs the example about noun phrases and clauses with a second example about sentences and context. The revised hypothesis concerns how familiarity with a way of speaking may affect judgements of clarity.
 
 <a id="v0-38-0"></a>
 

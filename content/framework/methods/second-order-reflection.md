@@ -1,8 +1,8 @@
 ---
 title: "Second-Order Reflection: Treating a Framework as a Phenotype"
-description: "Move from judging content to examining the framework of judgement, with a language example that separates seeing, explaining, and testing the framework."
+description: "Move from judging content to examining the framework of judgement, with two language examples that distinguish seeing, explaining, and testing the framework."
 author: "SL"
-version: "0.3"
+version: "0.5"
 created: "2026-11-27"
 updated: "2026-11-27"
 published: "2026-11-27"
@@ -32,23 +32,42 @@ Here a **framework** is the set of distinctions a person draws, the information 
 
 There are two orders here. Reflexive second-order reflection is second-order reflection directed at oneself. Identifying that we use concision as a measure of clarity already brings part of our framework into view. How we acquired that habit is a further question.
 
-## 2. An example of how speakers organise the same event
+<a id="2-an-example-of-how-speakers-organise-the-same-event"></a>
 
-The example concerns speakers and the habits they acquire through sustained use of a language. When we speak or write, we decide what to say first and which information to put together. Take a single event. Some people are familiar with a way of writing in English that packages an action into a noun phrase so the whole event can be discussed as a unit. Some people telling the same story in Chinese are more accustomed to moving from action to action and clause to clause, like a running stream.
+## 2. Two examples of how speakers organise the same event
 
-- One way to use nominalisation is *The committee’s rejection of the proposal surprised us.* The action of rejecting is packaged into a noun phrase, and the whole event is the subject of the sentence.
-- One way to follow the action is “<span lang="zh-CN">委员会否决了这个方案，我们没想到</span>” (“The committee rejected the proposal. We hadn’t expected that”). It gives the event first and then our reaction.
+The focus here is on speakers and the standards they use to decide whether something has been said clearly. In both examples, we can start with the same question. What does the listener actually understand in this situation?
 
-English can also follow the action, as in *We were surprised when the committee rejected the proposal*. Chinese can also package it into a noun phrase, as in “<span lang="zh-CN">委员会对这个方案的否决出乎我们的预料</span>”, roughly “The committee’s rejection of the proposal took us by surprise”. Within one language, speakers may vary how they express something according to the setting, register, and their own habits.
+### Putting an event into a noun phrase or telling it in clauses
 
-**My hypothesis is that when people have long been familiar with one way of expressing things and seldom encounter alternatives that convey the same event clearly, they may come to treat what feels natural to them as how the event ought to be described, or even as the most reasonable way to describe it.** A person used to following the sequence of actions may find a noun phrase that packages an action convoluted. Someone used to packaging events this way may find a clause-by-clause account loose. Each can judge the other by a familiar standard of their own.
+- *The committee’s rejection of the proposal surprised us.* The whole event, the committee rejecting the proposal, is packaged into a noun phrase and serves as the subject of the sentence.
+- “<span lang="zh-CN">委员会否决了这个方案，我们没想到。</span>” One clause tells us the committee rejected the proposal. The next tells us we hadn’t expected it.
+
+Both formulations give the rejection first and the reaction second. English can also use two clauses, as in *The committee rejected the proposal. We hadn’t expected that.* Mandarin can also use a noun phrase, as in “<span lang="zh-CN">委员会对这个方案的否决出乎我们的预料。</span>” Some people find the noun phrase compact. Others are more used to giving the event in one clause and the reaction in the next. The same person can switch between the two depending on the situation.
+
+### Spelling out information or leaving it to the context
+
+Suppose someone asks, “What did you do yesterday?” Here are two ways to answer.
+
+- Mandarin. “<span lang="zh-CN">昨天看了两部电影。</span>”
+- English. *I watched two films yesterday.*
+
+In the Mandarin reply, the question makes it clear that the person answering is talking about themselves, so <span lang="zh-CN">我</span> (“I”) can be left out. <span lang="zh-CN">昨天</span> (“yesterday”) tells us when it happened, and <span lang="zh-CN">了</span> marks the watching as an event that took place. <span lang="zh-CN">两部</span> gives the number, and <span lang="zh-CN">电影</span> (“film”) keeps the same form. The full English sentence spells out the subject, *I*. It also uses the past tense *watched* and the plural *films*, even though *yesterday* and *two* already tell us the time and number.
+
+Both languages can draw on context. English speakers also leave subjects out in casual conversation. Mandarin speakers can state the subject when they need to identify or emphasise who did something. The comparison here is about how speakers, in the same situation, divide the work between the sentence and its context. Section 9 points to research on time, number, and subjects.
+
+Someone familiar with the Mandarin reply might think, “You just asked me. Do I really need to say ‘I’? If I’ve said ‘yesterday’ and ‘two’, why change ‘watch’ and ‘film’ as well?” Someone accustomed to full English sentences might feel that a sentence is only complete once it says who watched the films. Each person may be judging by a standard that feels familiar to them.
+
+**My hypothesis is that when two ways of saying something both get the same event across, people may find the one they know better more natural and, for that reason, tend to judge it clearer.**
+
+We can ask two questions separately. What does the listener actually understand from the sentence and its context? Which formulation feels more natural to me, and what grounds do I have for calling it clearer?
 
 | What a speaker does | What they see |
 |---|---|
-| Judges another way of speaking by the one they know best | The other person sounds convoluted or loose. |
-| Switches between two ways of speaking | Both ways can tell the same story, and either can be used when it suits the occasion. |
-| Notices the standard the other person uses | They can identify what the other person values and ask how that habit formed. |
-| Puts the same questions to themselves | They begin asking why one way of speaking feels more natural to them. They can also see what they notice when they put it another way. |
+| Judges another way of speaking by the one they know best | The sentence seems unnecessarily complicated, or the other person seems to leave out something that ought to be said. |
+| Switches between two ways of speaking | The same event can be organised in different ways, with some information left to the context where appropriate. |
+| Notices the standard the other person uses | They can identify whether the other person values concision, following the events in order, or spelling out the key information in the sentence. |
+| Puts the same questions to themselves | They can distinguish what feels familiar to them from what the listener actually understands. |
 
 Someone who can switch between two ways of speaking may still treat the more familiar one as the default. Encountering a different way gives us a chance to notice our own habit. We can still prefer one way after noticing that.
 
@@ -66,7 +85,7 @@ How a framework formed and why people accept it require their own evidence. A cl
 
 ## 4. Understanding and choosing
 
-Once we understand how a framework formed, we still need to say which criteria we will use to choose. Both formulations can convey the same event clearly. A report might favour concision. When explaining something to a beginner, we might care more about whether they can follow the sequence of actions. The choice depends on what we are trying to accomplish at the time.
+Once we understand how a framework formed, we still need to say which criteria we will use to choose. When a friend has just asked what you did yesterday, “Watched two films” can be enough. If the sentence will stand on its own in a record that someone may use later to find out who watched the films, it is worth naming the person. How much to spell out depends on what the listener already knows and how the sentence will be used.
 
 > **The order at which we think does not determine what we choose, but it affects how we hold that choice.**
 
@@ -112,7 +131,8 @@ I can prepare two passages that convey the same key steps and ask readers to rec
 | Kornblith and others on reflection in epistemology, and Flavell (1979) on metacognition | The first asks how reflection bears on the reliability of belief. The second offers a way to observe one’s own cognitive activity. This article focuses on the frameworks people use to judge. |
 | Luhmann’s second-order observation and von Foerster’s second-order cybernetics | Luhmann offers a way to observe how another observer draws distinctions. Von Foerster brings the observer into the inquiry. Both connect with applying the same questions to others and ourselves. |
 | Kegan’s subject–object shift, Bateson’s levels of learning, and Argyris and Schön’s double-loop learning | They offer points of comparison for making familiar structures objects of attention, examining how frameworks change, and testing governing assumptions in action. |
-| The descriptive linguistics tradition associated with Boas and Sapir, Slobin’s (1987) [*Thinking for Speaking*](https://doi.org/10.3765/bls.v13i0.1826), and the Chinese University of Hong Kong’s [NV Atlas](https://nvatlas.tra.cuhk.edu.hk/about.html) | These provide ways of describing usage, examining how speakers organise experience, and comparing English nominalisations with Chinese verbal expressions in subtitles, respectively. The account in Section 2 of how familiarity becomes a default standard is this article’s hypothesis. |
+| The descriptive linguistics tradition associated with Boas and Sapir, Slobin’s (1987) [*Thinking for Speaking*](https://doi.org/10.3765/bls.v13i0.1826), and the Chinese University of Hong Kong’s [NV Atlas](https://nvatlas.tra.cuhk.edu.hk/about.html) | These provide ways of describing usage, examining how speakers organise experience, and comparing English nominalisations with Chinese verbal expressions in subtitles. The proposal in Section 2 that familiarity may influence how people judge clarity is this article’s hypothesis. |
+| [Lin (2003)](https://doi.org/10.1023/A:1023665301095), [Cheng and Sybesma (1999)](https://semantics.uchicago.edu/kennedy/classes/f11/na/docs/chengsybesma99.pdf), [Huang (1984)](https://ctjhuang.scholars.harvard.edu/sites/g/files/omnuum5106/files/ctjhuang/files/1984_empty_pronouns.pdf), and [Weir (2012)](https://biblio.ugent.be/publication/6858530) | These document, respectively, temporal reference in Mandarin, Mandarin nouns and classifiers, subject omission in Mandarin, and subject omission in particular registers of English. |
 | Hume on the distinction between facts and norms, and Weber’s *Science as a Vocation* | These offer comparisons for Section 4. After understanding where a position comes from and what follows from it, a choice still calls for a basis in values. |
 
 This article brings these ideas together by moving from seeing a framework of judgement to examining the conditions that shaped it, and then using specific cases to test where it works and where it falls short. The questions we put to others are also questions we can put to ourselves.
