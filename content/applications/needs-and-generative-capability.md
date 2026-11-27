@@ -2,16 +2,16 @@
 title: "The Gap between Needs and Generative Capability: A Mechanism Framework for Support, Choice and Behaviour"
 description: "Distinguishes needs, capability, support, buffers and perceived paths, with time-bound combinations, six research propositions and a path-analysis card."
 author: "SL"
-version: "0.2.1"
+version: "0.2.2"
 created: "2026-11-09"
-updated: "2026-11-23"
+updated: "2026-11-26"
 published: "2026-11-10"
 publish: true
 kind: "article"
 lang: "en"
 language: "en"
 source: "applications/needs-and-generative-capability.md"
-sourceUpdated: "2026-11-23"
+sourceUpdated: "2026-11-26"
 ---
 
 ## One-page guide
@@ -160,15 +160,21 @@ These are proposed mechanism hypotheses, not validated universal laws. Tests mus
 
 Renaming behaviour cannot validate these propositions. NG1 requires independent observations of conditions, prior assessments and subsequent actions, rather than defining the start of exploration itself as “increased perceived capability”.
 
-## 8. Connections with freedom and learning
+## 8. Connections with practice loops, freedom and learning
 
-### 8.1 Freedom: paths rather than self-sufficiency
+### 8.1 Practice loops: needs are not the only entry
+
+[A Belief-Gated Practice Loop](./belief-gated-practice-loop.md) distinguishes entry through belief, relationships, inheritance and prior practice. The present addition is that needs and support conditions may change entry, persistence and exit costs. It does not reduce all religious participation to an “ultimate gap”. Conversion research also points to relationships and interaction, but particular samples cannot stand for every tradition.[4]
+
+Practical improvement, its attribution and premise truth must still be assessed separately. Mechanism similarities do not make religion, education and other organisations equivalent in value, evidential status or consequences.
+
+### 8.2 Freedom: paths rather than self-sufficiency
 
 [Freedom and Unconstrained Wandering](https://sl-knowledge.github.io/knowledge-site-en/framework/foundations/freedom-and-future-options) distinguishes imagining, reaching and sustaining. [Constraints, Feasibility and Future Options](https://sl-knowledge.github.io/knowledge-site-en/framework/book/constraints-and-future-options) further examines adaptation and recovery. This article applies those distinctions to paths for covering needs.
 
 The question to preserve is whether adjustment, recovery or rebuilding remains possible after conditions change. Answers may come from own capability, reliable cooperation, public conditions and diverse supports. [Stability Does Not Mean a Way Back](https://sl-knowledge.github.io/knowledge-site-en/framework/foundations/lock-in-vs-probability) cautions that good everyday performance does not establish exit or recovery after disturbance.
 
-### 8.2 Learning: developing and testing capability
+### 8.3 Learning: developing and testing capability
 
 Learning can organise factual, procedural, structural and metacognitive knowledge. They are interdependent: factual knowledge cannot simply be dismissed as answering only old questions. Transfer still depends on practice, condition recognition and feedback.
 
@@ -181,6 +187,7 @@ For tasks requiring investment before benefits, study whether early verifiable o
 | Needs and well-being [1] | Examine needs by dimension, without assuming a fixed order of satisfaction | This article's classification is not a complete needs theory validated by that study |
 | Self-efficacy [2] | Capability beliefs participate in action choice | Belief is not actual capability or the whole perceived path |
 | Self-determination theory [3] | Distinguish autonomy, competence and relatedness | Reliance on support is not absence of autonomy |
+| Conversion processes [4] | Relationships, turning points and interaction may change entry conditions | Particular processes do not establish a universal origin of faith |
 | This site's feasibility and recovery research | Place support, capability and buffers within time-bound paths | Recoverability does not replace all value judgements |
 
 The value of this organisation is that these questions can check one another on a shared card. Whether it yields new explanations or predictions depends on independently observing the distinctions and excluding rival explanations, rather than citation counts or breadth across domains.
@@ -190,10 +197,12 @@ The value of this organisation is that these questions can check one another on 
 1. Tay, L., & Diener, E. (2011). [Needs and subjective well-being around the world](https://www.apa.org/pubs/journals/releases/psp-101-2-354.pdf). *Journal of Personality and Social Psychology*, 101(2), 354–365.
 2. Bandura, A. (1977). [Self-efficacy: Toward a unifying theory of behavioral change](https://pubmed.ncbi.nlm.nih.gov/847061/). *Psychological Review*, 84(2), 191–215.
 3. Ryan, R. M., & Deci, E. L. (2000). [Self-determination theory and the facilitation of intrinsic motivation, social development, and well-being](https://selfdeterminationtheory.org/SDT/documents/2000_RyanDeci_SDT.pdf). *American Psychologist*, 55(1), 68–78.
+4. Lofland, J., & Stark, R. (1965). [Becoming a world-saver: A theory of conversion to a deviant perspective](https://www.romolocapuano.com/wp-content/uploads/2016/01/Lofland-and-Stark-becoming-a-worldsaver.pdf). *American Sociological Review*, 30(6), 862–875.
+
 ## Scope and version notes
 
 This is a mechanism framework concerning need coverage, support and path choice, not a personality classification or clinical assessment. It does not require anyone to abandon supporting relationships. The three kinds of paths have no presumed ranking; effects and justification require separate assessment.
 
-Version 0.2 · 2026-11-09. The needs–capability–support–behaviour question is retained, measurement conditions made explicit, and combined paths introduced. Claims concerning time, fast and slow variables, and multiple-entry loops are stated with narrower conditions.
+Version 0.2 · 2026-11-09. The needs–capability–support–behaviour question is retained, measurement conditions made explicit, and combined paths introduced. Claims concerning time, fast and slow variables, and belief entry are stated with narrower conditions.
 
-Version 0.2.1 · 2026-11-23. The direct section and reference connecting this article to internal research material were removed to adjust the public scope. The claims about need coverage, capability, support, buffers and path choice are unchanged.
+Version 0.2.2 · 2026-11-26. Restored the comparison with *A Belief-Gated Practice Loop* and the associated reference.

@@ -112,6 +112,7 @@
           "title": "Human-AI collaboration and long-running research",
           "slugs": [
             "framework/book/human-ai-research-system",
+            "framework/methods/from-question-to-mechanism",
             "framework/methods/from-ethical-debate-to-argument-map",
             "framework/methods/ai-error-and-correction-case"
           ]
@@ -188,9 +189,10 @@
         },
         {
           "id": "personal",
-          "title": "Practice and personal choice",
+          "title": "Belief, practice and personal choice",
           "slugs": [
             "framework/foundations/freedom-and-future-options",
+            "applications/belief-gated-practice-loop",
             "applications/needs-and-generative-capability"
           ]
         }
@@ -584,6 +586,13 @@
         "framework/methods/investment-research-charter"
       ]
     },
+    "framework/methods/from-question-to-mechanism": {
+      "section": "methods",
+      "group": "research-system",
+      "role": "Research process case",
+      "bookReference": "Part V: research states, versions and human–AI roles",
+      "readings": []
+    },
     "framework/methods/from-ethical-debate-to-argument-map": {
       "section": "methods",
       "group": "research-system",
@@ -598,12 +607,23 @@
       "bookReference": "Representation, agent roles and feasible sets",
       "readings": []
     },
+    "applications/belief-gated-practice-loop": {
+      "section": "applications",
+      "group": "personal",
+      "role": "Mechanism hypothesis",
+      "bookReference": "Generative conditions, representation and future paths",
+      "readings": [
+        "framework/methods/cf-grammar",
+        "framework/methods/from-question-to-mechanism"
+      ]
+    },
     "applications/needs-and-generative-capability": {
       "section": "applications",
       "group": "personal",
       "role": "Mechanism hypothesis",
       "bookReference": "Generative conditions, representation and future paths",
       "readings": [
+        "applications/belief-gated-practice-loop",
         "framework/foundations/freedom-and-future-options",
         "framework/methods/stress-testing"
       ]
@@ -655,6 +675,7 @@
       "bookReference": "Part V: research tasks, roles, evidence and revision",
       "readings": [
         "framework/methods/ethical-disagreement-map",
+        "framework/methods/from-question-to-mechanism",
         "framework/methods/from-ethical-debate-to-argument-map"
       ]
     },
@@ -777,8 +798,10 @@
     "framework/foundations/simplicity-and-recovery": "Simplification and Recovery Paths: Recoverability in Constrained Systems",
     "framework/foundations/lock-in-vs-probability": "Smooth Operation Does Not Guarantee Recovery: Problem Probability and Lock-In Risk",
     "applications/investment-evidence-self-check": "Is Evidence Updating the Judgement or Defending the Original View?",
+    "framework/methods/from-question-to-mechanism": "From a Concrete Question to a Generative Mechanism: A Human–AI Research Process",
     "framework/methods/from-ethical-debate-to-argument-map": "From an Ethical Debate to a Map of Argumentative Disagreement: A Human–AI Research Case",
     "framework/methods/ethical-disagreement-map": "Where Does Ethical Disagreement Come From?",
+    "applications/belief-gated-practice-loop": "A Belief-Gated Practice Loop: A Mechanism Hypothesis for Religious Participation",
     "applications/needs-and-generative-capability": "The Gap between Needs and Generative Capability: A Mechanism Framework for Support, Choice and Behaviour",
     "framework/foundations/constraints-generation-and-human-value": "Constraints, Generation and Human Value",
     "philosophy/to-be-is-to-be-distinct": "To Be Is to Be Distinct: Existence, Distinction, Relation and Meaning",

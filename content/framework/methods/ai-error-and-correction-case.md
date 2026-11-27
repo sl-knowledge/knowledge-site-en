@@ -2,16 +2,16 @@
 title: "When AI Evaluates the Wrong Question: A Record of Correction in Human–AI Research"
 description: "Seventeen observations and corrections from a research conversation, distinguishing factual errors from mismatched tasks and criteria, with four checks for assessment."
 author: "SL"
-version: "0.1.1"
+version: "0.1.2"
 created: "2026-11-10"
-updated: "2026-11-23"
+updated: "2026-11-26"
 published: "2026-11-10"
 publish: true
 kind: "article"
 lang: "en"
 language: "en"
 source: "framework/methods/ai-error-and-correction-case.md"
-sourceUpdated: "2026-11-23"
+sourceUpdated: "2026-11-26"
 ---
 
 ## Overview
@@ -80,4 +80,4 @@ Reusing familiar categories, supplying default evaluation criteria and losing th
 This case is adapted from a retrospective record of a conversation on 9–10 November 2026. The record was drafted by the AI that took part. Quoted passages are translated from excerpts in that record, some originally transcribed from speech and edited for readability. Conversation stages locate events; interface labels were not used to establish model identities or compare performance.
 
 - Simon, H. A. (1962). [*The Architecture of Complexity*](https://www.jstor.org/stable/985254). *Proceedings of the American Philosophical Society*, 106(6), 467–482.
-- Related case: [From an Ethical Debate to a Map of Argumentative Disagreement](./from-ethical-debate-to-argument-map.md).
+- Related cases: [From a Concrete Question to a Generative Mechanism](./from-question-to-mechanism.md) and [From an Ethical Debate to a Map of Argumentative Disagreement](./from-ethical-debate-to-argument-map.md).
