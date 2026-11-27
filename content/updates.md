@@ -2,7 +2,7 @@
 title: "Site Update Log"
 description: "Records site versions, release dates, additions and important revisions, and their effect on reading and citation."
 author: SL
-version: "1.29.1"
+version: "1.30.0"
 created: "2026-11-02"
 updated: "2026-11-27"
 published: "2026-11-02"
@@ -14,6 +14,12 @@ sourceUpdated: "2026-11-27"
 ---
 
 A site version records a batch of public content and reading-structure changes; every article keeps its own version and update date.
+
+<a id="v0-38-0"></a>
+
+## v0.38.0 · 2026-11-27
+
+Published [Second-Order Reflection: Treating a Framework as a Phenotype](./framework/methods/second-order-reflection.md) v0.3 and [Before Deciding: Seven Moves for Changing a Problem Representation](./framework/methods/before-deciding.md) v0.2 in both languages. The first is under Argument and disagreement analysis, and the second is under Discrimination and scenarios. Before Deciding links to Second-Order Reflection.
 
 <a id="v0-37-1"></a>
 

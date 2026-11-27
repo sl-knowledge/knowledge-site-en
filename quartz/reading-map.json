@@ -97,14 +97,16 @@
           "id": "argument-analysis",
           "title": "Argument and disagreement analysis",
           "slugs": [
-            "framework/methods/ethical-disagreement-map"
+            "framework/methods/ethical-disagreement-map",
+            "framework/methods/second-order-reflection"
           ]
         },
         {
           "id": "testing",
           "title": "Discrimination and scenarios",
           "slugs": [
-            "framework/methods/stress-testing"
+            "framework/methods/stress-testing",
+            "framework/methods/before-deciding"
           ]
         },
         {
@@ -335,6 +337,25 @@
       "readings": [
         "framework/methods/research-architecture",
         "framework/methods/canonical-vocabulary"
+      ]
+    },
+    "framework/methods/second-order-reflection": {
+      "section": "methods",
+      "group": "argument-analysis",
+      "role": "Method for examining frameworks of judgement",
+      "bookReference": "Part two: Representation and knowing",
+      "readings": [
+        "framework/methods/ethical-disagreement-map"
+      ]
+    },
+    "framework/methods/before-deciding": {
+      "section": "methods",
+      "group": "testing",
+      "role": "Pre-decision check of a problem representation",
+      "bookReference": "Part three: Uncertainty and decision",
+      "readings": [
+        "framework/methods/second-order-reflection",
+        "framework/methods/stress-testing"
       ]
     },
     "framework/methods/stress-testing": {
@@ -808,6 +829,8 @@
     "framework/methods/canonical-vocabulary": "Canonical Vocabulary, Symbols and Knowledge Levels",
     "framework/methods/cf-grammar": "CF Grammar: From Constraint Diagnosis to a Testable Research Representation",
     "framework/methods/stress-testing": "Stress Testing: Constraint Identification, Feedback and Recovery Windows",
+    "framework/methods/second-order-reflection": "Second-Order Reflection: Treating a Framework as a Phenotype",
+    "framework/methods/before-deciding": "Before Deciding: Seven Moves for Changing a Problem Representation",
     "framework/methods/originality-and-validation": "Originality Self-Check and Independent Validation Plan",
     "framework/methods/consistency-and-revision": "From Research Cards to Drafts: Consistency Audit and Revision Notes",
     "framework/methods/company-analysis-protocol": "Company Analysis Protocol",

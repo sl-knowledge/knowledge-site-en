@@ -2,15 +2,15 @@
 title: "Research Methods"
 description: "CF Grammar, stress testing, human-AI collaboration, and the standards for validation and revision; the bridge between the theory trunks and domain research."
 author: "SL"
-version: "0.5.5"
+version: "0.5.6"
 created: "2026-11-01"
-updated: "2026-11-26"
+updated: "2026-11-27"
 published: "2026-11-01"
 publish: true
 kind: category
 lang: en
 source: framework/methods/index.md
-sourceUpdated: "2026-11-26"
+sourceUpdated: "2026-11-27"
 ---
 
 This section collects research methods that work across domains, and the architecture that keeps evidence, prediction and revision running. Shared definitions are in the [canonical vocabulary](./canonical-vocabulary.md); the position of the whole body of work is in the [theory framework](../index.md).
@@ -26,12 +26,14 @@ This section collects research methods that work across domains, and the archite
 ## Argument and disagreement analysis
 
 - [Where Does Ethical Disagreement Come From?](./ethical-disagreement-map.md): examine moral attention, reasons, priority rules and feasibility; includes a workflow, template and completed nine-field case card.
+- [Second-Order Reflection: Treating a Framework as a Phenotype](./second-order-reflection.md) A language example shows how to recognise your own criteria and test where they apply.
 
 <a id="testing"></a>
 
 ## Discrimination and scenarios
 
 - [Stress Testing: Constraint Identification, Feedback and Recovery Windows](https://sl-knowledge.github.io/knowledge-site-en/framework/methods/stress-testing): the ST1–ST12 principles, checking scenarios, feedback, withdrawal of support, recovery deadlines and common failure.
+- [Before Deciding: Seven Moves for Changing a Problem Representation](./before-deciding.md) Seven moves for finding options, conditions, or evidence missing from the original decision.
 
 <a id="research-system"></a>
 
