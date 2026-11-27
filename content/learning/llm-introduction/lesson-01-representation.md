@@ -224,3 +224,5 @@ Look at the cards you made. Now that you have a new way to represent the photogr
 Write down your question and how you plan to test it.
 
 In the next lesson, we’ll look at how numerical representations can help us compare different pieces of information. You can also keep exploring the question you came up with yourself.
+
+Next lesson: [Lesson 2: How Can We Use Numbers to Compare Information?](./lesson-02-relations.md)

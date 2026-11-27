@@ -163,7 +163,9 @@
             "learning/asking-better-questions",
             "learning/english-for-chinese-speakers",
             "learning/llm-introduction/lesson-01-representation",
-            "learning/llm-introduction/lesson-01-representation-teacher"
+            "learning/llm-introduction/lesson-01-representation-teacher",
+            "learning/llm-introduction/lesson-02-relations",
+            "learning/llm-introduction/lesson-02-relations-teacher"
           ]
         },
         {
@@ -453,6 +455,25 @@
       "readings": [
         "framework/book/constraints-and-future-options",
         "economics/first-principles-learning"
+      ]
+    },
+    "learning/llm-introduction/lesson-02-relations": {
+      "section": "applications",
+      "group": "learning",
+      "role": "Introductory course · Learner’s edition",
+      "bookReference": "Part two: Representation and knowing",
+      "readings": ["learning/llm-introduction/lesson-01-representation"]
+    },
+    "learning/llm-introduction/lesson-02-relations-teacher": {
+      "section": "applications",
+      "group": "learning",
+      "role": "Introductory course · Teacher’s edition",
+      "bookReference": "Part two: Representation and knowing",
+      "readings": [
+        "learning/llm-introduction/lesson-02-relations",
+        "learning/llm-introduction/lesson-01-representation-teacher",
+        "learning/framework-driven-learning",
+        "learning/cognitive-disequilibrium"
       ]
     },
     "learning/llm-introduction/lesson-01-representation": {
@@ -808,6 +829,8 @@
     "learning/framework-driven-learning": "The Framework-Driven Learning Cycle",
     "learning/llm-introduction/lesson-01-representation": "Lesson 1: How Can We Use Numbers to Represent Information?",
     "learning/llm-introduction/lesson-01-representation-teacher": "Lesson 1 (Teacher’s Edition): Basic Principles of Information Representation",
+    "learning/llm-introduction/lesson-02-relations": "Lesson 2: How Can We Use Numbers to Compare Information?",
+    "learning/llm-introduction/lesson-02-relations-teacher": "Lesson 2 (Teacher’s Edition): Basic Principles of Information Relationships and the Dot Product",
     "learning/cognitive-disequilibrium": "Cognitive Disequilibrium: Where Questions Come From",
     "learning/asking-better-questions": "Giving Learners Control over Asking Questions",
     "learning/english-for-chinese-speakers": "Suggestions for Native Chinese Speakers Learning English",

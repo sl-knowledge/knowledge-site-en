@@ -2,7 +2,7 @@
 title: "Site Update Log"
 description: "Records site versions, release dates, additions and important revisions, and their effect on reading and citation."
 author: SL
-version: "1.28.1"
+version: "1.29.0"
 created: "2026-11-02"
 updated: "2026-11-26"
 published: "2026-11-02"
@@ -14,6 +14,12 @@ sourceUpdated: "2026-11-26"
 ---
 
 A site version records a batch of public content and reading-structure changes; every article keeps its own version and update date.
+
+<a id="v0-37-0"></a>
+
+## v0.37.0 · 2026-11-26
+
+Published [Lesson 2: How Can We Use Numbers to Compare Information?](./learning/llm-introduction/lesson-02-relations.md) and its teacher’s edition (v0.1) in Chinese and English. Learners can change the comparison criterion and see how the scores change.
 
 <a id="v0-36-1"></a>
 

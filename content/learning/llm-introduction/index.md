@@ -2,7 +2,7 @@
 title: "Introduction to Large Language Models"
 description: "Start with numerical cards and learn how large language models represent and process information. Each lesson has a learner’s edition and a teacher’s edition."
 author: SL
-version: "0.1"
+version: "0.2"
 created: "2026-11-26"
 updated: "2026-11-26"
 published: "2026-11-26"
@@ -20,5 +20,10 @@ This course introduces large language model concepts through small hands-on acti
 
 - [Learner’s edition · Lesson 1: How Can We Use Numbers to Represent Information?](./lesson-01-representation.md) Make your own numerical cards before opening the hints and examples.
 - [Teacher’s edition · Basic Principles of Information Representation](./lesson-01-representation-teacher.md) Find the lesson design, graduated hints, and follow-up assessment.
+
+## Lesson 2 · Comparing Information and the Dot Product
+
+- [Learner’s edition · Lesson 2: How Can We Use Numbers to Compare Information?](./lesson-02-relations.md) Switch comparison rules and see how the scores change.
+- [Teacher’s edition · Basic Principles of Information Relationships and the Dot Product](./lesson-02-relations-teacher.md) Find the lesson design, scoring proof, graduated hints, and follow-up assessment.
 
 [Learning and teaching](../../applications/index.md#learning)
