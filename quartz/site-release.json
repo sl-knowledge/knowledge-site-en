@@ -1,6 +1,6 @@
 {
-  "version": "0.37.0",
-  "date": "2026-11-26",
-  "title": "Introduction to Large Language Models publishes Lesson 2",
-  "summary": "Both sites publish the learner’s and teacher’s editions of Lesson 2, with an interactive score chart for learners."
+  "version": "0.37.1",
+  "date": "2026-11-27",
+  "title": "Expanded hints and answers highlighted in the LLM lessons",
+  "summary": "The first two lessons now use cards to distinguish expanded hints, examples, and answers from the main text in both languages."
 }

@@ -60,7 +60,7 @@ Give each photograph a number so a friend can tell which one you mean. Enter you
 </div>
 </form>
 
-<details>
+<details class="course-reveal">
 <summary>See one way to do it</summary>
 
 | Photograph | ID |
@@ -87,7 +87,7 @@ First, draw your own card on paper. Write down what each number means, then make
 
 If you already have a way to do it, go straight to the test below. If you’re stuck, open the hint.
 
-<details>
+<details class="course-reveal">
 <summary>Hint (open it if you need it)</summary>
 
 Your friend wants to know two things. First think about how to use a number to say what colour the animal is. Then think about how to say whether it is a cat or a dog.
@@ -104,7 +104,7 @@ Use your rule to answer these questions.
 
 If you have a partner, ask them to work out the answers using only the numbers and the rule you agreed on. If you’re working on your own, follow your rule and read the numbers back yourself.
 
-<details>
+<details class="course-reveal">
 <summary>After the test, see one possible design</summary>
 
 We can agree to use two boxes.
@@ -167,7 +167,7 @@ You can start with these three sentences.
 
 If your original design is good enough, keep using it. If it falls short, how would you change it?
 
-<details>
+<details class="course-reveal">
 <summary>After trying your own question, see one example</summary>
 
 Suppose I want to know whether two white-cat photographs are the same photograph. Colour and animal type alone can’t tell me that. I could give each photograph its own ID as well.

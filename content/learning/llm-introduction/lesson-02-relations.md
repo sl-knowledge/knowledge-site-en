@@ -47,7 +47,7 @@ Which do you think is more like the white cat, the black cat or the white dog? W
 
 Write down your reason first. It’s fine if you think they are equally similar.
 
-<details>
+<details class="course-reveal">
 <summary>After thinking it through, see some possible answers</summary>
 
 Some people choose the black cat because it’s a cat too. Others choose the white dog because it’s white too.
@@ -77,14 +77,14 @@ Design a way to follow the scoring rule using only the numbers on two cards.
 
 If you made different cards in the last lesson, try using your own first. See whether your method works for all four animals.
 
-<details>
+<details class="course-reveal">
 <summary>Get a small hint</summary>
 
 The first box is the same for the white cat and the white dog. What about the second box? What could you do each time you find a match?
 
 </details>
 
-<details>
+<details class="course-reveal">
 <summary>After trying it, see one way to do it</summary>
 
 Compare one box at a time. Give one point for a match and zero for a difference, then add the points.
@@ -115,14 +115,14 @@ This time, give the card four boxes, one each for white, black, cat, and dog. Wr
 
 How could you count the features shared by two cards using only multiplication and addition?
 
-<details>
+<details class="course-reveal">
 <summary>Get a small hint</summary>
 
 Try calculating 1×1, 1×0, 0×1, and 0×0. Which one gives 1?
 
 </details>
 
-<details>
+<details class="course-reveal">
 <summary>See one way to calculate it</summary>
 
 You get 1 only when both boxes contain 1. Multiply the numbers in matching positions and then add the results.
@@ -155,7 +155,7 @@ Try writing down your answers to these questions.
 
 Keep your method if it still does the job. If it falls short, try changing the cards or the scoring rule.
 
-<details>
+<details class="course-reveal">
 <summary>After trying your own idea, see one example</summary>
 
 Suppose I only want to compare colour. I shouldn’t give an extra point just because both animals are cats.

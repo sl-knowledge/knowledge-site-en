@@ -2,18 +2,24 @@
 title: "Site Update Log"
 description: "Records site versions, release dates, additions and important revisions, and their effect on reading and citation."
 author: SL
-version: "1.29.0"
+version: "1.29.1"
 created: "2026-11-02"
-updated: "2026-11-26"
+updated: "2026-11-27"
 published: "2026-11-02"
 publish: true
 kind: release
 lang: en
 source: updates.md
-sourceUpdated: "2026-11-26"
+sourceUpdated: "2026-11-27"
 ---
 
 A site version records a batch of public content and reading-structure changes; every article keeps its own version and update date.
+
+<a id="v0-37-1"></a>
+
+## v0.37.1 · 2026-11-27
+
+The first two lessons of [Introduction to Large Language Models](./learning/llm-introduction/index.md) now display expanded hints, examples, and answers in separate cards in both learner editions.
 
 <a id="v0-37-0"></a>
 
