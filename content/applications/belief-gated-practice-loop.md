@@ -1,5 +1,5 @@
 ---
-title: "A Belief-Gated Practice Loop: A Mechanism Hypothesis for Religious Participation"
+title: "A Belief-Gated Practice Loop: A Generative Mechanism of Religion"
 description: "A candidate loop connecting multiple entry routes, practice structures, outcomes and attribution, with research propositions, a record card and a condensation map."
 author: "SL"
 version: "0.2"

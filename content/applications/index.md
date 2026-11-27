@@ -70,7 +70,7 @@ Some articles are related topics or working hypotheses. Being placed in the same
 
 ## Belief, practice and personal choice
 
-- [A Belief-Gated Practice Loop: A Mechanism Hypothesis for Religious Participation](./belief-gated-practice-loop.md): A candidate loop connecting multiple entry routes, practice structures, outcomes and attribution, with research propositions, a record card and a condensation map.
+- [A Belief-Gated Practice Loop: A Generative Mechanism of Religion](./belief-gated-practice-loop.md): A candidate loop connecting multiple entry routes, practice structures, outcomes and attribution, with research propositions, a record card and a condensation map.
 
 - [The Gap between Needs and Generative Capability: A Mechanism Framework for Support, Choice and Behaviour](./needs-and-generative-capability.md): Distinguishes needs, capability, support, buffers and perceived paths, with time-bound combinations, six research propositions and a path-analysis card.
 

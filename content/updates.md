@@ -2,7 +2,7 @@
 title: "Site Update Log"
 description: "Records site versions, release dates, additions and important revisions, and their effect on reading and citation."
 author: SL
-version: "1.27.0"
+version: "1.27.1"
 created: "2026-11-02"
 updated: "2026-11-26"
 published: "2026-11-02"
@@ -15,11 +15,17 @@ sourceUpdated: "2026-11-26"
 
 A site version records a batch of public content and reading-structure changes; every article keeps its own version and update date.
 
+<a id="v0-35-1"></a>
+
+## v0.35.1 · 2026-11-26
+
+Restored the original title of [A Belief-Gated Practice Loop](./applications/belief-gated-practice-loop.md) in both editions.
+
 <a id="v0-35-0"></a>
 
 ## v0.35.0 · 2026-11-26
 
-Restored [A Belief-Gated Practice Loop: A Mechanism Hypothesis for Religious Participation](./applications/belief-gated-practice-loop.md) v0.2 and [From a Concrete Question to a Generative Mechanism: A Human–AI Research Process](./framework/methods/from-question-to-mechanism.md) v0.1.2. Both editions restore the section entries, related links and language switches. *The Gap between Needs and Generative Capability* is now v0.2.2 and again includes its comparison with the practice loop and the associated reference.
+Restored [A Belief-Gated Practice Loop](./applications/belief-gated-practice-loop.md) v0.2 and [From a Concrete Question to a Generative Mechanism: A Human–AI Research Process](./framework/methods/from-question-to-mechanism.md) v0.1.2. Both editions restore the section entries, related links and language switches. *The Gap between Needs and Generative Capability* is now v0.2.2 and again includes its comparison with the practice loop and the associated reference.
 
 <a id="v0-34-0"></a>
 
